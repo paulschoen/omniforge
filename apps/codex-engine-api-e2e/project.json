@@ -1,0 +1,17 @@
+{
+  "name": "codex-engine-api-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "implicitDependencies": ["codex-engine-api"],
+  "targets": {
+    "e2e": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{e2eProjectRoot}"],
+      "options": {
+        "jestConfig": "apps/codex-engine-api-e2e/jest.config.ts",
+        "passWithNoTests": true
+      },
+      "dependsOn": ["codex-engine-api:build"]
+    }
+  }
+}

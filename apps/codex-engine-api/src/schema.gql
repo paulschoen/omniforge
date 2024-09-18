@@ -1,0 +1,19 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type DatasheetType {
+  _id: ID!
+  name: String!
+  faction_id: String!
+  source_id: Float!
+  legend: String!
+  role: String!
+  loadout: String!
+  virtual: Boolean!
+  link: String!
+}
+
+type Query {
+  getDatasheetsByName(name: String!): [DatasheetType!]!
+}

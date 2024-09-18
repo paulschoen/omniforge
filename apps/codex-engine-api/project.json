@@ -1,0 +1,26 @@
+{
+  "name": "codex-engine-api",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/codex-engine-api/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "dependsOn": ["build"],
+      "options": {
+        "buildTarget": "codex-engine-api:build",
+        "runBuildTargetDependencies": false
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "codex-engine-api:build:development"
+        },
+        "production": {
+          "buildTarget": "codex-engine-api:build:production"
+        }
+      }
+    }
+  }
+}
