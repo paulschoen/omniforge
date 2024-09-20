@@ -1,6 +1,6 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
-import { FactionType, KeywordType } from '../dto/datasheet.graphql';
+import { FactionType, KeywordType, ModelCost } from '../dto/datasheet.graphql';
 
 @Schema({ collection: 'datasheets' })
 export class Datasheet extends Document {
@@ -33,6 +33,9 @@ export class Datasheet extends Document {
 
   @Prop({ type: FactionType, required: true })
   faction: FactionType;
+
+  @Prop({ type: [ModelCost], required: true })
+  models_cost: ModelCost[];
 }
 
 export const DatasheetSchema = SchemaFactory.createForClass(Datasheet);

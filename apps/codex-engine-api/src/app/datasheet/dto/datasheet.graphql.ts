@@ -1,6 +1,15 @@
 import { ObjectType, Field, ID } from '@nestjs/graphql';
 
 @ObjectType()
+export class ModelCost {
+  @Field({ nullable: true })
+  description: string;
+
+  @Field({ nullable: true })
+  cost: number;
+}
+
+@ObjectType()
 export class ModelType {
   @Field(() => ID)
   _id: string;
