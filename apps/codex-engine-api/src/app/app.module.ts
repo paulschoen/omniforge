@@ -13,10 +13,7 @@ const connection =
   imports: [
     GraphQLModule.forRoot<ApolloDriverConfig>({
       driver: ApolloDriver,
-      autoSchemaFile: join(
-        process.cwd(),
-        'apps/codex-engine-api/src/schema.gql'
-      ),
+      autoSchemaFile: 'schema.gql',
       playground: false,
       plugins: [ApolloServerPluginLandingPageLocalDefault()],
     }),
