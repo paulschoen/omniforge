@@ -1,7 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
 
-@Schema()
+@Schema({ collection: 'datasheets' })
 export class Datasheet extends Document {
   @Prop({ type: Types.ObjectId, required: true, auto: true })
   _id: Types.ObjectId;

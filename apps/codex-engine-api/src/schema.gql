@@ -15,5 +15,8 @@ type DatasheetType {
 }
 
 type Query {
+  getDatasheets: [DatasheetType!]!
+  getDatasheetById(_id: String!): DatasheetType!
   getDatasheetsByName(name: String!): [DatasheetType!]!
+  searchDatasheetsByName(name: String!): [DatasheetType!]!
 }

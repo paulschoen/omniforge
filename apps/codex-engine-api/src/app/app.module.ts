@@ -6,6 +6,9 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { DatasheetsModule } from './datasheet/datasheet.module';
 import { ApolloServerPluginLandingPageLocalDefault } from '@apollo/server/plugin/landingPage/default';
 
+const connection =
+  process.env.MONGODB_CONNECTION_STRING ||
+  'mongodb://localhost:27017/codex-engine';
 @Module({
   imports: [
     GraphQLModule.forRoot<ApolloDriverConfig>({
@@ -17,7 +20,7 @@ import { ApolloServerPluginLandingPageLocalDefault } from '@apollo/server/plugin
       playground: false,
       plugins: [ApolloServerPluginLandingPageLocalDefault()],
     }),
-    MongooseModule.forRoot('mongodb://localhost:27017/codex-engine'),
+    MongooseModule.forRoot(connection),
     DatasheetsModule,
   ],
 })

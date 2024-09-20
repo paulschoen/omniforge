@@ -10,7 +10,6 @@ import { DatasheetsResolver } from './datasheet.resolver';
       {
         name: Datasheet.name,
         schema: DatasheetSchema,
-        collection: 'merged_datasheets',
       },
     ]),
   ],
