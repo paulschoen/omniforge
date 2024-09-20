@@ -18,30 +18,6 @@ export class OptionType {
   description: string;
 }
 
-// datasheet_id
-// 1
-// line
-// 1
-// line_in_wargear
-// 0
-// name
-// "Kombi-weapon"
-// description
-// "<a href="/wh40k10ed/the-rules/core-rules/#Anti">anti-infantry 4+</a>, …"
-// range
-// 24
-// type
-// "Ranged"
-// A
-// 1
-// BS_WS
-// 5
-// S
-// 4
-// AP
-// 0
-// D
-// 1
 @ObjectType()
 export class Wargear {
   @Field(() => ID)
@@ -253,6 +229,12 @@ export class Model {
 
   @Field({ nullable: true })
   Ld: string;
+
+  @Field({ nullable: true })
+  OC: string;
+
+  @Field({ nullable: true })
+  base_size: string;
 }
 @ObjectType()
 export class KeywordType {
