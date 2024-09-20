@@ -1,7 +1,8 @@
 import { Args, Query, Resolver } from '@nestjs/graphql';
 import { DatasheetsService } from './datasheet.service';
 import { DatasheetType } from './dto/datasheet.graphql';
-import { Logger } from '@nestjs/common';
+import { Logger, UseGuards } from '@nestjs/common';
+import { ApiKeyGuard } from '../auth/api-key.guard';
 
 @Resolver(() => DatasheetType)
 export class DatasheetsResolver {
@@ -9,6 +10,7 @@ export class DatasheetsResolver {
   constructor(private datasheetsService: DatasheetsService) {}
 
   @Query(() => [DatasheetType])
+  @UseGuards(ApiKeyGuard)
   async getDatasheets(): Promise<DatasheetType[]> {
     try {
       const datasheets = await this.datasheetsService.findAll();
@@ -23,6 +25,7 @@ export class DatasheetsResolver {
   }
 
   @Query(() => DatasheetType)
+  @UseGuards(ApiKeyGuard)
   async getDatasheetById(
     @Args('_id') _id: string
   ): Promise<DatasheetType | null> {
@@ -42,6 +45,7 @@ export class DatasheetsResolver {
   }
 
   @Query(() => [DatasheetType])
+  @UseGuards(ApiKeyGuard)
   async getDatasheetsByName(
     @Args('name') name: string
   ): Promise<DatasheetType[]> {
@@ -58,6 +62,7 @@ export class DatasheetsResolver {
   }
 
   @Query(() => [DatasheetType])
+  @UseGuards(ApiKeyGuard)
   async searchDatasheetsByName(
     @Args('name') name: string
   ): Promise<DatasheetType[]> {
