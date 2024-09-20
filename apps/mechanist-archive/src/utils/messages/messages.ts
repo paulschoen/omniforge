@@ -70,41 +70,6 @@ export const processMessage = async (
           .map(({ keyword }: { keyword: string }) => keyword)
           .join(', '),
       },
-      {
-        name: 'M',
-        value: `7"`,
-        inline: true,
-      },
-      {
-        name: 'T',
-        value: '4',
-        inline: true,
-      },
-      {
-        name: 'Sv',
-        value: '6+',
-        inline: true,
-      },
-      {
-        name: 'W',
-        value: '5',
-        inline: true,
-      },
-      {
-        name: 'Ld',
-        value: '6+',
-        inline: true,
-      },
-      {
-        name: 'OC',
-        value: '1',
-        inline: true,
-      },
-      {
-        name: 'Inv Sv',
-        value: '4+',
-        inline: true,
-      },
     ];
 
     return createEmbed({
