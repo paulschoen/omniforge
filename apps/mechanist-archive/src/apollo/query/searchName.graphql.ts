@@ -13,6 +13,10 @@ export const SEARCH_NAME = gql`
       faction {
         name
       }
+      models_cost {
+        description
+        cost
+      }
     }
   }
 `;

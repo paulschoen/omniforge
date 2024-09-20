@@ -56,7 +56,7 @@ export const processMessage = async (
       });
     }
 
-    const { name, loadout, legend, link, keywords, faction } =
+    const { name, loadout, legend, link, keywords, faction, models_cost } =
       data.searchDatasheetsByName[0];
 
     const fields = [
@@ -68,6 +68,15 @@ export const processMessage = async (
         name: 'Keywords',
         value: keywords
           .map(({ keyword }: { keyword: string }) => keyword)
+          .join(', '),
+      },
+      {
+        name: 'Cost',
+        value: models_cost
+          ?.map(
+            ({ description, cost }: { description: string; cost: number }) =>
+              `__${description}__: ${cost}`
+          )
           .join(', '),
       },
     ];

@@ -96,4 +96,7 @@ export class DatasheetType {
 
   @Field(() => FactionType, { nullable: true })
   faction: FactionType;
+
+  @Field(() => [ModelCost], { nullable: true })
+  models_cost: ModelCost[];
 }
