@@ -1,5 +1,6 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
+import { FactionType, KeywordType } from '../dto/datasheet.graphql';
 
 @Schema({ collection: 'datasheets' })
 export class Datasheet extends Document {
@@ -8,9 +9,6 @@ export class Datasheet extends Document {
 
   @Prop({ type: String, required: true })
   name: string;
-
-  @Prop({ type: String, required: true })
-  faction_id: string;
 
   @Prop({ type: Number, required: true })
   source_id: number;
@@ -29,6 +27,12 @@ export class Datasheet extends Document {
 
   @Prop({ type: String, required: true })
   link: string;
+
+  @Prop({ type: [KeywordType], required: true })
+  keywords: KeywordType[];
+
+  @Prop({ type: FactionType, required: true })
+  faction: FactionType;
 }
 
 export const DatasheetSchema = SchemaFactory.createForClass(Datasheet);
