@@ -2,7 +2,11 @@
   "name": "@omniforge/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "node dist/apps/codex-engine-api/main.js",
+    "build": "nx build codex-engine-api",
+    "heroku-postbuild": "npm run build"
+  },
   "private": true,
   "dependencies": {
     "@nestjs/apollo": "^12.2.0",
