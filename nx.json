@@ -39,8 +39,16 @@
         "apps/omniforge-e2e/**/*",
         "apps/codex-engine-api-e2e/**/*",
         "codex-engine-api-e2e/**/*",
-        "apps/codex-engine-api-e2e/**/*"
+        "apps/codex-engine-api-e2e/**/*",
+        "apps/mechanist-archive-e2e/**/*"
       ]
     }
-  ]
+  ],
+  "targetDefaults": {
+    "@nx/esbuild:esbuild": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": ["production", "^production"]
+    }
+  }
 }

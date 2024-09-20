@@ -1,0 +1,58 @@
+{
+  "name": "mechanist-archive",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/mechanist-archive/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/esbuild:esbuild",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "platform": "node",
+        "outputPath": "dist/apps/mechanist-archive",
+        "format": ["cjs"],
+        "bundle": false,
+        "main": "apps/mechanist-archive/src/main.ts",
+        "tsConfig": "apps/mechanist-archive/tsconfig.app.json",
+        "assets": ["apps/mechanist-archive/src/assets"],
+        "generatePackageJson": true,
+        "esbuildOptions": {
+          "sourcemap": true,
+          "outExtension": {
+            ".js": ".js"
+          }
+        }
+      },
+      "configurations": {
+        "development": {},
+        "production": {
+          "esbuildOptions": {
+            "sourcemap": false,
+            "outExtension": {
+              ".js": ".js"
+            }
+          }
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "dependsOn": ["build"],
+      "options": {
+        "buildTarget": "mechanist-archive:build",
+        "runBuildTargetDependencies": false
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "mechanist-archive:build:development"
+        },
+        "production": {
+          "buildTarget": "mechanist-archive:build:production"
+        }
+      }
+    }
+  }
+}
