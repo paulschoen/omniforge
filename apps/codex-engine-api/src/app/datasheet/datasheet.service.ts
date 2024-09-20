@@ -33,7 +33,7 @@ export class DatasheetsService {
       .aggregate([
         {
           $search: {
-            index: 'default',
+            index: 'name',
             autocomplete: {
               path: 'name',
               query: name,
