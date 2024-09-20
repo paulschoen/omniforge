@@ -5,28 +5,28 @@ export class ModelType {
   @Field(() => ID)
   _id: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   name: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   line: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   M: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   T: number;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   Sv: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   inv_sv: number;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   W: number;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   Ld: string;
 }
 @ObjectType()
@@ -34,10 +34,10 @@ export class KeywordType {
   @Field(() => ID)
   _id: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   keyword: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   is_faction_keyword: boolean;
 }
 
@@ -46,13 +46,13 @@ export class FactionType {
   @Field(() => ID)
   _id: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   id: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   name: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   link: string;
 }
 
@@ -61,30 +61,30 @@ export class DatasheetType {
   @Field(() => ID)
   _id: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   name: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   source_id: number;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   legend: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   role: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   loadout: string;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   virtual: boolean;
 
-  @Field({ nullable: false })
+  @Field({ nullable: true })
   link: string;
 
-  @Field(() => [KeywordType], { nullable: false })
+  @Field(() => [KeywordType], { nullable: true })
   keywords: KeywordType[];
 
-  @Field(() => FactionType, { nullable: false })
+  @Field(() => FactionType, { nullable: true })
   faction: FactionType;
 }
