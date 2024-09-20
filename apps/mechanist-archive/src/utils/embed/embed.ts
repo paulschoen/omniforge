@@ -1,27 +1,32 @@
 import { EmbedBuilder, APIEmbedField } from 'discord.js';
+import { determineFactionColor } from '@omniforge/shared-constants';
 
 interface IMessagedEmbed {
-  title: string;
+  dataSheetName: string;
   description: string;
   url?: string;
   fields?: APIEmbedField[];
-  footer?: string;
+  factionName?: string;
+  factionId?: string;
 }
 
-export function createEmbed({
-  title,
+export function createDatasheetEmbed({
+  dataSheetName,
   url,
   description,
   fields = [],
-  footer,
+  factionName,
+  factionId,
 }: IMessagedEmbed) {
+  const factionColor = determineFactionColor(factionId);
+
   return new EmbedBuilder()
-    .setTitle(title)
+    .setTitle(dataSheetName)
     .setDescription(description)
     .addFields(fields)
     .setURL(url)
     .setFooter({
-      text: footer,
+      text: factionName || 'No faction',
     })
-    .setColor('#9a1115');
+    .setColor(factionColor);
 }

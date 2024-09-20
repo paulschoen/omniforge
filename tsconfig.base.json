@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@codex-engine-api/*": ["apps/codex-engine-api/src/*"]
+      "@codex-engine-api/*": ["apps/codex-engine-api/src/*"],
+      "@omniforge/shared-constants": ["lib/shared-constants/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
