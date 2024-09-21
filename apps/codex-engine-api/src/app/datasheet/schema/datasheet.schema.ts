@@ -2,6 +2,7 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document, Types } from 'mongoose';
 import {
   Ability,
+  DatasheetImage,
   DetachmentAbility,
   Enhancement,
   FactionType,
@@ -18,6 +19,9 @@ import {
 export class Datasheet extends Document {
   @Prop({ type: Types.ObjectId, required: true, auto: true })
   _id: Types.ObjectId;
+
+  @Prop({ type: Number, required: true })
+  id: number;
 
   @Prop({ type: String, required: true })
   name: string;
@@ -72,6 +76,9 @@ export class Datasheet extends Document {
 
   @Prop({ type: [OptionType], required: true })
   options: OptionType[];
+
+  @Prop({ type: DatasheetImage })
+  image: DatasheetImage;
 }
 
 export const DatasheetSchema = SchemaFactory.createForClass(Datasheet);

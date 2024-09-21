@@ -1,8 +1,9 @@
-import { Args, Query, Resolver } from '@nestjs/graphql';
+import { Args, Mutation, Query, Resolver } from '@nestjs/graphql';
 import { DatasheetsService } from './datasheet.service';
 import { DatasheetType } from './dto/datasheet.graphql';
 import { Logger, UseGuards } from '@nestjs/common';
 import { ApiKeyGuard } from '../auth/api-key.guard';
+import { FileUpload, GraphQLUpload } from 'graphql-upload-ts';
 
 @Resolver(() => DatasheetType)
 export class DatasheetsResolver {
@@ -16,7 +17,6 @@ export class DatasheetsResolver {
       const datasheets = await this.datasheetsService.findAll();
       return datasheets.map((datasheet) => ({
         ...datasheet,
-        _id: datasheet._id.toString(),
       }));
     } catch (error) {
       this.logger.error(error);
@@ -36,7 +36,6 @@ export class DatasheetsResolver {
       }
       return {
         ...datasheet,
-        _id: datasheet._id.toString(),
       };
     } catch (error) {
       this.logger.error(error);
@@ -53,7 +52,6 @@ export class DatasheetsResolver {
       const datasheets = await this.datasheetsService.findByName(name);
       return datasheets.map((datasheet) => ({
         ...datasheet,
-        _id: datasheet._id.toString(),
       }));
     } catch (error) {
       this.logger.error(error);
@@ -70,11 +68,39 @@ export class DatasheetsResolver {
       const datasheets = await this.datasheetsService.searchByName(name);
       return datasheets.map((datasheet) => ({
         ...datasheet,
-        _id: datasheet._id.toString(),
       }));
     } catch (error) {
       this.logger.error(error);
       return [];
+    }
+  }
+
+  @Mutation(() => String)
+  @UseGuards(ApiKeyGuard)
+  async uploadImage(
+    @Args({ name: 'file', type: () => GraphQLUpload }) file: FileUpload,
+    @Args('id', { type: () => String }) datasheetId: string
+  ): Promise<string> {
+    try {
+      const response = await this.datasheetsService.uploadImage(
+        file,
+        datasheetId
+      );
+      return response;
+    } catch (error) {
+      this.logger.error(error);
+      return '';
+    }
+  }
+
+  @Query(() => String)
+  @UseGuards(ApiKeyGuard)
+  async downloadImage(@Args('id') id: string): Promise<string> {
+    try {
+      return await this.datasheetsService.downloadImage(id);
+    } catch (error) {
+      this.logger.error(error);
+      return '';
     }
   }
 }

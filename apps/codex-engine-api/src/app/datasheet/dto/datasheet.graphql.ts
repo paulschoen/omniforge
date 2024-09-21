@@ -1,4 +1,11 @@
 import { ObjectType, Field, ID } from '@nestjs/graphql';
+import { Types } from 'mongoose';
+
+@ObjectType()
+export class DatasheetImage {
+  @Field(() => ID)
+  id: Types.ObjectId;
+}
 
 @ObjectType()
 export class OptionType {
@@ -266,7 +273,10 @@ export class FactionType {
 @ObjectType()
 export class DatasheetType {
   @Field(() => ID)
-  _id: string;
+  _id: Types.ObjectId;
+
+  @Field({ nullable: true })
+  id: number;
 
   @Field({ nullable: true })
   name: string;
@@ -321,4 +331,7 @@ export class DatasheetType {
 
   @Field(() => [OptionType], { nullable: true })
   options: OptionType[];
+
+  @Field(() => DatasheetImage, { nullable: true })
+  image: DatasheetImage;
 }
