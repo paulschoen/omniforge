@@ -5,6 +5,7 @@
 
 import { Logger } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
+import * as bodyParser from 'body-parser';
 
 import { AppModule } from './app/app.module';
 import { graphqlUploadExpress } from 'graphql-upload-ts';
@@ -16,11 +17,13 @@ async function bootstrap() {
   const globalPrefix = 'api';
   app.setGlobalPrefix(globalPrefix);
   const port = process.env.PORT || 3000;
+  app.use(bodyParser.json({ limit: '5mb' }));
+  app.use(bodyParser.urlencoded({ limit: '5mb', extended: true }));
   app.use(
     graphqlUploadExpress({
       maxFileSize: FIVE_MEGABYTES,
       maxFieldSize: FIVE_MEGABYTES,
-      maxFiles: 1,
+      maxFiles: 5,
     })
   );
   await app.listen(port);
