@@ -49,7 +49,10 @@ const takeElementScreenshot = async (
   selector = '.unit'
 ): Promise<void> => {
   try {
-    const browser = await puppeteer.launch({ headless: true }); // Ensure headless mode
+    const browser = await puppeteer.launch({
+      headless: true,
+      args: ['--no-sandbox'],
+    });
     const page = await browser.newPage();
     await page.setViewport({ width: 500, height: 2000 });
     await page.goto(url, { waitUntil: 'networkidle2' });
