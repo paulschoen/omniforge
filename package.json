@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node dist/apps/codex-engine-api/main.js",
     "build": "nx build codex-engine-api && nx build mechanist-archive",
-    "heroku-postbuild": "npm run build",
+    "heroku-postbuild": "npm run build && mkdir  ./.cache && mv /app/.cache/puppeteer ./.cache",
     "start:mechanist-archive": "node dist/apps/mechanist-archive/main.js"
   },
   "private": true,
