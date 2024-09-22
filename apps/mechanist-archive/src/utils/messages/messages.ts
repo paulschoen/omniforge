@@ -1,165 +1,217 @@
-import { Message, EmbedBuilder } from 'discord.js';
+import { Message, EmbedBuilder, AttachmentBuilder } from 'discord.js';
 import { client } from '../../apollo/client';
-import { SEARCH_NAME } from '../../apollo/query/searchName.graphql';
+import {
+  DOWNLOAD_IMAGE,
+  SEARCH_NAME,
+} from '../../apollo/query/searchName.graphql';
 import { createDatasheetEmbed } from '../embed/embed';
+import puppeteer from 'puppeteer';
+import fs from 'fs';
+import FormData from 'form-data';
+import axios from 'axios';
 
-interface Model {
-  M?: string;
-  T?: string;
-  Sv?: string;
-  W?: string;
-  Ld?: string;
-  OC?: string;
-  inv_sv?: string;
+interface SearchResult {
+  searchDatasheetsByName: Array<{
+    id: string;
+    name: string;
+    legend: string;
+    link: string;
+    faction: {
+      name: string;
+      id: string;
+    };
+  }>;
 }
 
-interface Cost {
-  description: string;
-  cost: number;
+interface ImageDownloadResult {
+  downloadImage: string;
 }
 
-interface Faction {
-  name: string;
-  id: string;
-}
+// Constants
+const BASE_URL = 'https://game-datacards.eu/viewer';
 
-// Utility function to convert HTML to Discord markdown
-const convertHtmlToDiscord = (htmlString?: string): string => {
-  if (!htmlString) return '';
+// Function to construct URL
+const constructUrl = (factionName: string, dataSheetName: string): string => {
+  const formatString = (str: string) =>
+    str.toLowerCase().trim().replace(/’/g, "'").replace(/\s/g, '-');
 
-  const replacements = [
-    { regex: /<b>(.*?)<\/b>/gi, replacement: '**$1**' },
-    { regex: /<strong>(.*?)<\/strong>/gi, replacement: '**$1**' },
-    { regex: /<i>(.*?)<\/i>/gi, replacement: '*$1*' },
-    { regex: /<em>(.*?)<\/em>/gi, replacement: '*$1*' },
-    { regex: /<u>(.*?)<\/u>/gi, replacement: '__$1__' },
-    { regex: /<s>(.*?)<\/s>/gi, replacement: '~~$1~~' },
-    { regex: /<strike>(.*?)<\/strike>/gi, replacement: '~~$1~~' },
-    { regex: /<\/?[^>]+(>|$)/g, replacement: '' },
-    { regex: /<ul>/gi, replacement: '' },
-    { regex: /<\/ul>/gi, replacement: '' },
-    { regex: /<ol>/gi, replacement: '' },
-    { regex: /<\/ol>/gi, replacement: '' },
-    { regex: /<li>/gi, replacement: '• ' },
-    { regex: /<\/li>/gi, replacement: '\n' },
-  ];
-
-  return replacements.reduce(
-    (str, { regex, replacement }) => str.replace(regex, replacement),
-    htmlString
-  );
+  const url = `${BASE_URL}/${formatString(factionName)}/${formatString(
+    dataSheetName
+  )}`;
+  console.debug('Constructed URL:', url);
+  return url;
 };
 
-/**
- * Generates a description for models.
- *
- * @param models - Array of model objects.
- * @returns Formatted description string.
- */
-const getDescription = (models: Model[] | undefined): string => {
-  return (
-    models
-      ?.map((model) => {
-        const { M, T, Sv, W, Ld, OC, inv_sv } = model;
-        let description = `**M**: ${M ?? 'N/A'} | **T**: ${
-          T ?? 'N/A'
-        } | **Sv**: ${Sv ?? 'N/A'} | **W**: ${W ?? 'N/A'} | **Ld**: ${
-          Ld ?? 'N/A'
-        } | **OC**: ${OC ?? 'N/A'}`;
-
-        if (inv_sv) {
-          description += ` | **Inv Sv**: ${inv_sv}`;
-        }
-
-        return description;
-      })
-      .join('\n')
-      .trim() || ''
-  );
-};
-
-/**
- * Processes a message to check if it contains an item.
- *
- * @param message - The message to be processed.
- * @returns A promise that resolves to an EmbedBuilder or null.
- */
-export const processMessage = async (
-  message: Message
-): Promise<EmbedBuilder | null> => {
-  if (message.author.bot) return null;
-
-  const item = message.content.match(/{{(.*?)}}/)?.[1];
-  if (!item) return null;
-
+// Function to take screenshot
+const takeElementScreenshot = async (
+  url: string,
+  imagePath: string,
+  selector = '.unit'
+): Promise<void> => {
   try {
-    const { data, error } = await client.query({
-      query: SEARCH_NAME,
-      variables: { name: item },
-    });
+    const browser = await puppeteer.launch({ headless: true }); // Ensure headless mode
+    const page = await browser.newPage();
+    await page.setViewport({ width: 500, height: 2000 });
+    await page.goto(url, { waitUntil: 'networkidle2' });
 
+    await page.waitForSelector(selector);
+    const element = await page.$(selector);
+
+    if (element) {
+      await element.screenshot({
+        path: imagePath,
+        fromSurface: true,
+        type: 'jpeg',
+        quality: 70,
+      });
+    }
+
+    await browser.close();
+  } catch (error) {
+    console.error(`Failed to take screenshot: ${error.message}`);
+  }
+};
+
+// Interface for ProcessMessage
+interface ProcessMessage {
+  embed: EmbedBuilder | null;
+  file: AttachmentBuilder | null;
+}
+
+// Function to fetch data from GraphQL
+const fetchDataFromGraphQL = async <T>(
+  query: any,
+  variables: object
+): Promise<T | null> => {
+  try {
+    const { data, error } = await client.query({ query, variables });
     if (error) {
       console.error('GraphQL Query Error:', JSON.stringify(error));
       return null;
     }
-
-    if (!data?.searchDatasheetsByName.length) {
-      return new EmbedBuilder().setDescription(
-        `No datasheet found for "${item}"`
-      );
-    }
-
-    const { name, loadout, models, link, keywords, faction, models_cost } =
-      data.searchDatasheetsByName[0];
-    const { name: factionName, id: factionId } = faction;
-
-    const description = getDescription(models);
-
-    const fields = [
-      {
-        name: 'Loadout',
-        value: convertHtmlToDiscord(loadout),
-      },
-      {
-        name: 'Keywords',
-        value: keywords
-          .map(({ keyword }: { keyword: string }) => keyword)
-          .join(', '),
-      },
-      {
-        name: 'Cost',
-        value: models_cost
-          ?.map(({ description, cost }: Cost) => `__${description}__: ${cost}`)
-          .join(', '),
-      },
-    ];
-
-    return createDatasheetEmbed({
-      dataSheetName: name,
-      description,
-      fields,
-      url: link,
-      factionName,
-      factionId,
-    });
-  } catch (err) {
-    console.error('Error processing message:', err);
+    return data;
+  } catch (error) {
+    console.error('GraphQL execution error:', error);
     return null;
   }
 };
 
-/**
- * Handles the creation of a message.
- *
- * @param message - The message to be processed.
- * @returns A promise that resolves to void.
- */
-export const handleCreateMessage = async (message: Message): Promise<void> => {
-  try {
-    const embed = await processMessage(message);
+// Function to process message
+export const processMessage = async (
+  item: string | null
+): Promise<ProcessMessage | null> => {
+  if (!item) return null;
 
-    if (embed) {
-      await message.reply({ embeds: [embed] });
+  const searchResult = await fetchDataFromGraphQL<SearchResult>(SEARCH_NAME, {
+    name: item,
+  });
+
+  if (!searchResult || !searchResult.searchDatasheetsByName.length) {
+    return {
+      embed: new EmbedBuilder().setDescription(`No item found for ${item}.`),
+      file: null,
+    };
+  }
+
+  const { id, name, legend, link, faction } =
+    searchResult.searchDatasheetsByName[0];
+  const { name: factionName, id: factionId } = faction;
+  let imageBase64 = '';
+
+  const imageDownloadResult = await fetchDataFromGraphQL<ImageDownloadResult>(
+    DOWNLOAD_IMAGE,
+    {
+      downloadImageId: id.toString(),
+    }
+  );
+
+  if (imageDownloadResult) {
+    imageBase64 = imageDownloadResult.downloadImage;
+  }
+
+  if (!imageBase64) {
+    const screenshotPath = `/tmp/${id}.png`;
+    const screenshotUrl = constructUrl(factionName, name);
+    await takeElementScreenshot(screenshotUrl, screenshotPath);
+
+    try {
+      const form = new FormData();
+
+      form.append(
+        'operations',
+        JSON.stringify({
+          query:
+            'mutation UploadImage($file: Upload!, $id: String!) { uploadImage(file: $file, id: $id) }',
+          variables: {
+            id: id.toString(),
+            file: null,
+          },
+          operationName: 'UploadImage',
+        })
+      );
+
+      form.append('map', JSON.stringify({ '0': ['variables.file'] }));
+      form.append('0', fs.createReadStream(screenshotPath));
+
+      const response = await axios({
+        url: process.env.GQ_GATEWAY_URL,
+        method: 'POST',
+        data: form,
+        headers: {
+          ...form.getHeaders(),
+          'x-apollo-operation-name': 'uploadImage',
+          'x-api-key': process.env.API_KEY as string,
+        },
+      });
+
+      console.log('Image uploaded successfully:', response.data);
+
+      const imageBuffer = await fs.promises.readFile(screenshotPath);
+      imageBase64 = imageBuffer.toString('base64');
+    } catch (error) {
+      console.error('Error uploading image:', error);
+    }
+  }
+
+  if (!imageBase64) {
+    return {
+      embed: new EmbedBuilder().setDescription(`No image found for ${item}.`),
+      file: null,
+    };
+  }
+
+  return createDatasheetEmbed({
+    id,
+    dataSheetName: name,
+    legend,
+    url: link,
+    factionName,
+    factionId,
+    imageBase64,
+  });
+};
+
+// Function to handle creation of a message
+export const handleCreateMessage = async (message: Message): Promise<void> => {
+  if (message.author.bot) return;
+
+  try {
+    const embeds: EmbedBuilder[] = [];
+    const files: AttachmentBuilder[] = [];
+    const matches = [...message.content.matchAll(/{{(.*?)}}/g)];
+
+    for (const match of matches) {
+      const item = match[1];
+      const result = await processMessage(item);
+      if (result) {
+        const { embed, file } = result;
+        embed && embeds.push(embed);
+        file && files.push(file);
+      }
+    }
+
+    if (embeds.length || files.length) {
+      await message.reply({ embeds, files });
     }
   } catch (err) {
     console.error('Error handling message creation:', err);

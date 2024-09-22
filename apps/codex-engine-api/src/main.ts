@@ -10,7 +10,7 @@ import * as bodyParser from 'body-parser';
 import { AppModule } from './app/app.module';
 import { graphqlUploadExpress } from 'graphql-upload-ts';
 
-const FIVE_MEGABYTES = 5 * 1024 * 1024;
+const TEN_MEGABYTES = 10000000;
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
@@ -21,8 +21,8 @@ async function bootstrap() {
   app.use(bodyParser.urlencoded({ limit: '5mb', extended: true }));
   app.use(
     graphqlUploadExpress({
-      maxFileSize: FIVE_MEGABYTES,
-      maxFieldSize: FIVE_MEGABYTES,
+      maxFileSize: TEN_MEGABYTES,
+      maxFieldSize: TEN_MEGABYTES,
       maxFiles: 5,
     })
   );

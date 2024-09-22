@@ -4,7 +4,6 @@ import { Model, Types } from 'mongoose';
 import { MongoClient, GridFSBucket } from 'mongodb';
 import { Datasheet } from './schema/datasheet.schema';
 import { FileUpload } from 'graphql-upload-ts';
-import { Readable } from 'stream';
 
 @Injectable()
 export class DatasheetsService {

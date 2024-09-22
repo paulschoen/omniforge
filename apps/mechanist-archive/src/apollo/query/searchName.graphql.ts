@@ -3,30 +3,26 @@ import { gql } from 'apollo-server-express';
 export const SEARCH_NAME = gql`
   query SearchDatasheetsByName($name: String!) {
     searchDatasheetsByName(name: $name) {
+      id
       name
       link
-      loadout
       legend
-      keywords {
-        keyword
-      }
       faction {
         id
         name
       }
-      models_cost {
-        description
-        cost
-      }
-      models {
-        OC
-        Ld
-        M
-        Sv
-        T
-        W
-        inv_sv
-      }
     }
+  }
+`;
+
+export const UPLOAD_IMAGE = gql`
+  mutation UploadImage($file: Upload!, $id: String!) {
+    uploadImage(file: $file, id: $id)
+  }
+`;
+
+export const DOWNLOAD_IMAGE = gql`
+  query Query($downloadImageId: String!) {
+    downloadImage(id: $downloadImageId)
   }
 `;
