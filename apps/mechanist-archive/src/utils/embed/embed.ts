@@ -2,7 +2,7 @@ import { EmbedBuilder, AttachmentBuilder } from 'discord.js';
 import { determineFactionColor } from '@omniforge/shared-constants';
 
 interface IMessagedEmbed {
-  id: string;
+  id: number;
   dataSheetName: string;
   url: string;
   legend?: string;
