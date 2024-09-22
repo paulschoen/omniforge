@@ -12,7 +12,7 @@ import axios from 'axios';
 
 interface SearchResult {
   searchDatasheetsByName: Array<{
-    id: string;
+    id: number;
     name: string;
     legend: string;
     link: string;
