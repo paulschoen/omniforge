@@ -1,10 +1,10 @@
-import { EmbedBuilder, APIEmbedField, AttachmentBuilder } from 'discord.js';
+import { EmbedBuilder, AttachmentBuilder } from 'discord.js';
 import { determineFactionColor } from '@omniforge/shared-constants';
 
 interface IMessagedEmbed {
-  id: number;
+  id: string;
   dataSheetName: string;
-  url?: string;
+  url: string;
   legend?: string;
   factionName?: string;
   factionId?: string;
@@ -15,28 +15,33 @@ export function createDatasheetEmbed({
   id,
   dataSheetName,
   url,
-  legend,
+  legend = '',
   factionName,
   factionId,
   imageBase64,
 }: IMessagedEmbed) {
   const factionColor = determineFactionColor(factionId);
-  const bufferResult = Buffer.from(imageBase64, 'base64');
 
-  const file = new AttachmentBuilder(bufferResult, {
-    name: `${id}.png`,
-  });
+  const embedBuilder = new EmbedBuilder()
+    .setTitle(dataSheetName)
+    .setDescription(legend)
+    .setURL(url)
+    .setFooter({ text: factionName })
+    .setColor(factionColor);
 
-  return {
-    embed: new EmbedBuilder()
-      .setTitle(dataSheetName)
-      .setDescription(legend || '')
-      .setURL(url)
-      .setFooter({
-        text: factionName || 'No faction',
-      })
-      .setColor(factionColor)
-      .setImage(`attachment://${id}.png`),
-    file,
-  };
+  if (!imageBase64) {
+    return { embed: embedBuilder, file: null };
+  }
+
+  try {
+    const bufferResult = Buffer.from(imageBase64, 'base64');
+    const file = new AttachmentBuilder(bufferResult, { name: `${id}.png` });
+
+    embedBuilder.setImage(`attachment://${id}.png`);
+
+    return { embed: embedBuilder, file };
+  } catch (error) {
+    console.error('Error converting base64 to buffer:', error);
+    throw new Error('Invalid image data provided');
+  }
 }

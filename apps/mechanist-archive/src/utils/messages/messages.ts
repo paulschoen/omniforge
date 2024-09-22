@@ -176,13 +176,6 @@ export const processMessage = async (
     }
   }
 
-  if (!imageBase64) {
-    return {
-      embed: new EmbedBuilder().setDescription(`No image found for ${item}.`),
-      file: null,
-    };
-  }
-
   return createDatasheetEmbed({
     id,
     dataSheetName: name,
