@@ -33,12 +33,23 @@ const BASE_URL = 'https://game-datacards.eu/viewer';
 // Function to construct URL
 const constructUrl = (factionName: string, dataSheetName: string): string => {
   const formatString = (str: string) =>
-    str.toLowerCase().trim().replace(/’/g, "'").replace(/\s/g, '-');
+    encodeURIComponent(
+      str.toLowerCase().trim().replace(/’/g, "'").replace(/\s/g, '-')
+    );
 
-  const url = `${BASE_URL}/${formatString(factionName)}/${formatString(
-    dataSheetName
-  )}`;
+  const formatDataSheetName = (str: string) =>
+    encodeURIComponent(str.toLowerCase().trim().replace(/\s/g, '-'));
+
+  // Normalize specific faction name
+  const normalizedFactionName =
+    factionName === 'Leagues of Votann' ? 'votann' : factionName;
+
+  const formattedFactionName = formatString(normalizedFactionName);
+  const formattedDataSheetName = formatDataSheetName(dataSheetName);
+
+  const url = `${BASE_URL}/${formattedFactionName}/${formattedDataSheetName}`;
   console.debug('Constructed URL:', url);
+
   return url;
 };
 
