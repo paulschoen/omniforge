@@ -34,7 +34,7 @@ const BASE_URL = 'https://game-datacards.eu/viewer';
 const constructUrl = (factionName: string, dataSheetName: string): string => {
   const formatString = (str: string) =>
     encodeURIComponent(
-      str.toLowerCase().trim().replace(/’/g, "'").replace(/\s/g, '-')
+      str.toLowerCase().trim().replace(/’/g, "'").replace(/\s/g, '-'),
     );
 
   const formatDataSheetName = (str: string) =>
@@ -57,7 +57,7 @@ const constructUrl = (factionName: string, dataSheetName: string): string => {
 const takeElementScreenshot = async (
   url: string,
   imagePath: string,
-  selector = '.unit'
+  selector = '.unit',
 ): Promise<void> => {
   try {
     const browser = await puppeteer.launch({
@@ -95,7 +95,7 @@ interface ProcessMessage {
 // Function to fetch data from GraphQL
 const fetchDataFromGraphQL = async <T>(
   query: any,
-  variables: object
+  variables: object,
 ): Promise<T | null> => {
   try {
     const { data, error } = await client.query({ query, variables });
@@ -112,7 +112,7 @@ const fetchDataFromGraphQL = async <T>(
 
 // Function to process message
 export const processMessage = async (
-  item: string | null
+  item: string | null,
 ): Promise<ProcessMessage | null> => {
   if (!item) return null;
 
@@ -136,7 +136,7 @@ export const processMessage = async (
     DOWNLOAD_IMAGE,
     {
       downloadImageId: id.toString(),
-    }
+    },
   );
 
   if (imageDownloadResult) {
@@ -161,7 +161,7 @@ export const processMessage = async (
             file: null,
           },
           operationName: 'UploadImage',
-        })
+        }),
       );
 
       form.append('map', JSON.stringify({ '0': ['variables.file'] }));

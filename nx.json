@@ -50,6 +50,11 @@
       "dependsOn": ["^build"],
       "inputs": ["production", "^production"]
     },
+    "@nx/eslint:eslint": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": ["default", "^default"]
+    },
     "@nx/js:tsc": {
       "cache": true,
       "dependsOn": ["^build"],

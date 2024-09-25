@@ -5,15 +5,15 @@ import { ApiKeys } from './api-keys.schema';
 
 @Injectable()
 export class ApiKeysService {
-  constructor(@InjectModel(ApiKeys.name) private apiKeyModel: Model<ApiKeys>) {}
+  constructor(@InjectModel(ApiKeys.name) private ApiKeyModel: Model<ApiKeys>) {}
 
   async createApiKey(apiKey: string): Promise<ApiKeys> {
-    const newKey = new this.apiKeyModel({ key: apiKey });
+    const newKey = new this.ApiKeyModel({ key: apiKey });
     return newKey.save();
   }
 
   async validateApiKey(apiKey: string): Promise<boolean> {
-    const key = await this.apiKeyModel.findOne({ key: apiKey });
-    return !!key;
+    const key = await this.ApiKeyModel.findOne({ key: apiKey });
+    return Boolean(key);
   }
 }

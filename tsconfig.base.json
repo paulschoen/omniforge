@@ -1,4 +1,5 @@
 {
+  "extends": "@vercel/style-guide/typescript",
   "compileOnSave": false,
   "compilerOptions": {
     "rootDir": ".",

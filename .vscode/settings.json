@@ -1,0 +1,12 @@
+{
+  "prettier.configPath": "./node_modules/@vercel/style-guide/prettier/index.js",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always",
+    "source.sortImports": "always"
+  },
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "eslint.lintTask.enable": true,
+  "prettier.enable": true
+}
