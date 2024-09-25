@@ -1,55 +1,41 @@
 import { Injectable, Logger } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { FileUpload } from 'graphql-upload-ts';
-import { GridFSBucket, MongoClient } from 'mongodb';
-import { Model, Types } from 'mongoose';
+import { Model, RootFilterQuery, Types } from 'mongoose';
+import { GridFSService } from '../grid-fs/grid-fs.service';
 import { Datasheet } from './schema/datasheet.schema';
 
 @Injectable()
-export class DatasheetsService {
-  private readonly logger = new Logger(DatasheetsService.name);
-  private bucket!: GridFSBucket;
+export class DatasheetService {
+  private readonly logger = new Logger(DatasheetService.name);
+  private readonly gridFSService = new GridFSService();
 
   constructor(
     @InjectModel(Datasheet.name) private DatasheetModel: Model<Datasheet>,
-  ) {
-    this.initializeGridFS().catch((error: unknown) => {
-      this.logger.error('Error initializing GridFS:', error);
-      throw error;
-    });
-  }
-
-  private async initializeGridFS(): Promise<void> {
-    const connectionString = process.env.MONGODB_CONNECTION_STRING;
-    if (!connectionString) {
-      throw new Error('MONGODB_CONNECTION_STRING is not defined');
-    }
-    const client = new MongoClient(connectionString);
-    await client.connect();
-    const db = client.db('codex-engine');
-    this.bucket = new GridFSBucket(db);
-  }
+  ) {}
 
   async findAll(): Promise<Datasheet[]> {
-    this.logger.log('Finding all datasheets');
+    this.logger.log('Fetching all datasheets');
     return this.DatasheetModel.find().lean();
   }
 
   async findById(id: string): Promise<Datasheet | null> {
-    this.logger.log(`Finding datasheet by id: ${id}`);
-    return this.DatasheetModel.findById(id);
+    this.logger.log(`Fetching datasheet by ID: ${id}`);
+    return this.DatasheetModel.findById(id).lean();
   }
 
   async findByName(name: string): Promise<Datasheet[]> {
-    this.logger.log(`Finding datasheets by name: ${name}`);
+    this.logger.log(`Fetching datasheets by name: ${name}`);
     return this.DatasheetModel.find({
       name: { $regex: name, $options: 'i' },
     }).lean();
   }
 
   async searchByName(name: string): Promise<Datasheet[]> {
-    this.logger.log(`Searching datasheets by name: ${name}`);
-    const request = this.DatasheetModel.aggregate<Datasheet>([
+    this.logger.log(
+      `Searching datasheets using autocomplete for name: ${name}`,
+    );
+    return this.DatasheetModel.aggregate<Datasheet>([
       {
         $search: {
           index: 'name',
@@ -60,100 +46,71 @@ export class DatasheetsService {
         },
       },
     ]).exec();
-    return request;
   }
 
-  async uploadImage(file: FileUpload, datasheetId: string): Promise<string> {
-    const { createReadStream, filename } = file;
-    const uploadStream = this.bucket.openUploadStream(filename);
-
-    this.logger.log(`Attempting to find datasheet with ID: ${datasheetId}`);
-
-    let datasheet;
-    let objectId;
-
-    try {
-      datasheet = await this.DatasheetModel.findOne({
-        id: parseInt(datasheetId),
-      }).lean();
-
-      if (!datasheet) {
-        this.logger.error(`Datasheet not found for ID: ${datasheetId}`);
-        throw new Error(`Datasheet not found for ID: ${datasheetId}`);
-      }
-
-      objectId = datasheet._id;
-      this.logger.log(`Datasheet found: ${JSON.stringify(datasheet)}`);
-    } catch (error) {
-      this.logger.error('Error finding datasheet:', error);
-      throw error;
-    }
-
-    return new Promise((resolve, reject) => {
-      createReadStream()
-        .pipe(uploadStream)
-        .on('finish', () => {
-          this.logger.log('Image uploaded successfully, updating datasheet');
-          this.DatasheetModel.findOneAndUpdate(objectId, {
-            $set: {
-              image: {
-                id: uploadStream.id.toString(),
-              },
-            },
-          })
-            .lean()
-            .then(() => {
-              this.logger.log(
-                `Datasheet updated with image: ${JSON.stringify(datasheet)}`,
-              );
-              resolve(uploadStream.id.toString());
-            })
-            .catch((error: unknown) => {
-              this.logger.error('Error updating datasheet:', error);
-              reject(
-                new Error(
-                  error instanceof Error ? error.message : String(error),
-                ),
-              );
-            });
-        })
-        .on('error', (error) => {
-          this.logger.error('Error uploading image:', error);
-          reject(error);
-        });
-    });
+  async findDatasheetById(datasheetId: string): Promise<Datasheet | null> {
+    this.logger.log(`Finding datasheet by ID: ${datasheetId}`);
+    const id = parseInt(datasheetId);
+    return this.DatasheetModel.findOne({ id }).lean();
   }
 
-  async getImageAsBase64(imageId: string): Promise<string> {
-    const stream = this.bucket.openDownloadStream(new Types.ObjectId(imageId));
-    const chunks: Buffer[] = [];
-
-    return new Promise((resolve, reject) => {
-      stream.on('data', (chunk: Buffer) => chunks.push(chunk));
-      stream.on('end', () => {
-        const buffer = Buffer.concat(chunks);
-        resolve(buffer.toString('base64'));
-      });
-      stream.on('error', (err) => {
-        reject(err);
-      });
-    });
+  async updateDatasheet(
+    objectId: RootFilterQuery<Datasheet> | undefined,
+    uploadStreamId: string,
+  ): Promise<Datasheet | null> {
+    this.logger.log(`Updating datasheet with image ID: ${uploadStreamId}`);
+    return this.DatasheetModel.findOneAndUpdate(
+      objectId,
+      { $set: { image: { id: uploadStreamId } } },
+      { new: true },
+    ).lean();
   }
 
   async getImageIdFromDatasheet(datasheetId: string): Promise<Types.ObjectId> {
+    this.logger.log(`Fetching image ID from datasheet ID: ${datasheetId}`);
     const datasheet = await this.DatasheetModel.findOne({
       id: parseInt(datasheetId),
     }).lean();
 
     if (!datasheet || !datasheet.image?.id) {
-      throw new Error(`Image not found for datasheet ID: ${datasheetId}`);
+      this.logger.error(`No image found for datasheet ID: ${datasheetId}`);
+      throw new Error(`No image for datasheet ID: ${datasheetId}`);
     }
 
     return datasheet.image.id;
   }
 
+  async uploadImage(file: FileUpload, datasheetId: string): Promise<string> {
+    // eslint-disable-next-line @typescript-eslint/unbound-method -- Disabling unbound-method rule because createReadStream is destructured from the file object
+    const { createReadStream, filename } = file;
+
+    this.logger.log(
+      `Attempting to upload image for datasheet ID: ${datasheetId}`,
+    );
+
+    const datasheet = await this.findDatasheetById(datasheetId);
+    if (!datasheet) {
+      this.logger.error(`Datasheet not found with ID: ${datasheetId}`);
+      throw new Error(`Datasheet not found: ${datasheetId}`);
+    }
+
+    const objectId = datasheet._id;
+    const uploadStreamId = await this.gridFSService.uploadFile(
+      createReadStream,
+      filename,
+    );
+
+    this.logger.log(
+      `Image uploaded, updating datasheet with new image ID: ${uploadStreamId}`,
+    );
+    await this.updateDatasheet(objectId, uploadStreamId);
+
+    return uploadStreamId;
+  }
+
   async downloadImage(id: string): Promise<string> {
+    this.logger.log(`Downloading image for datasheet ID: ${id}`);
     const imageId = await this.getImageIdFromDatasheet(id);
-    return this.getImageAsBase64(imageId.toString());
+    return this.gridFSService.downloadImageAsBase64(imageId.toString());
   }
 }

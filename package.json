@@ -1,14 +1,21 @@
 {
   "name": "@omniforge/source",
   "version": "0.0.0",
+  "private": true,
   "license": "MIT",
   "scripts": {
-    "start": "node dist/apps/codex-engine-api/main.js",
     "build": "nx build codex-engine-api && nx build mechanist-archive",
     "heroku-postbuild": "npm run build && mkdir  ./.cache && mv /app/.cache/puppeteer ./.cache",
+    "prepare": "husky",
+    "start": "node dist/apps/codex-engine-api/main.js",
     "start:mechanist-archive": "node dist/apps/mechanist-archive/main.js"
   },
-  "private": true,
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx}": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
   "dependencies": {
     "@apollo/client": "^3.11.8",
     "@apollo/server": "^4.11.0",
@@ -67,8 +74,10 @@
     "esbuild": "^0.19.2",
     "eslint": "~8.57.0",
     "eslint-config-prettier": "^9.0.0",
+    "husky": "^9.1.6",
     "jest": "^29.7.0",
     "jest-environment-node": "^29.7.0",
+    "lint-staged": "^15.2.10",
     "nx": "19.7.4",
     "prettier": "^3.3.3",
     "ts-jest": "^29.1.0",

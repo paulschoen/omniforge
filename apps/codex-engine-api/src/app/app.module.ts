@@ -4,6 +4,8 @@ import { Module } from '@nestjs/common';
 import { GraphQLModule } from '@nestjs/graphql';
 import { MongooseModule } from '@nestjs/mongoose';
 import { DatasheetsModule } from './datasheet/datasheet.module';
+import { GridFsModule } from './grid-fs/grid-fs.module';
+import { GridFSService } from './grid-fs/grid-fs.service';
 
 const connection =
   process.env.MONGODB_CONNECTION_STRING ??
@@ -18,6 +20,8 @@ const connection =
     }),
     MongooseModule.forRoot(connection),
     DatasheetsModule,
+    GridFsModule,
   ],
+  providers: [GridFSService],
 })
 export class AppModule {}

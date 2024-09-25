@@ -2,13 +2,13 @@ import { Logger, UseGuards } from '@nestjs/common';
 import { Args, Mutation, Query, Resolver } from '@nestjs/graphql';
 import { FileUpload, GraphQLUpload } from 'graphql-upload-ts';
 import { ApiKeyGuard } from '../auth/api-key.guard';
-import { DatasheetsService } from './datasheet.service';
+import { DatasheetService } from './datasheet.service';
 import { DatasheetType } from './dto/datasheet.graphql';
 
 @Resolver(() => DatasheetType)
 export class DatasheetsResolver {
   private readonly logger = new Logger(DatasheetsResolver.name);
-  constructor(private datasheetsService: DatasheetsService) {}
+  constructor(private datasheetsService: DatasheetService) {}
 
   @Query(() => [DatasheetType])
   @UseGuards(ApiKeyGuard)
