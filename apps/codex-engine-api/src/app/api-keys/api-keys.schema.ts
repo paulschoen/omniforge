@@ -7,13 +7,13 @@ export class ApiKeys extends Document {
   _id!: Types.ObjectId;
 
   @Prop({ type: String, required: true })
-  key!: string;
+  key?: string;
 
   @Prop({ type: String, required: true })
-  name!: string;
+  name?: string;
 
   @Prop({ type: Number, required: true })
-  createdAt!: number;
+  createdAt?: number;
 }
 
 export const ApiKeySchema = SchemaFactory.createForClass(ApiKeys);

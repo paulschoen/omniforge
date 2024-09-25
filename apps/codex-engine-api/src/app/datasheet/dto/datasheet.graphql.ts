@@ -1,337 +1,337 @@
-import { ObjectType, Field, ID } from '@nestjs/graphql';
+import { Field, ID, ObjectType } from '@nestjs/graphql';
 import { Types } from 'mongoose';
 
 @ObjectType()
 export class DatasheetImage {
   @Field(() => ID)
-  id: Types.ObjectId;
+  id!: Types.ObjectId;
 }
 
 @ObjectType()
 export class OptionType {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  datasheet_id: number;
+  datasheet_id?: number;
 
   @Field({ nullable: true })
-  line: number;
+  line?: number;
 
   @Field({ nullable: true })
-  button: string;
+  button?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 }
 
 @ObjectType()
 export class Wargear {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  datasheet_id: number;
+  datasheet_id?: number;
 
   @Field({ nullable: true })
-  line: number;
+  line?: number;
 
   @Field({ nullable: true })
-  line_in_wargear: number;
+  line_in_wargear?: number;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 
   @Field({ nullable: true })
-  range: string;
+  range?: string;
 
   @Field({ nullable: true })
-  type: string;
+  type?: string;
 
   @Field({ nullable: true })
-  A: string;
+  A?: string;
 
   @Field({ nullable: true })
-  BS_WS: string;
+  BS_WS?: string;
 
   @Field({ nullable: true })
-  S: string;
+  S?: string;
 
   @Field({ nullable: true })
-  AP: string;
+  AP?: string;
 
   @Field({ nullable: true })
-  D: string;
+  D?: string;
 }
 
 @ObjectType()
 export class DetachmentAbility {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  legend: string;
+  legend?: string;
 
   @Field({ nullable: true })
-  faction_id: string;
+  faction_id?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 
   @Field({ nullable: true })
-  detachment: string;
+  detachment?: string;
 }
 
 @ObjectType()
 export class Ability {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  legend: string;
+  legend?: string;
 
   @Field({ nullable: true })
-  faction_id: string;
+  faction_id?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 }
 
 @ObjectType()
 export class Stratagem {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  type: string;
+  type?: string;
 
   @Field({ nullable: true })
-  cp_cost: number;
+  cp_cost?: number;
 
   @Field({ nullable: true })
-  legend: string;
+  legend?: string;
 
   @Field({ nullable: true })
-  turn: string;
+  turn?: string;
 
   @Field({ nullable: true })
-  phase: string;
+  phase?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 
   @Field({ nullable: true })
-  version: number;
+  version?: number;
 }
 
 @ObjectType()
 export class Source {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  type: string;
+  type?: string;
 
   @Field({ nullable: true })
-  edition: number;
+  edition?: number;
 
   @Field({ nullable: true })
-  version: string;
+  version?: string;
 
   @Field({ nullable: true })
-  errata_date: string;
+  errata_date?: string;
 
   @Field({ nullable: true })
-  errata_link: string;
+  errata_link?: string;
 }
 
 @ObjectType()
 export class Enhancement {
   @Field({ nullable: true })
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  faction_id: string;
+  faction_id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  legend: string;
+  legend?: string;
 
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 
   @Field({ nullable: true })
-  cost: number;
+  cost?: number;
 
   @Field({ nullable: true })
-  detachment: string;
+  detachment?: string;
 }
 
 @ObjectType()
 export class ModelCost {
   @Field({ nullable: true })
-  description: string;
+  description?: string;
 
   @Field({ nullable: true })
-  cost: number;
+  cost?: number;
 }
 
 @ObjectType()
 export class Model {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  line: string;
+  line?: string;
 
   @Field({ nullable: true })
-  M: string;
+  M?: string;
 
   @Field({ nullable: true })
-  T: string;
+  T?: string;
 
   @Field({ nullable: true })
-  Sv: string;
+  Sv?: string;
 
   @Field({ nullable: true })
-  inv_sv: string;
+  inv_sv?: string;
 
   @Field({ nullable: true })
-  W: string;
+  W?: string;
 
   @Field({ nullable: true })
-  Ld: string;
+  Ld?: string;
 
   @Field({ nullable: true })
-  OC: string;
+  OC?: string;
 
   @Field({ nullable: true })
-  base_size: string;
+  base_size?: string;
 }
 @ObjectType()
 export class KeywordType {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  keyword: string;
+  keyword?: string;
 
   @Field({ nullable: true })
-  is_faction_keyword: boolean;
+  is_faction_keyword?: boolean;
 }
 
 @ObjectType()
 export class FactionType {
   @Field(() => ID)
-  _id: string;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: string;
+  id?: string;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  link: string;
+  link?: string;
 }
 
 @ObjectType()
 export class DatasheetType {
   @Field(() => ID)
-  _id: Types.ObjectId;
+  _id!: Types.ObjectId;
 
   @Field({ nullable: true })
-  id: number;
+  id?: number;
 
   @Field({ nullable: true })
-  name: string;
+  name?: string;
 
   @Field({ nullable: true })
-  source_id: number;
+  source_id?: number;
 
   @Field({ nullable: true })
-  legend: string;
+  legend?: string;
 
   @Field({ nullable: true })
-  role: string;
+  role?: string;
 
   @Field({ nullable: true })
-  loadout: string;
+  loadout?: string;
 
   @Field({ nullable: true })
-  virtual: boolean;
+  virtual?: boolean;
 
   @Field({ nullable: true })
-  link: string;
+  link?: string;
 
   @Field(() => [KeywordType], { nullable: true })
-  keywords: KeywordType[];
+  keywords?: KeywordType[];
 
   @Field(() => FactionType, { nullable: true })
-  faction: FactionType;
+  faction?: FactionType;
 
   @Field(() => [ModelCost], { nullable: true })
-  models_cost: ModelCost[];
+  models_cost?: ModelCost[];
 
   @Field(() => [Model], { nullable: true })
-  models: Model[];
+  models?: Model[];
 
   @Field(() => [Enhancement], { nullable: true })
-  enhancements: Enhancement[];
+  enhancements?: Enhancement[];
 
   @Field(() => Source, { nullable: true })
-  source: Source;
+  source?: Source;
 
   @Field(() => [Stratagem], { nullable: true })
-  stratagems: Stratagem[];
+  stratagems?: Stratagem[];
 
   @Field(() => [Ability], { nullable: true })
-  abilities: Ability[];
+  abilities?: Ability[];
 
   @Field(() => [DetachmentAbility], { nullable: true })
-  detachment_abilities: DetachmentAbility[];
+  detachment_abilities?: DetachmentAbility[];
 
   @Field(() => [Wargear], { nullable: true })
-  wargear: Wargear[];
+  wargear?: Wargear[];
 
   @Field(() => [OptionType], { nullable: true })
-  options: OptionType[];
+  options?: OptionType[];
 
   @Field(() => DatasheetImage, { nullable: true })
-  image: DatasheetImage;
+  image?: DatasheetImage;
 }

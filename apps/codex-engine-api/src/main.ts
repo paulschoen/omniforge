@@ -5,18 +5,17 @@
 
 import { Logger } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
-import * as bodyParser from 'body-parser';
-
-import { AppModule } from './app/app.module';
+import bodyParser from 'body-parser';
 import { graphqlUploadExpress } from 'graphql-upload-ts';
+import { AppModule } from './app/app.module';
 
 const TEN_MEGABYTES = 10000000;
 
-async function bootstrap() {
+async function bootstrap(): Promise<void> {
   const app = await NestFactory.create(AppModule);
   const globalPrefix = 'api';
   app.setGlobalPrefix(globalPrefix);
-  const port = process.env.PORT || 3000;
+  const port = process.env.PORT ?? '3000';
   app.use(bodyParser.json({ limit: '5mb' }));
   app.use(bodyParser.urlencoded({ limit: '5mb', extended: true }));
   app.use(
@@ -24,12 +23,14 @@ async function bootstrap() {
       maxFileSize: TEN_MEGABYTES,
       maxFieldSize: TEN_MEGABYTES,
       maxFiles: 5,
-    })
+    }),
   );
   await app.listen(port);
   Logger.log(
-    `🚀 Application is running on: http://localhost:${port}/${globalPrefix}`
+    `🚀 Application is running on: http://localhost:${port}/${globalPrefix}`,
   );
 }
 
-bootstrap();
+bootstrap().catch((error: unknown) => {
+  Logger.error('Error during bootstrap', error);
+});

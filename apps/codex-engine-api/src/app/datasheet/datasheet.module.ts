@@ -1,9 +1,9 @@
 import { Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
-import { Datasheet, DatasheetSchema } from './schema/datasheet.schema';
-import { DatasheetsService } from './datasheet.service';
-import { DatasheetsResolver } from './datasheet.resolver';
 import { ApiKeysModule } from '../api-keys/api-keys.module';
+import { DatasheetsResolver } from './datasheet.resolver';
+import { DatasheetsService } from './datasheet.service';
+import { Datasheet, DatasheetSchema } from './schema/datasheet.schema';
 
 @Module({
   imports: [

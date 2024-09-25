@@ -1,4 +1,4 @@
-/* eslint-disable */
+// eslint-disable-next-line import/no-default-export -- Jest configuration requires a default export
 export default {
   displayName: 'codex-engine-api',
   preset: '../../jest.preset.js',

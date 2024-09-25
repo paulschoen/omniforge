@@ -18,67 +18,67 @@ import {
 @Schema({ collection: 'datasheets' })
 export class Datasheet extends Document {
   @Prop({ type: Types.ObjectId, required: true, auto: true })
-  _id: Types.ObjectId;
+  _id!: Types.ObjectId;
 
   @Prop({ type: Number, required: true })
-  id: number;
+  id?: number;
 
   @Prop({ type: String, required: true })
-  name: string;
+  name?: string;
 
   @Prop({ type: Number, required: true })
-  source_id: number;
+  source_id?: number;
 
   @Prop({ type: String, required: true })
-  legend: string;
+  legend?: string;
 
   @Prop({ type: String, required: true })
-  role: string;
+  role?: string;
 
   @Prop({ type: String, required: true })
-  loadout: string;
+  loadout?: string;
 
   @Prop({ type: Boolean, default: false })
-  virtual: boolean;
+  virtual?: boolean;
 
   @Prop({ type: String, required: true })
-  link: string;
+  link?: string;
 
   @Prop({ type: [KeywordType], required: true })
-  keywords: KeywordType[];
+  keywords?: KeywordType[];
 
   @Prop({ type: FactionType, required: true })
-  faction: FactionType;
+  faction?: FactionType;
 
   @Prop({ type: [ModelCost], required: true })
-  models_cost: ModelCost[];
+  models_cost?: ModelCost[];
 
   @Prop({ type: [Model], required: true })
-  models: Model[];
+  models?: Model[];
 
   @Prop({ type: [Enhancement], required: true })
-  enhancements: Enhancement[];
+  enhancements?: Enhancement[];
 
   @Prop({ type: Source, required: true })
-  source: Source;
+  source?: Source;
 
   @Prop({ type: [Stratagem], required: true })
-  stratagems: Stratagem[];
+  stratagems?: Stratagem[];
 
   @Prop({ type: [Ability], required: true })
-  abilities: Ability[];
+  abilities?: Ability[];
 
   @Prop({ type: [DetachmentAbility], required: true })
-  detachment_abilities: DetachmentAbility[];
+  detachment_abilities?: DetachmentAbility[];
 
   @Prop({ type: [Wargear], required: true })
-  wargear: Wargear[];
+  wargear?: Wargear[];
 
   @Prop({ type: [OptionType], required: true })
-  options: OptionType[];
+  options?: OptionType[];
 
-  @Prop({ type: DatasheetImage })
-  image: DatasheetImage;
+  @Prop({ type: DatasheetImage, required: false })
+  image?: DatasheetImage;
 }
 
 export const DatasheetSchema = SchemaFactory.createForClass(Datasheet);

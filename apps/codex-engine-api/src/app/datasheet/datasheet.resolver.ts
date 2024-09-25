@@ -1,9 +1,9 @@
+import { Logger, UseGuards } from '@nestjs/common';
 import { Args, Mutation, Query, Resolver } from '@nestjs/graphql';
+import { FileUpload, GraphQLUpload } from 'graphql-upload-ts';
+import { ApiKeyGuard } from '../auth/api-key.guard';
 import { DatasheetsService } from './datasheet.service';
 import { DatasheetType } from './dto/datasheet.graphql';
-import { Logger, UseGuards } from '@nestjs/common';
-import { ApiKeyGuard } from '../auth/api-key.guard';
-import { FileUpload, GraphQLUpload } from 'graphql-upload-ts';
 
 @Resolver(() => DatasheetType)
 export class DatasheetsResolver {
@@ -27,7 +27,7 @@ export class DatasheetsResolver {
   @Query(() => DatasheetType)
   @UseGuards(ApiKeyGuard)
   async getDatasheetById(
-    @Args('_id') _id: string
+    @Args('_id') _id: string,
   ): Promise<DatasheetType | null> {
     try {
       const datasheet = await this.datasheetsService.findById(_id);
@@ -46,7 +46,7 @@ export class DatasheetsResolver {
   @Query(() => [DatasheetType])
   @UseGuards(ApiKeyGuard)
   async getDatasheetsByName(
-    @Args('name') name: string
+    @Args('name') name: string,
   ): Promise<DatasheetType[]> {
     try {
       const datasheets = await this.datasheetsService.findByName(name);
@@ -62,7 +62,7 @@ export class DatasheetsResolver {
   @Query(() => [DatasheetType])
   @UseGuards(ApiKeyGuard)
   async searchDatasheetsByName(
-    @Args('name') name: string
+    @Args('name') name: string,
   ): Promise<DatasheetType[]> {
     try {
       const datasheets = await this.datasheetsService.searchByName(name);
@@ -79,12 +79,12 @@ export class DatasheetsResolver {
   @UseGuards(ApiKeyGuard)
   async uploadImage(
     @Args({ name: 'file', type: () => GraphQLUpload }) file: FileUpload,
-    @Args('id', { type: () => String }) datasheetId: string
+    @Args('id', { type: () => String }) datasheetId: string,
   ): Promise<string> {
     try {
       const response = await this.datasheetsService.uploadImage(
         file,
-        datasheetId
+        datasheetId,
       );
       return response;
     } catch (error) {
