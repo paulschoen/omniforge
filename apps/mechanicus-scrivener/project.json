@@ -1,0 +1,64 @@
+{
+  "name": "mechanicus-scrivener",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/mechanicus-scrivener/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/esbuild:esbuild",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "platform": "node",
+        "outputPath": "dist/apps/mechanicus-scrivener",
+        "format": ["cjs"],
+        "bundle": false,
+        "main": "apps/mechanicus-scrivener/src/main.ts",
+        "tsConfig": "apps/mechanicus-scrivener/tsconfig.app.json",
+        "assets": ["apps/mechanicus-scrivener/src/assets"],
+        "generatePackageJson": true,
+        "esbuildOptions": {
+          "sourcemap": true,
+          "outExtension": {
+            ".js": ".js"
+          }
+        }
+      },
+      "configurations": {
+        "development": {},
+        "production": {
+          "esbuildOptions": {
+            "sourcemap": false,
+            "outExtension": {
+              ".js": ".js"
+            }
+          }
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "dependsOn": ["build"],
+      "options": {
+        "buildTarget": "mechanicus-scrivener:build",
+        "runBuildTargetDependencies": false
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "mechanicus-scrivener:build:development"
+        },
+        "production": {
+          "buildTarget": "mechanicus-scrivener:build:production"
+        }
+      }
+    },
+    "generate-rss": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "node dist/apps/mechanicus-scrivener/main.js"
+      }
+    }
+  }
+}

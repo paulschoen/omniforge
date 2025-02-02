@@ -4,10 +4,12 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "nx build codex-engine-api && nx build mechanist-archive",
+    "build": "nx build codex-engine-api && nx build mechanist-archive && nx build mechanicus-scrivener",
+    "build:mechanicus-scrivener": "nx build mechanicus-scrivener",
     "heroku-postbuild": "npm run build && mkdir  ./.cache && mv /app/.cache/puppeteer ./.cache",
     "prepare": "husky",
     "start": "node dist/apps/codex-engine-api/main.js",
+    "start:mechanicus-scrivener": "node dist/apps/mechanicus-scrivener/main.js",
     "start:mechanist-archive": "node dist/apps/mechanist-archive/main.js"
   },
   "lint-staged": {
@@ -34,7 +36,9 @@
     "cross-fetch": "^4.0.0",
     "discord.js": "^14.16.2",
     "dotenv": "^16.4.5",
+    "feed": "^4.2.2",
     "form-data": "^4.0.0",
+    "fs-extra": "^11.3.0",
     "graphql": "^16.9.0",
     "graphql-tools": "^9.0.1",
     "graphql-upload-ts": "^2.1.2",
@@ -64,6 +68,7 @@
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "@types/fs-extra": "^11.0.4",
     "@types/graphql-upload": "^16.0.7",
     "@types/jest": "^29.5.12",
     "@types/multer": "^1.4.12",

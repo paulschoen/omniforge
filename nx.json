@@ -14,7 +14,7 @@
     ],
     "sharedGlobals": ["{workspaceRoot}/.github/workflows/ci.yml"]
   },
-  "nxCloudId": "66eb4cdc3d879d1fd0791e1c",
+  "neverConnectToCloud": true,
   "plugins": [
     {
       "plugin": "@nx/webpack/plugin",
@@ -40,7 +40,8 @@
         "apps/codex-engine-api-e2e/**/*",
         "codex-engine-api-e2e/**/*",
         "apps/codex-engine-api-e2e/**/*",
-        "apps/mechanist-archive-e2e/**/*"
+        "apps/mechanist-archive-e2e/**/*",
+        "apps/mechanicus-scrivener-e2e/**/*"
       ]
     }
   ],

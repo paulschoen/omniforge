@@ -1,0 +1,57 @@
+name: 'Warhammer RSS Updater'
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: '🔽 Checkout Repository'
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: '⚙️ Set up Node.js'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: '📦 Install Dependencies'
+        run: npm install --frozen-lockfile
+
+      - name: '⚙️ Build Project'
+        run: npm run build:mechanicus-scrivener
+
+      - name: '🛠 Run the Script'
+        run: npx nx run mechanicus-scrivener:generate-rss
+
+      - name: '🚀 Check for RSS Feed Changes'
+        id: check_changes
+        run: |
+          git add docs/rss.xml
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "changed=true" >> $GITHUB_ENV
+          fi
+
+      - name: '📜 Commit Changes'
+        if: env.changed == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "🤖 Auto-update RSS feed [$(date)]"
+
+      - name: '📤 Push Changes'
+        if: env.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/paulschoen/omniforge.git
+          git push origin main
