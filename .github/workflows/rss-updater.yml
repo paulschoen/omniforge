@@ -43,7 +43,7 @@ jobs:
       - name: '🚀 Check for RSS Feed Changes'
         id: check_changes
         run: |
-          git add docs/rss.xml
+          git add docs/rss.xml docs/summaries.json
           if git diff --staged --quiet; then
             echo "No changes detected."
             echo "changed=false" >> $GITHUB_ENV

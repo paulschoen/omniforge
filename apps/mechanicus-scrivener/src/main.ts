@@ -93,6 +93,8 @@ const partitionPosts = (
       } updating`,
     );
 
+    await cacheService.saveCache(cache);
+
     if (!shouldUpdate) {
       console.log(
         '[STATUS] The sacred rites of data processing have been completed',
@@ -100,7 +102,6 @@ const partitionPosts = (
       return;
     }
 
-    await cacheService.saveCache(cache);
     await feedGenerator.saveFeed(`${OUTPUT_DIR}/${RSS_FILE}`);
 
     console.log(
