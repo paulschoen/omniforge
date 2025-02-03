@@ -27,6 +27,9 @@ jobs:
         run: npm run build:mechanicus-scrivener
 
       - name: '🛠 Run the Script'
+        env:
+          MACHINE_SPIRIT_API_KEY: ${{ secrets.MACHINE_SPIRIT_API_KEY }}
+          SYSTEM_PROMPT: ${{ secrets.SYSTEM_PROMPT }}
         run: npx nx run mechanicus-scrivener:generate-rss
 
       - name: '🚀 Check for RSS Feed Changes'
