@@ -4,7 +4,7 @@
         <title>Warhammer Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb/setting/warhammer-40000/</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Feb 2025 03:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,174 +13,120 @@
             <title><![CDATA[Sunday Preview – The galaxy calls, and Krieg answers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers/</guid>
-            <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: KRIEG REINFORCEMENTS** ====
-> **[DATA NODE 01]** :: KRIEG COMBAT REGIMENT UPDATE // ENHANCED TROOP DEPLOYMENTS  
-> **[DATA NODE 02]** :: ARTILLERY SUPPORT ENHANCED // INCREASED FIREPOWER CAPACITY  
-> **[DATA NODE 03]** :: SIEGE EQUIPMENT UPGRADE // IMPROVED DEFENSIVE OPERATIONS  
-> **[DATA NODE 04]** :: TACTICAL WAR GEAR RELEASE // EQUIPMENT FOR HOSTILE ENGAGEMENTS  
-> **[DATA NODE 05]** :: RECRUITMENT PROTOCOLS EXPANDED // BOOST IN MANPOWER RESOURCES  
-> **[DATA NODE 06]** :: STRATEGIC COMMAND UPGRADE // ENHANCED BATTLEFIELD COORDINATION  
-> **[DATA NODE 07]** :: MORALE IMPROVEMENT INITIATIVES]]></description>
+            <pubDate>Sun, 02 Feb 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: ASTRA MILITARUM** ====
+
+**[SYSTEM UPDATE]**: Upcoming release features Death Korps of Krieg Combat Patrol and Kill Team boxed sets, enhancing Astra Militarum forces with new miniatures and strategic options for tabletop warfare.]]></description>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb2-1-feature-qcwpg3c04o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Astartes II – Official Teaser Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/lelnnuys/astartes-ii-official-teaser-trailer-warhammer/</link>
             <guid>https://www.warhammer-community.com/en-gb/videos/lelnnuys/astartes-ii-official-teaser-trailer-warhammer/</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II TEASER** ====  
-> **[DATA NODE 01]** :: OFFICIAL TRAILER RELEASED // VISUAL AND AUDIO RECONNAISSANCE DEPLOYED  
-> **[DATA NODE 02]** :: ENHANCED GRAPHICS ENGINE UTILIZED // INCREASED VISUAL FIDELITY ACHIEVED  
-> **[DATA NODE 03]** :: NARRATIVE SEQUENCES EXPANDED // DEEPER LORE EXPLORATION INITIATED  
-> **[DATA NODE 04]** :: WARHAMMER+ PLATFORM HOSTING // EXCLUSIVE CONTENT DISTRIBUTION CONFIRMED  
-> **[DATA NODE 05]** :: FAN ANTICIPATION AMPLIFIED // ENGAGEMENT LEVELS EXPECTED TO RISE  
-> **[DATA NODE 06]** :: CONTINUED SUPPORT FROM DEVELOPMENT TEAM // ENHANCED VIEWER EXPERIENCE TARGETED  
-> **[DATA]]></description>
+            <pubDate>Wed, 29 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II TEASER** ====
+
+:: **SYSTEM UPDATE** :: Deployment of the official teaser trailer for "Astartes II" on Warhammer+, showcasing intensified visual and auditory detail to enhance the narrative of the Adeptus Astartes.]]></description>
             <enclosure url="https://assets.warhammer-community.com/a2-trailer_thumb-1cxlogay1t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Astartes II Teaser Trailer – Watch it right now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8ovvyar9/astartes-ii-teaser-trailer-watch-it-right-now/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/8ovvyar9/astartes-ii-teaser-trailer-watch-it-right-now/</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II TEASER TRAILER** ====  
-> **[DATA NODE 01]** :: TEASER TRAILER RELEASED // INITIATE VIEWING PROTOCOLS  
-> **[DATA NODE 02]** :: VISUAL ENHANCEMENTS DEPLOYED // ENHANCE FAN ENGAGEMENT  
-> **[DATA NODE 03]** :: NARRATIVE SEQUENCES UPDATED // EXPAND LORE COMPREHENSION  
-> **[DATA NODE 04]** :: AUDIO IMPROVEMENTS INTEGRATED // INCREASE IMMERSIVE EXPERIENCE  
-> **[DATA NODE 05]** :: PROMOTIONAL CAMPAIGN ACTIVATED // BOOST MEDIA VISIBILITY  
-> **[DATA NODE 06]** :: TARGET AUDIENCE IDENTIFIED // MAXIMIZE RECRUITMENT EFFICIENCY  
-> **[DATA NODE 07]** :: FAN BASE REACTION MONITORED // ADJUST FUTURE]]></description>
+            <pubDate>Wed, 29 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II** ====
+
+**[SYSTEM UPDATE]**: The Astartes II teaser trailer offers a preview of the upcoming continuation in the grim-dark science fiction saga, showcasing advanced combat sequences and enhanced visual effects, ready for immediate viewing.]]></description>
             <enclosure url="https://assets.warhammer-community.com/warcom_feature-crfg7zqh9s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[This year’s Warhammer event miniatures revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER EVENT MINIATURES** ====  
-> **[DATA NODE 01]** :: NEW MINIATURES UNVEILED // INCREASED COLLECTOR INTEREST ANTICIPATED  
-> **[DATA NODE 02]** :: VARIETY OF FACTIONS REPRESENTED // STRATEGIC DIVERSITY ENHANCED  
-> **[DATA NODE 03]** :: LIMITED EDITION STATUS CONFIRMED // EXCLUSIVITY LEVERAGED FOR MAXIMUM ENGAGEMENT  
-> **[DATA NODE 04]** :: AVAILABILITY AT SPECIFIC EVENTS ONLY // ATTENDANCE INCENTIVE MECHANISM ACTIVATED  
-> **[DATA NODE 05]** :: DETAIL AND DESIGN QUALITY EMPHASIZED // COLLECTOR SATISFACTION TARGETED  
-> **[DATA NODE 06]** :: PROMOTIONAL ACTIVITY INCREASED // MARKET EXPANSION STRATEGY DEPLOYED  
-> **[]]></description>
+            <pubDate>Mon, 27 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER EVENT** ====
+
+**[SYSTEM UPDATE]**: The latest Warhammer event unveils new exclusive miniatures, featuring limited edition models accessible only at specific global Warhammer events throughout the year.]]></description>
             <enclosure url="https://assets.warhammer-community.com/eventminis-jan27-1-feature-aonmqwfmpq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer Studio Interview – Designing the new Phoenix Lords and Aspect Warriors]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ELDAR REFORGEMENT** ====  
-> **[DATA NODE 01]** :: UPDATED SCHEMATICS FOR PHOENIX LORDS // ENHANCED BATTLEFIELD DOMINANCE  
-> **[DATA NODE 02]** :: ASPECT WARRIOR REDESIGN COMPLETED // COMBAT EFFICACY INCREASED  
-> **[DATA NODE 03]** :: ARTISTIC DETAIL ENHANCEMENT ON ARMOR // VISUAL INTIMIDATION TACTICS IMPLEMENTED  
-> **[DATA NODE 04]** :: INTERVIEW WITH LEAD DESIGNERS // INSIGHT INTO TACTICAL GEAR DEVELOPMENT  
-> **[DATA NODE 05]** :: FOCUS ON TRADITIONAL CRAFTSMANSHIP // HONORING ANCESTRAL WARRIOR CODES  
-> **[DATA NODE 06]** :: IMPROVED WEAPONRY INTEGRATION // GREATER STRIKE CAP]]></description>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER NEWS** ====
+
+**[SYSTEM UPDATE]**: An in-depth interview with Warhammer Studio reveals the creative process behind the new Phoenix Lords and Aspect Warriors designs, detailing the blend of traditional aesthetics with innovative elements to enhance the models' dynamics and lore significance.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldesignnotes-jan24-1-feature-owtnudhiic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Phoenix Lords and Aspect Warriors painted by the wider Warhammer Hobby Community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gzdtpxy4/phoenix-lords-and-aspect-warriors-painted-by-the-wider-warhammer-hobby-community/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/gzdtpxy4/phoenix-lords-and-aspect-warriors-painted-by-the-wider-warhammer-hobby-community/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ELDAR SHOWCASE** ====  
-> **[DATA NODE 01]** :: PHOENIX LORDS DISPLAYED // ENHANCED VISUAL INSPIRATION  
-> **[DATA NODE 02]** :: ASPECT WARRIORS EXHIBITION // COMMUNITY ENGAGEMENT BOOSTED  
-> **[DATA NODE 03]** :: HOBBYIST CONTRIBUTIONS ANALYZED // SKILL VARIANCE DOCUMENTED  
-> **[DATA NODE 04]** :: PAINTING TECHNIQUES SHARED // CRAFT IMPROVEMENT STRATEGIES PROMOTED  
-> **[DATA NODE 05]** :: VISUAL DATABASE UPDATED // ARCHIVE OF DESIGNS EXPANDED  
-> **[DATA NODE 06]** :: COMMUNITY FEEDBACK PROCESSED // TACTICAL AESTHETICS REFINED  
-> **[DATA NODE 07]** :: FUTURE EVENTS PLANNED //]]></description>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANMISSION: WARHAMMER COMMUNITY** ====
+
+**SYSTEM UPDATE**:: Visual data archives expanded with addition of Phoenix Lords and Aspect Warriors painted by the global Warhammer hobbyist cadre. Showcases diverse artistic interpretations and color schemes, enhancing visual databanks and creative inspiration protocols.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldariinfluencer-jan24-1-feature-oy0mo8xbin.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Phoenix Lords with Contrast! | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/zkf4f7bj/new-phoenix-lords-with-contrast-warhammer-40000/</link>
             <guid>https://www.warhammer-community.com/en-gb/videos/zkf4f7bj/new-phoenix-lords-with-contrast-warhammer-40000/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER 40,000** ====  
-> **[DATA NODE 01]** :: NEW PHOENIX LORDS REVEALED // ENHANCED ELDAR COMMAND UNITS DEPLOYED  
-> **[DATA NODE 02]** :: CONTRAST PAINTING TECHNIQUE UTILIZED // RAPID DEPLOYMENT OF VISUAL UPGRADES  
-> **[DATA NODE 03]** :: MULTI-ROLE CAPABILITIES CONFIRMED // STRATEGIC FLEXIBILITY INCREASED  
-> **[DATA NODE 04]** :: AESTHETIC OVERHAUL IMPLEMENTED // VISUAL COHERENCE IN FORCE STRUCTURE ENHANCED  
-> **[DATA NODE 05]** :: COMMUNITY FEEDBACK INTEGRATION // OPERATIONAL MORALE BOOST EXPECTED  
-> **[DATA NODE 06]** :: PROMOTIONAL CONTENT RELEASED // RECRUITMENT AND ENGAGEMENT LEVELS]]></description>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANMISSION: WARHAMMER 40,000** ====
+
+**[SYSTEM UPDATE]**: Introduction of new Phoenix Lords miniatures for Warhammer 40,000, featuring enhanced detailing with Contrast paint technology for increased visual dynamics.]]></description>
             <enclosure url="https://assets.warhammer-community.com/pv00975-aeldari-new-phoenix-lords-v5-lhapnypopj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aeldari Corsair showcase: The Ballad of the Sky Serpents]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gzi9ms9v/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/gzi9ms9v/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents/</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI CORSAIR SHOWCASE** ====  
-> **[DATA NODE 01]** :: REVEAL OF SKY SERPENTS THEME // ENHANCED VISUAL REPRESENTATION  
-> **[DATA NODE 02]** :: DETAILED MINIATURE SHOWCASE // INCREASED AESTHETIC APPEAL  
-> **[DATA NODE 03]** :: FOCUSED ON FLEET-BASED TACTICS // STRATEGIC MOBILITY ENHANCED  
-> **[DATA NODE 04]** :: VARIETY OF PAINT SCHEMES DISPLAYED // CREATIVE CUSTOMIZATION OPTIONS  
-> **[DATA NODE 05]** :: LORE EXPANSION DISCUSSED // DEEPER NARRATIVE CONTEXT PROVIDED  
-> **[DATA NODE 06]** :: TACTICAL LOADOUTS EXPLAINED // COMBAT EFFICACY INCREASED  
-> **[DATA NODE ]]></description>
+            <pubDate>Thu, 23 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI CORSAIRS** ====
+
+**[SYSTEM UPDATE]**: Feature on the Aeldari Corsairs titled *The Ballad of the Sky Serpents* showcases new miniature designs and painting techniques, highlighting the Corsairs' dynamic aesthetics and fleet-based lore. The article provides visual and narrative insights into the creation and thematic elements of these Aeldari pirates.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_corsairs-jan23-1-feature-ut7ezphsic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How to use the Ynnari and Harlequins in the new Codex: Aeldari]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: CODEX AELDARI UPDATE** ====  
-> **[DATA NODE 01]** :: YNNARI TACTICS ENHANCED // INCREASED PSYCHIC MIGHT AND REBIRTH MECHANICS  
-> **[DATA NODE 02]** :: HARLEQUINS MOBILITY UPGRADED // ENHANCED MANEUVERABILITY AND HIT-AND-RUN TACTICS  
-> **[DATA NODE 03]** :: SOULBOND STRATEGEM IMPLEMENTED // YNNARI UNITS GAIN SOUL-CHARGED ATTACK OPTIONS  
-> **[DATA NODE 04]** :: RISING CRESCENDO REFINED // HARLEQUINS PERFORM SWIFT STRIKES WITH IMPROVED DODGE CAPABILITIES  
-> **[DATA NODE 05]** :: ALLIANCE TACTICS MODIFIED // INTEGRATED YNNARI AND HARLEQUIN STRATEG]]></description>
+            <pubDate>Thu, 23 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER 40K UPDATE** ====
+
+**SYSTEM UPDATE** :: Tactical guidelines for utilizing Ynnari and Harlequins factions in the new Codex: Aeldari, detailing strategic maneuvers, unit synergies, and psychic powers enhancements to optimize battlefield effectiveness.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_ynnariharle-jan23-1-feature-wntruhvi3j.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Codex: Aeldari masters combat with eight powerful Detachments to choose from]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</guid>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: CODEX AELDARI UPDATE** ====  
-> **[DATA NODE 01]** :: EIGHT COMBAT DETACHMENTS UNVEILED // ENHANCED TACTICAL VERSATILITY  
-> **[DATA NODE 02]** :: CODEX ARCHIVE UPDATED // STRATEGIC DEPLOYMENT OPTIONS EXPANDED  
-> **[DATA NODE 03]** :: NEW STRATEGEMS INTEGRATED // COMBAT EFFICIENCY INCREASED  
-> **[DATA NODE 04]** :: PSYCHIC POWER INDEX ENHANCED // PSYWAR CAPABILITIES AUGMENTED  
-> **[DATA NODE 05]** :: ARTIFACTS OF AELDARI LOGGED // WARGEAR OPTIONS BROADENED  
-> **[DATA NODE 06]** :: LORE COMPENDIUM EXPANDED // CULTURAL INTELLIGENCE ACCRUED  
-> **[DATA NODE 07]** ::]]></description>
+            <pubDate>Wed, 22 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: CODEX AELDARI UPDATE** ====
+
+**SYSTEM UPDATE** :: Codex: Aeldari enhances strategic combat options with the inclusion of eight diverse and potent detachments, each tailored to augment the battlefield prowess of the Aeldari factions.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldetachments-jan22-1-feature-ruwvv4vmkr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Who are the Phoenix Lords? The legendary Aeldari heroes explained]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftkehldw/who-are-the-phoenix-lords-the-legendary-aeldari-heroes-explained/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/ftkehldw/who-are-the-phoenix-lords-the-legendary-aeldari-heroes-explained/</guid>
-            <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI PHOENIX LORDS** ====
-> **[DATA NODE 01]** :: ANCIENT HEROES IDENTIFIED // ASURYANI WAR TACTICS OPTIMIZED
-> **[DATA NODE 02]** :: IMMORTAL ESSENCE TRANSFER CONFIRMED // BATTLEFIELD REINCARNATION CAPABILITIES ENHANCED
-> **[DATA NODE 03]** :: ARMOR ARTEFACTS CATALOGUED // COMBAT EFFICACY INCREASED
-> **[DATA NODE 04]** :: LEGENDARY SKILLS ANALYZED // STRATEGIC COMBAT ROLES DEFINED
-> **[DATA NODE 05]** :: SPIRITUAL LEADERSHIP ROLE RECOGNIZED // MORALE AND COHESION IMPROVEMENTS PROJECTED
-> **[DATA NODE 06]** :: INTERVENTION IN CRUCIAL BATTLES DOCUMENTED //]]></description>
+            <pubDate>Tue, 21 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI LORE** ====
+
+**[SYSTEM UPDATE]**: The Phoenix Lords, ancient Aeldari heroes, are detailed as immortal warriors who continuously reincarnate through their armor, guiding the Aeldari Aspect Warriors across the galaxy, each embodying the highest ideals of their warrior paths.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_pls-jan21-1-feature-mwyyb3pxge.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aeldari become the masters of manoeuvrability with the new Battle Focus army ability]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oc7aexfl/aeldari-become-the-masters-of-manoeuvrability-with-the-new-battle-focus-army-ability/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/oc7aexfl/aeldari-become-the-masters-of-manoeuvrability-with-the-new-battle-focus-army-ability/</guid>
-            <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI TACTICAL UPGRADE** ====  
-> **[DATA NODE 01]** :: BATTLE FOCUS ABILITY ENHANCED // ENHANCED MANEUVERABILITY ACROSS ALL AELDARI WARHOSTS  
-> **[DATA NODE 02]** :: STRATEGIC MOBILITY PROTOCOLS UPDATED // INCREASED OPERATIONAL FLEXIBILITY IN FIELD ENGAGEMENTS  
-> **[DATA NODE 03]** :: COMBAT DYNAMICS REFINED // OPTIMIZED RESPONSE TIMES TO TACTICAL SHIFTS  
-> **[DATA NODE 04]** :: WARHOST COORDINATION ENHANCED // IMPROVED UNIT SYNCHRONIZATION DURING COMBAT MANEUVERS  
-> **[DATA NODE 05]** :: TACTICAL RETRAINING INITIATED // ALL AELDARI UNITS UNDERGO ADVANCED MOBILITY DRILLS  
-> **[DATA NODE]]></description>
+            <pubDate>Tue, 21 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI TACTICAL UPDATE** ====
+
+**[SYSTEM UPDATE]**: Aeldari factions have enhanced tactical flexibility with the new Battle Focus army ability, allowing for superior manoeuvrability during engagements.]]></description>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldetachment-jan21-1-feature-an7ivpjrys.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
