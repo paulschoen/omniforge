@@ -45,6 +45,7 @@
     "mongodb": "^6.9.0",
     "mongoose": "^8.6.3",
     "openai": "^4.82.0",
+    "p-limit": "^6.2.0",
     "puppeteer": "^23.4.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0",
