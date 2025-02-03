@@ -83,6 +83,23 @@ const partitionPosts = (
       ),
     ]);
 
+    const shouldUpdate = await feedGenerator.determineIfFeedNeedsUpdate(
+      `${OUTPUT_DIR}/${RSS_FILE}`,
+    );
+
+    console.log(
+      `[STATUS] The Omnissiah has decreed that the feed ${
+        shouldUpdate ? 'needs' : 'does not need'
+      } updating`,
+    );
+
+    if (!shouldUpdate) {
+      console.log(
+        '[STATUS] The sacred rites of data processing have been completed',
+      );
+      return;
+    }
+
     await cacheService.saveCache(cache);
     await feedGenerator.saveFeed(`${OUTPUT_DIR}/${RSS_FILE}`);
 

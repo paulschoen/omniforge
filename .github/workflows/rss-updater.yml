@@ -20,8 +20,16 @@ jobs:
         with:
           node-version: '18'
 
+      - name: '📦 Cache npm dependencies'
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: '📦 Install Dependencies'
-        run: npm install --frozen-lockfile
+        run: npm ci
 
       - name: '⚙️ Build Project'
         run: npm run build:mechanicus-scrivener
