@@ -2,6 +2,11 @@
 
 <img src="apps/codex-engine-api/src/assets/omni_forge_icon.png" width="150">
 
+## Codex of the Sacred Machinations
+* [Codex Engine](https://github.com/paulschoen/omniforge/tree/main/apps/codex-engine-api) - The NestJS conduit transmuting Wahpedia data into a queryable GraphQL repository.
+* [Mechanist Archive](https://github.com/paulschoen/omniforge/tree/main/apps/mechanist-archive) - The Discord daemon facilitating user prompts to extract Codex data on designated units.
+* [Mechanicus Scrivener](https://github.com/paulschoen/omniforge/tree/main/apps/mechanicus-scrivener) - The RSS feed generator for the dissemination of new 40K entries from the Warhammer Community sanctum.
+
 ## Greetings, Servant of the Machine God
 
 Your new Nx workspace has been consecrated and awaits your command. This repository is a fan creation and bears no affiliation with Games Workshop.
