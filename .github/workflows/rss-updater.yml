@@ -3,6 +3,7 @@ name: 'Warhammer RSS Updater'
 on:
   schedule:
     - cron: '0 */3 * * *'
+    - cron: '0 10-17 * * *'
   workflow_dispatch:
 
 jobs:
