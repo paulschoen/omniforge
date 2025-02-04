@@ -30,7 +30,7 @@ const partitionPosts = (
 
 (async () => {
   logger.logInfo(
-    '++++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH ++++',
+    '+++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH +++',
   );
 
   if (!SITE_URL) {
