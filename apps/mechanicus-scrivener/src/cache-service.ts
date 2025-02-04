@@ -3,59 +3,73 @@ import { type BlogPost } from './blog-post-service';
 
 export class CacheService {
   private readonly cacheFile: string;
+  private cache: Record<string, string> = {};
 
   constructor(outputDir: string, cacheFileName: string) {
     this.cacheFile = `${outputDir}/${cacheFileName}`;
   }
 
-  public async loadCache(): Promise<Record<string, string>> {
-    if (existsSync(this.cacheFile)) {
-      return readJSON(this.cacheFile) as Promise<Record<string, string>>;
+  // Getters and Setters
+
+  public getCache(): Readonly<Record<string, string>> {
+    return this.cache;
+  }
+
+  public getCacheRecord(url: string): string | undefined {
+    return this.cache[url];
+  }
+
+  public updateCacheRecord(url: string, summary: string): string | undefined {
+    return (this.cache[url] = summary);
+  }
+
+  // File Utilities
+
+  private isCacheFilePresent(): boolean {
+    return existsSync(this.cacheFile);
+  }
+
+  public async loadCache(): Promise<CacheService> {
+    if (this.isCacheFilePresent()) {
+      const readCache = (await readJSON(this.cacheFile)) as Record<
+        string,
+        string
+      >;
+      this.cache = { ...readCache };
     }
-    return {};
+
+    return this;
   }
 
-  public isThereAValueForUrl(
-    cache: Record<string, string>,
-    url: string,
-  ): boolean {
-    return cache[url] !== undefined;
-  }
+  public cleanCache(posts: readonly BlogPost[]): this {
+    if (!this.isCacheFilePresent()) {
+      throw new Error('Cache file is not present');
+    }
 
-  public cleanCache(
-    posts: BlogPost[],
-    cache: Record<string, string>,
-  ): Record<string, string> {
     const newUrls = posts.map((post) => post.url);
 
-    return Object.keys(cache).reduce<Record<string, string>>((acc, oldUrl) => {
-      if (newUrls.includes(oldUrl) && cache[oldUrl] !== undefined) {
-        acc[oldUrl] = cache[oldUrl];
-      }
-      return acc;
-    }, {});
+    this.cache = Object.keys(this.cache).reduce<Record<string, string>>(
+      (acc, oldUrl) => {
+        if (newUrls.includes(oldUrl) && this.cache[oldUrl] !== undefined) {
+          acc[oldUrl] = this.cache[oldUrl];
+        }
+        return acc;
+      },
+      {},
+    );
+
+    return this;
   }
 
-  public async saveCache(cache: Record<string, string>): Promise<void> {
+  public async saveCache(): Promise<CacheService> {
     try {
       await ensureDir('./docs');
-      await writeJSON(this.cacheFile, cache, { spaces: 2 });
+      await writeJSON(this.cacheFile, this.cache, { spaces: 2 });
+
+      return this;
     } catch (error) {
       console.error('⚠ Error saving cache:', error);
-    }
-  }
-
-  public async cleanAndSaveCache(
-    posts: BlogPost[],
-    cache: Record<string, string>,
-  ): Promise<void> {
-    try {
-      if (!existsSync(this.cacheFile)) return;
-
-      const cleanedCache = this.cleanCache(posts, cache);
-      await this.saveCache({ ...cleanedCache });
-    } catch (error) {
-      console.error('⚠ Error saving or cleaning cache:', error);
+      throw error;
     }
   }
 }

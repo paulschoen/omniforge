@@ -42,7 +42,10 @@ const partitionPosts = (
     const machineSpiritConduit = new MachineSpiritConduit(
       process.env.MACHINE_SPIRIT_API_KEY,
     );
-    const cacheService = new CacheService(OUTPUT_DIR, CACHE_FILE);
+    const cacheService = await new CacheService(
+      OUTPUT_DIR,
+      CACHE_FILE,
+    ).loadCache();
     const blogPostService = new BlogPostService();
     const feedGenerator = new FeedGenerator(SITE_URL);
 
@@ -50,9 +53,11 @@ const partitionPosts = (
       '[STATUS] The sacred cogitators are commencing the data collection rites',
     );
     const posts = await blogPostService.collectPosts();
-    const cache = await cacheService.loadCache();
 
-    const [postsToProcess, cachedPosts] = partitionPosts(posts, cache);
+    const [postsToProcess, cachedPosts] = partitionPosts(
+      posts,
+      cacheService.getCache(),
+    );
 
     console.log(
       `[STATUS] The Omnissiah has decreed the processing of ${postsToProcess.length} new articles...`,
@@ -68,8 +73,8 @@ const partitionPosts = (
           const knowledgeOfTheMachineGod =
             await machineSpiritConduit.receiveWisdom(sacredSummaryInvocation);
 
-          if (!cache[post.url]) {
-            cache[post.url] = knowledgeOfTheMachineGod;
+          if (!cacheService.getCacheRecord(post.url)) {
+            cacheService.updateCacheRecord(post.url, knowledgeOfTheMachineGod);
             feedGenerator.addPostToFeed(post, knowledgeOfTheMachineGod);
           }
         }),
@@ -79,7 +84,7 @@ const partitionPosts = (
           console.log(
             `🔄 The Omnissiah's stored wisdom is being utilized for: ${post.title}`,
           );
-          const cachedPost = cache[post.url];
+          const cachedPost = cacheService.getCacheRecord(post.url);
 
           if (cachedPost) {
             feedGenerator.addPostToFeed(post, cachedPost);
@@ -98,7 +103,7 @@ const partitionPosts = (
       } updating`,
     );
 
-    await cacheService.cleanAndSaveCache(posts, cache);
+    await cacheService.cleanCache(posts).saveCache();
 
     if (!shouldUpdate) {
       console.log(
