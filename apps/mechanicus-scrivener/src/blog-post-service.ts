@@ -1,4 +1,5 @@
 import { launch, type Page } from 'puppeteer';
+import { Logger } from './logger';
 
 interface BlogPost {
   title: string;
@@ -9,11 +10,15 @@ interface BlogPost {
 }
 
 class BlogPostService {
+  private logger = new Logger();
   private async launchBrowser() {
     try {
       return await launch({ headless: true, args: ['--no-sandbox'] });
-    } catch (error) {
-      console.error(`❌ Error launching browser:`, error);
+    } catch (error: unknown) {
+      this.logger.logError(
+        `Error launching browser:`,
+        (error as Error).message,
+      );
       throw new Error('Could not launch the browser');
     }
   }
@@ -40,7 +45,9 @@ class BlogPostService {
           ];
 
           if (timeEl.length === 0) {
-            console.warn('⚠ Unable to find date for post:', el.textContent);
+            this.logger.logWarning(
+              `Unable to find date for post: ${el.textContent}`,
+            );
             return null;
           }
 
@@ -55,7 +62,7 @@ class BlogPostService {
             return foundDate.textContent.trim();
           }
 
-          console.warn('⚠ Unable to find date for post:', foundDate);
+          this.logger.logWarning(`Unable to find date for post: ${foundDate}`);
 
           return null;
         };
@@ -85,14 +92,17 @@ class BlogPostService {
           };
         });
       });
-    } catch (error) {
-      console.error(`❌ Error extracting posts:`, error);
+    } catch (error: unknown) {
+      this.logger.logError(
+        `Error extracting posts from page:`,
+        (error as Error).message,
+      );
       return [];
     }
   }
 
   public async collectPosts(): Promise<BlogPost[]> {
-    console.log('🔍 Initiating Data Retrieval...');
+    this.logger.logInfo('Initiating holy knowledge collection process...');
     const browser = await this.launchBrowser();
     const page = await browser.newPage();
 

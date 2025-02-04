@@ -1,17 +1,44 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Feed } from 'feed';
-import { ensureDir, mkdir, readFile, writeFile } from 'fs-extra';
 import { type BlogPost } from './blog-post-service';
+import { FileManager } from './file-manager';
+import { Logger } from './logger';
 
 interface RssItem {
   link: string;
 }
 
-export class FeedGenerator {
+export class RSSParser {
   private parser = new XMLParser();
-  private feed: Feed;
 
-  constructor(siteUrl: string) {
+  public extractLinks(feed: string): Set<string> {
+    const parsedFeed = this.parser.parse(feed) as {
+      rss?: { channel?: { item?: RssItem[] } };
+    };
+    return new Set(
+      parsedFeed.rss?.channel?.item?.map((item: RssItem) => item.link) ?? [],
+    );
+  }
+}
+
+export class FeedGenerator {
+  private parser = new RSSParser();
+  private fileManager = new FileManager();
+  private logger = new Logger();
+
+  private feed: Feed;
+  private directory: string;
+  private filePath: string;
+
+  constructor({
+    siteUrl,
+    rssFile,
+    directory,
+  }: {
+    siteUrl: string;
+    rssFile: string;
+    directory: string;
+  }) {
     this.feed = new Feed({
       title: 'Warhammer 40k Community RSS Feed',
       description: 'Latest intelligence reports from the Warhammer Community',
@@ -20,9 +47,15 @@ export class FeedGenerator {
       language: 'en',
       copyright: 'Games Workshop',
     });
+
+    this.directory = directory;
+    this.filePath = `${directory}/${rssFile}`;
   }
 
   public addPostToFeed(post: BlogPost, aiSummary: string): void {
+    this.logger.logInfo(
+      `Adding newly acquired intelligence to the feed: ${post.title}`,
+    );
     if (!post.date) return;
 
     const parsedDate = new Date(
@@ -40,68 +73,40 @@ export class FeedGenerator {
     });
   }
 
-  public async determineIfFeedNeedsUpdate(rssFile: string): Promise<boolean> {
-    await this.ensureDirectoryExists('./docs');
-    const doesFileExist = await this.doesFileExist(rssFile);
-
-    if (!doesFileExist) {
-      return true;
-    }
-
+  public async isRssFileEmpty(): Promise<boolean> {
     try {
-      const readFeed = await this.readFileContent(rssFile);
-      const readFeedItemsLinks = this.extractLinks(readFeed);
-      const newFeedItemsLinks = this.extractLinks(this.feed.rss2());
-
-      const hasNewItems = this.hasNewItems(
-        readFeedItemsLinks,
-        newFeedItemsLinks,
+      this.logger.logInfo('Checking if RSS file is empty');
+      return (
+        (await this.fileManager.readFileContent(this.filePath)).length === 0
       );
-
-      return hasNewItems;
-    } catch (error) {
-      console.error('Error processing feeds:', error);
-      return false;
-    }
-  }
-
-  private async ensureDirectoryExists(dir: string): Promise<void> {
-    try {
-      await mkdir(dir, { recursive: true });
-    } catch (error) {
-      console.error('Directory creation failed:', error);
-    }
-  }
-
-  private async doesFileExist(file: string): Promise<boolean> {
-    try {
-      await readFile(file, 'utf-8');
+    } catch (error: unknown) {
+      this.logger.logError(
+        'Error checking if RSS file is empty:',
+        (error as Error).message,
+      );
       return true;
-    } catch (error) {
-      console.error('File creation failed:', error);
+    }
+  }
+
+  public async determineIfFeedNeedsUpdate(): Promise<boolean> {
+    try {
+      this.logger.logInfo('Checking if feed data needs further processing');
+      await this.fileManager.ensureDirectory(this.directory);
+      await this.fileManager.ensureFile(this.filePath);
+
+      const fileContent = await this.fileManager.readFileContent(this.filePath);
+      const fileLinks = this.parser.extractLinks(fileContent);
+      const newLinks = this.parser.extractLinks(this.feed.rss2());
+
+      return this.hasNewItems(fileLinks, newLinks);
+    } catch (error: unknown) {
+      this.logger.logError('Error processing feeds:', (error as Error).message);
       return false;
     }
-  }
-
-  private async readFileContent(filePath: string): Promise<string> {
-    try {
-      return await readFile(filePath, 'utf-8');
-    } catch (error) {
-      console.error('Error reading file:', error);
-      throw error;
-    }
-  }
-
-  private extractLinks(feed: string): Set<string> {
-    const parsedFeed = this.parser.parse(feed) as {
-      rss: { channel: { item?: RssItem[] } };
-    };
-    return new Set(
-      parsedFeed.rss.channel.item?.map((item: RssItem) => item.link) ?? [],
-    );
   }
 
   private hasNewItems(oldItems: Set<string>, newItems: Set<string>): boolean {
+    this.logger.logInfo('Validating if new items are present');
     for (const item of newItems) {
       if (!oldItems.has(item)) {
         return true;
@@ -110,10 +115,17 @@ export class FeedGenerator {
     return false;
   }
 
-  public async saveFeed(rssFile: string): Promise<void> {
-    await ensureDir('./docs');
+  public async saveFeed(): Promise<void> {
+    try {
+      this.logger.logInfo('Saving acquired feed data to codex');
+      await this.fileManager.ensureDirectory(this.directory);
+      await this.fileManager.ensureFile(this.filePath);
 
-    await writeFile(rssFile, this.feed.rss2(), 'utf-8');
-    console.log(`✅ RSS feed updated at: ${rssFile}`);
+      await this.fileManager.writeFileContent(this.filePath, this.feed.rss2());
+      this.logger.logInfo(`RSS feed updated at: ${this.filePath}`);
+    } catch (error: unknown) {
+      this.logger.logError('Error saving feed:', (error as Error).message);
+      throw error;
+    }
   }
 }

@@ -5,8 +5,7 @@
     {
       "files": ["*.ts", "*.tsx", "*.js", "*.jsx"],
       "rules": {
-        "@typescript-eslint/restrict-template-expressions": "off",
-        "no-console": "off"
+        "@typescript-eslint/restrict-template-expressions": "off"
       }
     },
     {

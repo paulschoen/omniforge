@@ -1,40 +1,50 @@
-import { ensureDir, existsSync, readJSON, writeJSON } from 'fs-extra';
 import { type BlogPost } from './blog-post-service';
+import { FileManager } from './file-manager';
+import { Logger } from './logger';
 
 export class CacheService {
-  private readonly cacheFile: string;
+  private readonly directory: string;
+  private readonly cacheFilePath: string;
+  private readonly logger = new Logger();
+
   private cache: Record<string, string> = {};
+  private fileManager = new FileManager();
 
   constructor(outputDir: string, cacheFileName: string) {
-    this.cacheFile = `${outputDir}/${cacheFileName}`;
+    this.directory = outputDir;
+    this.cacheFilePath = `${outputDir}/${cacheFileName}`;
   }
 
   // Getters and Setters
-
   public getCache(): Readonly<Record<string, string>> {
+    this.logger.logInfo('Accessing haste machine spirit data');
     return this.cache;
   }
 
   public getCacheRecord(url: string): string | undefined {
+    this.logger.logInfo('Accessing machine spirit data');
     return this.cache[url];
   }
 
   public updateCacheRecord(url: string, summary: string): string | undefined {
-    return (this.cache[url] = summary);
+    this.logger.logInfo('Updating machine spirit drive');
+    const updatedCache = { ...this.cache, [url]: summary };
+    this.cache = updatedCache;
+    return updatedCache[url];
   }
 
   // File Utilities
-
   private isCacheFilePresent(): boolean {
-    return existsSync(this.cacheFile);
+    this.logger.logInfo('Checking machine spirit memory are still intact');
+    return this.fileManager.isFilePresent(this.cacheFilePath);
   }
 
   public async loadCache(): Promise<CacheService> {
+    this.logger.logInfo('Loading machine spirit previous requested knowledge');
     if (this.isCacheFilePresent()) {
-      const readCache = (await readJSON(this.cacheFile)) as Record<
-        string,
-        string
-      >;
+      const readCache = await this.fileManager.readJSONContent(
+        this.cacheFilePath,
+      );
       this.cache = { ...readCache };
     }
 
@@ -42,16 +52,14 @@ export class CacheService {
   }
 
   public cleanCache(posts: readonly BlogPost[]): this {
-    if (!this.isCacheFilePresent()) {
-      throw new Error('Cache file is not present');
-    }
-
+    this.logger.logInfo('Optimizing machine spirit drives');
     const newUrls = posts.map((post) => post.url);
 
     this.cache = Object.keys(this.cache).reduce<Record<string, string>>(
       (acc, oldUrl) => {
         if (newUrls.includes(oldUrl) && this.cache[oldUrl] !== undefined) {
-          acc[oldUrl] = this.cache[oldUrl];
+          const updatedAcc = { ...acc, [oldUrl]: this.cache[oldUrl] };
+          return updatedAcc;
         }
         return acc;
       },
@@ -63,12 +71,14 @@ export class CacheService {
 
   public async saveCache(): Promise<CacheService> {
     try {
-      await ensureDir('./docs');
-      await writeJSON(this.cacheFile, this.cache, { spaces: 2 });
+      this.logger.logInfo('Saving machine spirit knowledge to codex');
+      await this.fileManager.ensureDirectory(this.directory);
+      await this.fileManager.ensureFile(this.cacheFilePath);
+      await this.fileManager.writeJSONContent(this.cacheFilePath, this.cache);
 
       return this;
-    } catch (error) {
-      console.error('⚠ Error saving cache:', error);
+    } catch (error: unknown) {
+      this.logger.logError('Error saving cache:', (error as Error).message);
       throw error;
     }
   }

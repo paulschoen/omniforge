@@ -1,6 +1,7 @@
 import { type BlogPost, BlogPostService } from './blog-post-service';
 import { CacheService } from './cache-service';
 import { FeedGenerator } from './feed-generator';
+import { Logger } from './logger';
 import { MachineSpiritConduit } from './machine-spirit-conduit';
 
 const SITE_URL =
@@ -9,8 +10,7 @@ const OUTPUT_DIR = './docs';
 const CACHE_FILE = 'summaries.json';
 const RSS_FILE = 'rss.xml';
 
-const OPEN_TERMINAL_MESSAGE =
-  '++++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH ++++';
+const logger = new Logger();
 
 const partitionPosts = (
   posts: BlogPost[],
@@ -30,7 +30,9 @@ const partitionPosts = (
 };
 
 (async () => {
-  console.log(OPEN_TERMINAL_MESSAGE);
+  logger.logInfo(
+    '++++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH ++++',
+  );
 
   try {
     if (!process.env.MACHINE_SPIRIT_API_KEY) {
@@ -47,10 +49,14 @@ const partitionPosts = (
       CACHE_FILE,
     ).loadCache();
     const blogPostService = new BlogPostService();
-    const feedGenerator = new FeedGenerator(SITE_URL);
+    const feedGenerator = new FeedGenerator({
+      siteUrl: SITE_URL,
+      rssFile: RSS_FILE,
+      directory: OUTPUT_DIR,
+    });
 
-    console.log(
-      '[STATUS] The sacred cogitators are commencing the data collection rites',
+    logger.logInfo(
+      'The sacred cogitators are commencing the data collection rites',
     );
     const posts = await blogPostService.collectPosts();
 
@@ -59,8 +65,8 @@ const partitionPosts = (
       cacheService.getCache(),
     );
 
-    console.log(
-      `[STATUS] The Omnissiah has decreed the processing of ${postsToProcess.length} new articles...`,
+    logger.logInfo(
+      `The Omnissiah has decreed the processing of ${postsToProcess.length} new articles...`,
     );
 
     const { default: pLimit } = await import('p-limit');
@@ -81,8 +87,8 @@ const partitionPosts = (
       ),
       ...cachedPosts.map((post) =>
         limit(() => {
-          console.log(
-            `🔄 The Omnissiah's stored wisdom is being utilized for: ${post.title}`,
+          logger.logInfo(
+            `🔄 The Machine Spirit's stored wisdom is being utilized for: ${post.title}`,
           );
           const cachedPost = cacheService.getCacheRecord(post.url);
 
@@ -93,12 +99,10 @@ const partitionPosts = (
       ),
     ]);
 
-    const shouldUpdate = await feedGenerator.determineIfFeedNeedsUpdate(
-      `${OUTPUT_DIR}/${RSS_FILE}`,
-    );
+    const shouldUpdate = await feedGenerator.determineIfFeedNeedsUpdate();
 
-    console.log(
-      `[STATUS] The Omnissiah has decreed that the feed ${
+    logger.logInfo(
+      `The Omnissiah has decreed that the feed ${
         shouldUpdate ? 'needs' : 'does not need'
       } updating`,
     );
@@ -106,26 +110,22 @@ const partitionPosts = (
     await cacheService.cleanCache(posts).saveCache();
 
     if (!shouldUpdate) {
-      console.log(
-        '[STATUS] The sacred rites of data processing have been completed',
-      );
+      logger.logInfo('The sacred rites of data processing have been completed');
       return;
     }
 
-    await feedGenerator.saveFeed(`${OUTPUT_DIR}/${RSS_FILE}`);
+    await feedGenerator.saveFeed();
 
-    console.log(
-      '[STATUS] The sacred rites of data processing have been completed',
-    );
+    logger.logInfo('The sacred rites of data processing have been completed');
   } catch (error: unknown) {
-    console.error(
-      '⚠️ We have failed to appease the Omnissiah:',
+    logger.logError(
+      'We have failed to appease the Omnissiah:',
       (error as Error).message,
     );
   }
 })().catch((error: unknown) => {
-  console.error(
-    '⚠️ The Omnissiah has saved us from a catastrophic error:',
+  logger.logError(
+    'The Omnissiah has saved us from a catastrophic error:',
     (error as Error).message,
   );
 });
