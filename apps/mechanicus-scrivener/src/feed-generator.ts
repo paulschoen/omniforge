@@ -13,7 +13,7 @@ export class FeedGenerator {
 
   constructor(siteUrl: string) {
     this.feed = new Feed({
-      title: 'Warhammer Community RSS Feed',
+      title: 'Warhammer 40k Community RSS Feed',
       description: 'Latest intelligence reports from the Warhammer Community',
       id: siteUrl,
       link: siteUrl,

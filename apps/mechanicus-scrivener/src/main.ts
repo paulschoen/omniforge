@@ -59,7 +59,7 @@ const partitionPosts = (
     await Promise.all([
       ...postsToProcess.map((post) =>
         limit(async () => {
-          const sacredSummaryInvocation = `Invoke the Omnissiah's wisdom to summarize this Warhammer article: ${post.title} - ${post.url}`;
+          const sacredSummaryInvocation = `Invoke the Omnissiah's wisdom to summarize this Warhammer article in a single sentence: ${post.title} - ${post.url}`;
           const knowledgeOfTheMachineGod =
             await machineSpiritConduit.receiveWisdom(sacredSummaryInvocation);
 

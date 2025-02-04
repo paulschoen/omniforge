@@ -4,129 +4,118 @@
         <title>Warhammer Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb/setting/warhammer-40000/</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Feb 2025 15:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 00:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
+            <title><![CDATA[This year’s Warhammer event miniatures revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</link>
+            <guid>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</guid>
+            <pubDate>Mon, 27 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer article reveals this year's event-exclusive miniatures, showcasing new and highly detailed models that are available at specific Warhammer events throughout the year.]]></description>
+            <category>Model Reveal</category>
+            <enclosure url="https://assets.warhammer-community.com/eventminis-jan27-1-feature-aonmqwfmpq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sunday Preview – The galaxy calls, and Krieg answers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers/</guid>
-            <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER PREVIEW** ====
-
-**//SYSTEM UPDATE//**: Upcoming release showcases new Astra Militarum units, including Death Korps of Krieg miniatures and battlefield accessories, set to enhance strategic tabletop engagements. Further details on associated gaming rules and unit capabilities are expected to augment Imperial forces' operational effectiveness.]]></description>
+            <pubDate>Sun, 02 Feb 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[This Sunday Preview announces the release of new Warhammer 40,000 Death Korps of Krieg miniatures and related gaming content, showcasing the regiment's iconic grim resolve and distinctive battlefield equipment.]]></description>
+            <category>Sunday preview</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb2-1-feature-qcwpg3c04o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Astartes II – Official Teaser Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/lelnnuys/astartes-ii-official-teaser-trailer-warhammer/</link>
             <guid>https://www.warhammer-community.com/en-gb/videos/lelnnuys/astartes-ii-official-teaser-trailer-warhammer/</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II TEASER** ====
-
-// **SYSTEM UPDATE**: Visual data feed showcases upcoming continuation of Astartes narrative, focusing on the elite warriors of the Imperium engaged in high-intensity combat scenarios, rendered through advanced graphical depiction. Awaiting further data deployment on Warhammer+.]]></description>
+            <pubDate>Wed, 29 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The official teaser trailer for "Astartes II" on Warhammer+ showcases intense, visually striking scenes of Space Marine action, hinting at the continuation of the acclaimed fan-made project now officially embraced by the Warhammer universe.]]></description>
+            <category>Space Marines</category>
             <enclosure url="https://assets.warhammer-community.com/a2-trailer_thumb-1cxlogay1t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Astartes II Teaser Trailer – Watch it right now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8ovvyar9/astartes-ii-teaser-trailer-watch-it-right-now/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/8ovvyar9/astartes-ii-teaser-trailer-watch-it-right-now/</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ASTARTES II TEASER TRAILER** ====
-
-:: **SYSTEM UPDATE**: The Astartes II Teaser Trailer showcases intense visual previews of upcoming Space Marine engagements and narrative developments, urging immediate viewing for strategic insights.]]></description>
+            <pubDate>Wed, 29 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The Astartes II teaser trailer, now available for viewing, promises intense action and deeper exploration into the Warhammer 40,000 universe, showcasing the formidable Space Marines in a new chapter of their saga.]]></description>
+            <category>Animations</category>
             <enclosure url="https://assets.warhammer-community.com/warcom_feature-crfg7zqh9s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This year’s Warhammer event miniatures revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</link>
-            <guid>https://www.warhammer-community.com/en-gb/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed/</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER EVENT** ====
-
-**[SYSTEM UPDATE]**: Reveal of the annual Warhammer event miniatures, showcasing new exclusive figures for collectors and participants.]]></description>
-            <enclosure url="https://assets.warhammer-community.com/eventminis-jan27-1-feature-aonmqwfmpq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Studio Interview – Designing the new Phoenix Lords and Aspect Warriors]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</link>
-            <guid>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: ELDAR REFORGING** ====
-
-**SYSTEM UPDATE**: Warhammer Studio reveals insights into the creative process for redesigning Phoenix Lords and Aspect Warriors, focusing on enhancing their iconic aesthetics while integrating advanced modeling techniques for heightened battlefield presence and lore fidelity.]]></description>
-            <enclosure url="https://assets.warhammer-community.com/40k_aeldesignnotes-jan24-1-feature-owtnudhiic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Phoenix Lords and Aspect Warriors painted by the wider Warhammer Hobby Community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gzdtpxy4/phoenix-lords-and-aspect-warriors-painted-by-the-wider-warhammer-hobby-community/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/gzdtpxy4/phoenix-lords-and-aspect-warriors-painted-by-the-wider-warhammer-hobby-community/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANMISSION: WARHAMMER HOBBY** ====
-
-**// SYSTEM UPDATE //** Display of Phoenix Lords and Aspect Warriors painted by the Warhammer hobby community, showcasing diverse artistic interpretations across various models.]]></description>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article showcases a collection of Phoenix Lords and Aspect Warriors expertly painted by members of the Warhammer hobby community, highlighting their creative talents and the vibrant diversity of painting styles within the community.]]></description>
+            <category>Community showcase</category>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldariinfluencer-jan24-1-feature-oy0mo8xbin.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Studio Interview – Designing the new Phoenix Lords and Aspect Warriors]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</link>
+            <guid>https://www.warhammer-community.com/en-gb/articles/fneg94a1/warhammer-studio-interview-designing-the-new-phoenix-lords-and-aspect-warriors/</guid>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article features a Warhammer Studio interview that explores the creative process and design considerations involved in updating the Phoenix Lords and Aspect Warriors for the Warhammer 40,000 game.]]></description>
+            <category>Interviews</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aeldesignnotes-jan24-1-feature-owtnudhiic.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Phoenix Lords with Contrast! | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/zkf4f7bj/new-phoenix-lords-with-contrast-warhammer-40000/</link>
             <guid>https://www.warhammer-community.com/en-gb/videos/zkf4f7bj/new-phoenix-lords-with-contrast-warhammer-40000/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER 40,000** ====
-
-**[SYSTEM UPDATE]** :: Deployment of new Phoenix Lords miniatures enhanced with Contrast painting techniques, providing enhanced visual fidelity and battlefield distinction for Warhammer 40,000 tabletop engagements.]]></description>
+            <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article introduces new Phoenix Lords models for Warhammer 40,000, showcasing their enhanced details and vibrant coloring achieved through the Contrast painting method.]]></description>
+            <category>Warhammer 40,000</category>
             <enclosure url="https://assets.warhammer-community.com/pv00975-aeldari-new-phoenix-lords-v5-lhapnypopj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aeldari Corsair showcase: The Ballad of the Sky Serpents]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gzi9ms9v/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/gzi9ms9v/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents/</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI CORSAIR SHOWCASE** ====
-
-**[SYSTEM UPDATE]**: Display of Aeldari Corsair miniatures titled "The Ballad of the Sky Serpents," featuring a detailed visual gallery and insights into the thematic elements and painting techniques used to bring the Sky Serpents Corsair fleet to life.]]></description>
+            <pubDate>Thu, 23 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article "Aeldari Corsair Showcase: The Ballad of the Sky Serpents" on the Warhammer Community website features a detailed look at a beautifully painted Aeldari Corsair army, highlighting their unique aesthetics and backstory.]]></description>
+            <category>Aeldari</category>
             <enclosure url="https://assets.warhammer-community.com/40k_corsairs-jan23-1-feature-ut7ezphsic.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to use the Ynnari and Harlequins in the new Codex: Aeldari]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</link>
-            <guid>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI TACTICA** ====
-
-:: **SYSTEM UPDATE** :: Detailed guidance on integrating Ynnari and Harlequins into Aeldari warhost configurations utilizing the new Codex: Aeldari; includes stratagems, unit synergies, and battlefield roles enhancements.]]></description>
-            <enclosure url="https://assets.warhammer-community.com/40k_ynnariharle-jan23-1-feature-wntruhvi3j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Codex: Aeldari masters combat with eight powerful Detachments to choose from]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</link>
-            <guid>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</guid>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: CODEX AELDARI** ====
-
-**[SYSTEM UPDATE]**: Codex: Aeldari details combat efficiency through eight diverse Detachments, enhancing strategic flexibility and battlefield dominance.]]></description>
-            <enclosure url="https://assets.warhammer-community.com/40k_aeldetachments-jan22-1-feature-ruwvv4vmkr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Who are the Phoenix Lords? The legendary Aeldari heroes explained]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftkehldw/who-are-the-phoenix-lords-the-legendary-aeldari-heroes-explained/</link>
             <guid>https://www.warhammer-community.com/en-gb/articles/ftkehldw/who-are-the-phoenix-lords-the-legendary-aeldari-heroes-explained/</guid>
-            <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: AELDARI PHOENIX LORDS** ====
-**[SYSTEM UPDATE]**: Detailed exposition on the Phoenix Lords, the immortal Aeldari heroes who lead the Aspect Warriors in battles across the galaxy, preserving ancient martial traditions and wielding relics of vast power.]]></description>
+            <pubDate>Tue, 21 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The Phoenix Lords are revered, ancient Aeldari warriors who embody the martial aspects of their god, serving as both immortal heroes and mentors to the Aeldari Aspect Warriors.]]></description>
+            <category>Aeldari</category>
             <enclosure url="https://assets.warhammer-community.com/40k_pls-jan21-1-feature-mwyyb3pxge.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Codex: Aeldari masters combat with eight powerful Detachments to choose from]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</link>
+            <guid>https://www.warhammer-community.com/en-gb/articles/qbnruzb2/codex-aeldari-masters-combat-with-eight-powerful-detachments-to-choose-from/</guid>
+            <pubDate>Wed, 22 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article discusses the new Codex: Aeldari for Warhammer 40,000, highlighting its offering of eight diverse and powerful Detachments that enhance the strategic and combat capabilities of Aeldari armies.]]></description>
+            <category>Aeldari</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aeldetachments-jan22-1-feature-ruwvv4vmkr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trench Grime on Krieg Artillery with Contrast paints | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/1dwk5q1b/trench-grime-on-krieg-artillery-with-contrast-paints-warhammer-40000/</link>
             <guid>https://www.warhammer-community.com/en-gb/videos/1dwk5q1b/trench-grime-on-krieg-artillery-with-contrast-paints-warhammer-40000/</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[==== **VOX TRANSMISSION: WARHAMMER 40,000** ====
-
-**[SYSTEM UPDATE]**: Tutorial engaged for the application of contrast paints to simulate trench grime on Krieg artillery units, enhancing visual authenticity in miniature warfare simulations.]]></description>
+            <pubDate>Mon, 03 Feb 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[This Warhammer tutorial video demonstrates how to effectively use Contrast paints to achieve a realistic trench grime effect on Krieg artillery models in Warhammer 40,000.]]></description>
+            <category>Videos</category>
             <enclosure url="https://assets.warhammer-community.com/weathering-gun-4-1tg6mvbxhs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to use the Ynnari and Harlequins in the new Codex: Aeldari]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</link>
+            <guid>https://www.warhammer-community.com/en-gb/articles/swcvd7jb/how-to-use-the-ynnari-and-harlequins-in-the-new-codex-aeldari/</guid>
+            <pubDate>Thu, 23 Jan 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[The article provides strategies and insights on effectively utilizing the Ynnari and Harlequins factions within the new Codex: Aeldari, highlighting key units, abilities, and synergies to enhance gameplay in Warhammer 40K.]]></description>
+            <category>Aeldari</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ynnariharle-jan23-1-feature-wntruhvi3j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
