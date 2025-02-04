@@ -36,11 +36,17 @@ export class FeedGenerator {
       description: aiSummary,
       date: parsedDate,
       image: post.image,
+      category: [{ name: post.category }],
     });
   }
 
   public async determineIfFeedNeedsUpdate(rssFile: string): Promise<boolean> {
     await this.ensureDirectoryExists('./docs');
+    const doesFileExist = await this.doesFileExist(rssFile);
+
+    if (!doesFileExist) {
+      return true;
+    }
 
     try {
       const readFeed = await this.readFileContent(rssFile);
@@ -67,6 +73,16 @@ export class FeedGenerator {
     }
   }
 
+  private async doesFileExist(file: string): Promise<boolean> {
+    try {
+      await readFile(file, 'utf-8');
+      return true;
+    } catch (error) {
+      console.error('File creation failed:', error);
+      return false;
+    }
+  }
+
   private async readFileContent(filePath: string): Promise<string> {
     try {
       return await readFile(filePath, 'utf-8');
@@ -78,10 +94,10 @@ export class FeedGenerator {
 
   private extractLinks(feed: string): Set<string> {
     const parsedFeed = this.parser.parse(feed) as {
-      rss: { channel: { item: RssItem[] } };
+      rss: { channel: { item?: RssItem[] } };
     };
     return new Set(
-      parsedFeed.rss.channel.item.map((item: RssItem) => item.link),
+      parsedFeed.rss.channel.item?.map((item: RssItem) => item.link) ?? [],
     );
   }
 
