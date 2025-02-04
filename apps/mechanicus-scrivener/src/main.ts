@@ -4,11 +4,10 @@ import { FeedGenerator } from './feed-generator';
 import { Logger } from './logger';
 import { MachineSpiritConduit } from './machine-spirit-conduit';
 
-const SITE_URL =
-  'https://www.warhammer-community.com/en-gb/setting/warhammer-40000/';
-const OUTPUT_DIR = './docs';
-const CACHE_FILE = 'summaries.json';
-const RSS_FILE = 'rss.xml';
+const SITE_URL = process.env.SITE_URL;
+const OUTPUT_DIR = process.env.OUTPUT_DIR;
+const CACHE_FILE = process.env.CACHE_FILE;
+const RSS_FILE = process.env.RSS_FILE;
 
 const logger = new Logger();
 
@@ -34,13 +33,37 @@ const partitionPosts = (
     '++++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH ++++',
   );
 
-  try {
-    if (!process.env.MACHINE_SPIRIT_API_KEY) {
-      throw new Error(
-        '⚠️ The Machine Spirit is displeased. An offering (API key) is required to proceed.',
-      );
-    }
+  if (!SITE_URL) {
+    throw new Error(
+      '⚠️ The SITE_URL environment variable is required, for the Omnissiah!',
+    );
+  }
 
+  if (!OUTPUT_DIR) {
+    throw new Error(
+      '⚠️ The OUTPUT_DIR environment variable is required, for the Omnissiah!',
+    );
+  }
+
+  if (!CACHE_FILE) {
+    throw new Error(
+      '⚠️ The CACHE_FILE environment variable is required, for the Omnissiah!',
+    );
+  }
+
+  if (!RSS_FILE) {
+    throw new Error(
+      '⚠️ The RSS_FILE environment variable is required, for the Omnissiah!',
+    );
+  }
+
+  if (!process.env.MACHINE_SPIRIT_API_KEY) {
+    throw new Error(
+      '⚠️ The Machine Spirit is displeased. An offering (API key) is required to proceed.',
+    );
+  }
+
+  try {
     const machineSpiritConduit = new MachineSpiritConduit(
       process.env.MACHINE_SPIRIT_API_KEY,
     );

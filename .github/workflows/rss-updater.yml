@@ -7,9 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-feed:
+  update-rss:
     runs-on: ubuntu-latest
-
     steps:
       - name: '🔽 Checkout Repository'
         uses: actions/checkout@v4
@@ -35,16 +34,28 @@ jobs:
       - name: '⚙️ Build Project'
         run: npm run build:mechanicus-scrivener
 
-      - name: '🛠 Run the Script'
+      - name: '🛠 Run RSS Generation for All Feeds'
         env:
           MACHINE_SPIRIT_API_KEY: ${{ secrets.MACHINE_SPIRIT_API_KEY }}
           SYSTEM_PROMPT: ${{ secrets.SYSTEM_PROMPT }}
-        run: npx nx run mechanicus-scrivener:generate-rss
+        run: |
+          declare -A sites=(
+            ["All News"]="https://www.warhammer-community.com/en-gb/all-news-and-features/ all.json all.rss"
+            ["Warhammer 40k"]="https://www.warhammer-community.com/en-gb/setting/warhammer-40000/ 40k.json 40k.rss"
+            ["Kill Team"]="https://www.warhammer-community.com/en-us/setting/kill-team/ kill-team.json kill-team.rss"
+          )
+
+          for name in "${!sites[@]}"; do
+            IFS=' ' read -r url cache rss <<< "${sites[$name]}"
+            echo "⚙️ Updating RSS for $name..."
+            SITE_URL="$url" CACHE_FILE="$cache" RSS_FILE="$rss" OUTPUT_DIR='./docs' \
+            npx nx run mechanicus-scrivener:generate-rss
+          done
 
       - name: '🚀 Check for RSS Feed Changes'
         id: check_changes
         run: |
-          git add docs/rss.xml docs/summaries.json
+          git add *.rss *.json
           if git diff --staged --quiet; then
             echo "No changes detected."
             echo "changed=false" >> $GITHUB_ENV
@@ -53,17 +64,13 @@ jobs:
             echo "changed=true" >> $GITHUB_ENV
           fi
 
-      - name: '📜 Commit Changes'
-        if: env.changed == 'true'
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git commit -m "🤖 Auto-update RSS feed [$(date)]"
-
-      - name: '📤 Push Changes'
+      - name: '📜 Commit and Push Changes'
         if: env.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "🤖 Auto-update RSS feed [$(date)]"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/paulschoen/omniforge.git
           git push origin main

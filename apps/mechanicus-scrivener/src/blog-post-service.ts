@@ -10,6 +10,7 @@ interface BlogPost {
 }
 
 class BlogPostService {
+  private siteUrl = process.env.SITE_URL ?? '';
   private logger = new Logger();
   private async launchBrowser() {
     try {
@@ -112,10 +113,7 @@ class BlogPostService {
     );
 
     try {
-      await page.goto(
-        'https://www.warhammer-community.com/en-gb/setting/warhammer-40000/',
-        { waitUntil: 'networkidle2' },
-      );
+      await page.goto(this.siteUrl, { waitUntil: 'networkidle2' });
       return await this.extractPosts(page);
     } finally {
       await browser.close();
