@@ -21,13 +21,13 @@ export class MachineSpiritConduit {
         max_tokens: 200,
       });
 
-      return (
-        response.choices[0]?.message?.content ??
-        '⚠ Machine Spirit failed to grant wisdom. The Omnissiah is angered by our lack of faith.'
-      );
+      return response.choices[0]?.message?.content ?? '';
     } catch (error) {
-      console.error('❌ Machine Spirit wisdom creation failed:', error);
-      return '⚠ Machine Spirit error: Unable to generate wisdom.';
+      console.error(
+        '⚠ Machine Spirit failed to grant wisdom. The Omnissiah is angered by our lack of faith.:',
+        error,
+      );
+      return '';
     }
   }
 }

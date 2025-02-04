@@ -9,6 +9,9 @@ const OUTPUT_DIR = './docs';
 const CACHE_FILE = 'summaries.json';
 const RSS_FILE = 'rss.xml';
 
+const OPEN_TERMINAL_MESSAGE =
+  '++++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH ++++';
+
 const partitionPosts = (
   posts: BlogPost[],
   cache: Record<string, string>,
@@ -27,6 +30,8 @@ const partitionPosts = (
 };
 
 (async () => {
+  console.log(OPEN_TERMINAL_MESSAGE);
+
   try {
     if (!process.env.MACHINE_SPIRIT_API_KEY) {
       throw new Error(
@@ -93,7 +98,7 @@ const partitionPosts = (
       } updating`,
     );
 
-    await cacheService.saveCache(cache);
+    await cacheService.cleanAndSaveCache(posts, cache);
 
     if (!shouldUpdate) {
       console.log(
