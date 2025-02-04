@@ -40,9 +40,9 @@ jobs:
           SYSTEM_PROMPT: ${{ secrets.SYSTEM_PROMPT }}
         run: |
           declare -A sites=(
-            ["All News"]="https://www.warhammer-community.com/en-gb/all-news-and-features/ all.json all.rss"
-            ["Warhammer 40k"]="https://www.warhammer-community.com/en-gb/setting/warhammer-40000/ 40k.json 40k.rss"
-            ["Kill Team"]="https://www.warhammer-community.com/en-us/setting/kill-team/ kill-team.json kill-team.rss"
+            ["All News"]="https://www.warhammer-community.com/en-gb/all-news-and-features/ all-cache.json all.rss"
+            ["Warhammer 40k"]="https://www.warhammer-community.com/en-gb/setting/warhammer-40000/ 40k-cache.json 40k.rss"
+            ["Kill Team"]="https://www.warhammer-community.com/en-us/setting/kill-team/ kill-team-cache.json kill-team.rss"
           )
 
           for name in "${!sites[@]}"; do
@@ -55,7 +55,7 @@ jobs:
       - name: '🚀 Check for RSS Feed Changes'
         id: check_changes
         run: |
-          git add *.rss *.json
+          git add docs/*
           if git diff --staged --quiet; then
             echo "No changes detected."
             echo "changed=false" >> $GITHUB_ENV
