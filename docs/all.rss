@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Feb 2025 13:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 14:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Explore the enigmatic Aeldari with these Black Library classics]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/zxxb5mab/explore-the-enigmatic-aeldari-with-these-black-library-classics</link>
+            <guid>zxxb5mab</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Crucial fiction for every budding Autarch.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_aeldari-feb05-1-feature-dwbm3aklj4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer+ this week – Three new shows and a Black Library competition]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ixdut39m/warhammer-this-week-three-new-shows-and-a-black-library-competition</link>
@@ -268,15 +280,6 @@
             <category domain="skaven">Skaven</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/eventminis-jan27-1-feature-aonmqwfmpq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join the horde with a Skaven miniature and Imperium coin at your local store this month]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/kqxfk5yk/join-the-horde-with-a-skaven-miniature-and-imperium-coin-at-your-local-store-this-month</link>
-            <guid>kqxfk5yk</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stop in and get your Miniature of the Month.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-jan27-feature-sz6eut9tqb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
