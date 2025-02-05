@@ -4,11 +4,19 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Feb 2025 14:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 15:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer+ February 2025 Promotion: Terms & Conditions]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/iplbvtmk/warhammer-february-2025-promotion-terms-conditions</link>
+            <guid>iplbvtmk</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1736327773-ktms5eupk5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Explore the enigmatic Aeldari with these Black Library classics]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/zxxb5mab/explore-the-enigmatic-aeldari-with-these-black-library-classics</link>
@@ -265,21 +273,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_gloomspite-badmoon-jan27-1-feature-vusslkxkmf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This year’s Warhammer event miniatures revealed]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/bq8wldj5/this-years-warhammer-event-miniatures-revealed</link>
-            <guid>bq8wldj5</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Terrorise the surface world with the Skaven and Genestealer Cults.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="genestealer-cults">Genestealer Cults</category>
-            <category domain="skaven">Skaven</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/eventminis-jan27-1-feature-aonmqwfmpq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
