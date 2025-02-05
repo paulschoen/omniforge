@@ -4,9 +4,8 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "nx build codex-engine-api && nx build mechanist-archive && nx build mechanicus-scrivener",
     "build:mechanicus-scrivener": "nx build mechanicus-scrivener",
-    "heroku-postbuild": "npm run build && mkdir  ./.cache && mv /app/.cache/puppeteer ./.cache",
+    "heroku-postbuild": "npm run build:mechanicus-scrivener && mkdir  ./.cache && mv /app/.cache/puppeteer ./.cache",
     "prepare": "husky",
     "start": "node dist/apps/codex-engine-api/main.js",
     "start:mechanicus-scrivener": "node dist/apps/mechanicus-scrivener/main.js",

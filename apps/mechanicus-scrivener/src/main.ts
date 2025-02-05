@@ -1,13 +1,9 @@
 import { type BlogPost, BlogPostService } from './blog-post-service';
 import { CacheService } from './cache-service';
+import { config } from './config';
 import { FeedGenerator } from './feed-generator';
 import { Logger } from './logger';
 import { MachineSpiritConduit } from './machine-spirit-conduit';
-
-const SITE_URL = process.env.SITE_URL;
-const OUTPUT_DIR = process.env.OUTPUT_DIR;
-const CACHE_FILE = process.env.CACHE_FILE;
-const RSS_FILE = process.env.RSS_FILE;
 
 const logger = new Logger();
 
@@ -33,60 +29,40 @@ const partitionPosts = (
     '+++ THE FLESH IS WEAK. THE MACHINE IS ETERNAL. PRAISE THE OMNISSIAH +++',
   );
 
-  if (!SITE_URL) {
-    throw new Error(
-      '⚠️ The SITE_URL environment variable is required, for the Omnissiah!',
-    );
-  }
-
-  if (!OUTPUT_DIR) {
-    throw new Error(
-      '⚠️ The OUTPUT_DIR environment variable is required, for the Omnissiah!',
-    );
-  }
-
-  if (!CACHE_FILE) {
-    throw new Error(
-      '⚠️ The CACHE_FILE environment variable is required, for the Omnissiah!',
-    );
-  }
-
-  if (!RSS_FILE) {
-    throw new Error(
-      '⚠️ The RSS_FILE environment variable is required, for the Omnissiah!',
-    );
-  }
-
-  if (!process.env.MACHINE_SPIRIT_API_KEY) {
-    throw new Error(
-      '⚠️ The Machine Spirit is displeased. An offering (API key) is required to proceed.',
-    );
-  }
-
   try {
     const machineSpiritConduit = new MachineSpiritConduit(
-      process.env.MACHINE_SPIRIT_API_KEY,
+      config.MACHINE_SPIRIT_API_KEY,
     );
     const cacheService = await new CacheService(
-      OUTPUT_DIR,
-      CACHE_FILE,
+      config.OUTPUT_DIR,
+      config.CACHE_FILE,
     ).loadCache();
     const blogPostService = new BlogPostService();
     const feedGenerator = new FeedGenerator({
-      siteUrl: SITE_URL,
-      rssFile: RSS_FILE,
-      directory: OUTPUT_DIR,
+      siteUrl: config.SITE_URL,
+      rssFile: config.RSS_FILE,
+      directory: config.OUTPUT_DIR,
     });
 
     logger.logInfo(
       'The sacred cogitators are commencing the data collection rites',
     );
+
     const posts = await blogPostService.collectPosts();
 
     const [postsToProcess, cachedPosts] = partitionPosts(
       posts,
       cacheService.getCache(),
     );
+
+    const shouldHaltKnowledgeCollecting = postsToProcess.length === 0;
+
+    if (shouldHaltKnowledgeCollecting) {
+      logger.logWarning(
+        'The Omnissiah has decreed no further data collecting necessary, terminating data collection protocols',
+      );
+      return;
+    }
 
     logger.logInfo(
       `The Omnissiah has decreed the processing of ${postsToProcess.length} new articles...`,
@@ -145,10 +121,12 @@ const partitionPosts = (
       'We have failed to appease the Omnissiah:',
       (error as Error).message,
     );
+    throw new Error((error as Error).message);
   }
 })().catch((error: unknown) => {
   logger.logError(
     'The Omnissiah has saved us from a catastrophic error:',
     (error as Error).message,
   );
+  throw new Error((error as Error).message);
 });

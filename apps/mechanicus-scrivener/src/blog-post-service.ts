@@ -1,4 +1,5 @@
 import { launch, type Page } from 'puppeteer';
+import { config } from './config';
 import { Logger } from './logger';
 
 interface BlogPost {
@@ -10,7 +11,7 @@ interface BlogPost {
 }
 
 class BlogPostService {
-  private siteUrl = process.env.SITE_URL ?? '';
+  private siteUrl = config.SITE_URL;
   private logger = new Logger();
   private async launchBrowser() {
     try {
