@@ -1,8 +1,8 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Feed } from 'feed';
-import { type BlogPost } from './blog-post-service';
 import { FileManager } from './file-manager';
 import { Logger } from './logger';
+import { type NewsArticle } from './war-com-api-client';
 
 interface RssItem {
   link: string;
@@ -25,25 +25,19 @@ export class FeedGenerator {
   private parser = new RSSParser();
   private fileManager = new FileManager();
   private logger = new Logger();
+  private baseUrl = 'https://www.warhammer-community.com/en-us';
+  private assetUrl = 'https://assets.warhammer-community.com';
 
   private feed: Feed;
   private directory: string;
   private filePath: string;
 
-  constructor({
-    siteUrl,
-    rssFile,
-    directory,
-  }: {
-    siteUrl: string;
-    rssFile: string;
-    directory: string;
-  }) {
+  constructor({ rssFile, directory }: { rssFile: string; directory: string }) {
     this.feed = new Feed({
       title: 'Warhammer 40k Community RSS Feed',
       description: 'Latest intelligence reports from the Warhammer Community',
-      id: siteUrl,
-      link: siteUrl,
+      id: this.baseUrl,
+      link: this.baseUrl,
       language: 'en',
       copyright: 'Games Workshop',
     });
@@ -52,24 +46,26 @@ export class FeedGenerator {
     this.filePath = `${directory}/${rssFile}`;
   }
 
-  public addPostToFeed(post: BlogPost, aiSummary: string): void {
+  public addPostToFeed(post: NewsArticle): void {
     this.logger.logInfo(
       `Adding newly acquired intelligence to the feed: ${post.title}`,
-    );
-    if (!post.date) return;
-
-    const parsedDate = new Date(
-      `20${post.date.slice(-2)}-${post.date.slice(3, 6)}-${post.date.slice(0, 2)}`,
     );
 
     this.feed.addItem({
       title: post.title,
-      id: post.url,
-      link: post.url,
-      description: aiSummary,
-      date: parsedDate,
-      image: post.image,
-      category: [{ name: post.category }],
+      id: post.id,
+      guid: post.uuid,
+      link: `${this.baseUrl}${post.uri}`,
+      description: post.excerpt,
+      date: new Date(post.date),
+      image: `${this.assetUrl}/${post.image.path}`,
+      category: [
+        ...post.topics.map((topic) => ({
+          name: topic.title,
+          domain: topic.slug,
+        })),
+        ...(post.collection ? [{ name: post.collection }] : []),
+      ],
     });
   }
 

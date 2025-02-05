@@ -38,19 +38,10 @@ jobs:
         env:
           MACHINE_SPIRIT_API_KEY: ${{ secrets.MACHINE_SPIRIT_API_KEY }}
           SYSTEM_PROMPT: ${{ secrets.SYSTEM_PROMPT }}
-        run: |
-          declare -A sites=(
-            ["All News"]="https://www.warhammer-community.com/en-gb/all-news-and-features/ all-cache.json all.rss"
-            ["Warhammer 40k"]="https://www.warhammer-community.com/en-gb/setting/warhammer-40000/ 40k-cache.json 40k.rss"
-            ["Kill Team"]="https://www.warhammer-community.com/en-us/setting/kill-team/ kill-team-cache.json kill-team.rss"
-          )
-
-          for name in "${!sites[@]}"; do
-            IFS=' ' read -r url cache rss <<< "${sites[$name]}"
-            echo "⚙️ Updating RSS for $name..."
-            SITE_URL="$url" CACHE_FILE="$cache" RSS_FILE="$rss" OUTPUT_DIR='./docs' \
-            npx nx run mechanicus-scrivener:generate-rss
-          done
+          OUTPUT_DIR: ${{ vars.OUTPUT_DIR }}
+          CACHE_FILE: ${{ vars.CACHE_FILE }}
+          RSS_FILE: ${{ vars.RSS_FILE }}
+        run: npx nx run mechanicus-scrivener:generate-rss
 
       - name: '🚀 Check for RSS Feed Changes'
         id: check_changes

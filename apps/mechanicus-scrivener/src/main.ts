@@ -1,28 +1,9 @@
-import { type BlogPost, BlogPostService } from './blog-post-service';
-import { CacheService } from './cache-service';
 import { config } from './config';
 import { FeedGenerator } from './feed-generator';
 import { Logger } from './logger';
-import { MachineSpiritConduit } from './machine-spirit-conduit';
+import { WarComApiClient } from './war-com-api-client';
 
 const logger = new Logger();
-
-const partitionPosts = (
-  posts: BlogPost[],
-  cache: Record<string, string>,
-): [BlogPost[], BlogPost[]] => {
-  return posts.reduce<[BlogPost[], BlogPost[]]>(
-    ([toProcess, cached], post) => {
-      if (cache[post.url]) {
-        cached.push(post);
-      } else {
-        toProcess.push(post);
-      }
-      return [toProcess, cached];
-    },
-    [[], []],
-  );
-};
 
 (async () => {
   logger.logInfo(
@@ -30,16 +11,8 @@ const partitionPosts = (
   );
 
   try {
-    const machineSpiritConduit = new MachineSpiritConduit(
-      config.MACHINE_SPIRIT_API_KEY,
-    );
-    const cacheService = await new CacheService(
-      config.OUTPUT_DIR,
-      config.CACHE_FILE,
-    ).loadCache();
-    const blogPostService = new BlogPostService();
+    const warComApiClient = new WarComApiClient();
     const feedGenerator = new FeedGenerator({
-      siteUrl: config.SITE_URL,
       rssFile: config.RSS_FILE,
       directory: config.OUTPUT_DIR,
     });
@@ -48,52 +21,25 @@ const partitionPosts = (
       'The sacred cogitators are commencing the data collection rites',
     );
 
-    const posts = await blogPostService.collectPosts();
-
-    const [postsToProcess, cachedPosts] = partitionPosts(
-      posts,
-      cacheService.getCache(),
-    );
-
-    const shouldHaltKnowledgeCollecting = postsToProcess.length === 0;
-
-    if (shouldHaltKnowledgeCollecting) {
-      logger.logWarning(
-        'The Omnissiah has decreed no further data collecting necessary, terminating data collection protocols',
-      );
-      return;
-    }
-
-    logger.logInfo(
-      `The Omnissiah has decreed the processing of ${postsToProcess.length} new articles...`,
-    );
+    const response = await warComApiClient.fetchNews({
+      sortBy: 'date_desc',
+      category: '',
+      collections: ['articles', 'videos'],
+      game_systems: [],
+      index: 'news',
+      locale: 'en-us',
+      page: 0,
+      perPage: 24,
+      topics: [],
+    });
 
     const { default: pLimit } = await import('p-limit');
     const limit = pLimit(5);
 
     await Promise.all([
-      ...postsToProcess.map((post) =>
-        limit(async () => {
-          const sacredSummaryInvocation = `Invoke the Omnissiah's wisdom to summarize this Warhammer article in a single sentence: ${post.title} - ${post.url}`;
-          const knowledgeOfTheMachineGod =
-            await machineSpiritConduit.receiveWisdom(sacredSummaryInvocation);
-
-          if (!cacheService.getCacheRecord(post.url)) {
-            cacheService.updateCacheRecord(post.url, knowledgeOfTheMachineGod);
-            feedGenerator.addPostToFeed(post, knowledgeOfTheMachineGod);
-          }
-        }),
-      ),
-      ...cachedPosts.map((post) =>
+      response.news.map((post) =>
         limit(() => {
-          logger.logInfo(
-            `🔄 The Machine Spirit's stored wisdom is being utilized for: ${post.title}`,
-          );
-          const cachedPost = cacheService.getCacheRecord(post.url);
-
-          if (cachedPost) {
-            feedGenerator.addPostToFeed(post, cachedPost);
-          }
+          feedGenerator.addPostToFeed(post);
         }),
       ),
     ]);
@@ -105,8 +51,6 @@ const partitionPosts = (
         shouldUpdate ? 'needs' : 'does not need'
       } updating`,
     );
-
-    await cacheService.cleanCache(posts).saveCache();
 
     if (!shouldUpdate) {
       logger.logInfo('The sacred rites of data processing have been completed');

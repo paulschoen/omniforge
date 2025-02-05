@@ -7,7 +7,6 @@ export const getEnvVariable = (name: string): string => {
 };
 
 export const config = {
-  SITE_URL: getEnvVariable('SITE_URL'),
   OUTPUT_DIR: getEnvVariable('OUTPUT_DIR'),
   CACHE_FILE: getEnvVariable('CACHE_FILE'),
   RSS_FILE: getEnvVariable('RSS_FILE'),

@@ -1,4 +1,3 @@
-import { type BlogPost } from './blog-post-service';
 import { FileManager } from './file-manager';
 import { Logger } from './logger';
 
@@ -47,24 +46,6 @@ export class CacheService {
       );
       this.cache = { ...readCache };
     }
-
-    return this;
-  }
-
-  public cleanCache(posts: readonly BlogPost[]): this {
-    this.logger.logInfo('Optimizing machine spirit drives');
-    const newUrls = posts.map((post) => post.url);
-
-    this.cache = Object.keys(this.cache).reduce<Record<string, string>>(
-      (acc, oldUrl) => {
-        if (newUrls.includes(oldUrl) && this.cache[oldUrl] !== undefined) {
-          const updatedAcc = { ...acc, [oldUrl]: this.cache[oldUrl] };
-          return updatedAcc;
-        }
-        return acc;
-      },
-      {},
-    );
 
     return this;
   }
