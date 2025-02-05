@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Feb 2025 06:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 13:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer+ this week – Three new shows and a Black Library competition]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/ixdut39m/warhammer-this-week-three-new-shows-and-a-black-library-competition</link>
+            <guid>ixdut39m</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whtv_deepstrike-feb05-1-feature-gqk1uxg3wd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Contrast expert Vincent Knotley tells us how it changed his approach to painting]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/fuwlhygh/contrast-expert-vincent-knotley-tells-us-how-it-changed-his-approach-to-painting</link>
@@ -268,21 +277,6 @@
             <description><![CDATA[Stop in and get your Miniature of the Month.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-jan27-feature-sz6eut9tqb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Get to grips wiv da Gitz]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/pgur3wwq/sunday-preview-get-to-grips-wiv-da-gitz</link>
-            <guid>pgur3wwq</guid>
-            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gloomspite Gitz join Necromunda goodies and a massive Empire of Man Made to Order]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan26-1-feature-lgiw2ftdhu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
