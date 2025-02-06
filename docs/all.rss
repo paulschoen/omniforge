@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Feb 2025 13:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 14:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Battle Biovores with the Raven Guard and Salamanders in the new Space Marine II update]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/glgzkzii/battle-biovores-with-the-raven-guard-and-salamanders-in-the-new-space-marine-ii-update</link>
+            <guid>glgzkzii</guid>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New free content is available now.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="tyranids">Tyranids</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update-feb04-1-feature-aclprp8ovc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -264,16 +279,6 @@
             <category domain="gloomspite-gitz">Gloomspite Gitz</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_gloomspite-gitmobs-jan28-1-feature-7ovwlmtop7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to play Khorne in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/itdneo94/touchline-tactics-how-to-play-khorne-in-blood-bowl</link>
-            <guid>itdneo94</guid>
-            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Balls for the blood god!]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_khornetactica-jan28-1-feature-rlbpjnmrkf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
