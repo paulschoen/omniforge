@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Feb 2025 15:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 11:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Is the newest JOYTOY Primarch Alpharius or Omegon?]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/yykxdoln/is-the-newest-joytoy-primarch-alpharius-or-omegon</link>
+            <guid>yykxdoln</guid>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Alpha Legion as you’ve never seen them before.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/joytoy_alpharius-feb06-1-feature-4y2rfmdltu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer+ February 2025 Promotion: Terms & Conditions]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/iplbvtmk/warhammer-february-2025-promotion-terms-conditions</link>
@@ -262,17 +273,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jan28-feature-dnxwd0afm7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The four faces of the Bad Moon – And how they influence the Gloomspite Gitz]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/uszshwyt/the-four-faces-of-the-bad-moon-and-how-they-influence-the-gloomspite-gitz</link>
-            <guid>uszshwyt</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It laughs, it cries, it makes your grots go wild.]]></description>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gloomspite-badmoon-jan27-1-feature-vusslkxkmf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
