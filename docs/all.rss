@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Feb 2025 14:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 15:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – Mechanicum heavy support]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/azq6kpaa/heresy-thursday-mechanicum-heavy-support</link>
+            <guid>azq6kpaa</guid>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New toys from the boffins on Mars.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_mechheavysupport-fab6-feature-5mry5ioic7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Datavault Update Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-us/videos/g0vlc6dd/warhammer-40000-space-marine-2-datavault-update-trailer</link>
+            <guid>g0vlc6dd</guid>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Saber Interactive and Focus Entertainment are thrilled to welcome the third major content update for their 2024 blockbuster Warhammer 40,000: Space Marine 2. Titled “Datavault”, this update brings more free content and much-requested quality-of-life improvements to all players whilst granting Season Pass owners with evermore cosmetics to customize their Space Marines.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_datavault_trailer_thumbnail_1920x1080-rqqrc69a3k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Battle Biovores with the Raven Guard and Salamanders in the new Space Marine II update]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/glgzkzii/battle-biovores-with-the-raven-guard-and-salamanders-in-the-new-space-marine-ii-update</link>
@@ -258,27 +282,6 @@
             <category domain="space-marines">Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warcom_feature-crfg7zqh9s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join Hang Out and Paint for a New Year, New Challenge special today]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/kz8wvmt1/join-hang-out-and-paint-for-a-new-year-new-challenge-special-today</link>
-            <guid>kz8wvmt1</guid>
-            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Don’t miss this fun afternoon of Warhammer hobbying.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nync_hangout-jan28-feature-rfeq8n5i2u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snarl, dazzle and roll – Here’s how the Gitmob run roughshod over their enemies]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/voke2f8t/snarl-dazzle-and-roll-heres-how-the-gitmob-run-roughshod-over-their-enemies</link>
-            <guid>voke2f8t</guid>
-            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wolves and wheels at the ready.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gloomspite-gitmobs-jan28-1-feature-7ovwlmtop7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
