@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Feb 2025 11:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 13:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>s9vyktok</guid>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the warrior-mystics of a dying civilisation.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aeldarifaction-feature-w5veaie7op.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Is the newest JOYTOY Primarch Alpharius or Omegon?]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/yykxdoln/is-the-newest-joytoy-primarch-alpharius-or-omegon</link>
@@ -263,16 +274,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_khornetactica-jan28-1-feature-rlbpjnmrkf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 28th of January]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/cfdrruqd/the-rumour-engine-28th-of-january</link>
-            <guid>cfdrruqd</guid>
-            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jan28-feature-dnxwd0afm7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
