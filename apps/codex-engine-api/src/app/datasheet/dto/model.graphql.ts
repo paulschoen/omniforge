@@ -1,37 +1,37 @@
-import { Field, ObjectType, Int } from '@nestjs/graphql';
+import { Field, Int, ObjectType } from '@nestjs/graphql';
 
 @ObjectType()
 export class ModelDTO {
   @Field(() => Int)
-  datasheet_id: number;
+  datasheet_id!: number;
 
   @Field(() => Int)
-  line: number;
+  line!: number;
 
   @Field()
-  name: string;
+  name!: string;
 
   @Field()
-  M: string; // Movement
+  M!: string; // Movement
 
   @Field(() => Int)
-  T: number; // Toughness
+  T!: number; // Toughness
 
   @Field()
-  Sv: string; // Save
+  Sv!: string; // Save
 
   @Field(() => Int)
-  inv_sv: number; // Invulnerable Save
+  inv_sv!: number; // Invulnerable Save
 
   @Field(() => Int)
-  W: number; // Wounds
+  W!: number; // Wounds
 
   @Field()
-  Ld: string; // Leadership
+  Ld!: string; // Leadership
 
   @Field(() => Int)
-  OC: number; // Opportunity Cost?
+  OC!: number; // Opportunity Capture
 
   @Field()
-  base_size: string; // Base size
+  base_size!: string; // Base size
 }
