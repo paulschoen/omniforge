@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Feb 2025 14:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 16:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aeldari Aspect Warrior Showcase – Painted by the Warhammer Community team and friends]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/gbbjx5hj/aeldari-aspect-warrior-showcase-painted-by-the-warhammer-community-team-and-friends</link>
+            <guid>gbbjx5hj</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Another take on the new miniatures.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_warcomaspects-feb7-1-feature-1jnyi3b6ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – Death Korps of Krieg showcase]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ndlh7qmf/armies-on-parade-2025-death-korps-of-krieg-showcase</link>
@@ -270,17 +282,6 @@
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-jan30-1-feature-g0qemky6xt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team balance update – Big changes to Chaos and beyond]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/r0gmsdh0/kill-team-balance-update-big-changes-to-chaos-and-beyond</link>
-            <guid>r0gmsdh0</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the balance updates here.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="metawatch">Metawatch</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_update-jan29-1-feature-km4q8kr19b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
