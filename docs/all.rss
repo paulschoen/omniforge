@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Feb 2025 15:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 13:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Nachmund Gauntlet – Crusade campaigns continue in Warhammer 40,000 as Haarken Worldclaimer returns]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/llvpv2wh/nachmund-gauntlet-crusade-campaigns-continue-in-warhammer-40000-as-haarken-worldclaimer-returns</link>
+            <guid>llvpv2wh</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next narrative campaign expansion is on the way.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ngcrusade-feb07-1-feature-fzpfjrwbqi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – Mechanicum heavy support]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/azq6kpaa/heresy-thursday-mechanicum-heavy-support</link>
@@ -269,19 +279,6 @@
             <category domain="orks">Orks</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whtv_demolishunderby-jan29-feature-mdxkqiubhg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astartes II Teaser Trailer – Watch it right now]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/8ovvyar9/astartes-ii-teaser-trailer-watch-it-right-now</link>
-            <guid>8ovvyar9</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[An update on the second Astartes Animation]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcom_feature-crfg7zqh9s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
