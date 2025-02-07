@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Feb 2025 13:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 14:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies on Parade 2025 – Death Korps of Krieg showcase]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/ndlh7qmf/armies-on-parade-2025-death-korps-of-krieg-showcase</link>
+            <guid>ndlh7qmf</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first progress report of the year comes in from Tabletop Time.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_kriegdiorama-feb07-1-feature-dcc8q8lful.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nachmund Gauntlet – Crusade campaigns continue in Warhammer 40,000 as Haarken Worldclaimer returns]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/llvpv2wh/nachmund-gauntlet-crusade-campaigns-continue-in-warhammer-40000-as-haarken-worldclaimer-returns</link>
@@ -268,17 +281,6 @@
             <category domain="metawatch">Metawatch</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_update-jan29-1-feature-km4q8kr19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WarhammerTV this week – Orks get behind the wheel in Arena of Death]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/9ju0qs4b/warhammertv-this-week-orks-get-behind-the-wheel-in-arena-of-death</link>
-            <guid>9ju0qs4b</guid>
-            <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three shows come to WarhammerTV this Wednesday.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="orks">Orks</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whtv_demolishunderby-jan29-feature-mdxkqiubhg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
