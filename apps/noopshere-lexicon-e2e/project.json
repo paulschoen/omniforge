@@ -1,0 +1,9 @@
+{
+  "name": "noosphere-lexicon-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/noopshere-lexicon-e2e/src",
+  "implicitDependencies": ["noosphere-lexicon"],
+  "// targets": "to see all targets run: nx show project noosphere-lexicon-e2e --web",
+  "targets": {}
+}
