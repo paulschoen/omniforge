@@ -5,7 +5,7 @@ const project = resolve(__dirname, 'tsconfig.base.json');
 module.exports = {
   root: true,
   ignorePatterns: ['**/*'],
-  plugins: ['@nx'],
+  plugins: ['@nx', 'prefer-arrow'],
   extends: [
     require.resolve('@vercel/style-guide/eslint/browser'),
     require.resolve('@vercel/style-guide/eslint/node'),
@@ -25,6 +25,14 @@ module.exports = {
     {
       files: ['*.ts', '*.tsx', '*.js', '*.jsx'],
       rules: {
+        'prefer-arrow/prefer-arrow-functions': [
+          'warn',
+          {
+            disallowPrototype: true,
+            singleReturnOnly: false,
+            classPropertiesAllowed: false,
+          },
+        ],
         '@nx/enforce-module-boundaries': [
           'error',
           {
@@ -43,7 +51,9 @@ module.exports = {
     {
       files: ['*.ts', '*.tsx'],
       extends: ['plugin:@nx/typescript'],
-      rules: {},
+      rules: {
+        '@typescript-eslint/restrict-template-expressions': 'off',
+      },
     },
     {
       files: ['*.js', '*.jsx'],

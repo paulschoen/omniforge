@@ -1,0 +1,19 @@
+{
+  "name": "data-access",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "lib/shared/data-access/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/lib/shared/data-access",
+        "main": "lib/shared/data-access/src/index.ts",
+        "tsConfig": "lib/shared/data-access/tsconfig.lib.json",
+        "assets": ["lib/shared/data-access/*.md"]
+      }
+    }
+  }
+}

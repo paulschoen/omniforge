@@ -1,0 +1,11 @@
+// eslint-disable-next-line import/no-default-export -- we want to export a default
+export default {
+  displayName: 'constants',
+  preset: '../../../jest.preset.js',
+  testEnvironment: 'node',
+  transform: {
+    '^.+\\.[tj]s$': ['ts-jest', { tsconfig: '<rootDir>/tsconfig.spec.json' }],
+  },
+  moduleFileExtensions: ['ts', 'js', 'html'],
+  coverageDirectory: '../../../coverage/lib/shared/constants',
+};

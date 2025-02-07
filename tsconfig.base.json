@@ -17,7 +17,9 @@
     "baseUrl": ".",
     "paths": {
       "@codex-engine-api/*": ["apps/codex-engine-api/src/*"],
-      "@omniforge/shared-constants": ["lib/shared-constants/src/index.ts"]
+      "@omniforge/constants": ["lib/shared/constants/src/index.ts"],
+      "@omniforge/data-access": ["lib/shared/data-access/src/index.ts"],
+      "@omniforge/utils": ["lib/shared/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

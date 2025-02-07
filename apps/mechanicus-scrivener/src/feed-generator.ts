@@ -1,8 +1,8 @@
 import { XMLParser } from 'fast-xml-parser';
 import { Feed } from 'feed';
+import { type NewsArticle } from '@omniforge/data-access';
+import { Logger } from '@omniforge/utils';
 import { FileManager } from './file-manager';
-import { Logger } from './logger';
-import { type NewsArticle } from './war-com-api-client';
 
 interface RssItem {
   link: string;
@@ -24,7 +24,6 @@ export class RSSParser {
 export class FeedGenerator {
   private parser = new RSSParser();
   private fileManager = new FileManager();
-  private logger = new Logger();
   private baseUrl = 'https://www.warhammer-community.com/en-us';
   private assetUrl = 'https://assets.warhammer-community.com';
 
@@ -47,7 +46,7 @@ export class FeedGenerator {
   }
 
   public addPostToFeed(post: NewsArticle): void {
-    this.logger.logInfo(
+    Logger.info(
       `Adding newly acquired intelligence to the feed: ${post.title}`,
     );
 
@@ -71,14 +70,13 @@ export class FeedGenerator {
 
   public async isRssFileEmpty(): Promise<boolean> {
     try {
-      this.logger.logInfo('Checking if RSS file is empty');
+      Logger.info('Checking if RSS file is empty');
       return (
         (await this.fileManager.readFileContent(this.filePath)).length === 0
       );
     } catch (error: unknown) {
-      this.logger.logError(
-        'Error checking if RSS file is empty:',
-        (error as Error).message,
+      Logger.error(
+        `Error checking if RSS file is empty: ${(error as Error).message}`,
       );
       return true;
     }
@@ -86,7 +84,7 @@ export class FeedGenerator {
 
   public async determineIfFeedNeedsUpdate(): Promise<boolean> {
     try {
-      this.logger.logInfo('Checking if feed data needs further processing');
+      Logger.info('Checking if feed data needs further processing');
       await this.fileManager.ensureDirectory(this.directory);
       await this.fileManager.ensureFile(this.filePath);
 
@@ -96,13 +94,13 @@ export class FeedGenerator {
 
       return this.hasNewItems(fileLinks, newLinks);
     } catch (error: unknown) {
-      this.logger.logError('Error processing feeds:', (error as Error).message);
+      Logger.error(`Error processing feeds:, ${(error as Error).message}`);
       return false;
     }
   }
 
   private hasNewItems(oldItems: Set<string>, newItems: Set<string>): boolean {
-    this.logger.logInfo('Validating if new items are present');
+    Logger.info('Validating if new items are present');
     for (const item of newItems) {
       if (!oldItems.has(item)) {
         return true;
@@ -113,14 +111,14 @@ export class FeedGenerator {
 
   public async saveFeed(): Promise<void> {
     try {
-      this.logger.logInfo('Saving acquired feed data to codex');
+      Logger.info('Saving acquired feed data to codex');
       await this.fileManager.ensureDirectory(this.directory);
       await this.fileManager.ensureFile(this.filePath);
 
       await this.fileManager.writeFileContent(this.filePath, this.feed.rss2());
-      this.logger.logInfo(`RSS feed updated at: ${this.filePath}`);
+      Logger.info(`RSS feed updated at: ${this.filePath}`);
     } catch (error: unknown) {
-      this.logger.logError('Error saving feed:', (error as Error).message);
+      Logger.error(`Error saving feed: ${(error as Error).message}`);
       throw error;
     }
   }

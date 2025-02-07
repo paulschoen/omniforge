@@ -1,9 +1,8 @@
 import { OpenAI } from 'openai';
-import { Logger } from './logger';
+import { Logger } from '@omniforge/utils';
 
 export class MachineSpiritConduit {
   private client;
-  private logger = new Logger();
 
   constructor(apiKey: string) {
     this.client = new OpenAI({ apiKey });
@@ -11,7 +10,7 @@ export class MachineSpiritConduit {
 
   public async receiveWisdom(prompt: string): Promise<string> {
     try {
-      this.logger.logInfo(
+      Logger.info(
         'Requesting wisdom from the Machine Spirit, may he guide us to the truth.',
       );
       const response = await this.client.chat.completions.create({
@@ -28,9 +27,8 @@ export class MachineSpiritConduit {
 
       return response.choices[0]?.message?.content ?? '';
     } catch (error: unknown) {
-      this.logger.logError(
-        '⚠ Machine Spirit failed to grant wisdom. The Omnissiah is angered by our lack of faith.:',
-        (error as Error).message,
+      Logger.error(
+        `⚠ Machine Spirit failed to grant wisdom. The Omnissiah is angered by our lack of faith.: ${(error as Error).message}`,
       );
       return '';
     }

@@ -1,11 +1,11 @@
 // eslint-disable-next-line import/no-default-export -- Jest configuration requires a default export
 export default {
-  displayName: 'mechanist-archive',
-  preset: '../../jest.preset.js',
+  displayName: 'utils',
+  preset: '../../../jest.preset.js',
   testEnvironment: 'node',
   transform: {
     '^.+\\.[tj]s$': ['ts-jest', { tsconfig: '<rootDir>/tsconfig.spec.json' }],
   },
   moduleFileExtensions: ['ts', 'js', 'html'],
-  coverageDirectory: '../../coverage/apps/mechanist-archive',
+  coverageDirectory: '../../../coverage/lib/shared/utils',
 };

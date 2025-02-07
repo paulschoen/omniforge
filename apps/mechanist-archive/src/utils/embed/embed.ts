@@ -1,7 +1,9 @@
-import { EmbedBuilder, AttachmentBuilder } from 'discord.js';
-import { determineFactionColor } from '@omniforge/shared-constants';
+/* eslint-disable @typescript-eslint/restrict-template-expressions -- not a fan of this rule */
+import { AttachmentBuilder, EmbedBuilder } from 'discord.js';
+import { determineFactionColor } from '@omniforge/constants';
+import { Logger } from '@omniforge/utils';
 
-interface IMessagedEmbed {
+interface MessagedEmbed {
   id: number;
   dataSheetName: string;
   url: string;
@@ -11,7 +13,7 @@ interface IMessagedEmbed {
   imageBase64?: string;
 }
 
-export function createDatasheetEmbed({
+export const createDatasheetEmbed = ({
   id,
   dataSheetName,
   url,
@@ -19,14 +21,14 @@ export function createDatasheetEmbed({
   factionName,
   factionId,
   imageBase64,
-}: IMessagedEmbed) {
+}: MessagedEmbed): { embed: EmbedBuilder; file: AttachmentBuilder | null } => {
   const factionColor = determineFactionColor(factionId);
 
   const embedBuilder = new EmbedBuilder()
     .setTitle(dataSheetName)
     .setDescription(legend)
     .setURL(url)
-    .setFooter({ text: factionName })
+    .setFooter({ text: factionName ?? 'Unaligned Forces' })
     .setColor(factionColor);
 
   if (!imageBase64) {
@@ -41,7 +43,9 @@ export function createDatasheetEmbed({
 
     return { embed: embedBuilder, file };
   } catch (error) {
-    console.error('Error converting base64 to buffer:', error);
+    Logger.error(
+      `Failed to create image attachment for datasheet ${id}: ${error}`,
+    );
     throw new Error('Invalid image data provided');
   }
-}
+};
