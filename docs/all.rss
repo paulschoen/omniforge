@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Feb 2025 16:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 18:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-order – The Death Korps of Krieg prepare for all-out war]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/nglqrlot/saturday-pre-order-the-death-korps-of-krieg-prepare-for-all-out-war</link>
+            <guid>nglqrlot</guid>
+            <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are all of this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb08-1-feature-w7pu7hhjwx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeldari Aspect Warrior Showcase – Painted by the Warhammer Community team and friends]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/gbbjx5hj/aeldari-aspect-warrior-showcase-painted-by-the-warhammer-community-team-and-friends</link>
@@ -271,17 +285,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_thursday_arcuitormagisterium-jan30-1-feature-alldeb97mq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer World events – Make space in your diary for May]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/dw1hs9os/warhammer-world-events-make-space-in-your-diary-for-may</link>
-            <guid>dw1hs9os</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s your monthly events overview.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-jan30-1-feature-g0qemky6xt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
