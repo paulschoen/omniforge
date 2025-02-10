@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Feb 2025 14:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 15:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pledge yourself wholly to Chaos with four very special Limited Edition Codexes]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/patvk2xg/pledge-yourself-wholly-to-chaos-with-four-very-special-limited-edition-codexes</link>
+            <guid>patvk2xg</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unite all four to feel the true power of Chaos.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecltded-feb10-1-feature-amsb5jclf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miniature of the year alert – What are these Arcane Frogs up to in the Old World?]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ot0pmmpc/miniature-of-the-year-alert-what-are-these-arcane-frogs-up-to-in-the-old-world</link>
@@ -274,16 +287,6 @@
             <category domain="community-showcase">Community showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_gloomspiteinflu-jan31-1-feature-6ug8cadai4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Moon, Evil Sun – The duelling deities of the Gloomspite Gitz]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/7u3tnjhi/bad-moon-evil-sun-the-duelling-deities-of-the-gloomspite-gitz</link>
-            <guid>7u3tnjhi</guid>
-            <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Loony lore to be read by the light of the Bad Moon.]]></description>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gloomspite-sunvsmoonlore-jan31-1-feature-wohhwwrwgb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
