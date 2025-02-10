@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 09 Feb 2025 18:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 13:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Compete for glory and awesome prizes with the next Organised Play season for Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/n7slmyoz/compete-for-glory-and-awesome-prizes-with-the-next-organised-play-season-for-warhammer-40000</link>
+            <guid>n7slmyoz</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Head to your local store and get involved.]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_oppack2025-feb010-1-feature-4vsmxr4t7n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The first High Elves sail from Ulthuan]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ovvnjzam/sunday-preview-the-first-high-elves-sail-from-ulthuan</link>
@@ -274,17 +284,6 @@
             <category domain="gloomspite-gitz">Gloomspite Gitz</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_gloomspitebl-jan31-1-feature-esxxozov7l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer retrospective – The many ages of the Gloomspite Gitz]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/dpwbjxyb/warhammer-retrospective-the-many-ages-of-the-gloomspite-gitz</link>
-            <guid>dpwbjxyb</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Goblins have been part of Warhammer for a long time…]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gsgretroscpective-jan30-feature-7erposrswc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
