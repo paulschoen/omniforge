@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Feb 2025 15:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 12:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 11th of February]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/ygluox04/the-rumour-engine-11th-of-february</link>
+            <guid>ygluox04</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb11-feature-slnmlzg9b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pledge yourself wholly to Chaos with four very special Limited Edition Codexes]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/patvk2xg/pledge-yourself-wholly-to-chaos-with-four-very-special-limited-edition-codexes</link>
@@ -275,18 +285,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb01-1-feature-usbvqlzlhl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This red-hot Gitmob is coming to kill the sun]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ig5keojw/this-red-hot-gitmob-is-coming-to-kill-the-sun</link>
-            <guid>ig5keojw</guid>
-            <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Solar work from the team at Tabletop Titans.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gloomspiteinflu-jan31-1-feature-6ug8cadai4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
