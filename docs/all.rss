@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Feb 2025 12:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 13:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Shade, layer, and basecoat, in one! – Elite Contrast Paint tips from the Warhipster]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/6bh0qnr3/shade-layer-and-basecoat-in-one-elite-contrast-paint-tips-from-the-warhipster</link>
+            <guid>6bh0qnr3</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Josh Hill explains why he lives the Contrast life.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/cc-contrastpainting2-warhipster_feb11-1-feature-wxy2erlzdk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 11th of February]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ygluox04/the-rumour-engine-11th-of-february</link>
@@ -271,20 +282,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb2-1-feature-qcwpg3c04o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Gitz, gangers and the Empire of Man]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/7uor6wf4/saturday-pre-orders-gitz-gangers-and-the-empire-of-man</link>
-            <guid>7uor6wf4</guid>
-            <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pre-order all this right now!]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb01-1-feature-usbvqlzlhl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
