@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Feb 2025 13:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 14:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – The High Elves of Elthin Arvan]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/u9lmibri/old-world-almanack-the-high-elves-of-elthin-arvan</link>
+            <guid>u9lmibri</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What are they up to in the Old World?]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_highelflore-feb11-feature-x4qoytrdct.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 Contrast Paint Hacks | Intermediate | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-us/videos/nnmjp0yf/6-contrast-paint-hacks-intermediate-warhammer</link>
+            <guid>nnmjp0yf</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Contrast paints are a favourite of many painters who want to get their armies painted in no time at all! However, these paints can do so much more than base and shade your minis! 
+Adding colour transitions, enriching tones and elevating your bases are all in a day's work for these paints! Join Dan as he explores a range of Tips ‘n’ Tricks you can achieve using contrast paints! 
+If you're new to painting, our Colour Painting Essentials playlist hosts an array of beginner-friendly videos to help you get started.]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv00979---contrast-tip-long-form-thumbnail-uvivzargs3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shade, layer, and basecoat, in one! – Elite Contrast Paint tips from the Warhipster]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/6bh0qnr3/shade-layer-and-basecoat-in-one-elite-contrast-paint-tips-from-the-warhipster</link>
@@ -42,6 +66,17 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecltded-feb10-1-feature-amsb5jclf3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting Fur With Contrast Paints! | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-us/videos/gbtubtug/painting-fur-with-contrast-paints-warhammer-age-of-sigmar</link>
+            <guid>gbtubtug</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Gitmob have landed and their snarlfangs are off the leash! With more fur in the game, Dan’s at the ready with Contrast paints to get these Snarlfangs set to charge into battle with three speedy schemes.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv00989-gloomspite-gitz-v3-copy-iqpkmlwnz2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miniature of the year alert – What are these Arcane Frogs up to in the Old World?]]></title>
@@ -245,43 +280,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd509-feb03-1-feature-khjsymc5zp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – The Merwyrm returns from the depths]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/vqtyoanc/old-world-almanack-the-merwyrm-returns-from-the-depths</link>
-            <guid>vqtyoanc</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The High Elves bring a pelagic predator to bear.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_merwyrm-feb03-feature-fkxhxgfk2v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trench Grime on Krieg Artillery with Contrast paints | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-us/videos/1dwk5q1b/trench-grime-on-krieg-artillery-with-contrast-paints-warhammer-40000</link>
-            <guid>1dwk5q1b</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch along as Adam uses Contrast paints to his advantage! In this video Adam goes over a number of tips and tricks to use Contrast paints to quickly weather his Death Korps of Krieg artillery so that it looks battle worn in its glorious service to the Emperor!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/weathering-gun-4-1tg6mvbxhs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The galaxy calls, and Krieg answers]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/t3bhbkgg/sunday-preview-the-galaxy-calls-and-krieg-answers</link>
-            <guid>t3bhbkgg</guid>
-            <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb2-1-feature-qcwpg3c04o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
