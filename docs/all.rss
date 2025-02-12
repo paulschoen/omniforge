@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Feb 2025 14:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 13:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week – How the new edition of Kill Team was designed]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/nwd97ve2/warhammer-tv-this-week-how-the-new-edition-of-kill-team-was-designed</link>
+            <guid>nwd97ve2</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, new episodes of Loremasters and Scrap Demon.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whtv-feb12-1-feature-lrn1txwrv3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – The High Elves of Elthin Arvan]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/u9lmibri/old-world-almanack-the-high-elves-of-elthin-arvan</link>
@@ -270,16 +280,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-feb4-feature-bg1p3xhzux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 509 – Take Knights into Combat Patrol and forge heroes on the Anvil of Apotheosis]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/pzpeenok/white-dwarf-509-take-knights-into-combat-patrol-and-forge-heroes-on-the-anvil-of-apotheosis</link>
-            <guid>pzpeenok</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s in this month’s issue?]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd509-feb03-1-feature-khjsymc5zp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
