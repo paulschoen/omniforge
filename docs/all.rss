@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Feb 2025 13:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 14:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Da Mad Dok is in – Grotsnik puts on a clinic in a new Black Library book]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/xqwu6c0l/da-mad-dok-is-in-grotsnik-puts-on-a-clinic-in-a-new-black-library-book</link>
+            <guid>xqwu6c0l</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[An incisive new novel about Orks.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="orks">Orks</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_maddok-feb12-1-feature-qk6i8bzrl8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week – How the new edition of Kill Team was designed]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/nwd97ve2/warhammer-tv-this-week-how-the-new-edition-of-kill-team-was-designed</link>
@@ -270,16 +282,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/cc-contrastpainting-knotley_feb04-1-feature-zafrtvikn2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 4th of February]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/9p42xkwq/the-rumour-engine-4th-of-february</link>
-            <guid>9p42xkwq</guid>
-            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb4-feature-bg1p3xhzux.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
