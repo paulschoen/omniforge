@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Feb 2025 14:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 13:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fight better battles in Middle-earth with the first Designers’ Commentary of 2025]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/lhh0ygi2/fight-better-battles-in-middle-earth-with-the-first-designers-commentary-of-2025</link>
+            <guid>lhh0ygi2</guid>
+            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download the latest fixes and clarifications.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_bolg-feb13-1-feature-vcq0y0pjll.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Da Mad Dok is in – Grotsnik puts on a clinic in a new Black Library book]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/xqwu6c0l/da-mad-dok-is-in-grotsnik-puts-on-a-clinic-in-a-new-black-library-book</link>
@@ -271,17 +281,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whtv_deepstrike-feb05-1-feature-gqk1uxg3wd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Contrast expert Vincent Knotley tells us how it changed his approach to painting]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/fuwlhygh/contrast-expert-vincent-knotley-tells-us-how-it-changed-his-approach-to-painting</link>
-            <guid>fuwlhygh</guid>
-            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More tips to help you paint.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/cc-contrastpainting-knotley_feb04-1-feature-zafrtvikn2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
