@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Feb 2025 13:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 14:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – What’s in Arcane Journal: High Elf Realms?]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/fkxyhmsz/old-world-almanack-whats-in-arcane-journal-high-elf-realms</link>
+            <guid>fkxyhmsz</guid>
+            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at two special characters and their Armies of Infamy.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_highelfjournal-feb13-feature-he2skawqiu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fight better battles in Middle-earth with the first Designers’ Commentary of 2025]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/lhh0ygi2/fight-better-battles-in-middle-earth-with-the-first-designers-commentary-of-2025</link>
@@ -272,15 +284,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_aeldari-feb05-1-feature-dwbm3aklj4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer+ this week – Three new shows and a Black Library competition]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ixdut39m/warhammer-this-week-three-new-shows-and-a-black-library-competition</link>
-            <guid>ixdut39m</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whtv_deepstrike-feb05-1-feature-gqk1uxg3wd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
