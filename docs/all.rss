@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Feb 2025 16:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 17:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A Bloody, Brilliant Duo – Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-us/videos/1h2lh7nc/a-bloody-brilliant-duo-warhammer-the-horus-heresy</link>
+            <guid>1h2lh7nc</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Share your love of destruction with the bloody brilliant duo of Angron Transfigured and Lotara Sarrin, Mistress of the Conqueror:]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/angron_thumbnail-1gfinzklaq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – High Elf Realms miniatures]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/u9h0019a/old-world-almanack-high-elf-realms-miniatures</link>
@@ -276,17 +288,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_aeldarifaction-feature-w5veaie7op.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is the newest JOYTOY Primarch Alpharius or Omegon?]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/yykxdoln/is-the-newest-joytoy-primarch-alpharius-or-omegon</link>
-            <guid>yykxdoln</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Alpha Legion as you’ve never seen them before.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_alpharius-feb06-1-feature-4y2rfmdltu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
