@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Feb 2025 14:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 14:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Angron ascends and the Conqueror gets its Captain in Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/uu8prgos/angron-ascends-and-the-conqueror-gets-its-captain-in-warhammer-the-horus-heresy</link>
+            <guid>uu8prgos</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold the master and mistress of the World Eaters.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_wereveals-feb14-1-feature-wefk0uilfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – What’s in Arcane Journal: High Elf Realms?]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/fkxyhmsz/old-world-almanack-whats-in-arcane-journal-high-elf-realms</link>
@@ -272,18 +284,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1736327773-ktms5eupk5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explore the enigmatic Aeldari with these Black Library classics]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/zxxb5mab/explore-the-enigmatic-aeldari-with-these-black-library-classics</link>
-            <guid>zxxb5mab</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Crucial fiction for every budding Autarch.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_aeldari-feb05-1-feature-dwbm3aklj4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
