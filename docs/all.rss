@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 16:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – High Elf Realms miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/u9h0019a/old-world-almanack-high-elf-realms-miniatures</link>
+            <guid>u9h0019a</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Commentary on what’s returning to the range, and who’s new.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_highelfminis-feb14-feature-ory9loftod.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Angron ascends and the Conqueror gets its Captain in Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/uu8prgos/angron-ascends-and-the-conqueror-gets-its-captain-in-warhammer-the-horus-heresy</link>
@@ -276,14 +287,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_alpharius-feb06-1-feature-4y2rfmdltu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer+ February 2025 Promotion: Terms & Conditions]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/iplbvtmk/warhammer-february-2025-promotion-terms-conditions</link>
-            <guid>iplbvtmk</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1736327773-ktms5eupk5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
