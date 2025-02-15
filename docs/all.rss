@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Feb 2025 17:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 18:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The High Elf Realms show the rest of the Old World who’s best]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/9ghpgled/saturday-pre-orders-the-high-elf-realms-show-the-rest-of-the-old-world-whos-best</link>
+            <guid>9ghpgled</guid>
+            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb15-1-feature-mj2ajwhoea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Bloody, Brilliant Duo – Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-us/videos/1h2lh7nc/a-bloody-brilliant-duo-warhammer-the-horus-heresy</link>
@@ -277,17 +289,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="tyranids">Tyranids</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_update-feb04-1-feature-aclprp8ovc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>s9vyktok</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the warrior-mystics of a dying civilisation.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_aeldarifaction-feature-w5veaie7op.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
