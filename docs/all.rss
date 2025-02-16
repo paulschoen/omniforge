@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 15 Feb 2025 18:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 18:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Get ready for the Black Library Celebration]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/ndhfp4zl/sunday-preview-get-ready-for-the-black-library-celebration</link>
+            <guid>ndhfp4zl</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Piles of books, and new miniatures for The Horus Heresy.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-fab16-1-feature-fw4fcfs1fj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The High Elf Realms show the rest of the Old World who’s best]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/9ghpgled/saturday-pre-orders-the-high-elf-realms-show-the-rest-of-the-old-world-whos-best</link>
@@ -274,21 +285,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_datavault_trailer_thumbnail_1920x1080-rqqrc69a3k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Battle Biovores with the Raven Guard and Salamanders in the new Space Marine II update]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/glgzkzii/battle-biovores-with-the-raven-guard-and-salamanders-in-the-new-space-marine-ii-update</link>
-            <guid>glgzkzii</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New free content is available now.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="tyranids">Tyranids</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-feb04-1-feature-aclprp8ovc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
