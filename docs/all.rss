@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Feb 2025 14:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 15:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Combat Patrol magazine comes to the USA]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/isb7exp0/combat-patrol-magazine-comes-to-the-usa</link>
+            <guid>isb7exp0</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Getting into Warhammer 40,000 is about to become easier than ever with Combat Patrol, a new subscription magazine produced in partnership with Hachette.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_combatpatrolmag-usa-2ug7py8fdg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Celebration – Who are the heroes of Hell’s Last?]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/apniqcej/black-library-celebration-who-are-the-heroes-of-hells-last</link>
@@ -276,16 +287,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="community-showcase">Community showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_kriegdiorama-feb07-1-feature-dcc8q8lful.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nachmund Gauntlet – Crusade campaigns continue in Warhammer 40,000 as Haarken Worldclaimer returns]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/llvpv2wh/nachmund-gauntlet-crusade-campaigns-continue-in-warhammer-40000-as-haarken-worldclaimer-returns</link>
-            <guid>llvpv2wh</guid>
-            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The next narrative campaign expansion is on the way.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ngcrusade-feb07-1-feature-fzpfjrwbqi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
