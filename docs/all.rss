@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Feb 2025 13:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 14:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library Celebration – Who are the heroes of Hell’s Last?]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/apniqcej/black-library-celebration-who-are-the-heroes-of-hells-last</link>
+            <guid>apniqcej</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Brush up on your Minka Lesk knowledge.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_celebration1-hellslast-feb17-1-feature-h41qgmkyof.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Blades of the Hollow King are ready to draw blood for the Soulblight Gravelords]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/6i1kglij/the-blades-of-the-hollow-king-are-ready-to-draw-blood-for-the-soulblight-gravelords</link>
@@ -274,18 +286,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ngcrusade-feb07-1-feature-fzpfjrwbqi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – Mechanicum heavy support]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/azq6kpaa/heresy-thursday-mechanicum-heavy-support</link>
-            <guid>azq6kpaa</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New toys from the boffins on Mars.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_mechheavysupport-fab6-feature-5mry5ioic7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
