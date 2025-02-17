@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 16 Feb 2025 18:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 13:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Blades of the Hollow King are ready to draw blood for the Soulblight Gravelords]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/6i1kglij/the-blades-of-the-hollow-king-are-ready-to-draw-blood-for-the-soulblight-gravelords</link>
+            <guid>6i1kglij</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cado and company are unveiled.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_hollowking-feb17-1-feature-gx9keemawd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Get ready for the Black Library Celebration]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/ndhfp4zl/sunday-preview-get-ready-for-the-black-library-celebration</link>
@@ -273,18 +286,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_mechheavysupport-fab6-feature-5mry5ioic7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Datavault Update Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-us/videos/g0vlc6dd/warhammer-40000-space-marine-2-datavault-update-trailer</link>
-            <guid>g0vlc6dd</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Saber Interactive and Focus Entertainment are thrilled to welcome the third major content update for their 2024 blockbuster Warhammer 40,000: Space Marine 2. Titled “Datavault”, this update brings more free content and much-requested quality-of-life improvements to all players whilst granting Season Pass owners with evermore cosmetics to customize their Space Marines.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_datavault_trailer_thumbnail_1920x1080-rqqrc69a3k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
