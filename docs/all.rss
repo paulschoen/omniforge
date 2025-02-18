@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Feb 2025 12:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 13:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The best cover art from Black Library: The Art of Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/clbwwmhn/the-best-cover-art-from-black-library-the-art-of-warhammer-40000</link>
+            <guid>clbwwmhn</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Goggle at our gallery of gorgeous covers.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_celebrationart-feb18-1-feature-hodgmwznzx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 18th of February]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/pw7qt2qa/the-rumour-engine-18th-of-february</link>
@@ -272,18 +283,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb08-1-feature-w7pu7hhjwx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeldari Aspect Warrior Showcase – Painted by the Warhammer Community team and friends]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/gbbjx5hj/aeldari-aspect-warrior-showcase-painted-by-the-warhammer-community-team-and-friends</link>
-            <guid>gbbjx5hj</guid>
-            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Another take on the new miniatures.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_warcomaspects-feb7-1-feature-1jnyi3b6ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
