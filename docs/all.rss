@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Feb 2025 15:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 12:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 18th of February]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/pw7qt2qa/the-rumour-engine-18th-of-february</link>
+            <guid>pw7qt2qa</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb18-feature-xtqhd0sdbu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Combat Patrol magazine comes to the USA]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/isb7exp0/combat-patrol-magazine-comes-to-the-usa</link>
@@ -274,19 +284,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_warcomaspects-feb7-1-feature-1jnyi3b6ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies on Parade 2025 – Death Korps of Krieg showcase]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ndlh7qmf/armies-on-parade-2025-death-korps-of-krieg-showcase</link>
-            <guid>ndlh7qmf</guid>
-            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first progress report of the year comes in from Tabletop Time.]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_kriegdiorama-feb07-1-feature-dcc8q8lful.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
