@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Feb 2025 13:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Contrast tips for beginners – How to get started with the Citadel Colour secret sauce]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/9o0iwlza/contrast-tips-for-beginners-how-to-get-started-with-the-citadel-colour-secret-sauce</link>
+            <guid>9o0iwlza</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Simple hacks and guidance for painters who lack confidence.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/cc_contrast3-feb18-1-feature-1hlyzmce10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The best cover art from Black Library: The Art of Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/clbwwmhn/the-best-cover-art-from-black-library-the-art-of-warhammer-40000</link>
@@ -269,20 +279,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb9-1-feature-gws8wpjfte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-order – The Death Korps of Krieg prepare for all-out war]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/nglqrlot/saturday-pre-order-the-death-korps-of-krieg-prepare-for-all-out-war</link>
-            <guid>nglqrlot</guid>
-            <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are all of this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb08-1-feature-w7pu7hhjwx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
