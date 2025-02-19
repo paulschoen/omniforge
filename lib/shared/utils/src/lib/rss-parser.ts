@@ -19,7 +19,7 @@ export class RSSParser {
     );
   }
 
-  public extractItemsFromXml(xml: string): Set<Item> {
+  public extractItemsFromXml(xml: string): Set<any> {
     const parsedFeed = this.parser.parse(xml) as {
       rss?: {
         channel?: {

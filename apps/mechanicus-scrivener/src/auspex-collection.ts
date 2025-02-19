@@ -117,43 +117,38 @@ export const fetchAuspexData = async () => {
           Summarize the following YouTube video transcript in a structured format for an RSS feed. The output should be HTML-formatted and structured for readability.
 
           Requirements:
-          🔥 Key points (each preceded by an appropriate emoji)
-          📊 Important numerical insights (formatted for clarity)
-          ❓ Exploratory questions to engage readers
-          ✅ Well-formed HTML (no external CSS/JS, inline formatting allowed)
-          🖼️ Absolute URLs for images and links (if applicable)
-          ✍️ Summarization should be concise but information-rich
+          Summarize Key Points – Break down the video into structured bullet points using emojis, bold text, and concise descriptions.
+          Highlight Numeric Insights – Extract and interpret key numerical data from video transcript.
+          Provide Exploratory Questions – Generate three thought-provoking questions related to the video’s content to engage readers.
+          Well-formed HTML (no external CSS/JS, inline formatting allowed)
 
           Example of an Output Format:
-          <![CDATA[
           <h2>📢 Title Of The Video Summery</h2>
 
-          <h3>🔥 Key Takeaways</h3>
+          <h3>📝 Summary</h3>
           <ul>
             <li>🔥 <strong>Main Insight 1:</strong> Brief explanation of key point.</li>
-            <li>🚀 <strong>Main Insight 2:</strong> Another key takeaway with a short description.</li>
-            <li>💡 <strong>Main Insight 3:</strong> Additional relevant information.</li>
-          </ul>
+            ...additional key points as needed
+d          </ul>
 
           <h3>📊 Important Numerical Insights</h3>
           <ul>
             <li>📉 <strong>Statistic 1:</strong> Explanation (e.g., "Sales increased by 25% in Q4").</li>
-            <li>📈 <strong>Statistic 2:</strong> Another key numerical data point.</li>
+            ...additional numerical insights as needed
           </ul>
 
           <h3>❓ Questions to Consider</h3>
           <ul>
             <li>🤔 <strong>Question 1:</strong> Thought-provoking question.</li>
-            <li>🔍 <strong>Question 2:</strong> Another question to engage the audience.</li>
+            ...additional questions as needed to engage readers
           </ul>
-          ]]>
           
           Video Transcript:
           ${JSON.stringify(transcript, null, 2)}
           `;
 
           const wisdom = await machineSpiritConduit.receiveWisdom({
-            maxTokens: 500,
+            maxTokens: 750,
             messages: [
               {
                 role: 'system',

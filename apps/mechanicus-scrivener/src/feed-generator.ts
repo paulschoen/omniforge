@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unsafe-member-access -- Using unsafe member access for testing */
 import { Feed, type Item } from 'feed';
 import { type NewsArticle } from '@omniforge/data-access';
 import { Logger, RSSParser } from '@omniforge/utils';
@@ -135,12 +136,12 @@ export class FeedGenerator {
 
       const convertMostRecentItems = Array.from(mostRecentItems).map(
         (item) => ({
-          title: item.title,
-          id: item.guid,
-          content: item.content,
-          description: item.description,
-          link: item.link,
-          date: new Date(item.date),
+          title: item?.title as string,
+          id: item?.guid as string,
+          content: item['content:encoded'] as string,
+          description: item?.description as string,
+          link: item?.link as string,
+          date: new Date(item?.pubDate as string),
         }),
       );
 
