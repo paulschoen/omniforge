@@ -9,7 +9,7 @@ export class MachineSpiritConduit {
   }
 
   public async receiveWisdom({
-    model = 'gpt-4-turbo',
+    model = 'gpt-4o-mini',
     messages = [],
     temperature = 0.7,
     maxTokens = 200,
