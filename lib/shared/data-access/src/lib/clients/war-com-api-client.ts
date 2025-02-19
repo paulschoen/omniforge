@@ -45,6 +45,8 @@ export interface NewsArticle {
   uri: string;
   id: string;
   uuid: string;
+  fullUrl?: string;
+  content?: string;
 }
 
 interface Pagination {

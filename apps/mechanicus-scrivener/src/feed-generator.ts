@@ -1,24 +1,17 @@
-import { XMLParser } from 'fast-xml-parser';
-import { Feed } from 'feed';
+import { Feed, type Item } from 'feed';
 import { type NewsArticle } from '@omniforge/data-access';
-import { Logger } from '@omniforge/utils';
+import { Logger, RSSParser } from '@omniforge/utils';
 import { FileManager } from './file-manager';
 
-interface RssItem {
-  link: string;
-}
-
-export class RSSParser {
-  private parser = new XMLParser();
-
-  public extractLinks(feed: string): Set<string> {
-    const parsedFeed = this.parser.parse(feed) as {
-      rss?: { channel?: { item?: RssItem[] } };
-    };
-    return new Set(
-      parsedFeed.rss?.channel?.item?.map((item: RssItem) => item.link) ?? [],
-    );
-  }
+interface FeedGeneratorProps {
+  baseUrl?: string;
+  assetUrl?: string;
+  rssFile?: string;
+  directory?: string;
+  title?: string;
+  description?: string;
+  language?: string;
+  copyright?: string;
 }
 
 export class FeedGenerator {
@@ -31,18 +24,34 @@ export class FeedGenerator {
   private directory: string;
   private filePath: string;
 
-  constructor({ rssFile, directory }: { rssFile: string; directory: string }) {
+  constructor({
+    rssFile,
+    directory = './docs',
+    baseUrl = 'https://www.warhammer-community.com/en-us',
+    assetUrl = 'https://assets.warhammer-community.com',
+    title = 'Warhammer 40k Community RSS Feed',
+    description = 'Latest intelligence reports from the Warhammer Community',
+    language = 'en',
+    copyright = 'Games Workshop',
+  }: FeedGeneratorProps) {
     this.feed = new Feed({
-      title: 'Warhammer 40k Community RSS Feed',
-      description: 'Latest intelligence reports from the Warhammer Community',
-      id: this.baseUrl,
-      link: this.baseUrl,
-      language: 'en',
-      copyright: 'Games Workshop',
+      title,
+      description,
+      id: baseUrl,
+      link: baseUrl,
+      language,
+      copyright,
     });
 
+    this.baseUrl = baseUrl;
+    this.assetUrl = assetUrl;
     this.directory = directory;
     this.filePath = `${directory}/${rssFile}`;
+  }
+
+  public addItemToFeed(item: Item): this {
+    this.feed.addItem(item);
+    return this;
   }
 
   public addPostToFeed(post: NewsArticle): void {
@@ -82,7 +91,7 @@ export class FeedGenerator {
     }
   }
 
-  public async determineIfFeedNeedsUpdate(): Promise<boolean> {
+  public async determineIfFeedNeedsUpdate(links?: string[]): Promise<boolean> {
     try {
       Logger.info('Checking if feed data needs further processing');
       await this.fileManager.ensureDirectory(this.directory);
@@ -90,7 +99,9 @@ export class FeedGenerator {
 
       const fileContent = await this.fileManager.readFileContent(this.filePath);
       const fileLinks = this.parser.extractLinks(fileContent);
-      const newLinks = this.parser.extractLinks(this.feed.rss2());
+      const newLinks = links
+        ? links
+        : this.parser.extractLinks(this.feed.rss2());
 
       return this.hasNewItems(fileLinks, newLinks);
     } catch (error: unknown) {
@@ -99,7 +110,10 @@ export class FeedGenerator {
     }
   }
 
-  private hasNewItems(oldItems: Set<string>, newItems: Set<string>): boolean {
+  private hasNewItems(
+    oldItems: Set<string>,
+    newItems: Set<string> | string[],
+  ): boolean {
     Logger.info('Validating if new items are present');
     for (const item of newItems) {
       if (!oldItems.has(item)) {
@@ -109,7 +123,43 @@ export class FeedGenerator {
     return false;
   }
 
-  public async saveFeed(): Promise<void> {
+  public async loadFeed(): Promise<this> {
+    try {
+      Logger.info('Loading feed data from codex');
+      await this.fileManager.ensureDirectory(this.directory);
+      await this.fileManager.ensureFile(this.filePath);
+
+      const pastFeed = await this.fileManager.readFileContent(this.filePath);
+
+      const mostRecentItems = this.parser.extractItemsFromXml(pastFeed);
+
+      const convertMostRecentItems = Array.from(mostRecentItems).map(
+        (item) => ({
+          title: item.title,
+          id: item.guid,
+          content: item.content,
+          description: item.description,
+          link: item.link,
+          date: new Date(item.date),
+        }),
+      );
+
+      convertMostRecentItems.forEach((item) => {
+        this.feed.addItem(item);
+      });
+
+      return this;
+    } catch (error: unknown) {
+      Logger.error(`Error loading feed: ${(error as Error).message}`);
+      throw error;
+    }
+  }
+
+  public get items(): Item[] {
+    return this.feed.items;
+  }
+
+  public async saveFeed(): Promise<FeedGenerator> {
     try {
       Logger.info('Saving acquired feed data to codex');
       await this.fileManager.ensureDirectory(this.directory);
@@ -117,6 +167,8 @@ export class FeedGenerator {
 
       await this.fileManager.writeFileContent(this.filePath, this.feed.rss2());
       Logger.info(`RSS feed updated at: ${this.filePath}`);
+
+      return this;
     } catch (error: unknown) {
       Logger.error(`Error saving feed: ${(error as Error).message}`);
       throw error;
