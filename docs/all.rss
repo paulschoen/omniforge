@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Feb 2025 14:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 15:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Vote for your Black Library Book of the Year for 2024]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/mmice3iq/vote-for-your-black-library-book-of-the-year-for-2024</link>
+            <guid>mmice3iq</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Which will you pick?]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2024-feb19-1-feature-aoxvydpclw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Building battlefields, writing books, and playing the Great Game on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/xxjiyeid/building-battlefields-writing-books-and-playing-the-great-game-on-warhammer-tv</link>
@@ -268,17 +278,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv00989-gloomspite-gitz-v3-copy-iqpkmlwnz2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miniature of the year alert – What are these Arcane Frogs up to in the Old World?]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ot0pmmpc/miniature-of-the-year-alert-what-are-these-arcane-frogs-up-to-in-the-old-world</link>
-            <guid>ot0pmmpc</guid>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hop to it.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_arcanefrogs-feb10-1-feature-wf0u8d4mcx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
