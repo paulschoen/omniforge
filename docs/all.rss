@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Feb 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 13:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Age of Sigmar animation teaser: The Blacktalons return]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/o6pveiyy/age-of-sigmar-animation-teaser-the-blacktalons-return</link>
+            <guid>o6pveiyy</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sigmar’s Hunters are back with a new season in March.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="animations">Animations</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalontrailer-feb19-feature-ecejhmpqrd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Contrast tips for beginners – How to get started with the Citadel Colour secret sauce]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/9o0iwlza/contrast-tips-for-beginners-how-to-get-started-with-the-citadel-colour-secret-sauce</link>
@@ -267,18 +279,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_oppack2025-feb010-1-feature-4vsmxr4t7n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The first High Elves sail from Ulthuan]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ovvnjzam/sunday-preview-the-first-high-elves-sail-from-ulthuan</link>
-            <guid>ovvnjzam</guid>
-            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, a Warhammer 40,000 terrain Made to Order.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb9-1-feature-gws8wpjfte.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
