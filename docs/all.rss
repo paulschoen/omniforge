@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Feb 2025 15:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 16:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Betrayal, sacrifice, and grilled grots – the final fate of the Grand Narrative 2024]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/rclhivxc/betrayal-sacrifice-and-grilled-grots-the-final-fate-of-the-grand-narrative-2024</link>
+            <guid>rclhivxc</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What happened when the dust finally settled?]]></description>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grandnarrative_lore-feb20-1-feature-admp6gdpd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get ready for the return of the Grand Narrative in November]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/zqaatwe2/get-ready-for-the-return-of-the-grand-narrative-in-november</link>
+            <guid>zqaatwe2</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Once more unto the breach!]]></description>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grandnarrative2025-feb20-1-feature-vei8yatq2n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – The Usarax Cohort leap into battle]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/wwfgcerl/heresy-thursday-the-usarax-cohort-leap-into-battle</link>
@@ -256,29 +280,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_highelflore-feb11-feature-x4qoytrdct.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 Contrast Paint Hacks | Intermediate | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-us/videos/nnmjp0yf/6-contrast-paint-hacks-intermediate-warhammer</link>
-            <guid>nnmjp0yf</guid>
-            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Contrast paints are a favourite of many painters who want to get their armies painted in no time at all! However, these paints can do so much more than base and shade your minis! 
-Adding colour transitions, enriching tones and elevating your bases are all in a day's work for these paints! Join Dan as he explores a range of Tips ‘n’ Tricks you can achieve using contrast paints! 
-If you're new to painting, our Colour Painting Essentials playlist hosts an array of beginner-friendly videos to help you get started.]]></description>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv00979---contrast-tip-long-form-thumbnail-uvivzargs3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shade, layer, and basecoat, in one! – Elite Contrast Paint tips from the Warhipster]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/6bh0qnr3/shade-layer-and-basecoat-in-one-elite-contrast-paint-tips-from-the-warhipster</link>
-            <guid>6bh0qnr3</guid>
-            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Josh Hill explains why he lives the Contrast life.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/cc-contrastpainting2-warhipster_feb11-1-feature-wxy2erlzdk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
