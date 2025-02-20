@@ -1,0 +1,17 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": false,
+  "tsx": true,
+  "tailwind": {
+    "config": "lib/shared/ui/tailwind.config.js",
+    "css": "lib/shared/ui/src/styles/global.css",
+    "baseColor": "slate",
+    "cssVariables": true
+  },
+  "aliases": {
+    "components": "@omniforge/ui",
+    "ui": "@omniforge/ui",
+    "utils": "@omniforge/utils"
+  }
+}
