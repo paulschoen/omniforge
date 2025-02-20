@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Feb 2025 14:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 15:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – The Usarax Cohort leap into battle]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/wwfgcerl/heresy-thursday-the-usarax-cohort-leap-into-battle</link>
+            <guid>wwfgcerl</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bear with us as more death-dealing machines arrive.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_ursaraxcohort-feb20-1-feature-rqxbes22xx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2025 – Entry guidelines and announcing SPIEL Essen]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/6s4czhbm/golden-demon-2025-entry-guidelines-and-announcing-spiel-essen</link>
@@ -267,16 +279,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/cc-contrastpainting2-warhipster_feb11-1-feature-wxy2erlzdk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 11th of February]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/ygluox04/the-rumour-engine-11th-of-february</link>
-            <guid>ygluox04</guid>
-            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb11-feature-slnmlzg9b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
