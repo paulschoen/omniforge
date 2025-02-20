@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Feb 2025 15:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 14:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2025 – Entry guidelines and announcing SPIEL Essen]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/6s4czhbm/golden-demon-2025-entry-guidelines-and-announcing-spiel-essen</link>
+            <guid>6s4czhbm</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Planning to enter? Read this.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_details-feb20-1-feature-yusrgyfd8x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Narrative Play in Middle-earth – New scenarios drop for the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/5vpfub5e/narrative-play-in-middle-earth-new-scenarios-drop-for-the-new-edition</link>
+            <guid>5vpfub5e</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’ll be releasing free PDFs over the coming months.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_scenarios-feb20-1-feature-ie3pr3viz1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vote for your Black Library Book of the Year for 2024]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/mmice3iq/vote-for-your-black-library-book-of-the-year-for-2024</link>
@@ -254,30 +277,6 @@ If you're new to painting, our Colour Painting Essentials playlist hosts an arra
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-feb11-feature-slnmlzg9b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pledge yourself wholly to Chaos with four very special Limited Edition Codexes]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/patvk2xg/pledge-yourself-wholly-to-chaos-with-four-very-special-limited-edition-codexes</link>
-            <guid>patvk2xg</guid>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unite all four to feel the true power of Chaos.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecltded-feb10-1-feature-amsb5jclf3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Fur With Contrast Paints! | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-us/videos/gbtubtug/painting-fur-with-contrast-paints-warhammer-age-of-sigmar</link>
-            <guid>gbtubtug</guid>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Gitmob have landed and their snarlfangs are off the leash! With more fur in the game, Dan’s at the ready with Contrast paints to get these Snarlfangs set to charge into battle with three speedy schemes.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv00989-gloomspite-gitz-v3-copy-iqpkmlwnz2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
