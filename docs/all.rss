@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Feb 2025 14:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 15:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[ITC 2025 – Key changes to the competitive Warhammer calendar]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/x96wp1cj/itc-2025-key-changes-to-the-competitive-warhammer-calendar</link>
+            <guid>x96wp1cj</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Smart changes are coming – we hope they’re helpful.]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events_itc-feb07-1-feature-epv9jlrlpn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Evan Dicken interview – An anatomy of an aelven assassin]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/gj8t1ts4/evan-dicken-interview-an-anatomy-of-an-aelven-assassin</link>
@@ -272,18 +282,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_bolg-feb13-1-feature-vcq0y0pjll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Da Mad Dok is in – Grotsnik puts on a clinic in a new Black Library book]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/xqwu6c0l/da-mad-dok-is-in-grotsnik-puts-on-a-clinic-in-a-new-black-library-book</link>
-            <guid>xqwu6c0l</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[An incisive new novel about Orks.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_maddok-feb12-1-feature-qk6i8bzrl8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
