@@ -2,269 +2,542 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Auspex Tactics RSS Feed</title>
-        <link>https://openrss.org/www.youtube.com/@auspextactics</link>
+        <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 20 Feb 2025 18:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 05:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
         <item>
-            <title><![CDATA[Warhammer 40K Rules Updates - Guard Go Live, Grotmas Changes + Legends Rules]]></title>
-            <link>https://www.youtube.com/watch?v=POzVQ5KwQe0</link>
-            <guid>https://www.youtube.com/watch?v=POzVQ5KwQe0</guid>
-            <pubDate>Wed, 19 Feb 2025 17:25:50 GMT</pubDate>
-            <description><![CDATA[The Warhammer 40K update outlines the transition from index to codex points for the Astra Militarum, provides clarifications on rules and points, announces upcoming balance updates, confirms the tournament legality of Guard detachments, and introduces an updated Legends document with around 60 data sheets.]]></description>
+            <title><![CDATA[Top Ten Strongest Space Marine Units - Most Commonly Played Competitive Datasheets?]]></title>
+            <link>https://www.youtube.com/watch?v=MQUa7JEwDr4</link>
+            <guid>yt:video:MQUa7JEwDr4</guid>
+            <pubDate>Thu, 20 Feb 2025 23:30:08 GMT</pubDate>
+            <description><![CDATA[The video discusses the competitive performance of Space Marine units, highlighting the Ultramarines' dominance with 20 Grand Tournament wins, the popularity of certain army lists, and a review of the top 10 units currently favored in play.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40K Update: Guard Points Transition & More</h2>
+<h2>📢 Top 10 Space Marine Units in Competitive Play</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Transition to Codex Points:</strong> Warhammer 40K has shifted from index points to codex points for the Astra Militarum.</li>
-    <li>💡 <strong>Clarifications for Guard:</strong> The update includes important clarifications regarding the rules and points for the Astra Militarum.</li>
-    <li>🗓️ <strong>Upcoming Balance Updates:</strong> Major balance updates are expected between mid-March and mid-April.</li>
-    <li>🎲 <strong>Tournament Legality:</strong> Guard detachments are now tournament legal, creating anticipation for their impact at events.</li>
-    <li>🔄 <strong>Legends Rules:</strong> Updated Legends rules for various units have been compiled into a document for easier reference.</li>
-    <li>🔍 <strong>Minor FAQs:</strong> A series of minor FAQs and bug fixes have been issued for various factions to ensure rules clarity.</li>
+    <li>🔥 <strong>Space Marines' Performance:</strong> Space Marines have improved, with a tournament win rate around 49% after recent updates.</li>
+    <li>💪 <strong>Ultramarines Dominance:</strong> Ultramarines lead with approximately 20 Grand Tournament wins, double that of other chapters.</li>
+    <li>🛡️ <strong>Popular Army Lists:</strong> The most successful lists are primarily Gladius, Vanguard, and Iron Storm detachments.</li>
+    <li>🔟 <strong>Top Units Overview:</strong> A review of the top 10 units currently dominating competitive play.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>265 Points:</strong> Dawn Tank Commanders are now priced at 265 points, making them a strong choice for players.</li>
-    <li>⚖️ <strong>35 Points:</strong> Combat Engineers are listed at 35 points, highlighting a significant cost in the updated points system.</li>
-    <li>🔢 <strong>60 Data Sheets:</strong> The new Legends document for the Astra Militarum includes around 60 data sheets, vastly expanding options for players.</li>
+    <li>📈 <strong>Grand Tournament Wins:</strong> Ultramarines achieved 20 tournament wins in 2025, showcasing their strength.</li>
+    <li>🔢 <strong>List Analysis:</strong> 22 competitive lists were analyzed to identify trends in successful unit selections.</li>
+    <li>⚔️ <strong>Selection Counts:</strong> The top unit, the Ballista Dreadnought, appeared in 17 out of 22 lists, highlighting its popularity.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the transition to codex points affect competitive play for the Astra Militarum?</strong></li>
-    <li>🔍 <strong>What are the potential implications of the upcoming balance updates for Warhammer 40K factions?</strong></li>
-    <li>🎮 <strong>Which detachments are likely to dominate tournament play following these rule changes?</strong></li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[How to Start a White Scars Army in Warhammer 40K 10th Edition - Beginner Guide!]]></title>
-            <link>https://www.youtube.com/watch?v=qd5Q--GDMlU</link>
-            <guid>https://www.youtube.com/watch?v=qd5Q--GDMlU</guid>
-            <pubDate>Wed, 19 Feb 2025 07:00:39 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of starting a White Scars Army in Warhammer 40K, highlighting their fast-paced combat style, unique units, cost advantages, and strategic considerations for building and customizing the army.]]></description>
-            <content:encoded><![CDATA[
-<h2>📢 Starting Your White Scars Army in Warhammer 40K</h2>
-
-<h3>📝 Summary</h3>
-<ul>
-    <li>🔥 <strong>Overview of White Scars:</strong> The White Scars are the fifth Legion of Space Marines, known for their fast-paced, hit-and-run tactics reminiscent of nomadic tribes.</li>
-    <li>🚴 <strong>Combat Style:</strong> They excel in mounted warfare, utilizing bikes for rapid assaults and favoring melee combat.</li>
-    <li>🛡️ <strong>Available Units:</strong> Access to a wide range of Space Marine units, with unique characters like Horan and specialized upgrades.</li>
-    <li>💰 <strong>Cost Insights:</strong> A 2,000-point army may be cheaper than other factions due to discounts and elite unit access, though heavy mounted units can drive costs up.</li>
-    <li>⚔️ <strong>Storm Lance Task Force:</strong> Offers advantages for mounted units, allowing them to advance and charge, enhancing mobility in combat.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-    <li>📈 <strong>Army Cost:</strong> A 2,000-point Space Marine army can be more economical than other factions due to discounts and cost-effective units.</li>
-    <li>⚔️ <strong>Unit Stats:</strong> Corsaro Khan costs 70 points and provides significant bonuses, while Out Riders cost 80 points and have enhanced capabilities on the charge.</li>
-    <li>💼 <strong>Discount Options:</strong> Local stores or online retailers can offer 10-20% off compared to Games Workshop prices, making it cost-effective to build your army.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-    <li>🤔 <strong>Question 1:</strong> How do you envision your playstyle evolving with the fast-paced tactics of the White Scars?</li>
-    <li>🤔 <strong>Question 2:</strong> What unique strategies could you implement using the Storm Lance Task Force?</li>
-    <li>🤔 <strong>Question 3:</strong> How important is model aesthetics and customization when building your Warhammer army?</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40K's Next Balance Patch - When's it Coming and What Needs to Happen?]]></title>
-            <link>https://www.youtube.com/watch?v=edn5Jzu6cd4</link>
-            <guid>https://www.youtube.com/watch?v=edn5Jzu6cd4</guid>
-            <pubDate>Tue, 18 Feb 2025 19:00:34 GMT</pubDate>
-            <description><![CDATA[The video discusses the upcoming Warhammer 40K balance update expected between mid-March and mid-April, highlighting key changes aimed at overperforming factions like Slaanesh demons and Ultramarines, with a focus on point adjustments rather than major rule changes.]]></description>
-            <content:encoded><![CDATA[
-<![CDATA[
-<h2>📢 Upcoming Warhammer 40K Balance Update Insights</h2>
-
-<h3>🔥 Key Takeaways</h3>
-<ul>
-  <li>🔥 <strong>Balance Update Timing:</strong> Expected mid-March to mid-April, following a 3-month update cycle.</li>
-  <li>🚀 <strong>Major Faction Changes:</strong> Likely focus on addressing overperforming factions like Slaanesh demons and Ultramarines.</li>
-  <li>💡 <strong>Game Mechanics Adjustments:</strong> Anticipated tweaks to points rather than major rules changes in this update.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-  <li>📉 <strong>Win Rates:</strong> Slaanesh demons at approximately 66%, Ultramarines around 50% overall, while Sisters of Battle are struggling at about 41%.</li>
-  <li>📈 <strong>Faction Performance:</strong> Imperial Guard's Bridged Head Strike detachment showing a 60% win rate.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-  <li>🤔 <strong>What changes would you like to see in the next balance update to enhance gameplay?</strong></li>
-  <li>🔍 <strong>How do you think Games Workshop will address the current power discrepancies among factions?</strong></li>
-</ul>
-]]]]><![CDATA[>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40K Lore Moves Forward! Chaos Has a Planet Killer?]]></title>
-            <link>https://www.youtube.com/watch?v=uzJmMdZ1tlI</link>
-            <guid>https://www.youtube.com/watch?v=uzJmMdZ1tlI</guid>
-            <pubDate>Tue, 18 Feb 2025 06:00:36 GMT</pubDate>
-            <content:encoded><![CDATA[<![CDATA[
-<h2>📢 Summary of Warhammer 40K: The Natman Gauntlet War Update</h2>
-
-<h3>🔥 Key Takeaways</h3>
-<ul>
-  <li>🌌 <strong>Strategic Developments:</strong> The Natman Gauntlet, a critical passage in the Warhammer 40K universe, has seen significant conflict, with forces battling for control crucial to the Imperium's ability to reinforce its territories.</li>
-  <li>⚔️ <strong>Major Battles:</strong> The video details intense battles on Vigilus and Daravar, with Harken Worldclaimer playing a pivotal role in directing Chaos forces, culminating in a significant victory on Daravar.</li>
-  <li>🛡️ <strong>Imperial Defense:</strong> Despite fierce resistance, the Imperial forces, led by notable commanders and chapters, struggle to hold back the overwhelming Chaos onslaught.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-  <li>🪖 <strong>Force Composition:</strong> The Chaos forces include the Black Legion and Night Lords, alongside powerful assets like the planet killer ship, demonstrating significant firepower and strategic capability.</li>
-  <li>🏰 <strong>Defensive Stance:</strong> The Imperium's defense at Sangu Tera and the Sanctus Wall Systems has been fortified rapidly to counter the advancing Chaos forces, illustrating a critical strategic response.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-  <li>🤔 <strong>Future Strategies:</strong> What might be the Imperium’s next move to counter the strategic advantages now held by Chaos forces?</li>
-  <li>🔍 <strong>Character Fates:</strong> How will the fates of key characters like Celestine and Harken Worldclaimer evolve in upcoming narratives?</li>
-</ul>
-]]]]><![CDATA[>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Strong Aeldari Army Lists - What's Winning for the New Codex? Eight Lists That Did Well]]></title>
-            <link>https://www.youtube.com/watch?v=e_1IvOMHOAk</link>
-            <guid>https://www.youtube.com/watch?v=e_1IvOMHOAk</guid>
-            <pubDate>Mon, 17 Feb 2025 18:00:26 GMT</pubDate>
-            <description><![CDATA[The video discusses the successful performance of the new Eldari Codex in tournaments, highlighting popular army lists and versatile detachments, with many players achieving competitive records.]]></description>
-            <content:encoded><![CDATA[
-<![CDATA[
-<h2>📢 Eldari Tactics: Success with the New Codex</h2>
-
-<h3>🔥 Key Takeaways</h3>
-<ul>
-    <li>🔥 <strong>Strong Tournament Performance:</strong> The new Eldari Codex has resulted in a notable presence in tournaments, with many players achieving top placements.</li>
-    <li>🚀 <strong>Popular Army Lists:</strong> Key detachments like Aspect Host and Warhost are seeing significant success, with a focus on Aspect Warriors like Fire Dragons and Dark Reapers.</li>
-    <li>💡 <strong>Versatile Detachments:</strong> Various detachments are proving viable, showcasing the flexibility and diversity of Eldari army lists.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-    <li>📉 <strong>4-1 Record:</strong> Many Eldari players achieved a 4-1 record at major events, demonstrating competitive viability.</li>
-    <li>📈 <strong>38 Player Event:</strong> A notable performance at the DOR Brer GT, with one player placing highly among 38 competitors.</li>
-    <li>📊 <strong>5 Round Victories:</strong> Small tournaments saw Eldari securing victories in various formats, including five-round events.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-    <li>🤔 <strong>What strategies have you found most effective with the new Eldari Codex?</strong></li>
-    <li>🔍 <strong>How do you think the meta will evolve with the introduction of these new units?</strong></li>
-    <li>💭 <strong>Which Eldari units do you believe will rise in popularity in upcoming tournaments?</strong></li>
-</ul>
-]]]]><![CDATA[>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GW Prices Just Went Off the Deep End... 40K News Round Up!]]></title>
-            <link>https://www.youtube.com/watch?v=i71FcgTf5kk</link>
-            <guid>https://www.youtube.com/watch?v=i71FcgTf5kk</guid>
-            <pubDate>Mon, 17 Feb 2025 02:41:41 GMT</pubDate>
-            <description><![CDATA[The video discusses Games Workshop's recent product releases, highlighting the high price of the limited edition Command Squad at £47, a new Mechanicum box set at £110 with a 32% discount, and the upcoming Knights combat patrol rules priced at £58, while prompting viewers to consider the value of these pricing strategies.]]></description>
-            <content:encoded><![CDATA[
-<![CDATA[
-<h2>📢 Games Workshop's Latest Releases and Pricing Insights</h2>
-
-<h3>🔥 Key Takeaways</h3>
-<ul>
-  <li>🔥 <strong>Limited Edition Command Squad:</strong> The new KD and Command Squad is priced at £47 ($80), significantly higher than the regular Cadian Command Squad priced at $45.</li>
-  <li>🚀 <strong>New Mechanicum Releases:</strong> A heavy support force box set featuring three new models is priced at £110 ($185) with a 32% discount compared to individual models.</li>
-  <li>💡 <strong>Upcoming Combat Patrol Rules:</strong> New Knights combat patrol rules feature two models, priced at £58 ($95), potentially the cheapest way to play 40K.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-  <li>💰 <strong>Price Increase:</strong> The limited edition Command Squad costs almost double the regular version.</li>
-  <li>📅 <strong>Release Dates:</strong> Pre-orders for the Command Squad start on 22nd February, with full sales on 8th March.</li>
-  <li>📉 <strong>Discount Rate:</strong> The Mechanicum box set offers a 32% discount from individual prices.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-  <li>🤔 <strong>Pricing Strategy:</strong> Do you think Games Workshop's pricing reflects the value of their miniatures, or is it an arbitrary mark-up?</li>
-  <li>🔍 <strong>Future Releases:</strong> What upcoming releases are you most excited about, and how do you feel about the pricing of the new products?</li>
-</ul>
-]]]]><![CDATA[>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Leman Russ Battle Tanks - How Strong in Codex Astra Militarum? Unit Review + Damage Comparison]]></title>
-            <link>https://www.youtube.com/watch?v=cfWdkv8xVYg</link>
-            <guid>https://www.youtube.com/watch?v=cfWdkv8xVYg</guid>
-            <pubDate>Sun, 16 Feb 2025 06:00:25 GMT</pubDate>
-            <description><![CDATA[The video discusses the Leman Russ Battle Tank, a versatile and durable staple of the Astra Militarum, highlighting its various variants, impressive firepower, special rules that enhance its battlefield effectiveness, and strategic considerations for players.]]></description>
-            <content:encoded><![CDATA[
-<h2>📢 The Power of the Leman Russ Battle Tank in Astra Militarum</h2>
-
-<h3>📝 Summary</h3>
-<ul>
-    <li>🔥 <strong>Leman Russ Overview:</strong> Iconic and reliable tank of the Astra Militarum, serving since the Great Crusade with impressive firepower.</li>
-    <li>🛡️ <strong>Durability:</strong> Toughness 11, 13 wounds, and a 2+ save, making it a resilient choice on the battlefield.</li>
-    <li>📊 <strong>Variant Options:</strong> 8 different data sheets available ranging in cost from 145 to 235 points, allowing for diverse army compositions.</li>
-    <li>🔫 <strong>Weapon Choices:</strong> Equipped with various main guns and support weapons, including plasma cannons and heavy bolters for versatile combat roles.</li>
-    <li>📈 <strong>Damage Output:</strong> Each variant has unique strengths; for example, the Vanquisher excels against tough vehicles, while the Demolisher is effective against infantry.</li>
-    <li>⚔️ <strong>Special Rules:</strong> Unique abilities enhance combat effectiveness, such as the ability to fire in engagement range or debuffing targets for allied units.</li>
-    <li>🔄 <strong>Orders Mechanic:</strong> Utilizing orders can significantly increase effectiveness, making the tanks hit on a 3+ instead of 4+.</li>
-</ul>
-
-<h3>📊 Important Numerical Insights</h3>
-<ul>
-    <li>💵 <strong>Cost Range:</strong> Leman Russ variants range from 145 to 235 points, allowing for affordable to premium options in army builds.</li>
-    <li>🔍 <strong>Movement Speed:</strong> Standard movement of 10 inches, can be ordered to move up to 13 inches.</li>
-    <li>⚖️ <strong>Damage Comparison:</strong> The Demolisher and Executioner tanks show significant damage output against various target types, with stats like Strength 14 and AP -3.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-    <li>🤔 <strong>Question 1:</strong> How do the special rules of each Leman Russ variant influence tactical decisions on the battlefield?</li>
-    <li>🤔 <strong>Question 2:</strong> In what ways can the integration of Leman Russ tanks change the dynamics of an Astra Militarum army in competitive play?</li>
-    <li>🤔 <strong>Question 3:</strong> What strategies can players employ to maximize the effectiveness of their Leman Russ variants against different opponents?</li>
+    <li>🤔 <strong>Question 1:</strong> How do the recent balance changes impact the long-term viability of Space Marines in tournaments?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players adopt to optimize their lists with the current top units?</li>
+    <li>🤔 <strong>Question 3:</strong> Are there lesser-used units that could become more prominent in future competitive play?</li>
 </ul>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[New Guard Datasheets in the Downloads, Imperial Agents win a GT and MAYBE Raptor Updates - 40K News]]></title>
             <link>https://www.youtube.com/watch?v=azybx2lMdW8</link>
-            <guid>https://www.youtube.com/watch?v=azybx2lMdW8</guid>
+            <guid>yt:video:azybx2lMdW8</guid>
             <pubDate>Thu, 20 Feb 2025 07:00:03 GMT</pubDate>
-            <description><![CDATA[The video discusses the upcoming release of the Hell's Last Command Squad for Warhammer 40K, addressing concerns about its high price, detailing new rules and tournament successes of Imperial Agents, and speculating on potential new units.]]></description>
+            <description><![CDATA[The video discusses recent Warhammer 40K news, highlighting the upcoming pre-order for the "Minkes Hell's Last Command Squad," concerns over its high price, updates to Legends data sheets, tournament successes, and speculation on potential new Raptor models.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40K Updates: New Imperial Guard Data Sheets & Tournament Wins</h2>
+<h2>📢 Warhammer 40K News Roundup</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Releases:</strong> Upcoming release of the Hell's Last Command Squad and Forge World miniatures for pre-order.</li>
-    <li>💰 <strong>Pricing Concerns:</strong> The new Hell's Last Command Squad is priced at £47 / $80, raising eyebrows among fans for being disproportionately high.</li>
-    <li>📊 <strong>Legends Data Sheets:</strong> The Hell's Last Command Squad has new rules in the Legends update, including an 80-point cost and unique abilities.</li>
-    <li>🏆 <strong>Tournament Highlights:</strong> An Imperial Agents list won a grand tournament going 5-0, showcasing the viability of less common factions.</li>
-    <li>🔍 <strong>Speculative Rumors:</strong> Speculation about new Raptors from cover art in a recent book, though details remain unclear.</li>
+    <li>🔥 <strong>New Releases:</strong> Upcoming release of "Minkes Hell's Last Command Squad" for pre-order, along with Forge World items.</li>
+    <li>💰 <strong>Pricing Concerns:</strong> The new squad is priced at £47/$80, raising eyebrows among fans for its high cost relative to model size.</li>
+    <li>📜 <strong>Legends Data Sheets:</strong> Updates for the Hell's Last Command Squad and Rattlings, providing new rules but not competitive play options.</li>
+    <li>🏆 <strong>Tournament Success:</strong> Imperial Agents win a Grand Tournament, showcasing effective strategies with chaff units.</li>
+    <li>🔍 <strong>Speculative Models:</strong> Discussion around potential new Raptor models based on artwork from the upcoming releases.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>💵 <strong>Price Increase:</strong> Hell's Last Command Squad increased by 23% from $65 to $80 since their initial release.</li>
-    <li>🎯 <strong>Points Cost:</strong> The new Hell's Last Command Squad is priced at 80 points, with their abilities potentially providing significant gameplay benefits.</li>
-    <li>🏅 <strong>Tournament Wins:</strong> The Imperial Agents list achieved a 5-0 record at War Zone Wellington, defeating various popular factions.</li>
+    <li>⚖️ <strong>Price Increase:</strong> Hell's Last Command Squad has seen a <strong>23%</strong> price increase from $65 to $80 since its initial release.</li>
+    <li>🎯 <strong>Point Cost:</strong> The Hell's Last Command Squad is valued at <strong>80 points</strong> in Legends rules.</li>
+    <li>🪖 <strong>Objective Control:</strong> New Rattlings increase squad objective control by <strong>1</strong>, allowing for tactical advantages.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How do you feel about the rising costs of Warhammer miniatures and the value they provide?</strong></li>
-    <li>💡 <strong>What strategies could be employed to maximize the effectiveness of the new Legends data sheets in casual games?</strong></li>
-    <li>👀 <strong>Could the rumored new Raptors signify a shift in gameplay dynamics for Chaos Space Marines?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> How do pricing strategies impact the accessibility of Warhammer 40K models for new players?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players employ to maximize the effectiveness of chaff units in their armies?</li>
+    <li>🤔 <strong>Question 3:</strong> Could the speculative new Raptor models shift the current meta in competitive play?</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40K Rules Updates - Guard Go Live, Grotmas Changes + Legends Rules]]></title>
+            <link>https://www.youtube.com/watch?v=POzVQ5KwQe0</link>
+            <guid>yt:video:POzVQ5KwQe0</guid>
+            <pubDate>Wed, 19 Feb 2025 17:25:50 GMT</pubDate>
+            <description><![CDATA[The video discusses a recent update to Warhammer 40K rules, primarily focusing on the transition to codex points for the Astra Militarum, minor clarifications for various factions, and the anticipation of major balance updates in the coming months, while highlighting the implications for competitive play and unit choices in tournaments.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40K Rules Update Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Transition to Codex Points:</strong> Games Workshop updates the Warhammer 40K rules, shifting from index points to codex points for the Astra Militarum.</li>
+    <li>🔄 <strong>Clarifications & FAQs:</strong> Minor updates and clarifications for various 40K factions, focusing mainly on the Astra Militarum.</li>
+    <li>💡 <strong>Future Updates:</strong> Major balance updates expected around mid-March to mid-April, following a typical three-month cycle.</li>
+    <li>🏅 <strong>Tournament Legality:</strong> Astra Militarum points now tournament-legal, paving the way for greater representation in upcoming events.</li>
+    <li>⚖️ <strong>Balance Data Slate:</strong> Updated data slate indicates certain rules have been folded into codexes, while others remain unchanged.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📅 <strong>Next Major Update:</strong> Anticipated between mid-March and mid-April, with a typical three-month update cycle.</li>
+    <li>💰 <strong>Dawn Tank Commanders:</strong> Costing 265 points, expected to be a popular choice among players for their capabilities.</li>
+    <li>🔧 <strong>Death Riders vs. Rough Riders:</strong> Notably, Death Riders are priced higher than Rough Riders, raising eyebrows among the community.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Impact of Updates:</strong> How will the new codex points affect competitive play in upcoming tournaments?</li>
+    <li>🔍 <strong>Future Changes:</strong> What potential changes might we see in the next major balance update?</li>
+    <li>📊 <strong>Unit Choices:</strong> Which units are likely to dominate the tabletop following these updates, and why?</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Start a White Scars Army in Warhammer 40K 10th Edition - Beginner Guide!]]></title>
+            <link>https://www.youtube.com/watch?v=qd5Q--GDMlU</link>
+            <guid>yt:video:qd5Q--GDMlU</guid>
+            <pubDate>Wed, 19 Feb 2025 07:00:39 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of starting a White Scars army in Warhammer 40K, highlighting their fast-moving combat style, cost-effective army building, unique gameplay mechanics, and painting tips, while also posing strategic questions for effective gameplay.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Starting Your White Scars Army in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Introduction to White Scars:</strong> The White Scars are the 5th Legion of Space Marines, known for their fast-moving cavalry and hit-and-run tactics.</li>
+    <li>🛡️ <strong>Combat Doctrine:</strong> Favors melee combat and mounted warfare, utilizing bikes instead of traditional cavalry.</li>
+    <li>🎨 <strong>Miniature Availability:</strong> Access to a wide range of Space Marine units, with specific themed upgrades for White Scars.</li>
+    <li>💰 <strong>Cost Considerations:</strong> Starting a White Scars army can be cheaper than other factions due to discounts and elite unit accessibility.</li>
+    <li>⚔️ <strong>Unique Rules:</strong> The Storm Lance task force offers advantages like advance and charge capabilities, enhancing their speed on the battlefield.</li>
+    <li>📦 <strong>Building Your Army:</strong> Suggestions for initial purchases include intercessors, out riders, and various combat patrol sets to balance your army.</li>
+    <li>🖌️ <strong>Painting Tips:</strong> White armies can be challenging to paint; using a brilliant white spray primer followed by shading is recommended.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Army Cost:</strong> A typical 2,000-point White Scars army may be less expensive to assemble compared to other factions due to available discounts.</li>
+    <li>⚔️ <strong>Corsaro Khan:</strong> Costs 70 points and provides significant boosts to melee units, enhancing their effectiveness in combat.</li>
+    <li>🚴 <strong>Out Riders:</strong> Each unit costs 80 points and has 4 wounds and a movement speed of 12, making them valuable fast attack units.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> What strategies can be employed to effectively use the hit-and-run tactics of the White Scars in battles?</li>
+    <li>🤔 <strong>Question 2:</strong> How does the lore of the White Scars influence their gameplay mechanics in Warhammer 40K?</li>
+    <li>🤔 <strong>Question 3:</strong> What are the advantages and disadvantages of focusing heavily on bike units in a White Scars army?</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40K's Next Balance Patch - When's it Coming and What Needs to Happen?]]></title>
+            <link>https://www.youtube.com/watch?v=edn5Jzu6cd4</link>
+            <guid>yt:video:edn5Jzu6cd4</guid>
+            <pubDate>Tue, 18 Feb 2025 19:00:34 GMT</pubDate>
+            <description><![CDATA[The upcoming balance update for Warhammer 40K, expected between mid-March and mid-April, will likely target the overpowered Legion of Excess chaos demons and the dominating Ultra Marines, while addressing the underperformance of the Sisters of Battle.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Upcoming Balance Updates for Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Next Update Timeline:</strong> The next balance update for Warhammer 40K is expected between mid-March and mid-April.</li>
+    <li>⚖️ <strong>Balance Focus:</strong> Updates will likely address overpowered factions, particularly the Legion of Excess chaos demons, and adjust points rather than core rules.</li>
+    <li>📈 <strong>Current Meta:</strong> The Legion of Excess demons have a win rate of 66%, significantly higher than the average 50% across factions.</li>
+    <li>🤖 <strong>Space Marines Dominance:</strong> Ultra Marines are outperforming other chapters, with victory rates around 20% higher than their competitors.</li>
+    <li>🎲 <strong>Sisters of Battle Weakness:</strong> After recent nerfs, Sisters of Battle are currently at a low win rate of approximately 41%.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📅 <strong>Update Frequency:</strong> Balance updates typically occur every 3 months.</li>
+    <li>📊 <strong>Legion of Excess Win Rate:</strong> 66% win rate for the Legion of Excess compared to 56% for general chaos demon factions.</li>
+    <li>⚔️ <strong>Sisters of Battle Win Rate:</strong> Approximately 41% win rate, indicating significant underperformance in the current meta.</li>
+    <li>🏆 <strong>Ultra Marines Performance:</strong> Achieved around 20 tournament victories or undefeated runs, doubling the success of other factions.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What changes would you like to see in the balance updates to enhance gameplay diversity?</strong></li>
+    <li>🔍 <strong>How can Games Workshop maintain a balanced competitive environment while introducing new factions and updates?</strong></li>
+    <li>🌐 <strong>In what ways could the emergence of new codexes impact the overall balance of Warhammer 40K?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40K Lore Moves Forward! Chaos Has a Planet Killer?]]></title>
+            <link>https://www.youtube.com/watch?v=uzJmMdZ1tlI</link>
+            <guid>yt:video:uzJmMdZ1tlI</guid>
+            <pubDate>Tue, 18 Feb 2025 07:00:36 GMT</pubDate>
+            <description><![CDATA[The video discusses the escalating chaos in Warhammer 40K surrounding the Natman Gauntlet, highlighting the Imperium's struggles against Chaos forces, the strategic significance of key locations like Vigilus and Sangu Tera, and the heavy casualties incurred in major battles.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40K: The Natman Gauntlet War Update</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>Current Chaos:</strong> The video discusses the ongoing chaos surrounding the Natman Gauntlet and its relevance in Warhammer 40K lore.</li>
+  <li>⚔️ <strong>Imperial Struggles:</strong> The Imperium is facing severe challenges in the wake of a chaotic invasion, particularly from Chaos forces.</li>
+  <li>🌌 <strong>Geographical Importance:</strong> The Natman Gauntlet serves as a crucial passageway in the Great Rift, impacting the fate of many worlds.</li>
+  <li>🚧 <strong>Vigilus Under Siege:</strong> Vigilus is currently isolated and under threat, with Abaddon claiming its fall is inevitable.</li>
+  <li>🐉 <strong>Major Battles:</strong> The video details significant battles, including the fight for Sangu Tera and the tactics employed by both Chaos and Imperial forces.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📉 <strong>Casualties:</strong> The battles have resulted in heavy casualties for both the Imperium and Chaos forces, but specifics are not given.</li>
+  <li>🌍 <strong>Strategic Locations:</strong> Sangu Tera is identified as one of four major systems critical for the Imperium, indicating its strategic value.</li>
+  <li>🚀 <strong>Fleet Engagements:</strong> Multiple fleets engaged in battles, with significant losses reported on both sides.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>What are the potential long-term consequences if Vigilus falls to Chaos?</strong></li>
+  <li>🔍 <strong>How might the outcome of the Natman Gauntlet War impact future Warhammer 40K narratives?</strong></li>
+  <li>💭 <strong>What strategies could the Imperium employ to reclaim lost territories and bolster their defenses?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Strong Aeldari Army Lists - What's Winning for the New Codex? Eight Lists That Did Well]]></title>
+            <link>https://www.youtube.com/watch?v=e_1IvOMHOAk</link>
+            <guid>yt:video:e_1IvOMHOAk</guid>
+            <pubDate>Mon, 17 Feb 2025 18:00:26 GMT</pubDate>
+            <description><![CDATA[The video discusses the successful impact of the new Eldari Codex in tournament play, highlighting high placements by Eldari players, popular detachments and key units, while also noting some underutilized units and posing questions about future strategies in the competitive scene.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Eldari Tactics: Tournament Insights and Army Lists</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Success of New Codex:</strong> The new Eldari Codex has led to significant successes at tournaments, with many players achieving top placements.</li>
+    <li>🎖️ <strong>High Placements:</strong> Most major events had at least one Eldari player finishing with a record of 4 wins and 1 loss.</li>
+    <li>💥 <strong>Popular Detachments:</strong> Effective detachments include War Host, Aspect Host, Anari, Wind Rider Host, and Seer Council.</li>
+    <li>🚀 <strong>Key Units:</strong> Strong focus on Aspect Warriors such as Fire Dragons, Striking Scorpions, and Dark Reapers, led by powerful Phoenix Lords.</li>
+    <li>🛡️ <strong>Underutilized Units:</strong> Some units like Guardian Death Stars and War Walkers have not seen much competitive play despite some hype.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Win Ratios:</strong> At least one Eldari player achieved a 4-1 record in multiple events, indicating a strong competitive presence.</li>
+    <li>🏆 <strong>Tournament Wins:</strong> Eldari armies secured several small tournament victories in their first weekend, showcasing their effectiveness.</li>
+    <li>🔢 <strong>Army List Variations:</strong> Eight strong Army lists were highlighted for their successful performance, indicating diverse strategies within the Eldari framework.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How will the recent changes in the Eldari Codex influence future tournament strategies?</li>
+    <li>🧐 <strong>Question 2:</strong> Which underutilized units could see a resurgence in competitive play as players adapt to the new meta?</li>
+    <li>💭 <strong>Question 3:</strong> What lessons can be learned from the successful detachments and units used in the recent tournaments?</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Strong Aeldari Army Lists - What's Winning for the New Codex? Eight Lists That Did Well]]></title>
+            <link>https://www.youtube.com/watch?v=e_1IvOMHOAk</link>
+            <guid>yt:video:e_1IvOMHOAk</guid>
+            <pubDate>Mon, 17 Feb 2025 18:00:26 GMT</pubDate>
+            <description><![CDATA[The video discusses the successful use of the new Eldari codex in tournaments, highlighting strong detachments and popular units, while also noting underutilized options and posing strategic questions for players.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Eldari Tactics: Successful Army Lists and Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Strong Tournament Presence:</strong> The new Eldari codex has shown promising results in recent tournaments, with multiple players achieving top placements.</li>
+    <li>📈 <strong>Successful Detachments:</strong> The Aspect Host, Warhost, Anari Wind Rider Host, and Seer Council detachments are dominating with high placements.</li>
+    <li>🚀 <strong>Popular Units:</strong> Key units include Aspect Warriors like Fire Dragons, Striking Scorpions, and Dark Reapers, often led by Phoenix Lords.</li>
+    <li>⚔️ <strong>Core Mechanic Advantage:</strong> Eldari players leverage movement flexibility and tactical stratagems to gain advantages in gameplay.</li>
+    <li>🔍 <strong>Underutilized Options:</strong> Some units, like the Guardian Death Star, saw little use, indicating room for exploration in future army compositions.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>🏆 <strong>Top Tournament Results:</strong> Many Eldari players achieved a record of 4 wins and 1 loss in various tournaments, demonstrating strong performance.</li>
+    <li>🎲 <strong>Player Participation:</strong> At least one Eldari player placed in the top ranks of nearly all major events attended over the past weekend.</li>
+    <li>🔢 <strong>Unit Count Examples:</strong> Successful lists featured multiple units of Dark Reapers, with costs around 90 points for five models, showcasing their value.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What strategies can players adopt to maximize the effectiveness of lesser-used units like the Guardian Death Star?</strong></li>
+    <li>💭 <strong>How do the new codex mechanics for Eldari compare to other factions in terms of gameplay versatility?</strong></li>
+    <li>🔍 <strong>What potential combinations of units and detachments could emerge as dominant in future tournaments?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GW Prices Just Went Off the Deep End... 40K News Round Up!]]></title>
+            <link>https://www.youtube.com/watch?v=i71FcgTf5kk</link>
+            <guid>yt:video:i71FcgTf5kk</guid>
+            <pubDate>Mon, 17 Feb 2025 02:41:41 GMT</pubDate>
+            <description><![CDATA[The video discusses Games Workshop's new releases, highlighting a significant price increase for the limited edition Cadian Command Squad, upcoming releases for Emperor's Children and Age of Sigmar, new rules for Knight units that may lower gameplay costs, and pre-order details, while raising questions about accessibility and strategies for new players.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Games Workshop New Releases Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Price Shock:</strong> The new limited edition KD and Command Squad is priced at £47 ($80), significantly higher than the regular Cadian Command Squad at $45.</li>
+    <li>🛠️ <strong>Upcoming Releases:</strong> Anticipated releases include Emperor's Children and a new wave of Age of Sigmar's Black Grave Lords.</li>
+    <li>⚔️ <strong>New Knight Rules:</strong> Rules for Night Armigers and Slaughter Talons revealed, potentially offering a cheaper way to play Warhammer 40K.</li>
+    <li>📅 <strong>Pre-Order Dates:</strong> Cadian Command Squad available for pre-order on February 22, with general sale starting March 8.</li>
+    <li>📦 <strong>Mechanicum Releases:</strong> New heavy support box set priced at £110 ($185) includes three new models.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Command Squad Price:</strong> £47 ($80) for five miniatures, compared to regular Cadian Command Squad at $45.</li>
+    <li>📈 <strong>Discount on Mechanicum Box Set:</strong> Estimated 32% off when compared to individual model prices.</li>
+    <li>🚀 <strong>Cheapest Combat Patrol:</strong> New Knight Armigers priced at £58 ($95), noted as one of the most cost-effective ways to play.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do the rising prices of miniatures affect the accessibility of the Warhammer 40K hobby for new players?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players use to maximize value when purchasing Games Workshop products?</li>
+    <li>🤔 <strong>Question 3:</strong> Will the new Knight rules create a shift in competitive play dynamics within the Warhammer 40K community?</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Leman Russ Battle Tanks - How Strong in Codex Astra Militarum? Unit Review + Damage Comparison]]></title>
+            <link>https://www.youtube.com/watch?v=cfWdkv8xVYg</link>
+            <guid>yt:video:cfWdkv8xVYg</guid>
+            <pubDate>Sun, 16 Feb 2025 06:00:25 GMT</pubDate>
+            <description><![CDATA[The video discusses the Leman Russ Battle Tank in Warhammer 40K, highlighting its reliability, various specialized variants, impressive defensive stats, versatile weaponry, and the strategic advantages it offers within army compositions.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 The Power of the Leman Russ Battle Tank in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Leman Russ Overview:</strong> The Leman Russ is a staple tank of the Astra Militarum, known for its reliability and massive firepower.</li>
+    <li>🔍 <strong>Variants:</strong> Various specialized variants include the Executioner, Vanquisher, and Demolisher, each with unique weaponry and roles.</li>
+    <li>⚙️ <strong>Data Sheets:</strong> There are 8 data sheets for Leman Russ tanks, with points ranging from 145 to 235, allowing for flexible army construction.</li>
+    <li>🛡️ <strong>Defensive Stats:</strong> The tanks have toughness 11, a 2+ save, and 13 wounds, making them durable against most attacks.</li>
+    <li>💥 <strong>Key Weapons:</strong> Tanks can equip various weapons, including battle cannons, plasma cannons, and heavy bolters, enhancing their versatility on the battlefield.</li>
+    <li>📈 <strong>Buffs and Synergies:</strong> Leman Russ tanks benefit from orders and detachments, increasing their effectiveness, particularly in combined arms regiments.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Point Cost Range:</strong> Leman Russ tanks cost between 145 and 235 points, impacting army composition and strategy.</li>
+    <li>🔢 <strong>Weapon Stats:</strong> The standard battle cannon deals damage of D6+3 shots with a range of 48 inches, while the Demolisher cannon can do D6+1 shots at 24 inches.</li>
+    <li>💥 <strong>Damage Potential:</strong> The Vanquisher cannon has a damage potential of D6+6 against vehicles, making it a formidable opponent for heavy armor.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do the Leman Russ variants compare in terms of effectiveness against different types of enemy units?</strong></li>
+    <li>🔍 <strong>What strategies can be employed to maximize the impact of Leman Russ tanks in competitive play?</strong></li>
+    <li>⚔️ <strong>In what scenarios would you choose a Leman Russ over newer tanks like the Rogal Dawn?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Every 40K Army’s Lost Named Characters – Should GW Bring These Back?]]></title>
+            <link>https://www.youtube.com/watch?v=5kFhaaFSwYI</link>
+            <guid>yt:video:5kFhaaFSwYI</guid>
+            <pubDate>Sat, 15 Feb 2025 14:00:12 GMT</pubDate>
+            <description><![CDATA[The video explores the evolution and significance of named characters in Warhammer 40K, detailing their historical context, notable examples, model changes, and the implications of their removal in the 10th edition, while speculating on future developments in the game's character roster.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Exploring Vanished Named Characters in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Evolution of Named Characters:</strong> Named characters in Warhammer 40K have shifted in significance from niche to essential in the 10th edition, influencing gameplay and lore.</li>
+    <li>📅 <strong>Historical Context:</strong> The use of named characters has varied throughout the game's history, with some requiring opponent approval to use.</li>
+    <li>🦸‍♂️ <strong>Character Examples:</strong> Discussion of notable characters like Eldrad Alin, Gabriel Seth, and Sergeant Kronos, emphasizing their unique abilities and lore.</li>
+    <li>♻️ <strong>Model Changes:</strong> Many older resin and metal models have been discontinued in favor of plastic, with some characters still retaining presence in codices despite being removed from models.</li>
+    <li>🔄 <strong>Future Prospects:</strong> Speculation about the potential return of older characters as Games Workshop continues to evolve the game.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Character Removal Rate:</strong> A significant number of named characters have been removed in the transition to the 10th edition, reflecting Games Workshop's focus on new archetypes.</li>
+    <li>⚔️ <strong>Gabriel Seth's Stats:</strong> In the 10th edition, he boasts six attacks at strength 8, showcasing the powerful abilities of named heroes.</li>
+    <li>🔢 <strong>Character Representation:</strong> Out of 42 notable characters discussed, many have been phased out, indicating a shift towards a more streamlined roster.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What impact do you believe the removal of older characters has on the Warhammer 40K community and gameplay?</strong></li>
+    <li>🔍 <strong>Which vanished character would you most like to see return, and why?</strong></li>
+    <li>💭 <strong>How does the evolution of named characters reflect broader trends in tabletop gaming?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[New Angron Model Reveal, Fancy Chaos Codexes, World Eater Tease, Terrain Returns + More - 40K News!]]></title>
+            <link>https://www.youtube.com/watch?v=k1vXkVlnBzE</link>
+            <guid>yt:video:k1vXkVlnBzE</guid>
+            <pubDate>Fri, 14 Feb 2025 15:48:00 GMT</pubDate>
+            <description><![CDATA[The video discusses recent Games Workshop news, highlighting the preview of a new Angron model priced at £180, the release of Warhammer-themed collector's frogs, special edition codexes, and a limited-time pre-order for popular terrain kits starting February 15th.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Games Workshop News Roundup</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>New Angron Model:</strong> A dramatic new demon Primark Angron model has been previewed, offering a blend of his heresy and 40K versions.</li>
+  <li>🐸 <strong>Collector's Frogs:</strong> Games Workshop is releasing resin Warhammer-themed frogs, catering to niche collectors.</li>
+  <li>💰 <strong>Pricing Insights:</strong> The new Angron model will retail for £180 ($275, €220), significantly higher than previous models.</li>
+  <li>📦 <strong>Special Edition Codexes:</strong> A new line of special edition codexes for the deity Legions is set to be released, featuring unique packaging and additional collectibles.</li>
+  <li>🛠️ <strong>Made to Order Terrain:</strong> Popular 40K terrain kits will be available for a limited time, with pre-orders starting on February 15th.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📈 <strong>Price Point for Angron:</strong> £180 / $275 / €220 for the new Angron model, reflecting the high cost of specialty miniatures.</li>
+  <li>📅 <strong>Pre-order Dates:</strong> Made to order terrain pre-orders begin on February 15th and end on February 23rd.</li>
+  <li>🔄 <strong>Release Timeline:</strong> Typically, new models are released within 1 to 3 months post-preview.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How do you feel about the rising prices of collector models like Angron?</strong></li>
+  <li>🧐 <strong>What features would you like to see in future special edition codexes?</strong></li>
+  <li>🔍 <strong>Which upcoming releases are you most excited about in the Warhammer universe?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Don't Make THESE MISTAKES When Writing 40K Army Lists - Common Beginner Errors to Avoid!]]></title>
+            <link>https://www.youtube.com/watch?v=JVp8KOw7-LM</link>
+            <guid>yt:video:JVp8KOw7-LM</guid>
+            <pubDate>Thu, 13 Feb 2025 19:34:35 GMT</pubDate>
+            <description><![CDATA[The video discusses common mistakes in creating Warhammer 40K army lists, emphasizing the importance of balance, unit synergy, and adaptation to different editions, while analyzing examples to improve competitiveness.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Army List Writing Mistakes in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Common Mistakes:</strong> Discusses typical errors in army list creation for beginners in Warhammer 40K.</li>
+    <li>⚔️ <strong>Balance is Key:</strong> Emphasizes the importance of a balanced list with a mix of heavy hitters and scoring units.</li>
+    <li>🛡️ <strong>Unit Synergy:</strong> Highlights the need for synergy among units to effectively counter various enemy compositions.</li>
+    <li>📈 <strong>Adaptation to Editions:</strong> Each edition of Warhammer 40K has unique quirks that affect army composition and strategy.</li>
+    <li>📝 <strong>Examples of Lists:</strong> Analyzes three army lists, identifying strengths and weaknesses to make them more competitive.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>🔢 <strong>Unit Count:</strong> A typical list may contain anywhere from 5 to 20 units, varying based on the strategy.</li>
+    <li>🚀 <strong>Toughness & Wounds:</strong> Rogal Dawn tanks possess toughness 12 and 18 wounds, making them formidable opponents.</li>
+    <li>⚖️ <strong>Objective Control:</strong> Units should have an objective control value (OC) to effectively contest primary objectives.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What strategies can help balance offensive and defensive capabilities in an army list?</strong></li>
+    <li>🤔 <strong>How can understanding the current edition's rules impact your army list's effectiveness?</strong></li>
+    <li>🤔 <strong>In what ways can unit synergy enhance the overall performance of your army in battles?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Playing Xenos Corrupted Guard in Warhammer 40K? Brood Brothers ft. Christian Von Carmian]]></title>
+            <link>https://www.youtube.com/watch?v=8dGyxQdo3fQ</link>
+            <guid>yt:video:8dGyxQdo3fQ</guid>
+            <pubDate>Thu, 13 Feb 2025 07:00:07 GMT</pubDate>
+            <description><![CDATA[The video discusses the introduction of the Brew Brothers Detachment in Warhammer 40K, highlighting new gameplay strategies that combine Astra Militarum and Genestealer Cult, detailing unit limitations, integrated tactics that enhance Genestealer Cult units, and offering recommendations for effective unit synergies.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Exploring the Brew Brothers Detachment in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>New Strategies:</strong> Introduction of Brew Brothers Detachment allows unique gameplay options for combining Astra Militarum and Genestealer Cult.</li>
+  <li>🎲 <strong>Detachments and Limitations:</strong> Players can include up to half their army as Astra Militarum, but specific units are restricted.</li>
+  <li>⚔️ <strong>Integrated Tactics:</strong> A core rule that buffs Gene Stealer Cult shooting units, offering strategic advantages but requiring careful positioning.</li>
+  <li>💡 <strong>Command Points and Stratagems:</strong> Various command point strategies available, with differing levels of utility and effectiveness.</li>
+  <li>🎖️ <strong>Unit Recommendations:</strong> Suggestions for effective Astra Militarum units to include, focusing on synergy with Genestealer Cult.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📈 <strong>1/2 Army Limit:</strong> Players can include up to 50% of their army as Astra Militarum in the Brew Brothers Detachment.</li>
+  <li>🔢 <strong>3+ Chance:</strong> The "Regimental Reinforcements" stratagem allows a 3+ chance to return units to the battlefield.</li>
+  <li>⚔️ <strong>+1 to Hit:</strong> The integrated tactics rule provides a +1 to hit for Genestealer Cult units after a specific guard unit fires.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How do the new rules for Brew Brothers affect the traditional playstyle of both Astra Militarum and Genestealer Cult?</strong></li>
+  <li>🧐 <strong>Which units from the Astra Militarum do you think synergize best with the Genestealer Cult under the new codex?</strong></li>
+  <li>💭 <strong>What strategies could be developed to maximize the effectiveness of the integrated tactics rule?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Start a Black Legion Army in Warhammer 40K - Beginner Guide and Rules Overview]]></title>
+            <link>https://www.youtube.com/watch?v=f6C7EWx2NCY</link>
+            <guid>yt:video:f6C7EWx2NCY</guid>
+            <pubDate>Fri, 14 Feb 2025 07:00:26 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of starting a Black Legion army in Warhammer 40K, highlighting their unique lore, key units, aesthetic appeal, cost effectiveness, gameplay mechanics, and tips for building a balanced army, alongside important numerical insights and strategic considerations for players.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Starting Your Black Legion Army in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Why Collect Black Legion?</strong> Formerly the Luna Wolves, the Black Legion represents a unified and deadly fighting force in Warhammer 40K.</li>
+    <li>🛡️ <strong>Key Units:</strong> The Black Legion features iconic units such as legionaries, dread chaos Terminators, and chosen, known for their martial prowess.</li>
+    <li>🎨 <strong>Miniature Aesthetics:</strong> Black Legion miniatures boast a striking black and brass color scheme, appealing to collectors.</li>
+    <li>📊 <strong>Cost Effectiveness:</strong> Chaos Space Marines generally offer better points per dollar ratio compared to other armies.</li>
+    <li>⚔️ <strong>Gameplay Mechanics:</strong> Utilizes the Codex Chaos Space Marines for rules, emphasizing a mix of ranged and melee capabilities.</li>
+    <li>📝 <strong>Army Building Tips:</strong> Suggested to create a balanced army list, starting with core units and gradually adding unique characters and units.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Combat Patrol Box Value:</strong> A combat patrol set gives approximately 400 points on the board, offering a 27% discount versus individual purchases.</li>
+    <li>🪙 <strong>Abaddon the Despoiler Stats:</strong> Costs 280 points with 9 wounds and a 2+ save, highlighting his effectiveness as a central commander.</li>
+    <li>🔍 <strong>Veterans of the Long War:</strong> The theme detachment enhances damage output with rerolls against targeted units, significantly boosting performance.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What unique strategies can you implement to maximize the effectiveness of your Black Legion army in gameplay?</strong></li>
+    <li>📖 <strong>How does the lore of the Black Legion influence your approach to painting and assembling your miniatures?</strong></li>
+    <li>🛠️ <strong>What are some innovative ways to save time and money while building your Black Legion army?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Top Ten New 40K Factions and Army Expansions to Add to the Game? What Should Come Next?]]></title>
+            <link>https://www.youtube.com/watch?v=-smoH9J9mso</link>
+            <guid>yt:video:-smoH9J9mso</guid>
+            <pubDate>Wed, 12 Feb 2025 18:39:25 GMT</pubDate>
+            <description><![CDATA[The video discusses the ongoing expansion of factions in Warhammer 40K by Games Workshop, highlighting new additions like Emperor's Children and Leagues of Votan, while also addressing the need for better support for existing armies based on community feedback and poll results.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 New Factions in Warhammer 40K: What's Next?</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Expansion of Armies:</strong> Games Workshop is continuously adding new factions to Warhammer 40K, enhancing diversity and play styles.</li>
+    <li>🔍 <strong>Current and Upcoming Factions:</strong> Notable factions include Emperor's Children, Leagues of Votan, and many more, with various updates on existing armies.</li>
+    <li>⚖️ <strong>Balancing Act:</strong> Despite the influx of new factions, many existing armies lack adequate support and updates.</li>
+    <li>📊 <strong>Poll Insights:</strong> Community polls indicated strong desires for major updates for factions like Leagues of Votan and Grey Knights.</li>
+    <li>🔮 <strong>Fan Requests:</strong> Games Workshop is increasingly responding to fan requests, adding several previously desired factions to the game.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Poll Participation:</strong> Thousands of votes collected on desired army updates, with Leagues of Votan and Grey Knights leading the demand.</li>
+    <li>🗳️ <strong>Top Choices:</strong> The top requested updates included Leagues of Votan, Grey Knights, and World Eaters, showcasing community interests.</li>
+    <li>⚙️ <strong>Historical Updates:</strong> Six fan-requested factions have been realized by Games Workshop since a similar poll conducted four years ago.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Future Factions:</strong> Which factions do you think should be prioritized for updates in Warhammer 40K?</li>
+    <li>🔍 <strong>Balance vs. Expansion:</strong> How can Games Workshop balance the introduction of new factions while adequately supporting existing ones?</li>
+    <li>💭 <strong>Fan Influence:</strong> How significant do you think fan feedback is in shaping the future of Warhammer 40K releases?</li>
 </ul>
 ]]></content:encoded>
         </item>

@@ -1,6 +1,4 @@
-// eslint-disable-next-line import/no-extraneous-dependencies -- This is a shared utility in the nx mono repo
 import { XMLParser } from 'fast-xml-parser';
-// eslint-disable-next-line import/no-extraneous-dependencies -- This is a shared utility in the nx mono repo
 import { type Item } from 'feed';
 
 export class RSSParser {
@@ -30,13 +28,10 @@ export class RSSParser {
       };
     };
 
-    const mostRecentItems =
-      parsedFeed.rss?.channel?.item
-        ?.sort(
-          (a: { pubDate: string }, b: { pubDate: string }) =>
-            new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime(),
-        )
-        .slice(0, 12) ?? [];
+    const mostRecentItems = parsedFeed.rss?.channel?.item?.sort(
+      (a: { pubDate: string }, b: { pubDate: string }) =>
+        new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime(),
+    );
 
     return new Set(mostRecentItems as unknown as Item[]);
   }

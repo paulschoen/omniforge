@@ -20,6 +20,7 @@ interface Entry {
   published: string;
   title: string;
   updated: string;
+  'yt:videoId': string;
 }
 
 export const fetchAuspexData = async () => {
@@ -28,13 +29,12 @@ export const fetchAuspexData = async () => {
   );
 
   try {
-    const auspexClient = new HttpClient(
-      'https://openrss.org/www.youtube.com/@auspextactics',
-    );
+    const auspexClient = new HttpClient('https://www.youtube.com/feeds');
     const feedGenerator = new FeedGenerator({
       rssFile: 'auspex.rss',
       directory: './docs',
-      baseUrl: 'https://openrss.org/www.youtube.com/@auspextactics',
+      baseUrl:
+        'https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ',
       title: 'Auspex Tactics RSS Feed',
       description: 'Latest intelligence reports from the Auspex Tactics',
       copyright: 'Auspex Tactics',
@@ -54,13 +54,11 @@ export const fetchAuspexData = async () => {
       client_type: ClientType.WEB,
     });
 
-    const fetchTranscript = async (url: string): Promise<string[]> => {
+    const fetchTranscript = async (videoId: string): Promise<string[]> => {
       Logger.info(
-        `Attempting to translate vox transmission transcription: ${url}`,
+        `Attempting to translate vox transmission transcription: ${videoId}`,
       );
       try {
-        const videoId = url.split('v=')[1];
-
         if (!videoId) {
           throw new Error('Invalid YouTube video URL');
         }
@@ -72,13 +70,15 @@ export const fetchAuspexData = async () => {
           .filter(Boolean) as string[];
       } catch (error: unknown) {
         Logger.error(
-          `Vox transmission failed to fetch transcript for video: ${url}`,
+          `Vox transmission failed to fetch transcript for video: ${videoId}`,
         );
         throw error;
       }
     };
 
-    const videoFeedResponse = await auspexClient.get('/videos');
+    const videoFeedResponse = await auspexClient.get(
+      '/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ',
+    );
     const videoFeedXML = parser.convertXmlStringToJson(
       videoFeedResponse.data as string,
     );
@@ -86,33 +86,32 @@ export const fetchAuspexData = async () => {
     const videoFeedItems = videoFeedXML.feed?.entry;
 
     const { default: pLimit } = await import('p-limit');
-    const limit = pLimit(5);
+    const limit = pLimit(6);
 
     await feedGenerator.loadFeed();
 
-    const shouldUpdate = await feedGenerator.determineIfFeedNeedsUpdate(
-      (videoFeedItems as Entry[]).map((entry: Entry) => entry.id),
-    );
-
     const newItem = (videoFeedItems as Entry[]).filter(
-      (entry) => !feedGenerator.items.some((item) => item.link === entry.id),
+      (entry) =>
+        !feedGenerator.items.some(
+          (item) =>
+            item.link ===
+            `https://www.youtube.com/watch?v=${entry['yt:videoId']}`,
+        ),
     );
-
-    Logger.info(
-      `The Omnissiah has decreed that the feed ${
-        shouldUpdate ? 'needs' : 'does not need'
-      } updating`,
-    );
+    const shouldUpdate = newItem.length > 0;
 
     if (!shouldUpdate) {
+      Logger.warn('The Omnissiah has decreed that the feed is up to date');
       Logger.info('The sacred rites of data processing have been completed');
       return;
     }
 
+    Logger.info('The Omnissiah has decreed that the feed must be updated');
+
     await Promise.all(
       newItem.map((entry) =>
         limit(async () => {
-          const transcript = await fetchTranscript(entry.id);
+          const transcript = await fetchTranscript(entry['yt:videoId']);
           const prompt = `
           Summarize the following YouTube video transcript in a structured format for an RSS feed. The output should be HTML-formatted and structured for readability.
 
@@ -129,7 +128,7 @@ export const fetchAuspexData = async () => {
           <ul>
             <li>🔥 <strong>Main Insight 1:</strong> Brief explanation of key point.</li>
             ...additional key points as needed
-d          </ul>
+          </ul>
 
           <h3>📊 Important Numerical Insights</h3>
           <ul>
@@ -189,9 +188,10 @@ d          </ul>
           feedGenerator.addItemToFeed({
             title: entry.title,
             id: entry.id,
+            guid: entry.id,
             content: cleanedWisdom,
             description: summarizedWisdom,
-            link: entry.id,
+            link: `https://www.youtube.com/watch?v=${entry['yt:videoId']}`,
             date: new Date(entry.published),
           });
         }),
