@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Feb 2025 13:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 14:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Evan Dicken interview – An anatomy of an aelven assassin]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/gj8t1ts4/evan-dicken-interview-an-anatomy-of-an-aelven-assassin</link>
+            <guid>gj8t1ts4</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What went into writing Shade of Khaine?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_shade-feb21-1-feature-ep55ogielg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Celebration miniatures painted by the Warhammer community]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/bxdvkvns/black-library-celebration-miniatures-painted-by-the-warhammer-community</link>
@@ -272,16 +284,6 @@
             <category domain="orks">Orks</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_maddok-feb12-1-feature-qk6i8bzrl8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week – How the new edition of Kill Team was designed]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/nwd97ve2/warhammer-tv-this-week-how-the-new-edition-of-kill-team-was-designed</link>
-            <guid>nwd97ve2</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, new episodes of Loremasters and Scrap Demon.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whtv-feb12-1-feature-lrn1txwrv3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
