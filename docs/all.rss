@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Feb 2025 15:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 16:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Narrative scenarios for the Warhammer World Anniversary]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/plbkgjgd/old-world-almanack-narrative-scenarios-for-the-warhammer-world-anniversary</link>
+            <guid>plbkgjgd</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Will the Sea Lord Aislynn prevail against the forces of Chaos?]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="events">Events</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_whwscenarios-feb21-feature-ioxa3bnja4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ITC 2025 – Key changes to the competitive Warhammer calendar]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/x96wp1cj/itc-2025-key-changes-to-the-competitive-warhammer-calendar</link>
@@ -272,16 +285,6 @@
             <category domain="old-world-almanack">Old World Almanack</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_highelfjournal-feb13-feature-he2skawqiu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fight better battles in Middle-earth with the first Designers’ Commentary of 2025]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/lhh0ygi2/fight-better-battles-in-middle-earth-with-the-first-designers-commentary-of-2025</link>
-            <guid>lhh0ygi2</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the latest fixes and clarifications.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_bolg-feb13-1-feature-vcq0y0pjll.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
