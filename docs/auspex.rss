@@ -4,11 +4,49 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Fri, 21 Feb 2025 18:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 16:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40K's WORST Miniature Updates? As Ranked by You!]]></title>
+            <link>https://www.youtube.com/watch?v=3uYhxsi__38</link>
+            <guid>yt:video:3uYhxsi__38</guid>
+            <pubDate>Fri, 21 Feb 2025 18:00:04 GMT</pubDate>
+            <description><![CDATA[The video examines the least well-received model updates in Warhammer 40K, highlighting community feedback on controversial designs, approval ratings of various models, and concerns about price and model count.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Summary of the Worst Received Model Updates in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Community Feedback Driven:</strong> The video analyzes Warhammer 40K miniature updates that were poorly received, based on community feedback and approval polls.</li>
+    <li>💬 <strong>Controversial Updates:</strong> Highlights various models that faced backlash, including the Terminator Chaplain and the Sanguinor, often due to aesthetic changes or lack of options.</li>
+    <li>🔍 <strong>Top 10 Least Liked Models:</strong> The video discusses the top 10 models with the lowest approval ratings, emphasizing community sentiments on design and functionality.</li>
+    <li>📊 <strong>Honorable Mentions:</strong> Certain models like Typhus and the new Chaos Guard were noted for mixed reviews, indicating they were better received than others.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Approval Ratings:</strong> 
+        <ul>
+            <li>Typhus received an 81% approval rating.</li>
+            <li>The Terminator Chaplain ranked lowest with only a 14% approval rate.</li>
+            <li>Sanguinor garnered a 60% approval, indicating mixed reviews.</li>
+        </ul>
+    </li>
+    <li>📊 <strong>Model Count and Quality:</strong> Discussion on the reduction of miniatures in kits, such as the Sanguinary Guard dropping from 5 to 3 models.</li>
+    <li>🛒 <strong>Price Concerns:</strong> Mention of high prices for models like the new Fled Ones, which were criticized for being poor value.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> What design elements do you believe are essential for a successful model update in tabletop gaming?</li>
+    <li>🤔 <strong>Question 2:</strong> How do community sentiments influence the future design choices of companies like Games Workshop?</li>
+    <li>🤔 <strong>Question 3:</strong> Which model updates have you been most disappointed with in your own gaming experience, and why?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Top Ten Strongest Space Marine Units - Most Commonly Played Competitive Datasheets?]]></title>
             <link>https://www.youtube.com/watch?v=MQUa7JEwDr4</link>
@@ -542,40 +580,34 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Warhammer 40K's WORST Miniature Updates? As Ranked by You!]]></title>
-            <link>https://www.youtube.com/watch?v=3uYhxsi__38</link>
-            <guid>yt:video:3uYhxsi__38</guid>
-            <pubDate>Fri, 21 Feb 2025 18:00:04 GMT</pubDate>
-            <description><![CDATA[The video examines the least well-received model updates in Warhammer 40K, highlighting community feedback on controversial designs, approval ratings of various models, and concerns about price and model count.]]></description>
+            <title><![CDATA[The Custodes + Sisters of Silence Range Update We KNOW is Coming...]]></title>
+            <link>https://www.youtube.com/watch?v=3JS6N3UVS3M</link>
+            <guid>yt:video:3JS6N3UVS3M</guid>
+            <pubDate>Sat, 22 Feb 2025 15:00:04 GMT</pubDate>
+            <description><![CDATA[The video discusses anticipated updates for Adeptus Custodes and Sisters of Silence, highlighting the potential introduction of new plastic models, unique units, and character models, while also addressing the strategic release differentiation between Warhammer 40K and Horus Heresy.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Summary of the Worst Received Model Updates in Warhammer 40K</h2>
+<h2>📢 Future Updates for Adeptus Custodes and Sisters of Silence</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Community Feedback Driven:</strong> The video analyzes Warhammer 40K miniature updates that were poorly received, based on community feedback and approval polls.</li>
-    <li>💬 <strong>Controversial Updates:</strong> Highlights various models that faced backlash, including the Terminator Chaplain and the Sanguinor, often due to aesthetic changes or lack of options.</li>
-    <li>🔍 <strong>Top 10 Least Liked Models:</strong> The video discusses the top 10 models with the lowest approval ratings, emphasizing community sentiments on design and functionality.</li>
-    <li>📊 <strong>Honorable Mentions:</strong> Certain models like Typhus and the new Chaos Guard were noted for mixed reviews, indicating they were better received than others.</li>
+    <li>🔥 <strong>Range Update Anticipation:</strong> New models for Adeptus Custodes and Sisters of Silence likely coming soon.</li>
+    <li>🔄 <strong>Games Workshop Strategy:</strong> Aim to differentiate releases between Warhammer 40K and Horus Heresy.</li>
+    <li>🛡️ <strong>Model Developments:</strong> Focus on transitioning more units to plastic, with resin as supplemental options.</li>
+    <li>🚴‍♀️ <strong>New Units Expected:</strong> Potential additions include Sisters of Silence jet bikes and various unique infantry units.</li>
+    <li>⚔️ <strong>Character Models:</strong> New character models may emerge as the range expands for both factions.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Approval Ratings:</strong> 
-        <ul>
-            <li>Typhus received an 81% approval rating.</li>
-            <li>The Terminator Chaplain ranked lowest with only a 14% approval rate.</li>
-            <li>Sanguinor garnered a 60% approval, indicating mixed reviews.</li>
-        </ul>
-    </li>
-    <li>📊 <strong>Model Count and Quality:</strong> Discussion on the reduction of miniatures in kits, such as the Sanguinary Guard dropping from 5 to 3 models.</li>
-    <li>🛒 <strong>Price Concerns:</strong> Mention of high prices for models like the new Fled Ones, which were criticized for being poor value.</li>
+    <li>📅 <strong>Release Timeline:</strong> Models initially transitioned to plastic since June 2022.</li>
+    <li>💰 <strong>Cost Considerations:</strong> Full army expansions could significantly increase costs, particularly for resin models.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> What design elements do you believe are essential for a successful model update in tabletop gaming?</li>
-    <li>🤔 <strong>Question 2:</strong> How do community sentiments influence the future design choices of companies like Games Workshop?</li>
-    <li>🤔 <strong>Question 3:</strong> Which model updates have you been most disappointed with in your own gaming experience, and why?</li>
+    <li>🤔 <strong>What specific new units would you like to see added to the Adeptus Custodes and Sisters of Silence?</strong></li>
+    <li>💡 <strong>How will the potential overlap of models between Warhammer 40K and Horus Heresy affect gameplay?</strong></li>
+    <li>🔍 <strong>In what ways could the new updates change the perception of Sisters of Silence in the broader Warhammer community?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
