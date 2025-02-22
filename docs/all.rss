@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 22 Feb 2025 17:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 18:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The Black Library Celebration 2025]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/fwhdwwag/saturday-pre-orders-the-black-library-celebration-2025</link>
+            <guid>fwhdwwag</guid>
+            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus major reinforcements for the Horus Heresy.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb22-1-feature-4ami7ihijl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Black Library Open Submissions 2025 are now open]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/9ufgz6qm/the-black-library-open-submissions-2025-are-now-open</link>
@@ -271,18 +283,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_highelfminis-feb14-feature-ory9loftod.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angron ascends and the Conqueror gets its Captain in Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/uu8prgos/angron-ascends-and-the-conqueror-gets-its-captain-in-warhammer-the-horus-heresy</link>
-            <guid>uu8prgos</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the master and mistress of the World Eaters.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_wereveals-feb14-1-feature-wefk0uilfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
