@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Feb 2025 16:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 17:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Black Library Open Submissions 2025 are now open]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/9ufgz6qm/the-black-library-open-submissions-2025-are-now-open</link>
+            <guid>9ufgz6qm</guid>
+            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[You could be the next Black Library author.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_opensubs2025-feb22-feature-cmkgr2trhs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Narrative scenarios for the Warhammer World Anniversary]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/plbkgjgd/old-world-almanack-narrative-scenarios-for-the-warhammer-world-anniversary</link>
@@ -273,18 +283,6 @@
             <category domain="world-eaters">World Eaters</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_wereveals-feb14-1-feature-wefk0uilfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – What’s in Arcane Journal: High Elf Realms?]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/fkxyhmsz/old-world-almanack-whats-in-arcane-journal-high-elf-realms</link>
-            <guid>fkxyhmsz</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at two special characters and their Armies of Infamy.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_highelfjournal-feb13-feature-he2skawqiu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
