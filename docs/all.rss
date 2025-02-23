@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-us</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 22 Feb 2025 18:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 18:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Anticipate the ecstatic arrival of the Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-us/articles/hwggm0vx/sunday-preview-anticipate-the-ecstatic-arrival-of-the-emperors-children</link>
+            <guid>hwggm0vx</guid>
+            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s coming next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb23-1-feature-uf6xy9iqk4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The Black Library Celebration 2025]]></title>
             <link>https://www.warhammer-community.com/en-us/articles/fwhdwwag/saturday-pre-orders-the-black-library-celebration-2025</link>
@@ -272,17 +285,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/angron_thumbnail-1gfinzklaq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – High Elf Realms miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-us/articles/u9h0019a/old-world-almanack-high-elf-realms-miniatures</link>
-            <guid>u9h0019a</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Commentary on what’s returning to the range, and who’s new.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_highelfminis-feb14-feature-ory9loftod.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
