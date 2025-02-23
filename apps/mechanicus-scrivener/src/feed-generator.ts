@@ -15,10 +15,12 @@ interface FeedGeneratorProps {
   copyright?: string;
 }
 
+const DEFAULT_BASE_URL = 'https://www.warhammer-community.com/en-gb';
+
 export class FeedGenerator {
   private parser = new RSSParser();
   private fileManager = new FileManager();
-  private baseUrl = 'https://www.warhammer-community.com/en-us';
+  private baseUrl = DEFAULT_BASE_URL;
   private assetUrl = 'https://assets.warhammer-community.com';
 
   private feed: Feed;
@@ -28,7 +30,7 @@ export class FeedGenerator {
   constructor({
     rssFile,
     directory = './docs',
-    baseUrl = 'https://www.warhammer-community.com/en-us',
+    baseUrl = DEFAULT_BASE_URL,
     assetUrl = 'https://assets.warhammer-community.com',
     title = 'Warhammer 40k Community RSS Feed',
     description = 'Latest intelligence reports from the Warhammer Community',

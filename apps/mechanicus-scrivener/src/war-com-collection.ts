@@ -25,7 +25,7 @@ export const fetchWarComData = async () => {
       collections: ['articles', 'videos'],
       game_systems: [],
       index: 'news',
-      locale: 'en-us',
+      locale: 'en-gb',
       page: 0,
       perPage: 24,
       topics: [],
