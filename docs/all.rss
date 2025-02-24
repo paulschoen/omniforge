@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Feb 2025 13:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Unearth macabre new Manifestations and faction terrain for the Soulblight Gravelords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hiwjbwde/unearth-macabre-new-manifestations-and-faction-terrain-for-the-soulblight-gravelords</link>
+            <guid>hiwjbwde</guid>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Power from beyond the grave.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbglspells-feb24-1-feature-u2jngigutf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heat things up this month with a Fire Dragon and two coins]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jaoqg3v6/heat-things-up-this-month-with-a-fire-dragon-and-two-coins</link>
@@ -274,18 +285,6 @@
             <category domain="combat-patrol">Combat Patrol</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_combatpatrolmag-usa-2ug7py8fdg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Celebration – Who are the heroes of Hell’s Last?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/apniqcej/black-library-celebration-who-are-the-heroes-of-hells-last</link>
-            <guid>apniqcej</guid>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Brush up on your Minka Lesk knowledge.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_celebration1-hellslast-feb17-1-feature-h41qgmkyof.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
