@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Feb 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 15:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Perfect your excessive assaults with new Emperor’s Children detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jqtxutix/perfect-your-excessive-assaults-with-new-emperors-children-detachment</link>
+            <guid>jqtxutix</guid>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s in the new codex.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecdetachments-feb24-1-feature-kb4hjxua8z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unearth macabre new Manifestations and faction terrain for the Soulblight Gravelords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hiwjbwde/unearth-macabre-new-manifestations-and-faction-terrain-for-the-soulblight-gravelords</link>
@@ -274,17 +285,6 @@
             <category domain="astra-militarum">Astra Militarum</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/tartan-thumbnail-copy-u0nojxef2q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Combat Patrol magazine comes to the USA]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/isb7exp0/combat-patrol-magazine-comes-to-the-usa</link>
-            <guid>isb7exp0</guid>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Getting into Warhammer 40,000 is about to become easier than ever with Combat Patrol, a new subscription magazine produced in partnership with Hachette.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="combat-patrol">Combat Patrol</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_combatpatrolmag-usa-2ug7py8fdg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
