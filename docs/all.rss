@@ -4,13 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Feb 2025 15:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 11:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Perfect your excessive assaults with new Emperor’s Children detachment]]></title>
+            <title><![CDATA[Painting the Most Excessive Warhammer 40,000 Army | Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/0pisqjjm/painting-the-most-excessive-warhammer-40000-army-emperors-children</link>
+            <guid>0pisqjjm</guid>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Emma has been a fan of Emperor’s Children for the last 18 years, and with the new Champions of Slaanesh box coming out, it was a struggle to keep her at bay. Watch her obsessively talk about her delusionally delightful journey through painting her army.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/emma-purple-pupils-final-sfqcm64cyx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect your excessive assaults with new Emperor’s Children detachments]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jqtxutix/perfect-your-excessive-assaults-with-new-emperors-children-detachment</link>
             <guid>jqtxutix</guid>
             <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
@@ -28,6 +40,7 @@
             <description><![CDATA[Power from beyond the grave.]]></description>
             <category domain="soulblight-gravelords">Soulblight Gravelords</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbglspells-feb24-1-feature-u2jngigutf.jpg" length="0" type="image/jpg"/>
         </item>
@@ -42,6 +55,17 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb24-feature-llraovnqcy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting the Hottest Fire Dragon Around with ONLY Contrast! | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/csw5e9nd/painting-the-hottest-fire-dragon-around-with-only-contrast-warhammer-40000</link>
+            <guid>csw5e9nd</guid>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fire Dragons are passionate about bringing the heat, and that doesn’t have to just be from their fusion guns! Their armour is perfect for showing off just how hot these Aspect Warriors can get.  Join Dan as he unveils some painting tricks using Contrast paints to make their armour shine with molten brilliance in no time!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv00996-thumbnail-v5-fd9etabv8w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sunday Preview – Anticipate the ecstatic arrival of the Emperor’s Children]]></title>
@@ -262,29 +286,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_celebrationart-feb18-1-feature-hodgmwznzx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 18th of February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pw7qt2qa/the-rumour-engine-18th-of-february</link>
-            <guid>pw7qt2qa</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb18-feature-xtqhd0sdbu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Tartan Top Tips! | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ivznrt6p/painting-tartan-top-tips-warhammer-40000</link>
-            <guid>ivznrt6p</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch along as Adam shows you how to paint tartan cloth for your Astra Militarum by breaking down the process so that it’s quick and easy to follow, yet still give you great results!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/tartan-thumbnail-copy-u0nojxef2q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
