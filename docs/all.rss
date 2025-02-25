@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Feb 2025 12:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 13:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Touchline Tactics – How to biff with Black Orcs in Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4s5wpsga/touchline-tactics-how-to-biff-with-black-orcs-in-blood-bowl</link>
+            <guid>4s5wpsga</guid>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 25th of February]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mljmlw9y/the-rumour-engine-25th-of-february</link>
@@ -275,16 +284,6 @@
             <category domain="animations">Animations</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalontrailer-feb19-feature-ecejhmpqrd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Contrast tips for beginners – How to get started with the Citadel Colour secret sauce]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9o0iwlza/contrast-tips-for-beginners-how-to-get-started-with-the-citadel-colour-secret-sauce</link>
-            <guid>9o0iwlza</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Simple hacks and guidance for painters who lack confidence.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/cc_contrast3-feb18-1-feature-1hlyzmce10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
