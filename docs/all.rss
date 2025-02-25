@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Feb 2025 13:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Uncover the hidden history of Commander Farsight in a new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fr3vfsdp/uncover-the-hidden-history-of-commander-farsight-in-a-new-black-library-novel</link>
+            <guid>fr3vfsdp</guid>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The rebellious hero tackles the Tyranids.]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_bladeoftruth-feb26-1-feature-cwhuxvummk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touchline Tactics – How to biff with Black Orcs in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4s5wpsga/touchline-tactics-how-to-biff-with-black-orcs-in-blood-bowl</link>
@@ -16,7 +28,7 @@
             <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
+            <enclosure url="https://assets.warhammer-community.com/bb_blorctactica-feb25-1-feature-ybg1zqr82h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 25th of February]]></title>
@@ -272,18 +284,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-feb19-1-feature-osuwhtt4sw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Age of Sigmar animation teaser: The Blacktalons return]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o6pveiyy/age-of-sigmar-animation-teaser-the-blacktalons-return</link>
-            <guid>o6pveiyy</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sigmar’s Hunters are back with a new season in March.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="animations">Animations</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalontrailer-feb19-feature-ecejhmpqrd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
