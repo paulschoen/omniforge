@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Feb 2025 11:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 12:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 25th of February]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mljmlw9y/the-rumour-engine-25th-of-february</link>
+            <guid>mljmlw9y</guid>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb25-feature-xljutqik0x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Painting the Most Excessive Warhammer 40,000 Army | Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/0pisqjjm/painting-the-most-excessive-warhammer-40000-army-emperors-children</link>
@@ -275,17 +285,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/cc_contrast3-feb18-1-feature-1hlyzmce10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The best cover art from Black Library: The Art of Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/clbwwmhn/the-best-cover-art-from-black-library-the-art-of-warhammer-40000</link>
-            <guid>clbwwmhn</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Goggle at our gallery of gorgeous covers.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_celebrationart-feb18-1-feature-hodgmwznzx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
