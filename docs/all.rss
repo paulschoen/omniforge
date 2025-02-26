@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Feb 2025 14:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Three tremendous end-of-season specials await on Warhammer TV this week]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ed6rucid/three-tremendous-end-of-season-specials-await-on-warhammer-tv-this-week</link>
+            <guid>ed6rucid</guid>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can our hosts save Avarax?]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wh-_update-feb26-1-feature-m1zmsdix2o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Uncover the hidden history of Commander Farsight in a new Black Library novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fr3vfsdp/uncover-the-hidden-history-of-commander-farsight-in-a-new-black-library-novel</link>
@@ -274,16 +286,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2024-feb19-1-feature-aoxvydpclw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building battlefields, writing books, and playing the Great Game on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xxjiyeid/building-battlefields-writing-books-and-playing-the-great-game-on-warhammer-tv</link>
-            <guid>xxjiyeid</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what you can watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-feb19-1-feature-osuwhtt4sw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
