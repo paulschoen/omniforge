@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Feb 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 15:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Summon the daemons of Slaanesh with an outstanding new Emperor’s Children Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/waiesi3a/summon-the-daemons-of-slaanesh-with-an-outstanding-new-emperors-children-detachment</link>
+            <guid>waiesi3a</guid>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Going raiding? Bring daemons along for the ride.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecdaemons-feb26-1-feature-avfqzjhhuv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Three tremendous end-of-season specials await on Warhammer TV this week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ed6rucid/three-tremendous-end-of-season-specials-await-on-warhammer-tv-this-week</link>
@@ -276,16 +287,6 @@
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/black-talon-s2-thumbnail-copy-kbtouwpqas.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vote for your Black Library Book of the Year for 2024]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mmice3iq/vote-for-your-black-library-book-of-the-year-for-2024</link>
-            <guid>mmice3iq</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Which will you pick?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2024-feb19-1-feature-aoxvydpclw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
