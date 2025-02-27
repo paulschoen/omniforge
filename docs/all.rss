@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Feb 2025 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 13:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get ready for tickets to the US Open and June events at Warhammer World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nuzo6vqi/get-ready-for-tickets-to-the-us-open-and-june-events-at-warhammer-world</link>
+            <guid>nuzo6vqi</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get involved in exciting Warhammer action.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="us-open-series">US Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-feb27-1-feature-cgnpnqfyjz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summon the daemons of Slaanesh with an outstanding new Emperor’s Children Detachment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/waiesi3a/summon-the-daemons-of-slaanesh-with-an-outstanding-new-emperors-children-detachment</link>
@@ -275,18 +287,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv00994-thumbnail-v5-copy-1kjfg4kuvj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2: Official Teaser Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ix6jqcfl/blacktalon-season-2-official-teaser-trailer-warhammer</link>
-            <guid>ix6jqcfl</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reforged and ready for a new season, Neave Blacktalon returns next month on Warhammer TV.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="animations">Animations</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/black-talon-s2-thumbnail-copy-kbtouwpqas.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
