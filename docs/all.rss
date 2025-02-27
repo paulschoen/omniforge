@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Feb 2025 13:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 14:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – The Blood Crow is on the hunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wj9xgot4/heresy-thursday-the-blood-crow-is-on-the-hunt</link>
+            <guid>wj9xgot4</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Traitors better watch their necks.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_kaedes-feb27-1-feature-fvqfq5nhns.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get ready for tickets to the US Open and June events at Warhammer World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nuzo6vqi/get-ready-for-tickets-to-the-us-open-and-june-events-at-warhammer-world</link>
@@ -275,18 +287,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-feb20-1-feature-ie3pr3viz1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Imperial Standard Leathers | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/c8hcvkts/painting-imperial-standard-leathers-warhammer-40000</link>
-            <guid>c8hcvkts</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The heroes of the Imperium require some of the best equipment, and that doesn’t stop when it comes to leather goods. Emma is here to show you two types of leathers, and some simple damage, on some of the Astra Militarum Hell’s Last heroes.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv00994-thumbnail-v5-copy-1kjfg4kuvj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
