@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Feb 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 13:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Relics – Brilliant new gear from the Warhammer merch store]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f07zlb44/warhammer-relics-brilliant-new-gear-from-the-warhammer-merch-store</link>
+            <guid>f07zlb44</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celebrate your love of all things Warhammer.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wh_relics-feb28-1-feature-yhkbkj9pnw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What dark delights can be found in the pages of Codex: Emperor’s Children?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cpfhipsn/what-dark-delights-can-be-found-in-the-pages-of-codex-emperors-children</link>
+            <guid>cpfhipsn</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New lore and art awaits.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eccodexlore-feb27-1-feature-tgq7zyovhg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – The Blood Crow is on the hunt]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wj9xgot4/heresy-thursday-the-blood-crow-is-on-the-hunt</link>
@@ -264,29 +285,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_ursaraxcohort-feb20-1-feature-rqxbes22xx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 – Entry guidelines and announcing SPIEL Essen]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6s4czhbm/golden-demon-2025-entry-guidelines-and-announcing-spiel-essen</link>
-            <guid>6s4czhbm</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Planning to enter? Read this.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_details-feb20-1-feature-yusrgyfd8x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Narrative Play in Middle-earth – New scenarios drop for the new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5vpfub5e/narrative-play-in-middle-earth-new-scenarios-drop-for-the-new-edition</link>
-            <guid>5vpfub5e</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’ll be releasing free PDFs over the coming months.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_scenarios-feb20-1-feature-ie3pr3viz1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
