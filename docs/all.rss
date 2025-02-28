@@ -4,13 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 13:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 14:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Warhammer Relics – Brilliant new gear from the Warhammer merch store]]></title>
+            <title><![CDATA[Armies on Parade 2025 – The Warhammer Community team starts its journey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dldt5g8h/armies-on-parade-2025-the-warhammer-community-team-starts-its-journey</link>
+            <guid>dldt5g8h</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our foray into the yearly hobby challenge.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aop_progress1-feb28-1-feature-idnkfkobqj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Relics – Brilliant new products from officially licensed Warhammer partners]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f07zlb44/warhammer-relics-brilliant-new-gear-from-the-warhammer-merch-store</link>
             <guid>f07zlb44</guid>
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
@@ -18,6 +30,20 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wh_relics-feb28-1-feature-yhkbkj9pnw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six Super Stupendous Sumptuous Slaaneshi Schemes… for Emperor's Children! | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8f7bdlyt/six-super-stupendous-sumptuous-slaaneshi-schemes-for-emperors-children-warhammer-40000</link>
+            <guid>8f7bdlyt</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today Jake’s showing you how to paint six stylish schemes for the Emperor’s Children! Join him on a journey through paint and time to create the perfect scheme for your force at home!]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/six-super-stupendous-sumptuous-slaaneshi-schemes-wr8rzq7e5h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[What dark delights can be found in the pages of Codex: Emperor’s Children?]]></title>
@@ -261,30 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grandnarrative_lore-feb20-1-feature-admp6gdpd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get ready for the return of the Grand Narrative in November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zqaatwe2/get-ready-for-the-return-of-the-grand-narrative-in-november</link>
-            <guid>zqaatwe2</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Once more unto the breach!]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grandnarrative2025-feb20-1-feature-vei8yatq2n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – The Ursarax Cohort leap into battle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wwfgcerl/heresy-thursday-the-usarax-cohort-leap-into-battle</link>
-            <guid>wwfgcerl</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bear with us as more death-dealing machines arrive.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_ursaraxcohort-feb20-1-feature-rqxbes22xx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
