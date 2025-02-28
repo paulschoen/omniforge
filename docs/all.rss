@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 15:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 16:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to play Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ctinyme8/how-to-play-emperors-children</link>
+            <guid>ctinyme8</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stephen from Vanguard Tactics weighs in on the new faction.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ectactica-feb25-1-feature-3af3k5vbt2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Emperor’s Children Army Set – Examining the new kits in detail]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4xvlhken/the-emperors-children-army-set-examining-the-new-kits-in-detail</link>
@@ -277,16 +290,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_whwscenarios-feb21-feature-ioxa3bnja4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITC 2025 – Key changes to the competitive Warhammer calendar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x96wp1cj/itc-2025-key-changes-to-the-competitive-warhammer-calendar</link>
-            <guid>x96wp1cj</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Smart changes are coming – we hope they’re helpful.]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events_itc-feb07-1-feature-epv9jlrlpn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
