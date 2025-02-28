@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 15:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Emperor’s Children Army Set – Examining the new kits in detail]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4xvlhken/the-emperors-children-army-set-examining-the-new-kits-in-detail</link>
+            <guid>4xvlhken</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What can you do with the juicy new kits?]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eckitfocus-feb28-1-feature-ftve4w3hrn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – The Warhammer Community team starts its journey]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dldt5g8h/armies-on-parade-2025-the-warhammer-community-team-starts-its-journey</link>
@@ -275,18 +287,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events_itc-feb07-1-feature-epv9jlrlpn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evan Dicken interview – An anatomy of an aelven assassin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gj8t1ts4/evan-dicken-interview-an-anatomy-of-an-aelven-assassin</link>
-            <guid>gj8t1ts4</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What went into writing Shade of Khaine?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_shade-feb21-1-feature-ep55ogielg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
