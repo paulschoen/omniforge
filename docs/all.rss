@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 16:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 17:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Open 2025 – Our flagship tournament series expands into Canada with tickets on sale this weekend]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/djwhwpef/warhammer-open-2025-our-flagship-tournament-series-expands-into-canada-with-tickets-on-sale-this-weekend</link>
+            <guid>djwhwpef</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tournament play is going international.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category domain="us-open-series">US Open Series</category>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whopen2025-feb28-1-feature-e3xgzvzbxr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to play Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ctinyme8/how-to-play-emperors-children</link>
@@ -277,19 +291,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_opensubs2025-feb22-feature-cmkgr2trhs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Narrative scenarios for the Warhammer World Anniversary]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/plbkgjgd/old-world-almanack-narrative-scenarios-for-the-warhammer-world-anniversary</link>
-            <guid>plbkgjgd</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Will the Sea Lord Aislynn prevail against the forces of Chaos?]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="events">Events</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_whwscenarios-feb21-feature-ioxa3bnja4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
