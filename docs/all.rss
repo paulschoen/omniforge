@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 14:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 15:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,32 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aop_progress1-feb28-1-feature-idnkfkobqj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer: Age of Sigmar | Skragrott the Loonking, 1:6 Scale Limited Edition Statue by Wētā Workshop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rcwpajhs/warhammer-age-of-sigmar-skragrott-the-loonking-16-scale-limited-edition-statue-by-weta-workshop</link>
+            <guid>rcwpajhs</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Crafted with masterful precision and an unwavering dedication to detail, Wētā Workshop presents this premium 1:6 scale limited edition collectible statue that brings to life the twisted majesty of Skragrott the Loonking, from Warhammer: Age of Sigmar. 
+
+Every inch of this masterpiece captures the essence of his dark power—his staff, adorned with twisted mushrooms and ritualistic fetishes, stretches high into the air, while his regal yet malevolent presence demands attention.
+
+Whether displayed in your collection or admired as a work of art, this statue stands as a testament to the craft of transforming the fantastical into the tangible.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/skragrott-the-loonking_thumbnail_v1-6blmfckui0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two new Warhammer x DK books to get excited about in 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/susphkjl/two-new-warhammer-x-dk-books-to-get-excited-about-in-2025</link>
+            <guid>susphkjl</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a sneak peek at two must-have forthcoming Warhammer x DK books. Coming in October, Warhammer 40,000 Character Encyclopedia features profiles of more than 120 characters from the 41st Millennium, from legendary Primarchs, both loyalist and traitor, to enigmatic Phoenix Lords and brutal Warbosses. And November sees the release of The Art of Warhammer Video Games – a stunning volume showcasing classic games like the Dawn of War series alongside more recent smash hits like Space Marine 2.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dk-teaser_thumbnail-wajutkb4ib.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer Relics – Brilliant new products from officially licensed Warhammer partners]]></title>
@@ -261,32 +287,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_shade-feb21-1-feature-ep55ogielg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Celebration miniatures painted by the Warhammer community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bxdvkvns/black-library-celebration-miniatures-painted-by-the-warhammer-community</link>
-            <guid>bxdvkvns</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Feast your eyes on these.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_inflminis-feb21-1-feature-wneq7k3kvb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Betrayal, sacrifice, and grilled grots – the final fate of the Grand Narrative 2024]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rclhivxc/betrayal-sacrifice-and-grilled-grots-the-final-fate-of-the-grand-narrative-2024</link>
-            <guid>rclhivxc</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What happened when the dust finally settled?]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grandnarrative_lore-feb20-1-feature-admp6gdpd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
