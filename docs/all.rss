@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Feb 2025 17:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 11:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Wield the power of the gods in Kill Team: Blood and Zeal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal</link>
+            <guid>ovfew1bv</guid>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imperial preachers battle blood-crazed berzerkers.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_blood&zeal-mar01-1-feature-mjdk7m6pmj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Open 2025 – Our flagship tournament series expands into Canada with tickets on sale this weekend]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/djwhwpef/warhammer-open-2025-our-flagship-tournament-series-expands-into-canada-with-tickets-on-sale-this-weekend</link>
@@ -281,16 +294,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb22-1-feature-4ami7ihijl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Black Library Open Submissions 2025 are now open]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9ufgz6qm/the-black-library-open-submissions-2025-are-now-open</link>
-            <guid>9ufgz6qm</guid>
-            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You could be the next Black Library author.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_opensubs2025-feb22-feature-cmkgr2trhs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
