@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 01 Mar 2025 11:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 18:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Your first taste of the Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r3b7ata1/saturday-pre-orders-your-first-taste-of-the-emperors-children</link>
+            <guid>r3b7ata1</guid>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar01-1-feature-31z5jp4sek.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wield the power of the gods in Kill Team: Blood and Zeal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal</link>
@@ -282,18 +296,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="emperors-children">Emperor's Children</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb23-1-feature-uf6xy9iqk4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – The Black Library Celebration 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fwhdwwag/saturday-pre-orders-the-black-library-celebration-2025</link>
-            <guid>fwhdwwag</guid>
-            <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus major reinforcements for the Horus Heresy.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb22-1-feature-4ami7ihijl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
