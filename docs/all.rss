@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 01 Mar 2025 18:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 18:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The Gitmob gallop into the fray]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k9c6bz33/sunday-preview-the-gitmob-gallop-into-the-fray</link>
+            <guid>k9c6bz33</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are all of next week’s pre-orders.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar02-1-feature-fikjkio4vd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Your first taste of the Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r3b7ata1/saturday-pre-orders-your-first-taste-of-the-emperors-children</link>
@@ -283,19 +296,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv00996-thumbnail-v5-fd9etabv8w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Anticipate the ecstatic arrival of the Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hwggm0vx/sunday-preview-anticipate-the-ecstatic-arrival-of-the-emperors-children</link>
-            <guid>hwggm0vx</guid>
-            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s coming next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb23-1-feature-uf6xy9iqk4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
