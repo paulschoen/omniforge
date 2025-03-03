@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 02 Mar 2025 18:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 12:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 510 – Go behind the scenes with the Middle-earth Strategy Battle Game™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6mtwb9vh/white-dwarf-510-go-behind-the-scenes-with-the-middle-earth-strategy-battle-gametm</link>
+            <guid>6mtwb9vh</guid>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s in this month’s issue.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd510-mar03-1-feature-w9kyep0pbo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The Gitmob gallop into the fray]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/k9c6bz33/sunday-preview-the-gitmob-gallop-into-the-fray</link>
@@ -285,17 +295,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb24-feature-llraovnqcy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting the Hottest Fire Dragon Around with ONLY Contrast! | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/csw5e9nd/painting-the-hottest-fire-dragon-around-with-only-contrast-warhammer-40000</link>
-            <guid>csw5e9nd</guid>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fire Dragons are passionate about bringing the heat, and that doesn’t have to just be from their fusion guns! Their armour is perfect for showing off just how hot these Aspect Warriors can get.  Join Dan as he unveils some painting tricks using Contrast paints to make their armour shine with molten brilliance in no time!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv00996-thumbnail-v5-fd9etabv8w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
