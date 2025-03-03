@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Mar 2025 13:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -56,6 +56,17 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-mar01-1-feature-31z5jp4sek.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wield the Power of the Gods – Kill Team: Blood and Zeal Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6riy65ib/wield-the-power-of-the-gods-kill-team-blood-and-zeal-revealed</link>
+            <guid>6riy65ib</guid>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What happens when two very different types of zealots collide 🔥🩸? Find out in the new Kill Team boxed set, Blood and Zeal!  Take a closer look: https://ow.ly/htXq50V8kpM]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01472_rk_reveal-kill-team-blood-and-zeal_thumb_v02-qjpfkxjw6w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wield the power of the gods in Kill Team: Blood and Zeal]]></title>
@@ -282,18 +293,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="emperors-children">Emperor's Children</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecdetachments-feb24-1-feature-kb4hjxua8z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unearth macabre new Manifestations and faction terrain for the Soulblight Gravelords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hiwjbwde/unearth-macabre-new-manifestations-and-faction-terrain-for-the-soulblight-gravelords</link>
-            <guid>hiwjbwde</guid>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Power from beyond the grave.]]></description>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbglspells-feb24-1-feature-u2jngigutf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
