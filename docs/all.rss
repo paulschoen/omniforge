@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Mar 2025 12:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 13:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Prophet of the Redemption is here to encourage sensible, rational debate on Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vook7g1z/the-prophet-of-the-redemption-is-here-to-encourage-sensible-rational-debate-on-necromunda</link>
+            <guid>vook7g1z</guid>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The shepherd of the flock makes himself known.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec-prophetofredemptionreveal-mar03-1-feature-3bxte6pqao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 510 – Go behind the scenes with the Middle-earth Strategy Battle Game™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6mtwb9vh/white-dwarf-510-go-behind-the-scenes-with-the-middle-earth-strategy-battle-gametm</link>
@@ -283,18 +294,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbglspells-feb24-1-feature-u2jngigutf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heat things up this month with a Fire Dragon and two coins]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jaoqg3v6/heat-things-up-this-month-with-a-fire-dragon-and-two-coins</link>
-            <guid>jaoqg3v6</guid>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[This month’s coin and free miniature.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb24-feature-llraovnqcy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
