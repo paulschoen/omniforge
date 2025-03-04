@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Mar 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 12:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 4th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9sal4cvo/the-rumour-engine-4th-of-march</link>
+            <guid>9sal4cvo</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar4-feature-hxw6yk1qfj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Prophet of the Redemption is here to encourage sensible, rational debate on Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vook7g1z/the-prophet-of-the-redemption-is-here-to-encourage-sensible-rational-debate-on-necromunda</link>
@@ -282,17 +292,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="emperors-children">Emperor's Children</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/emma-purple-pupils-final-sfqcm64cyx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perfect your excessive assaults with new Emperor’s Children detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jqtxutix/perfect-your-excessive-assaults-with-new-emperors-children-detachment</link>
-            <guid>jqtxutix</guid>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s in the new codex.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecdetachments-feb24-1-feature-kb4hjxua8z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
