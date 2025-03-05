@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Mar 2025 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 13:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon in Hammerhal: Watch the new episode now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jtkmij84/blacktalon-in-hammerhal-watch-the-new-episode-now</link>
+            <guid>jtkmij84</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season begins with a hunt across the vast Twin-Tailed City.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep1-mar5-1-feature-i6i6ecbi9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV Season 2: Here are all the shows coming this season]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/llb9grhv/warhammer-tv-season-2-here-are-all-the-shows-coming-this-season</link>
+            <guid>llb9grhv</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Same channel, awesome new shows.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus_season2-mar05-1-feature-dwbeopmc7l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 4th of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9sal4cvo/the-rumour-engine-4th-of-march</link>
@@ -270,28 +292,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_blorctactica-feb25-1-feature-ybg1zqr82h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 25th of February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mljmlw9y/the-rumour-engine-25th-of-february</link>
-            <guid>mljmlw9y</guid>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb25-feature-xljutqik0x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting the Most Excessive Warhammer 40,000 Army | Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/0pisqjjm/painting-the-most-excessive-warhammer-40000-army-emperors-children</link>
-            <guid>0pisqjjm</guid>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Emma has been a fan of Emperor’s Children for the last 18 years, and with the new Champions of Slaanesh box coming out, it was a struggle to keep her at bay. Watch her obsessively talk about her delusionally delightful journey through painting her army.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/emma-purple-pupils-final-sfqcm64cyx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
