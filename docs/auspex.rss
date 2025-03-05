@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 05 Mar 2025 03:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 21:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Five Strong Astra Militarum Army Lists - What's Winning for Imperial Guard?]]></title>
+            <link>https://www.youtube.com/watch?v=ZIMbW8sMmYc</link>
+            <guid>yt:video:ZIMbW8sMmYc</guid>
+            <pubDate>Wed, 05 Mar 2025 01:00:33 GMT</pubDate>
+            <description><![CDATA[The video discusses the recent performance of the Astra Militarum Codex in tournament play, highlighting a balanced 48% win rate, the popularity and success of the Bridge Head Strike detachment, key units like Rogal Dawn tank commanders and Kaskrin soldiers, and strategies focused on maximizing damage output and board control.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 AST Militarum Codex: Tournament Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Codex Impact:</strong> The Astra Militarum Codex has been officially live for tournament play, leading to a balanced 48% win rate during its first weekend.</li>
+    <li>📊 <strong>Detachment Popularity:</strong> The most successful detachment remains the Bridge Head Strike, utilized by 22 out of 50 players, with 8 of 11 top placers using this detachment.</li>
+    <li>🚀 <strong>Unit Highlights:</strong> Key units include Rogal Dawn tank commanders and Kaskrin soldiers, with Kaskrin showing strong performance due to their mobility and firepower.</li>
+    <li>🛡️ <strong>Army Composition:</strong> Successful lists included multiple heavy support units, demonstrating a preference for tanks and infantry synergy.</li>
+    <li>🔍 <strong>Overall Strategy:</strong> The focus is on maximizing damage output while maintaining board control through infantry and tank combinations.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Win Rate:</strong> Astra Militarum recorded a 48% win rate in the first tournament weekend, indicating a balanced performance.</li>
+    <li>🎯 <strong>Detachment Usage:</strong> 22 players utilized the Bridge Head Strike detachment, showcasing its popularity and effectiveness.</li>
+    <li>🏆 <strong>Top Placers:</strong> Out of the top tournament positions, 8 out of 11 players used the Bridge Head Strike, highlighting its competitive edge.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How might the evolving meta affect the popularity of different detachments in future tournaments?</strong></li>
+    <li>🌟 <strong>What strategies can players employ to counter the strong performance of the Bridge Head Strike detachment?</strong></li>
+    <li>🔄 <strong>How can the new Astra Militarum units be optimized to maximize their strengths in various matchups?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big Fulgrim Giveaway + Auspex Tactics Channel Update for March]]></title>
             <link>https://www.youtube.com/watch?v=keUF_ZFhB7M</link>
@@ -1356,35 +1389,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Five Strong Astra Militarum Army Lists - What's Winning for Imperial Guard?]]></title>
-            <link>https://www.youtube.com/watch?v=ZIMbW8sMmYc</link>
-            <guid>yt:video:ZIMbW8sMmYc</guid>
-            <pubDate>Wed, 05 Mar 2025 01:00:33 GMT</pubDate>
-            <description><![CDATA[The video discusses the recent performance of the Astra Militarum Codex in tournament play, highlighting a balanced 48% win rate, the popularity and success of the Bridge Head Strike detachment, key units like Rogal Dawn tank commanders and Kaskrin soldiers, and strategies focused on maximizing damage output and board control.]]></description>
+            <title><![CDATA[Dodgy 40K Balance Dataslate 'Leaks' - Full Contents and are they Fake?]]></title>
+            <link>https://www.youtube.com/watch?v=s7EqqX3L58g</link>
+            <guid>yt:video:s7EqqX3L58g</guid>
+            <pubDate>Wed, 05 Mar 2025 19:23:07 GMT</pubDate>
+            <description><![CDATA[The video discusses speculations about the upcoming Warhammer 40K balance pass expected between mid-March and mid-April, highlighting potential buffs for Adeptus Mechanicus, nerfs for Slaanesh Daemons, possible new detachments, and concerns over fabricated leaks regarding unit adjustments.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 AST Militarum Codex: Tournament Insights</h2>
+<h2>📢 Upcoming Warhammer 40K Balance Pass Speculations</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Codex Impact:</strong> The Astra Militarum Codex has been officially live for tournament play, leading to a balanced 48% win rate during its first weekend.</li>
-    <li>📊 <strong>Detachment Popularity:</strong> The most successful detachment remains the Bridge Head Strike, utilized by 22 out of 50 players, with 8 of 11 top placers using this detachment.</li>
-    <li>🚀 <strong>Unit Highlights:</strong> Key units include Rogal Dawn tank commanders and Kaskrin soldiers, with Kaskrin showing strong performance due to their mobility and firepower.</li>
-    <li>🛡️ <strong>Army Composition:</strong> Successful lists included multiple heavy support units, demonstrating a preference for tanks and infantry synergy.</li>
-    <li>🔍 <strong>Overall Strategy:</strong> The focus is on maximizing damage output while maintaining board control through infantry and tank combinations.</li>
+    <li>🔥 <strong>Balance Pass Timeline:</strong> The next balance pass for Warhammer 40K is expected around mid-March to mid-April, following the last one in December.</li>
+    <li>🎯 <strong>Potential Buffs:</strong> Adeptus Mechanicus may receive buffs due to previous heavy nerfs.</li>
+    <li>⚔️ <strong>Likely Nerfs:</strong> Slaanesh Daemons expected to face nerfs due to their high tournament win rates.</li>
+    <li>📉 <strong>Detachment Changes:</strong> New detachments may be introduced, including a possible Orc shooting detachment.</li>
+    <li>🤖 <strong>Fabricated Leaks:</strong> Current leaks are suspected to be made up, mixing plausible and implausible changes.</li>
+    <li>🛡️ <strong>Custodes and Eldari Adjustments:</strong> Possible point increases for Custodes and Eldari units, though these changes might come too soon after their recent updates.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Win Rate:</strong> Astra Militarum recorded a 48% win rate in the first tournament weekend, indicating a balanced performance.</li>
-    <li>🎯 <strong>Detachment Usage:</strong> 22 players utilized the Bridge Head Strike detachment, showcasing its popularity and effectiveness.</li>
-    <li>🏆 <strong>Top Placers:</strong> Out of the top tournament positions, 8 out of 11 players used the Bridge Head Strike, highlighting its competitive edge.</li>
+    <li>📈 <strong>Win Rate of Bridgehead Strike:</strong> Approximately 60% win rate prior to the latest codex release.</li>
+    <li>💰 <strong>Point Increases:</strong> Eldari units like Fire Dragons and Striking Scorpions may see cost increases, impacting their tournament viability.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How might the evolving meta affect the popularity of different detachments in future tournaments?</strong></li>
-    <li>🌟 <strong>What strategies can players employ to counter the strong performance of the Bridge Head Strike detachment?</strong></li>
-    <li>🔄 <strong>How can the new Astra Militarum units be optimized to maximize their strengths in various matchups?</strong></li>
+    <li>🤔 <strong>What impact do you think the upcoming balance changes will have on the competitive landscape of Warhammer 40K?</strong></li>
+    <li>🤔 <strong>If the leaks are accurate, which faction do you believe will benefit the most from the proposed changes?</strong></li>
+    <li>🤔 <strong>How do you feel about the frequency of balance updates in Warhammer 40K? Are they too frequent or just right?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
