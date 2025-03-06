@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Mar 2025 14:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 15:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library Book of the Year – The results are in]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/84bewmql/black-library-book-of-the-year-the-results-are-in</link>
+            <guid>84bewmql</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are this year’s top 10.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bookofyear2024winner-mar06-1-feature-b6efkgdsw6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – Aster Crohne is the immovable object of the IX Legion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/08jlpgr0/heresy-thursday-aster-crohne-is-the-immovable-object-of-the-ix-legion</link>
@@ -286,18 +296,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_kaedes-feb27-1-feature-fvqfq5nhns.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get ready for tickets to the US Open and June events at Warhammer World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nuzo6vqi/get-ready-for-tickets-to-the-us-open-and-june-events-at-warhammer-world</link>
-            <guid>nuzo6vqi</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get involved in exciting Warhammer action.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="us-open-series">US Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-feb27-1-feature-cgnpnqfyjz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
