@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Mar 2025 13:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 13:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Prince Imrahil™ of Dol Amroth™ rides to battle with the Armies of Middle-earth™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fy8isfxy/prince-imrahiltm-of-dol-amrothtm-rides-to-battle-with-the-armies-of-middle-earthtm</link>
+            <guid>fy8isfxy</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new hero and details from the upcoming supplement.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_imrahil-mar6-1-feature-hlpjqegmar.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon in Hammerhal: Watch the new episode now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jtkmij84/blacktalon-in-hammerhal-watch-the-new-episode-now</link>
@@ -283,15 +294,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_bladeoftruth-feb26-1-feature-cwhuxvummk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to biff with Black Orcs in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4s5wpsga/touchline-tactics-how-to-biff-with-black-orcs-in-blood-bowl</link>
-            <guid>4s5wpsga</guid>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_blorctactica-feb25-1-feature-ybg1zqr82h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
