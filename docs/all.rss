@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Mar 2025 13:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 14:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – Aster Crohne is the immovable object of the IX Legion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/08jlpgr0/heresy-thursday-aster-crohne-is-the-immovable-object-of-the-ix-legion</link>
+            <guid>08jlpgr0</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stand firm for Sanguinius.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_thursday_astercrohnereveal-mar06-1-feature-vu3vheb2kn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prince Imrahil™ of Dol Amroth™ rides to battle with the Armies of Middle-earth™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fy8isfxy/prince-imrahiltm-of-dol-amrothtm-rides-to-battle-with-the-armies-of-middle-earthtm</link>
@@ -19,6 +32,32 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_imrahil-mar6-1-feature-hlpjqegmar.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV – A New Season Begins]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wijrpb4p/warhammer-tv-a-new-season-begins</link>
+            <guid>wijrpb4p</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[With spring comes a new season on Warhammer TV!]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/whtv-2024-promo-new-look-line-up-o2jnmwzv4r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blacktalon | Warhammer Age of Sigmar | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/uubimdsf/blacktalon-warhammer-age-of-sigmar-warhammer</link>
+            <guid>uubimdsf</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the first episode of the new Blacktalon season NOW on Warhammer TV.
+
+Follow Neave and her elite hunters as they track a shadowy agent of ruin through the streets of Hammerhal. Find out more at Warhammer Community:]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01600_blacktalon-2_trailer-cuts_16x9_thumbnail-tg1d9wm9pm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blacktalon in Hammerhal: Watch the new episode now]]></title>
@@ -259,41 +298,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="us-open-series">US Open Series</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-feb27-1-feature-cgnpnqfyjz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summon the daemons of Slaanesh with an outstanding new Emperor’s Children Detachment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/waiesi3a/summon-the-daemons-of-slaanesh-with-an-outstanding-new-emperors-children-detachment</link>
-            <guid>waiesi3a</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Going raiding? Bring daemons along for the ride.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecdaemons-feb26-1-feature-avfqzjhhuv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three tremendous end-of-season specials await on Warhammer TV this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ed6rucid/three-tremendous-end-of-season-specials-await-on-warhammer-tv-this-week</link>
-            <guid>ed6rucid</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can our hosts save Avarax?]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh-_update-feb26-1-feature-m1zmsdix2o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uncover the hidden history of Commander Farsight in a new Black Library novel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fr3vfsdp/uncover-the-hidden-history-of-commander-farsight-in-a-new-black-library-novel</link>
-            <guid>fr3vfsdp</guid>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The rebellious hero tackles the Tyranids.]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_bladeoftruth-feb26-1-feature-cwhuxvummk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
