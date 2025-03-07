@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Mar 2025 15:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 13:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – In the Bad Moon’s Light]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/undcgjno/chronicles-of-ruin-in-the-bad-moons-light</link>
+            <guid>undcgjno</guid>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Gloomspite Gitz assault a fortified city.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_gloomspitefiction-mar07-1-feature-jycmxgzilp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Book of the Year – The results are in]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/84bewmql/black-library-book-of-the-year-the-results-are-in</link>
@@ -284,18 +296,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_eccodexlore-feb27-1-feature-tgq7zyovhg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – The Blood Crow is on the hunt]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wj9xgot4/heresy-thursday-the-blood-crow-is-on-the-hunt</link>
-            <guid>wj9xgot4</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Traitors better watch their necks.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_kaedes-feb27-1-feature-fvqfq5nhns.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
