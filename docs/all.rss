@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Mar 2025 13:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 18:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Stick it to the Evil Sun with the Gitmob]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/t5ubxsir/saturday-pre-orders-stick-it-to-the-evil-sun-with-the-gitmob</link>
+            <guid>t5ubxsir</guid>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar08-1-feature-vu4zhahqfu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – In the Bad Moon’s Light]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/undcgjno/chronicles-of-ruin-in-the-bad-moons-light</link>
@@ -166,7 +180,7 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <link>https://www.warhammer-community.com/en-gb/videos/6riy65ib/wield-the-power-of-the-gods-kill-team-blood-and-zeal-revealed</link>
             <guid>6riy65ib</guid>
             <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What happens when two very different types of zealots collide 🔥🩸? Find out in the new Kill Team boxed set, Blood and Zeal!  Take a closer look: https://ow.ly/htXq50V8kpM]]></description>
+            <description><![CDATA[What happens when two very different types of zealots collide? Find out in the new Kill Team boxed set, Blood and Zeal!]]></description>
             <category domain="kill-team">Kill Team</category>
             <category domain="videos">Videos</category>
             <category>videos</category>
@@ -285,17 +299,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/six-super-stupendous-sumptuous-slaaneshi-schemes-wr8rzq7e5h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What dark delights can be found in the pages of Codex: Emperor’s Children?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cpfhipsn/what-dark-delights-can-be-found-in-the-pages-of-codex-emperors-children</link>
-            <guid>cpfhipsn</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New lore and art awaits.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eccodexlore-feb27-1-feature-tgq7zyovhg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
