@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 09 Mar 2025 18:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 13:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Live the Ash Wastes Nomad lifestyle with Tribes of the Wastelands]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/65ycoqiw/live-the-ash-wastes-nomad-lifestyle-with-tribes-of-the-wastelands</link>
+            <guid>65ycoqiw</guid>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules and lore for the Necromunda nomads.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_tribesofthewasteland-mar10-1-feature-q53z67cq0m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The ash wastes fight back]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kfkbfxcr/sunday-preview-the-ash-wastes-fight-back</link>
@@ -286,16 +296,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="licensed-products">Licensed Products</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dk-teaser_thumbnail-wajutkb4ib.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Relics – Brilliant new products from officially licensed Warhammer partners]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f07zlb44/warhammer-relics-brilliant-new-gear-from-the-warhammer-merch-store</link>
-            <guid>f07zlb44</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate your love of all things Warhammer.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh_relics-feb28-1-feature-yhkbkj9pnw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
