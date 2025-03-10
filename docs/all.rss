@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Mar 2025 13:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 14:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Crush heads and drink blood with Vandoth the Fallen]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bd7cy92l/crush-heads-and-drink-blood-with-vandoth-the-fallen</link>
+            <guid>bd7cy92l</guid>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The man-mountain of the Underhive joins the fight.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_vandoth-mar10-1-feature-po9lciunql.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Live the Ash Wastes Nomad lifestyle with Tribes of the Wastelands]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/65ycoqiw/live-the-ash-wastes-nomad-lifestyle-with-tribes-of-the-wastelands</link>
@@ -286,16 +297,6 @@ Whether displayed in your collection or admired as a work of art, this statue st
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/skragrott-the-loonking_thumbnail_v1-6blmfckui0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two new Warhammer x DK books to get excited about in 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/susphkjl/two-new-warhammer-x-dk-books-to-get-excited-about-in-2025</link>
-            <guid>susphkjl</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a sneak peek at two must-have forthcoming Warhammer x DK books. Coming in October, Warhammer 40,000 Character Encyclopedia features profiles of more than 120 characters from the 41st Millennium, from legendary Primarchs, both loyalist and traitor, to enigmatic Phoenix Lords and brutal Warbosses. And November sees the release of The Art of Warhammer Video Games – a stunning volume showcasing classic games like the Dawn of War series alongside more recent smash hits like Space Marine 2.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dk-teaser_thumbnail-wajutkb4ib.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
