@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Mar 2025 12:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 13:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tribes of the Wasteland – Notes from the designers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/buki0fri/tribes-of-the-wasteland-notes-from-the-designers</link>
+            <guid>buki0fri</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Straight from the dunescuttler’s mouth…]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_tribeswastelands-designernotes-mar11-1-feature-du4idkrcpy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 11th of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nnpeudy2/the-rumour-engine-11th-of-march</link>
@@ -279,18 +289,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="chaos-space-marines">Chaos Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_eckitfocus-feb28-1-feature-ftve4w3hrn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies on Parade 2025 – The Warhammer Community team starts its journey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dldt5g8h/armies-on-parade-2025-the-warhammer-community-team-starts-its-journey</link>
-            <guid>dldt5g8h</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our foray into the yearly hobby challenge.]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aop_progress1-feb28-1-feature-idnkfkobqj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
