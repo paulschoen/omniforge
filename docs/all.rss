@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Mar 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -30,6 +30,17 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_tribeswastelands-designernotes-mar11-1-feature-du4idkrcpy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Tie Your Army Together | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/jwh82vnh/how-to-tie-your-army-together-warhammer</link>
+            <guid>jwh82vnh</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch along as Adam gives you some tips and tricks for personalising your armies so that they are unique and unified on the battlefield and in your display cabinets. Adam will show you some simple and effective methods that will work on everything from small warbands to full 2000 point warhosts that you can start doing right now!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01000---how-to-tie-your-army-together-thumbnail-v2-jd1todlobg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 11th of March]]></title>
@@ -276,19 +287,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whopen2025-feb28-1-feature-e3xgzvzbxr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to play Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ctinyme8/how-to-play-emperors-children</link>
-            <guid>ctinyme8</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stephen from Vanguard Tactics weighs in on the new faction.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ectactica-feb25-1-feature-3af3k5vbt2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
