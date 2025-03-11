@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Mar 2025 14:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 12:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 11th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nnpeudy2/the-rumour-engine-11th-of-march</link>
+            <guid>nnpeudy2</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar11-feature-rbtxxhu29g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Crush heads and drink blood with Vandoth the Fallen]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bd7cy92l/crush-heads-and-drink-blood-with-vandoth-the-fallen</link>
@@ -281,22 +291,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aop_progress1-feb28-1-feature-idnkfkobqj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: Age of Sigmar | Skragrott the Loonking, 1:6 Scale Limited Edition Statue by Wētā Workshop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rcwpajhs/warhammer-age-of-sigmar-skragrott-the-loonking-16-scale-limited-edition-statue-by-weta-workshop</link>
-            <guid>rcwpajhs</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Crafted with masterful precision and an unwavering dedication to detail, Wētā Workshop presents this premium 1:6 scale limited edition collectible statue that brings to life the twisted majesty of Skragrott the Loonking, from Warhammer: Age of Sigmar. 
-
-Every inch of this masterpiece captures the essence of his dark power—his staff, adorned with twisted mushrooms and ritualistic fetishes, stretches high into the air, while his regal yet malevolent presence demands attention.
-
-Whether displayed in your collection or admired as a work of art, this statue stands as a testament to the craft of transforming the fantastical into the tangible.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skragrott-the-loonking_thumbnail_v1-6blmfckui0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
