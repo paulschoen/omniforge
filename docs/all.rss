@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Mar 2025 13:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[These Emperor’s Children novels are a rapturous feast for the mind]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0wftgpoq/these-emperors-children-novels-are-a-rapturous-feast-for-the-mind</link>
+            <guid>0wftgpoq</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yes, we’re including Fabius Bile.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_ecbooks-mar11-1-feature-o6hy0hfkw7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tribes of the Wasteland – Notes from the designers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/buki0fri/tribes-of-the-wasteland-notes-from-the-designers</link>
@@ -277,18 +289,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="chaos-space-marines">Chaos Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ectactica-feb25-1-feature-3af3k5vbt2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Emperor’s Children Army Set – Examining the new kits in detail]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4xvlhken/the-emperors-children-army-set-examining-the-new-kits-in-detail</link>
-            <guid>4xvlhken</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What can you do with the juicy new kits?]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eckitfocus-feb28-1-feature-ftve4w3hrn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
