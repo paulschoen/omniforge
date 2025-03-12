@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Mar 2025 10:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 11:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Quarterly Detachments – New rules for the T’au Empire, Orks and Adeptus Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hajnar5i/quarterly-detachments-new-rules-for-the-tau-empire-orks-and-adeptus-custodes</link>
+            <guid>hajnar5i</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first in a new series of extra fighting formations.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="orks">Orks</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_detachments-mar12-1-feature-2hzliqkwnr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Balance Dataslate – Here’s what’s changed in the 41st Millennium]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/goxjzhii/warhammer-40000-balance-dataslate-heres-whats-changed-in-the-41st-millennium</link>
@@ -271,19 +285,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01472_rk_reveal-kill-team-blood-and-zeal_thumb_v02-qjpfkxjw6w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wield the power of the gods in Kill Team: Blood and Zeal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal</link>
-            <guid>ovfew1bv</guid>
-            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Imperial preachers battle blood-crazed berzerkers.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_blood&zeal-mar01-1-feature-mjdk7m6pmj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
