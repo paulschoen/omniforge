@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Mar 2025 12:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 13:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Take a trip down memory lane with new shows on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lhaedptr/take-a-trip-down-memory-lane-with-new-shows-on-warhammer-tv</link>
+            <guid>lhaedptr</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus new episodes of Painting Desk and Deep Strike.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar12-1-feature-dgsl4jfu8t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Index: Chaos Daemons – Updated datasheets and a new detachment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jl3uxdbu/index-chaos-daemons-updated-datasheets-and-a-new-detachment</link>
@@ -272,20 +282,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar02-1-feature-fikjkio4vd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Your first taste of the Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r3b7ata1/saturday-pre-orders-your-first-taste-of-the-emperors-children</link>
-            <guid>r3b7ata1</guid>
-            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-mar01-1-feature-31z5jp4sek.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
