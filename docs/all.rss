@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Mar 2025 11:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 12:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Index: Chaos Daemons – Updated datasheets and a new detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jl3uxdbu/index-chaos-daemons-updated-datasheets-and-a-new-detachment</link>
+            <guid>jl3uxdbu</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The dark gods will have their due.]]></description>
+            <category domain="chaos-daemons">Chaos Daemons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chaosdaemonsdatasheets-march12-1-feature-spgtg37tng.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Quarterly Detachments – New rules for the T’au Empire, Orks and Adeptus Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hajnar5i/quarterly-detachments-new-rules-for-the-tau-empire-orks-and-adeptus-custodes</link>
@@ -274,17 +286,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-mar01-1-feature-31z5jp4sek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wield the Power of the Gods – Kill Team: Blood and Zeal Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6riy65ib/wield-the-power-of-the-gods-kill-team-blood-and-zeal-revealed</link>
-            <guid>6riy65ib</guid>
-            <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What happens when two very different types of zealots collide? Find out in the new Kill Team boxed set, Blood and Zeal!]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01472_rk_reveal-kill-team-blood-and-zeal_thumb_v02-qjpfkxjw6w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
