@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Mar 2025 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 10:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Balance Dataslate – Here’s what’s changed in the 41st Millennium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/goxjzhii/warhammer-40000-balance-dataslate-heres-whats-changed-in-the-41st-millennium</link>
+            <guid>goxjzhii</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Targeted changes to most factions.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-mar12-1-feature-dfkygwqksf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[These Emperor’s Children novels are a rapturous feast for the mind]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0wftgpoq/these-emperors-children-novels-are-a-rapturous-feast-for-the-mind</link>
@@ -273,20 +284,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_blood&zeal-mar01-1-feature-mjdk7m6pmj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Open 2025 – Our flagship tournament series expands into Canada with tickets on sale this weekend]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/djwhwpef/warhammer-open-2025-our-flagship-tournament-series-expands-into-canada-with-tickets-on-sale-this-weekend</link>
-            <guid>djwhwpef</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tournament play is going international.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category domain="us-open-series">US Open Series</category>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whopen2025-feb28-1-feature-e3xgzvzbxr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
