@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 12 Mar 2025 18:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[ENORMOUS 40K Rules Updates - Balance Dataslate, New Points, Removed Units + More!]]></title>
+            <link>https://www.youtube.com/watch?v=wlHtHqKIAc8</link>
+            <guid>yt:video:wlHtHqKIAc8</guid>
+            <pubDate>Wed, 12 Mar 2025 17:29:08 GMT</pubDate>
+            <description><![CDATA[The March 2025 update for Warhammer 40K introduces significant rules and points changes aimed at balancing gameplay, with new detachments for various factions, adjustments to unit performance, and specific point increases and decreases for overperforming and underused units.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40K March 2025 Update Summary</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Major Update Announcement:</strong> Games Workshop introduces significant rules and points changes for Warhammer 40K, with a focus on balance.</li>
+    <li>✨ <strong>New Detachments:</strong> Introduction of new detachments for Orcs, Tower, Custodes, and others, expanding army options.</li>
+    <li>⚖️ <strong>Balance Changes:</strong> Various factions and units receive buffs and nerfs, with no sweeping changes expected until summer.</li>
+    <li>📈 <strong>Points Adjustments:</strong> Significant point increases for overperforming units like Space Marine Dreadnoughts and decreases for underused units.</li>
+    <li>👾 <strong>Chaos Demons Update:</strong> Major changes include nerfs to the overperforming Legion of Excess and various unit adjustments.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Point Changes:</strong> Space Marine Dreadnoughts increased by 10 points each, now at 140 points.</li>
+    <li>📊 <strong>Win Rate Impact:</strong> Chaos Demons previously had a win rate of 66%, now adjusted due to balance changes.</li>
+    <li>📉 <strong>Sisters of Battle:</strong> Miracle Dice improved slightly; win rates around 42% prior to changes.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the introduction of new detachments affect army compositions in competitive play?</strong></li>
+    <li>🤔 <strong>What strategies can players develop to adapt to the new balance changes in the meta?</strong></li>
+    <li>🤔 <strong>Which faction do you think benefited the most from the latest updates, and why?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Why are People Using THIS Space Marine Tank so Much? Vindicator Unit Review]]></title>
             <link>https://www.youtube.com/watch?v=rle4v6YliKg</link>
@@ -1667,35 +1700,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ENORMOUS 40K Rules Updates - Balance Dataslate, New Points, Removed Units + More!]]></title>
-            <link>https://www.youtube.com/watch?v=wlHtHqKIAc8</link>
-            <guid>yt:video:wlHtHqKIAc8</guid>
-            <pubDate>Wed, 12 Mar 2025 17:29:08 GMT</pubDate>
-            <description><![CDATA[The March 2025 update for Warhammer 40K introduces significant rules and points changes aimed at balancing gameplay, with new detachments for various factions, adjustments to unit performance, and specific point increases and decreases for overperforming and underused units.]]></description>
+            <title><![CDATA[The BIG 40K Detachment Updates - What Do These Do? Orks, T'au, Custodes + Daemons Rules Reveals]]></title>
+            <link>https://www.youtube.com/watch?v=B-9h4LlhxHA</link>
+            <guid>yt:video:B-9h4LlhxHA</guid>
+            <pubDate>Thu, 13 Mar 2025 01:31:15 GMT</pubDate>
+            <description><![CDATA[The video discusses the introduction of four new powerful detachments in Warhammer 40k for Adept Custodians, Chaos Demons, Orcs, and T'au, highlighting their unique abilities and the impact they may have on competitive play as regular updates are expected until the potential 11th edition in 2026.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40K March 2025 Update Summary</h2>
+<h2>📢 New Detachments in Warhammer 40k: Grumpus Take Two</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Major Update Announcement:</strong> Games Workshop introduces significant rules and points changes for Warhammer 40K, with a focus on balance.</li>
-    <li>✨ <strong>New Detachments:</strong> Introduction of new detachments for Orcs, Tower, Custodes, and others, expanding army options.</li>
-    <li>⚖️ <strong>Balance Changes:</strong> Various factions and units receive buffs and nerfs, with no sweeping changes expected until summer.</li>
-    <li>📈 <strong>Points Adjustments:</strong> Significant point increases for overperforming units like Space Marine Dreadnoughts and decreases for underused units.</li>
-    <li>👾 <strong>Chaos Demons Update:</strong> Major changes include nerfs to the overperforming Legion of Excess and various unit adjustments.</li>
+    <li>🔥 <strong>New Detachments:</strong> Four powerful detachments introduced for Adept Custodians, Chaos Demons, Orcs, and T'au.</li>
+    <li>🔄 <strong>Regular Updates:</strong> New detachments will be released regularly with each balance update until the potential 11th edition in 2026.</li>
+    <li>🎯 <strong>Orc Detachment - Mor Dhaka:</strong> Features "sustained hits" for increased damage output, particularly strong for shooting units.</li>
+    <li>⚔️ <strong>Custodian Detachment - Lions of the Emperor:</strong> Focused on individual units gaining bonuses when isolated from others, enhancing their combat effectiveness.</li>
+    <li>🛡️ <strong>T'au Detachment - Experimental Prototype Cadra:</strong> Provides increased range for weapons, enhancing firepower.</li>
+    <li>👹 <strong>Chaos Demon Detachment - Legion of the Dark Master:</strong> Offers tailored rules for various Chaos deities, enhancing their combat and durability.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Point Changes:</strong> Space Marine Dreadnoughts increased by 10 points each, now at 140 points.</li>
-    <li>📊 <strong>Win Rate Impact:</strong> Chaos Demons previously had a win rate of 66%, now adjusted due to balance changes.</li>
-    <li>📉 <strong>Sisters of Battle:</strong> Miracle Dice improved slightly; win rates around 42% prior to changes.</li>
+    <li>📈 <strong>Damage Boosts:</strong> Orcs' sustained hits effectively double their damage output when hitting on a five plus.</li>
+    <li>🔢 <strong>Custodian Buff:</strong> Units without friendly units nearby receive a +1 to hit and +1 to wound, significantly increasing their damage potential.</li>
+    <li>🎯 <strong>T'au Range Increase:</strong> All weapons gain +6 inches in range, improving the effectiveness of shorter-range weapons.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the introduction of new detachments affect army compositions in competitive play?</strong></li>
-    <li>🤔 <strong>What strategies can players develop to adapt to the new balance changes in the meta?</strong></li>
-    <li>🤔 <strong>Which faction do you think benefited the most from the latest updates, and why?</strong></li>
+    <li>🤔 <strong>How will these new detachments impact competitive play in Warhammer 40k?</strong></li>
+    <li>💡 <strong>What strategies can players implement to maximize the benefits of their new detachments?</strong></li>
+    <li>🧐 <strong>Which of the new detachments do you believe will dominate in upcoming tournaments?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
