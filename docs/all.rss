@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Mar 2025 13:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 13:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Narrative play in Middle-earth™ – To war!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qauhhaz2/narrative-play-in-middle-earthtm-to-war</link>
+            <guid>qauhhaz2</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new scenarios celebrate scenes from The Lord of the Rings: The Two Towers™.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_scenarios-mar13-1-feature-xlvfm8vhes.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Take a trip down memory lane with new shows on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lhaedptr/take-a-trip-down-memory-lane-with-new-shows-on-warhammer-tv</link>
@@ -269,19 +279,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd510-mar03-1-feature-w9kyep0pbo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The Gitmob gallop into the fray]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k9c6bz33/sunday-preview-the-gitmob-gallop-into-the-fray</link>
-            <guid>k9c6bz33</guid>
-            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are all of next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar02-1-feature-fikjkio4vd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
