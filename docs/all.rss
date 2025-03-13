@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Mar 2025 13:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 14:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rule the dunes – Playing as the Ash Waste Nomads in Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jom125hp/rule-the-dunes-playing-as-the-ash-waste-nomads-in-necromunda</link>
+            <guid>jom125hp</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Keep the underhivers at bay with your new toys.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_ashwastesnomads-mar13-1-feature-nlvvqp0isi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Narrative play in Middle-earth™ – To war!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qauhhaz2/narrative-play-in-middle-earthtm-to-war</link>
@@ -269,16 +279,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec-prophetofredemptionreveal-mar03-1-feature-3bxte6pqao.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 510 – Go behind the scenes with the Middle-earth Strategy Battle Game™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6mtwb9vh/white-dwarf-510-go-behind-the-scenes-with-the-middle-earth-strategy-battle-gametm</link>
-            <guid>6mtwb9vh</guid>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s in this month’s issue.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd510-mar03-1-feature-w9kyep0pbo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
