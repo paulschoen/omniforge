@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Mar 2025 15:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 17:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marine 3 is Officially in Development]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/glahjvsr/space-marine-3-is-officially-in-development</link>
+            <guid>glahjvsr</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The sequel to the smash hit Warhammer 40,000 computer game is in the works]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="announcements">Announcements</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warcom_feature-(1)-opuzlyodo7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – Mechanicum Knights rally in Legions Imperialis]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gzbkew9e/heresy-thursday-mechanicum-knights-rally-in-legions-imperialis</link>
@@ -270,16 +283,6 @@ Follow Neave and her elite hunters as they track a shadowy agent of ruin through
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus_season2-mar05-1-feature-dwbeopmc7l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 4th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9sal4cvo/the-rumour-engine-4th-of-march</link>
-            <guid>9sal4cvo</guid>
-            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar4-feature-hxw6yk1qfj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
