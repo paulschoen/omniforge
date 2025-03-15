@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Mar 2025 15:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 18:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Death waits in the dunes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tm3o79fl/saturday-pre-orders-death-waits-in-the-dunes</link>
+            <guid>tm3o79fl</guid>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here is everything available for pre-order.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar15-1-feature-i3jo3y5lx7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community Crusade – Who’s involved in the office Crusade campaign?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kqxg2drd/the-warhammer-community-crusade-whos-involved-in-the-office-crusade-campaign</link>
@@ -268,21 +280,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/whtv-2024-promo-new-look-line-up-o2jnmwzv4r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon | Warhammer Age of Sigmar | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/uubimdsf/blacktalon-warhammer-age-of-sigmar-warhammer</link>
-            <guid>uubimdsf</guid>
-            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the first episode of the new Blacktalon season NOW on Warhammer TV.
-
-Follow Neave and her elite hunters as they track a shadowy agent of ruin through the streets of Hammerhal. Find out more at Warhammer Community:]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01600_blacktalon-2_trailer-cuts_16x9_thumbnail-tg1d9wm9pm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
