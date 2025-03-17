@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 16 Mar 2025 18:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 11:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get Your Warhammer news in French, Spanish, and Italian with new social media accounts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ulz4lq9s/get-your-warhammer-news-in-french-spanish-and-italian-with-new-social-media-accounts</link>
+            <guid>ulz4lq9s</guid>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bonjour, hola, ciao!]]></description>
+            <category domain="announcements">Announcements</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/socialmessaging-mar17-1-feature-xsnqj7hdn2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Slaughter and worship in Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/x54hnzpq/sunday-preview-slaughter-and-worship-in-kill-team</link>
@@ -271,17 +281,6 @@
             <category domain="blood-angels">Blood Angels</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_thursday_astercrohnereveal-mar06-1-feature-vu3vheb2kn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince Imrahil™ of Dol Amroth™ rides to battle with the Armies of Middle-earth™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fy8isfxy/prince-imrahiltm-of-dol-amrothtm-rides-to-battle-with-the-armies-of-middle-earthtm</link>
-            <guid>fy8isfxy</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new hero and details from the upcoming supplement.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_imrahil-mar6-1-feature-hlpjqegmar.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
