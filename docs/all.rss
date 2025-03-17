@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Mar 2025 11:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 13:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Goremongers of Khorne know that Bloodletters are what peak performance really looks like]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/edrr1evg/the-goremongers-of-khorne-know-that-bloodletters-are-what-peak-performance-really-looks-like</link>
+            <guid>edrr1evg</guid>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do these augmented Khornate cultists play in Kill Team?]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_bloodteam-mar17-1-feature-n0tcoks1m4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get Your Warhammer news in French, Spanish, and Italian with new social media accounts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ulz4lq9s/get-your-warhammer-news-in-french-spanish-and-italian-with-new-social-media-accounts</link>
@@ -268,19 +278,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bookofyear2024winner-mar06-1-feature-b6efkgdsw6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – Aster Crohne is the immovable object of the IX Legion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/08jlpgr0/heresy-thursday-aster-crohne-is-the-immovable-object-of-the-ix-legion</link>
-            <guid>08jlpgr0</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stand firm for Sanguinius.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_thursday_astercrohnereveal-mar06-1-feature-vu3vheb2kn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
