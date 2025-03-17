@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Mar 2025 13:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Two more Abyssal Ferrymen are waiting to guide you into the Underhells]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eeduulzn/two-more-abyssal-ferrymen-are-waiting-to-guide-you-into-the-underhells</link>
+            <guid>eeduulzn</guid>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pay them enough and they’ll even soup up your ride.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_ferrymen-mar17-1-feature-nrhyc6emcw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Goremongers of Khorne know that Bloodletters are what peak performance really looks like]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/edrr1evg/the-goremongers-of-khorne-know-that-bloodletters-are-what-peak-performance-really-looks-like</link>
@@ -268,16 +279,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_gloomspitefiction-mar07-1-feature-jycmxgzilp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Book of the Year – The results are in]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/84bewmql/black-library-book-of-the-year-the-results-are-in</link>
-            <guid>84bewmql</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are this year’s top 10.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bookofyear2024winner-mar06-1-feature-b6efkgdsw6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
