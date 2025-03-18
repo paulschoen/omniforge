@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Mar 2025 12:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 14:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team: Blood and Zeal – How the latest expansion set changes the game]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qtq917vz/kill-team-blood-and-zeal-how-the-latest-expansion-set-changes-the-game</link>
+            <guid>qtq917vz</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[From new decks and terrain to exciting new mission packs.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_missionpacks-mar18-1-feature-jtfos49tj6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 18th of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dwtdcrja/the-rumour-engine-18th-of-march</link>
@@ -263,17 +273,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_tribesofthewasteland-mar10-1-feature-q53z67cq0m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The ash wastes fight back]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kfkbfxcr/sunday-preview-the-ash-wastes-fight-back</link>
-            <guid>kfkbfxcr</guid>
-            <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is what’s available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar9-1-feature-fub2eb2hzk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
