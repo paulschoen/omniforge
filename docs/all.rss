@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Mar 2025 14:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 12:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 18th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dwtdcrja/the-rumour-engine-18th-of-march</link>
+            <guid>dwtdcrja</guid>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar18-feature-7dm8mmunpy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Two more Abyssal Ferrymen are waiting to guide you into the Underhells]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eeduulzn/two-more-abyssal-ferrymen-are-waiting-to-guide-you-into-the-underhells</link>
@@ -86,6 +96,17 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_terrainpainting-mar14-1-feature-6qig9uywld.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting Better at Painting Black armour!?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/iqweaxch/getting-better-at-painting-black-armour</link>
+            <guid>iqweaxch</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everyone paints differently! There’s always something new to learn and new to share! Ollie has reached out to Adam to learn the ins and outs of how he paints his super detailed black Deathwatch armour!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01004-painting-black-armour-copy-iossvlfrmk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Space Marine 3 is Officially in Development]]></title>
@@ -253,32 +274,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar9-1-feature-fub2eb2hzk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Stick it to the Evil Sun with the Gitmob]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/t5ubxsir/saturday-pre-orders-stick-it-to-the-evil-sun-with-the-gitmob</link>
-            <guid>t5ubxsir</guid>
-            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-mar08-1-feature-vu4zhahqfu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – In the Bad Moon’s Light]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/undcgjno/chronicles-of-ruin-in-the-bad-moons-light</link>
-            <guid>undcgjno</guid>
-            <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Gloomspite Gitz assault a fortified city.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_gloomspitefiction-mar07-1-feature-jycmxgzilp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
