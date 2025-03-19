@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Mar 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 15:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -31,6 +31,19 @@
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_ep2-mar19-1-feature-jalbpx89iz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blacktalon Season 2 Episode 2: Official Trailer – Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qsqif14v/blacktalon-season-2-episode-2-official-trailer-warhammer</link>
+            <guid>qsqif14v</guid>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A shadowy plot thickens and now every mortal in Hammerhal is a potential agent of Ruin… A new episode of Blacktalon is available to watch now on Warhammer TV.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01601_blacktalon-2_ep2_trailer-cuts_16x9_thumbnail-mf5nuvrcbu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kill Team: Blood and Zeal – How the latest expansion set changes the game]]></title>
@@ -265,16 +278,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01000---how-to-tie-your-army-together-thumbnail-v2-jd1todlobg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 11th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nnpeudy2/the-rumour-engine-11th-of-march</link>
-            <guid>nnpeudy2</guid>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar11-feature-rbtxxhu29g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
