@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Mar 2025 14:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 13:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Episode 2 – Mortal danger in the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wv090wai/blacktalon-episode-2-mortal-danger-in-the-mortal-realms</link>
+            <guid>wv090wai</guid>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We take a look at the mortal citizens of Sigmar who appear in the new animation.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep2-mar19-1-feature-jalbpx89iz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team: Blood and Zeal – How the latest expansion set changes the game]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qtq917vz/kill-team-blood-and-zeal-how-the-latest-expansion-set-changes-the-game</link>
@@ -263,16 +276,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_vandoth-mar10-1-feature-po9lciunql.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Live the Ash Wastes Nomad lifestyle with Tribes of the Wastelands]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/65ycoqiw/live-the-ash-wastes-nomad-lifestyle-with-tribes-of-the-wastelands</link>
-            <guid>65ycoqiw</guid>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules and lore for the Necromunda nomads.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_tribesofthewasteland-mar10-1-feature-q53z67cq0m.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
