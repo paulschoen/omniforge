@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Mar 2025 13:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 14:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: How We Roll examines Codex: Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/clqpt7vp/warhammer-tv-this-week-how-we-roll-examines-codex-emperors-children</link>
+            <guid>clqpt7vp</guid>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tune in to three great Warhammer shows this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar19-1-feature-wsudb9ersu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon Episode 2 – Mortal danger in the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wv090wai/blacktalon-episode-2-mortal-danger-in-the-mortal-realms</link>
@@ -265,17 +275,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-mar11-feature-rbtxxhu29g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crush heads and drink blood with Vandoth the Fallen]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bd7cy92l/crush-heads-and-drink-blood-with-vandoth-the-fallen</link>
-            <guid>bd7cy92l</guid>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The man-mountain of the Underhive joins the fight.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_vandoth-mar10-1-feature-po9lciunql.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
