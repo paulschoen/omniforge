@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Mar 2025 13:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 14:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Sanctifier kill team spreads faith with fire and shouting]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/touklxnz/the-sanctifier-kill-team-spreads-faith-with-fire-and-shouting</link>
+            <guid>touklxnz</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What makes these fanatics stand out from the crowd?]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_zealteamreveal-mar20-1-feature-u9fl9pwzu5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle-earth Strategy Battle Game – Give the enemies of Azog™ a taste of boulder with the Gundabad Catapult Troll™.]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/i88uzy0l/middle-earth-strategy-battle-game-give-the-enemies-of-azogtm-a-taste-of-boulder-with-the-gundabad-catapult-trolltm</link>
@@ -268,16 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_ecbooks-mar11-1-feature-o6hy0hfkw7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tribes of the Wasteland – Notes from the designers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/buki0fri/tribes-of-the-wasteland-notes-from-the-designers</link>
-            <guid>buki0fri</guid>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Straight from the dunescuttler’s mouth…]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_tribeswastelands-designernotes-mar11-1-feature-du4idkrcpy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
