@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Mar 2025 14:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 15:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blood, zeal or both? How to get the most out of the latest Kill Team expansion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wywam4pa/blood-zeal-or-both-how-to-get-the-most-out-of-the-latest-kill-team-expansion</link>
+            <guid>wywam4pa</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jason and Travis from Just Another Kill Team Podcast weigh in.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_bloodandzealinfluencer-mar21-1-feature-sffaedxcyi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heresy Thursday – Mechanicum heavy support for Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3lswhui5/heresy-thursday-mechanicum-heavy-support-for-legions-imperialis</link>
+            <guid>3lswhui5</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Field companies of heavy hitters.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/heresythursday_tanks-mar20-1-feature-vicbnr0qmr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Sanctifier kill team spreads faith with fire and shouting]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/touklxnz/the-sanctifier-kill-team-spreads-faith-with-fire-and-shouting</link>
@@ -255,29 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_detachments-mar12-1-feature-2hzliqkwnr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Balance Dataslate – Here’s what’s changed in the 41st Millennium]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/goxjzhii/warhammer-40000-balance-dataslate-heres-whats-changed-in-the-41st-millennium</link>
-            <guid>goxjzhii</guid>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Targeted changes to most factions.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-mar12-1-feature-dfkygwqksf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[These Emperor’s Children novels are a rapturous feast for the mind]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0wftgpoq/these-emperors-children-novels-are-a-rapturous-feast-for-the-mind</link>
-            <guid>0wftgpoq</guid>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yes, we’re including Fabius Bile.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_ecbooks-mar11-1-feature-o6hy0hfkw7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
