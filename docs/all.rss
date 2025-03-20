@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Mar 2025 15:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 13:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Middle-earth Strategy Battle Game – Give the enemies of Azog™ a taste of boulder with the Gundabad Catapult Troll™.]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i88uzy0l/middle-earth-strategy-battle-game-give-the-enemies-of-azogtm-a-taste-of-boulder-with-the-gundabad-catapult-trolltm</link>
+            <guid>i88uzy0l</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More updates from Middle-earth™.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_catapulttroll-mar20-1-feature-yq8etbduka.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: How We Roll examines Codex: Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/clqpt7vp/warhammer-tv-this-week-how-we-roll-examines-codex-emperors-children</link>
@@ -267,17 +278,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_tribeswastelands-designernotes-mar11-1-feature-du4idkrcpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Tie Your Army Together | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/jwh82vnh/how-to-tie-your-army-together-warhammer</link>
-            <guid>jwh82vnh</guid>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch along as Adam gives you some tips and tricks for personalising your armies so that they are unique and unified on the battlefield and in your display cabinets. Adam will show you some simple and effective methods that will work on everything from small warbands to full 2000 point warhosts that you can start doing right now!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01000---how-to-tie-your-army-together-thumbnail-v2-jd1todlobg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
