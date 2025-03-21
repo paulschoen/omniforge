@@ -4,43 +4,11 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Mar 2025 10:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 12:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Faith and fury come to Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vwginx7i/saturday-pre-orders-faith-and-fury-come-to-kill-team</link>
-            <guid>vwginx7i</guid>
-            <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-mar22-1-feature-qgiltpbsx4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WarCom Workbench – What’s the team working on?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lxgctor7/warcom-workbench-whats-the-team-working-on</link>
-            <guid>lxgctor7</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the first of a semi-regular feature where we show off what we’ve been up to.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcomworkbench1-mar21-1-feature-2flsrlr87d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood, zeal or both? How to get the most out of the latest Kill Team expansion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wywam4pa/blood-zeal-or-both-how-to-get-the-most-out-of-the-latest-kill-team-expansion</link>
-            <guid>wywam4pa</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jason and Travis from Just Another Kill Team Podcast weigh in.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_bloodandzealinfluencer-mar21-1-feature-sffaedxcyi.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Heresy Thursday – Mechanicum heavy support for Legions Imperialis]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3lswhui5/heresy-thursday-mechanicum-heavy-support-for-legions-imperialis</link>
@@ -274,6 +242,43 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar12-1-feature-dgsl4jfu8t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Index: Chaos Daemons – Updated datasheets and a new detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jl3uxdbu/index-chaos-daemons-updated-datasheets-and-a-new-detachment</link>
+            <guid>jl3uxdbu</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The dark gods will have their due.]]></description>
+            <category domain="chaos-daemons">Chaos Daemons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chaosdaemonsdatasheets-march12-1-feature-spgtg37tng.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quarterly Detachments – New rules for the T’au Empire, Orks and Adeptus Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hajnar5i/quarterly-detachments-new-rules-for-the-tau-empire-orks-and-adeptus-custodes</link>
+            <guid>hajnar5i</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first in a new series of extra fighting formations.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="orks">Orks</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_detachments-mar12-1-feature-2hzliqkwnr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Balance Dataslate – Here’s what’s changed in the 41st Millennium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/goxjzhii/warhammer-40000-balance-dataslate-heres-whats-changed-in-the-41st-millennium</link>
+            <guid>goxjzhii</guid>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Targeted changes to most factions.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-mar12-1-feature-dfkygwqksf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
