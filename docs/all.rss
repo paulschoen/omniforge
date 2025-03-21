@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Mar 2025 13:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[WarCom Workbench – What’s the team working on?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lxgctor7/warcom-workbench-whats-the-team-working-on</link>
+            <guid>lxgctor7</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first of a semi-regular feature where we show off what we’ve been up to.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warcomworkbench1-mar21-1-feature-2flsrlr87d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blood, zeal or both? How to get the most out of the latest Kill Team expansion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wywam4pa/blood-zeal-or-both-how-to-get-the-most-out-of-the-latest-kill-team-expansion</link>
@@ -264,20 +275,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_chaosdaemonsdatasheets-march12-1-feature-spgtg37tng.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quarterly Detachments – New rules for the T’au Empire, Orks and Adeptus Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hajnar5i/quarterly-detachments-new-rules-for-the-tau-empire-orks-and-adeptus-custodes</link>
-            <guid>hajnar5i</guid>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first in a new series of extra fighting formations.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="orks">Orks</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_detachments-mar12-1-feature-2hzliqkwnr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
