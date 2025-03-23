@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 22 Mar 2025 18:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 18:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Heavy armour from the forges of Mars]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ebyoa9rq/sunday-preview-heavy-armour-from-the-forges-of-mars</link>
+            <guid>ebyoa9rq</guid>
+            <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s coming next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar23-1-feature-dvu0aov4jz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Faith and fury come to Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vwginx7i/saturday-pre-orders-faith-and-fury-come-to-kill-team</link>
@@ -264,16 +277,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-mar13-1-feature-xlvfm8vhes.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take a trip down memory lane with new shows on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lhaedptr/take-a-trip-down-memory-lane-with-new-shows-on-warhammer-tv</link>
-            <guid>lhaedptr</guid>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus new episodes of Painting Desk and Deep Strike.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar12-1-feature-dgsl4jfu8t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
