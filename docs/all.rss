@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Mar 2025 15:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 16:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Big Debate – What colour should you paint your base rims?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rbhohtyd/the-big-debate-what-colour-should-you-paint-your-base-rims</link>
+            <guid>rbhohtyd</guid>
+            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The beacons of discourse have been lit once again.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bigdebate_baserims-mar24-1-feature-dmmuq6qvhj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AdeptiCon 2025 – Prepare for a huge Warhammer preview]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j43lsxpa/adepticon-2025-prepare-for-a-huge-warhammer-preview</link>
@@ -268,16 +278,6 @@
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/heresythursday-mar13-1-feature-8azliu3gig.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rule the dunes – Playing as the Ash Waste Nomads in Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jom125hp/rule-the-dunes-playing-as-the-ash-waste-nomads-in-necromunda</link>
-            <guid>jom125hp</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Keep the underhivers at bay with your new toys.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_ashwastesnomads-mar13-1-feature-nlvvqp0isi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
