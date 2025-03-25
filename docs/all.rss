@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Mar 2025 16:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 13:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 25th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqieekjp/the-rumour-engine-25th-of-march</link>
+            <guid>wqieekjp</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar25-feature-ifcfujfsie.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Big Debate – What colour should you paint your base rims?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rbhohtyd/the-big-debate-what-colour-should-you-paint-your-base-rims</link>
@@ -266,18 +276,6 @@
             <category domain="announcements">Announcements</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warcom_feature-(1)-opuzlyodo7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – Mechanicum Knights rally in Legions Imperialis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gzbkew9e/heresy-thursday-mechanicum-knights-rally-in-legions-imperialis</link>
-            <guid>gzbkew9e</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Like your knights, but better.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/heresythursday-mar13-1-feature-8azliu3gig.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
