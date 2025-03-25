@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Mar 2025 13:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 21:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enter a nightmare psychic realm in the latest free update for Warhammer 40,000: Darktide]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pike1lat/enter-a-nightmare-psychic-realm-in-the-latest-free-update-for-warhammer-40000-darktide</link>
+            <guid>pike1lat</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight unending hordes in a psyker’s head.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/darktidedlc-mar25-1-feature-ljvn0obiyk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 25th of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqieekjp/the-rumour-engine-25th-of-march</link>
@@ -263,19 +274,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01004-painting-black-armour-copy-iossvlfrmk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marine 3 is Officially in Development]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/glahjvsr/space-marine-3-is-officially-in-development</link>
-            <guid>glahjvsr</guid>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The sequel to the smash hit Warhammer 40,000 computer game is in the works]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="announcements">Announcements</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcom_feature-(1)-opuzlyodo7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
