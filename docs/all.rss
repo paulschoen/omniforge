@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Mar 2025 21:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 13:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[March For Macragge 2025 – Your Ultramarines on parade]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w5gpgqgz/march-for-macragge-2025-your-ultramarines-on-parade</link>
+            <guid>w5gpgqgz</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer Community goes into Ultramarines overdrive at this time of year. Find out why…]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_marchformacragge-mar26-1-feature-arfgpxtxqw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enter a nightmare psychic realm in the latest free update for Warhammer 40,000: Darktide]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pike1lat/enter-a-nightmare-psychic-realm-in-the-latest-free-update-for-warhammer-40000-darktide</link>
@@ -263,17 +274,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_terrainpainting-mar14-1-feature-6qig9uywld.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Getting Better at Painting Black armour!?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/iqweaxch/getting-better-at-painting-black-armour</link>
-            <guid>iqweaxch</guid>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everyone paints differently! There’s always something new to learn and new to share! Ollie has reached out to Adam to learn the ins and outs of how he paints his super detailed black Deathwatch armour!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01004-painting-black-armour-copy-iossvlfrmk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
