@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Mar 2025 13:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 15:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cleanse the hive in three dimensions this week on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ibczfmsr/cleanse-the-hive-in-three-dimensions-this-week-on-warhammer-tv</link>
+            <guid>ibczfmsr</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Battle Report team have a nostalgic, narrative twist this week. Did someone mention… Space Hulk?]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus_vertical40k-mar26-1-feature-11dzemxhvh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[March For Macragge 2025 – Your Ultramarines on parade]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w5gpgqgz/march-for-macragge-2025-your-ultramarines-on-parade</link>
@@ -262,18 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_whtvcrusade-mar14-1-feature-bligl2gdd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Zone Mortalis – How to paint up an eerie Necromunda Underhells in no time]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5bw2u5ap/painting-zone-mortalis-how-to-paint-up-an-eerie-necromunda-underhells-in-no-time</link>
-            <guid>5bw2u5ap</guid>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a unique look for your Necromunda terrain.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_terrainpainting-mar14-1-feature-6qig9uywld.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
