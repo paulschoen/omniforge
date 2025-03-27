@@ -4,11 +4,124 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Mar 2025 15:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[These epic new Space Wolves will write sagas worthy of the Allfather]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather</link>
+            <guid>hx9biq5l</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The sons of Fenris are back in action.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature03-r9kmscfslv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daemons ravage Armageddon and only the Grey Knights can throw them back]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kd8ir91o/daemons-ravage-armageddon-and-only-the-grey-knights-can-throw-them-back</link>
+            <guid>kd8ir91o</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Crusade campaign expansion is coming.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature02-sbdhzymxvz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chaos ascends with new units and Codexes for Khorne, Tzeentch and Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gsdzv0gh/chaos-ascends-with-new-units-and-codexes-for-khorne-tzeentch-and-nurgle</link>
+            <guid>gsdzv0gh</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New heroes and robots step out from the Warp.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature01-eq1wjbmexa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wage war in three new ways with the latest Chapter Approved Mission Deck]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/as7grrjq/wage-war-in-three-new-ways-with-the-latest-chapter-approved-mission-deck</link>
+            <guid>as7grrjq</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next season of Matched Play in Warhammer 40,000.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature08-rwhw5quznt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spearhead is resurrected in Shyish while Matched Play uproots to Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hpue5ec7/spearhead-is-resurrected-in-shyish-while-matched-play-uproots-to-ghyran</link>
+            <guid>hpue5ec7</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Mortal Realms are still at war.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature04-xekokwhh8y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protect the Great Gun from Tyranid invasion in Kill Team: Typhon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/n9qtzvsu/protect-the-great-gun-from-tyranid-invasion-in-kill-team-typhon</link>
+            <guid>n9qtzvsu</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Cult Mechanicus holds back a Ravener swarm.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature05-oktx97kko6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bring harmony to the Old World with the armies of Grand Cathay]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/luce8te0/bring-harmony-to-the-old-world-with-the-armies-of-grand-cathay</link>
+            <guid>luce8te0</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight under the banner of the Celestial Dragon Emperor.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature07-zoxhoaxeix.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defend or defile – The Wood Elf Realms and Beastman Brayherds battle for the forests of the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/thbon3tc/defend-or-defile-the-wood-elf-realms-and-beastman-brayherds-battle-for-the-forests-of-the-old-world</link>
+            <guid>thbon3tc</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heroes and horrors lurk in the woods.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature06-iejdmvovyn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Every reveal from the Warhammer Preview Show at AdeptiCon 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/or72z0uw/every-reveal-from-the-warhammer-preview-show-at-adepticon-2025</link>
+            <guid>or72z0uw</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out all of the new details here.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="adepticon">Adepticon</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature00-pbzzpniklj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cleanse the hive in three dimensions this week on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ibczfmsr/cleanse-the-hive-in-three-dimensions-this-week-on-warhammer-tv</link>
@@ -174,105 +287,6 @@
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_ep2-mar19-1-feature-jalbpx89iz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2 Episode 2: Official Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qsqif14v/blacktalon-season-2-episode-2-official-trailer-warhammer</link>
-            <guid>qsqif14v</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A shadowy plot thickens and now every mortal in Hammerhal is a potential agent of Ruin… A new episode of Blacktalon is available to watch now on Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01601_blacktalon-2_ep2_trailer-cuts_16x9_thumbnail-mf5nuvrcbu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team: Blood and Zeal – How the latest expansion set changes the game]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qtq917vz/kill-team-blood-and-zeal-how-the-latest-expansion-set-changes-the-game</link>
-            <guid>qtq917vz</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[From new decks and terrain to exciting new mission packs.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_missionpacks-mar18-1-feature-jtfos49tj6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 18th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dwtdcrja/the-rumour-engine-18th-of-march</link>
-            <guid>dwtdcrja</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar18-feature-7dm8mmunpy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two more Abyssal Ferrymen are waiting to guide you into the Underhells]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eeduulzn/two-more-abyssal-ferrymen-are-waiting-to-guide-you-into-the-underhells</link>
-            <guid>eeduulzn</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pay them enough and they’ll even soup up your ride.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_ferrymen-mar17-1-feature-nrhyc6emcw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Goremongers of Khorne know that Bloodletters are what peak performance really looks like]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/edrr1evg/the-goremongers-of-khorne-know-that-bloodletters-are-what-peak-performance-really-looks-like</link>
-            <guid>edrr1evg</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How do these augmented Khornate cultists play in Kill Team?]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_bloodteam-mar17-1-feature-n0tcoks1m4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Your Warhammer news in French, Spanish, and Italian with new social media accounts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ulz4lq9s/get-your-warhammer-news-in-french-spanish-and-italian-with-new-social-media-accounts</link>
-            <guid>ulz4lq9s</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bonjour, hola, ciao!]]></description>
-            <category domain="announcements">Announcements</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/socialmessaging-mar17-1-feature-xsnqj7hdn2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Slaughter and worship in Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x54hnzpq/sunday-preview-slaughter-and-worship-in-kill-team</link>
-            <guid>x54hnzpq</guid>
-            <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is everything coming to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhamer-plus">Warhamer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar16-1-feature-yvymhtvljf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Death waits in the dunes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tm3o79fl/saturday-pre-orders-death-waits-in-the-dunes</link>
-            <guid>tm3o79fl</guid>
-            <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is everything available for pre-order.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-mar15-1-feature-i3jo3y5lx7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community Crusade – Who’s involved in the office Crusade campaign?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kqxg2drd/the-warhammer-community-crusade-whos-involved-in-the-office-crusade-campaign</link>
-            <guid>kqxg2drd</guid>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first edition of a new project for the year.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_whtvcrusade-mar14-1-feature-bligl2gdd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
