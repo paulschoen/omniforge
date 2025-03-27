@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Mar 2025 12:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 14:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – Knights with Mechanicum technology is a winning combo in Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1r1wmhxr/heresy-thursday-knights-with-mechanicum-technology-is-a-winning-combo-in-legions-imperialis</link>
+            <guid>1r1wmhxr</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Knights Atrapos and Asterius take to the field.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/heresythursday_knights-mar27-1-feature-lkxl0h5ywo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tickets for the Warhammer World events in July are on the way]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rwd8slr5/tickets-for-the-warhammer-world-events-in-july-are-on-the-way</link>
@@ -293,16 +304,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warcomworkbench1-mar21-1-feature-2flsrlr87d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood, zeal or both? How to get the most out of the latest Kill Team expansion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wywam4pa/blood-zeal-or-both-how-to-get-the-most-out-of-the-latest-kill-team-expansion</link>
-            <guid>wywam4pa</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jason and Travis from Just Another Kill Team Podcast weigh in.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_bloodandzealinfluencer-mar21-1-feature-sffaedxcyi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
