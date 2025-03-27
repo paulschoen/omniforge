@@ -4,11 +4,65 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Mar 2025 03:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 09:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marines and the Forces of Chaos Clash – Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/7zyuu0mn/space-marines-and-the-forces-of-chaos-clash-warhammer-40000</link>
+            <guid>7zyuu0mn</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Armageddon is on the brink as the daemonic rot of Chaos spreads across the planet's surface. New reinforcements are inbound for the Space Marines and Heretic Astartes, both hoping to turn the tide of war.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01555_rk_space-marine-reveals-adepticon_thumb_v01-3flnj27fss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[March forth into the Realm of Death – Warhammer: Age of Sigmar – Spearhead: Sand and Bone]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/q6lh1osp/march-forth-into-the-realm-of-death-warhammer-age-of-sigmar-spearhead-sand-and-bone</link>
+            <guid>q6lh1osp</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight action-packed battles in Shyish, the Realm of Death, with the new Warhammer Age of Sigmar Spearhead Gaming Pack, Sand and Bone, along with four new Spearhead sets.]]></description>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01562-aos-sand-and-bone-reveal-thumbnail-2pqwa1tz89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terror Lurks Beneath Volkus – Kill Team: Typhon Revealed – Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zswjw9pz/terror-lurks-beneath-volkus-kill-team-typhon-revealed-warhammer-40000</link>
+            <guid>zswjw9pz</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could be causing tectonic disturbances beneath the surface of Volkus? 
+
+Tyranids! 
+
+The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01542_kt-typhon_thumbnail-t9v9kfgiep.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defeat Chaos With Harmony and Order – Warhammer: The Old World – Empire of Grand Cathay Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zrf23b3v/defeat-chaos-with-harmony-and-order-warhammer-the-old-world-empire-of-grand-cathay-revealed</link>
+            <guid>zrf23b3v</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Empire of Grand Cathay, as revealed at AdeptiCon 2025.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01537_tgc_thumbnail-bexgaxkwwz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[These epic new Space Wolves will write sagas worthy of the Allfather]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather</link>
@@ -243,50 +297,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/heresythursday_tanks-mar20-1-feature-vicbnr0qmr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sanctifier kill team spreads faith with fire and shouting]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/touklxnz/the-sanctifier-kill-team-spreads-faith-with-fire-and-shouting</link>
-            <guid>touklxnz</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What makes these fanatics stand out from the crowd?]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_zealteamreveal-mar20-1-feature-u9fl9pwzu5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth Strategy Battle Game – Give the enemies of Azog™ a taste of boulder with the Gundabad Catapult Troll™.]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i88uzy0l/middle-earth-strategy-battle-game-give-the-enemies-of-azogtm-a-taste-of-boulder-with-the-gundabad-catapult-trolltm</link>
-            <guid>i88uzy0l</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More updates from Middle-earth™.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_catapulttroll-mar20-1-feature-yq8etbduka.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: How We Roll examines Codex: Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/clqpt7vp/warhammer-tv-this-week-how-we-roll-examines-codex-emperors-children</link>
-            <guid>clqpt7vp</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tune in to three great Warhammer shows this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar19-1-feature-wsudb9ersu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Episode 2 – Mortal danger in the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wv090wai/blacktalon-episode-2-mortal-danger-in-the-mortal-realms</link>
-            <guid>wv090wai</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We take a look at the mortal citizens of Sigmar who appear in the new animation.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep2-mar19-1-feature-jalbpx89iz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
