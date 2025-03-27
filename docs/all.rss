@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Mar 2025 09:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 12:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tickets for the Warhammer World events in July are on the way]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rwd8slr5/tickets-for-the-warhammer-world-events-in-july-are-on-the-way</link>
+            <guid>rwd8slr5</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your monthly lowdown on the latest events.]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-mar27-1-feature-psm7ajtya9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Marines and the Forces of Chaos Clash – Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/7zyuu0mn/space-marines-and-the-forces-of-chaos-clash-warhammer-40000</link>
@@ -71,6 +81,7 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <description><![CDATA[The sons of Fenris are back in action.]]></description>
             <category domain="adepticon">Adepticon</category>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="space-wolves">Space Wolves</category>
             <category domain="space-marines">Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
@@ -85,6 +96,7 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <description><![CDATA[A new Crusade campaign expansion is coming.]]></description>
             <category domain="adepticon">Adepticon</category>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="grey-knights">Grey Knights</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
@@ -97,6 +109,8 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[New heroes and robots step out from the Warp.]]></description>
             <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category domain="thousand-sons">Thousand Sons</category>
             <category domain="death-guard">Death Guard</category>
@@ -111,6 +125,7 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The next season of Matched Play in Warhammer 40,000.]]></description>
             <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature08-rwhw5quznt.jpg" length="0" type="image/jpg"/>
@@ -122,6 +137,7 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Mortal Realms are still at war.]]></description>
             <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category domain="spearhead">Spearhead</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
@@ -134,6 +150,8 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Cult Mechanicus holds back a Ravener swarm.]]></description>
             <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="kill-team">Kill Team</category>
             <category domain="tyranids">Tyranids</category>
             <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
@@ -149,6 +167,7 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <description><![CDATA[Fight under the banner of the Celestial Dragon Emperor.]]></description>
             <category domain="adepticon">Adepticon</category>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature07-zoxhoaxeix.jpg" length="0" type="image/jpg"/>
@@ -284,19 +303,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_bloodandzealinfluencer-mar21-1-feature-sffaedxcyi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – Mechanicum heavy support for Legions Imperialis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3lswhui5/heresy-thursday-mechanicum-heavy-support-for-legions-imperialis</link>
-            <guid>3lswhui5</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Field companies of heavy hitters.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/heresythursday_tanks-mar20-1-feature-vicbnr0qmr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
