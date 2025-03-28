@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Mar 2025 15:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 16:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Touchline Tactics – How to play Lizardmen in Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gj9ncxhn/touchline-tactics-how-to-play-lizardmen-in-blood-bowl</link>
+            <guid>gj9ncxhn</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The ultimate guide to these cold-blooded ballers.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_lizardtactica-mar28-1-feature-epxbm8sfmo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Armoury – Become a soldier of Nuln with this incredible Burgschneider LARP gear]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e4fta6wp/warhammer-armoury-become-a-soldier-of-nuln-with-this-incredible-burgschneider-larp-gear</link>
@@ -290,17 +300,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bigdebate_baserims-mar24-1-feature-dmmuq6qvhj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon 2025 – Prepare for a huge Warhammer preview]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j43lsxpa/adepticon-2025-prepare-for-a-huge-warhammer-preview</link>
-            <guid>j43lsxpa</guid>
-            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[AdeptiCon is nigh.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adepticon">Adepticon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/adepticon_incoming-mar24-1-feature-ugtimtfiy5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
