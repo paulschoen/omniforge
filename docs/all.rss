@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Mar 2025 16:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 18:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The might of Mars rumbles from the macro-forge]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tz1ekjr1/saturday-pre-orders-the-might-of-mars-rumbles-from-the-macro-forge</link>
+            <guid>tz1ekjr1</guid>
+            <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out today’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb22-1-feature-rnutsktlwj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touchline Tactics – How to play Lizardmen in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gj9ncxhn/touchline-tactics-how-to-play-lizardmen-in-blood-bowl</link>
@@ -290,16 +302,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-mar25-feature-ifcfujfsie.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Debate – What colour should you paint your base rims?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rbhohtyd/the-big-debate-what-colour-should-you-paint-your-base-rims</link>
-            <guid>rbhohtyd</guid>
-            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The beacons of discourse have been lit once again.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bigdebate_baserims-mar24-1-feature-dmmuq6qvhj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
