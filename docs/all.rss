@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 29 Mar 2025 18:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 17:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Ancient kingdoms rise]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qaqujhnh/sunday-preview-ancient-kingdoms-rise</link>
+            <guid>qaqujhnh</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[All of next week’s pre-orders.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar30-1-feature-dkfdv1vwjf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The might of Mars rumbles from the macro-forge]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tz1ekjr1/saturday-pre-orders-the-might-of-mars-rumbles-from-the-macro-forge</link>
@@ -292,16 +307,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/darktidedlc-mar25-1-feature-ljvn0obiyk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 25th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqieekjp/the-rumour-engine-25th-of-march</link>
-            <guid>wqieekjp</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar25-feature-ifcfujfsie.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
