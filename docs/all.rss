@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 31 Mar 2025 12:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 13:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library Reader’s Choice 2025 – Choose which classic novel returns to print]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/su5h1qma/black-library-readers-choice-2025-choose-which-classic-novel-returns-to-print</link>
+            <guid>su5h1qma</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pick two favorites from the far future and the World of Legend.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2025-apr1-1-feature-r1c7ysobad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Master the mysteries of Necromunda with the Whisper Merchant and Psychoteric Thrall]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lbwmtsgm/master-the-mysteries-of-necromunda-with-the-whisper-merchant-and-psychoteric-thrall</link>
+            <guid>lbwmtsgm</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Spooky chicanery isn’t just for House Delaque.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_whisper-mar31-1-feature-zgqgg2awca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 511 – Party with the Pleasure Lords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cv179rji/white-dwarf-511-party-with-the-pleasure-lords</link>
@@ -286,28 +307,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature06-iejdmvovyn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Every reveal from the Warhammer Preview Show at AdeptiCon 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/or72z0uw/every-reveal-from-the-warhammer-preview-show-at-adepticon-2025</link>
-            <guid>or72z0uw</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out all of the new details here.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adepticon">Adepticon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature00-pbzzpniklj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cleanse the hive in three dimensions this week on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibczfmsr/cleanse-the-hive-in-three-dimensions-this-week-on-warhammer-tv</link>
-            <guid>ibczfmsr</guid>
-            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Battle Report team have a nostalgic, narrative twist this week. Did someone mention… Space Hulk?]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus_vertical40k-mar26-1-feature-11dzemxhvh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
