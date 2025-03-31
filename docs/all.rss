@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 31 Mar 2025 13:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 14:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[March down to your Warhammer store for a Death Korps of Krieg miniature and coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eyae53ow/march-down-to-your-warhammer-store-for-a-death-korps-of-krieg-miniature-and-coin</link>
+            <guid>eyae53ow</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Show your allegiance to Krieg this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-mar31-1-feature-l5cp2ze3cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Reader’s Choice 2025 – Choose which classic novel returns to print]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/su5h1qma/black-library-readers-choice-2025-choose-which-classic-novel-returns-to-print</link>
@@ -295,18 +307,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature07-zoxhoaxeix.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Defend or defile – The Wood Elf Realms and Beastman Brayherds battle for the forests of the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/thbon3tc/defend-or-defile-the-wood-elf-realms-and-beastman-brayherds-battle-for-the-forests-of-the-old-world</link>
-            <guid>thbon3tc</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heroes and horrors lurk in the woods.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature06-iejdmvovyn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
