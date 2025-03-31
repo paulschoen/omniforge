@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 31 Mar 2025 00:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 12:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 511 – Party with the Pleasure Lords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cv179rji/white-dwarf-511-party-with-the-pleasure-lords</link>
+            <guid>cv179rji</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s in the upcoming issue?]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd511-mar31-1-feature-wxcrmlkznc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2025 winners revealed at AdeptiCon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zvwn30fc/golden-demon-2025-winners-revealed-at-adepticon</link>
@@ -298,17 +308,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus_vertical40k-mar26-1-feature-11dzemxhvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[March For Macragge 2025 – Your Ultramarines on parade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w5gpgqgz/march-for-macragge-2025-your-ultramarines-on-parade</link>
-            <guid>w5gpgqgz</guid>
-            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer Community goes into Ultramarines overdrive at this time of year. Find out why…]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_marchformacragge-mar26-1-feature-arfgpxtxqw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
