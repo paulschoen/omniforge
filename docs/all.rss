@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 30 Mar 2025 17:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 00:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2025 winners revealed at AdeptiCon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zvwn30fc/golden-demon-2025-winners-revealed-at-adepticon</link>
+            <guid>zvwn30fc</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[See all the incredible miniatures from Warhammer's official painting competition]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/goldendemon_us2025-mar30-1-feature-hl2f0fpw3m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Ancient kingdoms rise]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qaqujhnh/sunday-preview-ancient-kingdoms-rise</link>
@@ -296,17 +309,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_marchformacragge-mar26-1-feature-arfgpxtxqw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enter a nightmare psychic realm in the latest free update for Warhammer 40,000: Darktide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pike1lat/enter-a-nightmare-psychic-realm-in-the-latest-free-update-for-warhammer-40000-darktide</link>
-            <guid>pike1lat</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fight unending hordes in a psyker’s head.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/darktidedlc-mar25-1-feature-ljvn0obiyk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
