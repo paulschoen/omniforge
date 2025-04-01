@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Apr 2025 13:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Deathrattle Army Set – This skeleton legion has a bone to pick with the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jellrva2/deathrattle-army-set-this-skeleton-legion-has-a-bone-to-pick-with-the-mortal-realms</link>
+            <guid>jellrva2</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Soulblight Gravelords have new minions.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-deathrattle-apr01-1-feature-fml7vyzv9z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sink your teeth into these vampiric tales from Black Library as Ushoran debuts in a new novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kxdsobfs/sink-your-teeth-into-these-vampiric-tales-from-black-library-as-ushoran-debuts-in-a-new-novel</link>
@@ -70,11 +81,11 @@
             <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[How many bits could a bits box box if a bits box could box bits? Well, seeing as it isn’t sentient and doesn’t have arms or hands, probably not many. But what it can do really well is organise your spare Warhammer pieces, ready for you to plunder for an amazing kitbash! 
 
-Today Jake runs through the making of a bits box and makes some cool Emperor’s Children Terminators at the same time! 
-
-If you're new to painting, our Citadel Colour Painting Essentials playlist hosts an array of beginner-friendly videos to help you get started.]]></description>
+Today Jake runs through the making of a bits box and makes some cool Emperor’s Children Terminators at the same time!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category domain="videos">Videos</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="emperors-children">Emperor's Children</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-1743509715-b1gqo4vbcp.jpg" length="0" type="image/jpg"/>
         </item>
@@ -188,6 +199,7 @@ If you're new to painting, our Citadel Colour Painting Essentials playlist hosts
             <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[After months of sweat and toil in the forges, Burgschneider are ready to release their first range of incredibly detailed and lore-accurate weaponry and costumes for Warhammer: The Old World.]]></description>
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="licensed-products">Licensed Products</category>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/roadmap_thumbnail-elqiiqvwms.png" length="0" type="image/png"/>
@@ -276,21 +288,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01537_tgc_thumbnail-bexgaxkwwz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[These epic new Space Wolves will write sagas worthy of the Allfather]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather</link>
-            <guid>hx9biq5l</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The sons of Fenris are back in action.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature03-r9kmscfslv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
