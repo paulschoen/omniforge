@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 31 Mar 2025 14:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 09:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Stand out from the flock with the new “Warhammer: Tactical Rock”]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s7lkrfhr/stand-out-from-the-flock-with-the-new-warhammer-tactical-rock</link>
+            <guid>s7lkrfhr</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[THE gaming accessory of the year]]></description>
+            <category domain="announcements">Announcements</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tacticalrock-apr1-1-feature-pmjhwdn4sr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[March down to your Warhammer store for a Death Korps of Krieg miniature and coin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eyae53ow/march-down-to-your-warhammer-store-for-a-death-korps-of-krieg-miniature-and-coin</link>
@@ -294,19 +304,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature05-oktx97kko6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bring harmony to the Old World with the armies of Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/luce8te0/bring-harmony-to-the-old-world-with-the-armies-of-grand-cathay</link>
-            <guid>luce8te0</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fight under the banner of the Celestial Dragon Emperor.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature07-zoxhoaxeix.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
