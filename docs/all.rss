@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Apr 2025 11:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 12:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sink your teeth into these vampiric tales from Black Library as Ushoran debuts in a new novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kxdsobfs/sink-your-teeth-into-these-vampiric-tales-from-black-library-as-ushoran-debuts-in-a-new-novel</link>
+            <guid>kxdsobfs</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pore over dark volumes at the dead of night.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_ushorannovel-apr01-1-feature-kpu774u5ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stand out from the flock with the new Warhammer: Tactical Rock]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fuo6uvss/stand-out-from-the-flock-with-the-new-warhammer-tactical-rock</link>
+            <guid>fuo6uvss</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Step up your game with this revolutionary new addition to your Warhammer gaming experience.]]></description>
+            <category domain="announcements">Announcements</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01629-april-fools-thumbnail-iordjv5p66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 1st of April]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rom1idn9/the-rumour-engine-1st-of-april</link>
@@ -273,31 +295,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="world-eaters">World Eaters</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature01-eq1wjbmexa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wage war in three new ways with the latest Chapter Approved Mission Deck]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/as7grrjq/wage-war-in-three-new-ways-with-the-latest-chapter-approved-mission-deck</link>
-            <guid>as7grrjq</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The next season of Matched Play in Warhammer 40,000.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature08-rwhw5quznt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spearhead is resurrected in Shyish while Matched Play uproots to Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hpue5ec7/spearhead-is-resurrected-in-shyish-while-matched-play-uproots-to-ghyran</link>
-            <guid>hpue5ec7</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Mortal Realms are still at war.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature04-xekokwhh8y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
