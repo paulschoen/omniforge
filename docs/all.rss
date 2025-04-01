@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Apr 2025 09:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 11:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 1st of April]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rom1idn9/the-rumour-engine-1st-of-april</link>
+            <guid>rom1idn9</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr1-feature-0kd9lbli7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stand out from the flock with the new “Warhammer: Tactical Rock”]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s7lkrfhr/stand-out-from-the-flock-with-the-new-warhammer-tactical-rock</link>
@@ -288,22 +298,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature04-xekokwhh8y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protect the Great Gun from Tyranid invasion in Kill Team: Typhon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n9qtzvsu/protect-the-great-gun-from-tyranid-invasion-in-kill-team-typhon</link>
-            <guid>n9qtzvsu</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Cult Mechanicus holds back a Ravener swarm.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature05-oktx97kko6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
