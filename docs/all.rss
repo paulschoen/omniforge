@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Apr 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 12:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Episode 3 – The villains revealed!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i8jdyktq/blacktalon-episode-3-the-villains-revealed</link>
+            <guid>i8jdyktq</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the mid-season finale of Blacktalon right now]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep3-apr2-1-feature-1gloi8hqsm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Deathrattle Army Set – This skeleton legion has a bone to pick with the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jellrva2/deathrattle-army-set-this-skeleton-legion-has-a-bone-to-pick-with-the-mortal-realms</link>
@@ -276,18 +289,6 @@ The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></descrip
             <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01542_kt-typhon_thumbnail-t9v9kfgiep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Defeat Chaos With Harmony and Order – Warhammer: The Old World – Empire of Grand Cathay Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zrf23b3v/defeat-chaos-with-harmony-and-order-warhammer-the-old-world-empire-of-grand-cathay-revealed</link>
-            <guid>zrf23b3v</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Empire of Grand Cathay, as revealed at AdeptiCon 2025.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01537_tgc_thumbnail-bexgaxkwwz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
