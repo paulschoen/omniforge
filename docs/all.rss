@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Apr 2025 13:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 14:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Blood Knights ride again with a lethal new Army of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rdhgyh53/the-blood-knights-ride-again-with-a-lethal-new-army-of-renown</link>
+            <guid>rdhgyh53</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Throw open the gate to the Crimson Keep!]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-vampireaor-apr02-1-feature-t0ua7sx75d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – The ink is still wet on the latest Battlescroll]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qmyaydkl/warhammer-age-of-sigmar-the-ink-is-still-wet-on-the-latest-battlescroll</link>
@@ -271,18 +282,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01555_rk_space-marine-reveals-adepticon_thumb_v01-3flnj27fss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[March forth into the Realm of Death – Warhammer: Age of Sigmar – Spearhead: Sand and Bone]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/q6lh1osp/march-forth-into-the-realm-of-death-warhammer-age-of-sigmar-spearhead-sand-and-bone</link>
-            <guid>q6lh1osp</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fight action-packed battles in Shyish, the Realm of Death, with the new Warhammer Age of Sigmar Spearhead Gaming Pack, Sand and Bone, along with four new Spearhead sets.]]></description>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01562-aos-sand-and-bone-reveal-thumbnail-2pqwa1tz89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
