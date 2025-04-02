@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Apr 2025 12:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 13:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – The ink is still wet on the latest Battlescroll]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qmyaydkl/warhammer-age-of-sigmar-the-ink-is-still-wet-on-the-latest-battlescroll</link>
+            <guid>qmyaydkl</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules and points updates within.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_rulesupdate-apr02-1-feature-tmpvrrsm01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon Episode 3 – The villains revealed!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/i8jdyktq/blacktalon-episode-3-the-villains-revealed</link>
@@ -272,23 +283,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01562-aos-sand-and-bone-reveal-thumbnail-2pqwa1tz89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Terror Lurks Beneath Volkus – Kill Team: Typhon Revealed – Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zswjw9pz/terror-lurks-beneath-volkus-kill-team-typhon-revealed-warhammer-40000</link>
-            <guid>zswjw9pz</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could be causing tectonic disturbances beneath the surface of Volkus? 
-
-Tyranids! 
-
-The Hive Mind infiltrates Kill Team in the latest boxed set, Typhon.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01542_kt-typhon_thumbnail-t9v9kfgiep.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
