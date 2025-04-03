@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Apr 2025 12:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 13:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – The Tarantula missile battery is firing on all cylinders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2qjxlers/heresy-thursday-the-tarantula-missile-battery-is-firing-on-all-cylinders</link>
+            <guid>2qjxlers</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New automated defences for the Legiones Astartes.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_missiletarantulas-apr03-feature-6fismgtqmm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cado Ezechiar and the Beast of Castle Sternieste bare their fangs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ij1em2mz/cado-ezechiar-and-the-beast-of-castle-sternieste-bare-their-fangs</link>
@@ -272,17 +284,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="announcements">Announcements</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/spruerecycling-feb3-feature-ogrphguivm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – Knights with Mechanicum technology is a winning combo in Legions Imperialis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1r1wmhxr/heresy-thursday-knights-with-mechanicum-technology-is-a-winning-combo-in-legions-imperialis</link>
-            <guid>1r1wmhxr</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Knights Atrapos and Asterius take to the field.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/heresythursday_knights-mar27-1-feature-lkxl0h5ywo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
