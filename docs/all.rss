@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Apr 2025 09:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 12:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cado Ezechiar and the Beast of Castle Sternieste bare their fangs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ij1em2mz/cado-ezechiar-and-the-beast-of-castle-sternieste-bare-their-fangs</link>
+            <guid>ij1em2mz</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A classically doomed antihero leads an elite Regiment of Renown.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-hollowkingror-apr03-1-feature-iy8gspyjsy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Blood Knights ride again with a lethal new Army of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rdhgyh53/the-blood-knights-ride-again-with-a-lethal-new-army-of-renown</link>
@@ -272,16 +283,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/heresythursday_knights-mar27-1-feature-lkxl0h5ywo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tickets for the Warhammer World events in July are on the way]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rwd8slr5/tickets-for-the-warhammer-world-events-in-july-are-on-the-way</link>
-            <guid>rwd8slr5</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your monthly lowdown on the latest events.]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-mar27-1-feature-psm7ajtya9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
