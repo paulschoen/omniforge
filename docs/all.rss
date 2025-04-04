@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Apr 2025 14:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 17:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[March for Macragge – Watch a special Ultramar-themed Hang Out and Paint episode here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4da3jhey/march-for-macragge-watch-a-special-ultramar-themed-hang-out-and-paint-episode-here</link>
+            <guid>4da3jhey</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s a true blue hobby special.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/um_hangout-apr4-1-feature-ahwkbrbtqu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WarCom Workbench – Has Andy painted his Terminators yet?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2f6jxl5f/warcom-workbench-has-andy-painted-his-terminators-yet</link>
@@ -275,16 +286,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb22-1-feature-rnutsktlwj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to play Lizardmen in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gj9ncxhn/touchline-tactics-how-to-play-lizardmen-in-blood-bowl</link>
-            <guid>gj9ncxhn</guid>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The ultimate guide to these cold-blooded ballers.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_lizardtactica-mar28-1-feature-epxbm8sfmo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
