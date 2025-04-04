@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Apr 2025 14:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 13:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to play Soulblight Gravelords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fnoewkgp/how-to-play-soulblight-gravelords</link>
+            <guid>fnoewkgp</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s  Anthony Magro from AoS Coach to discuss his favourite parts of the new Battletome.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-influencerbattletome-apr04-1-feature-f3fagwyikn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon Slayer Sword Winner – AdeptiCon 2025 | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/t51uuhgv/golden-demon-slayer-sword-winner-adepticon-2025-warhammer</link>
+            <guid>t51uuhgv</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this interview with this year's Slayer Sword winner, Borja Calvo Bertrán De Lis, and get inspired to enter Golden Demon yourself!]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01639_slayer-sword-2025_thumbnail_v3-5fodqbuqky.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slayer Sword winner interview – From Youngbloods bronze to Golden Demon champion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kzi7vfft/slayer-sword-winner-interview-from-youngbloods-bronze-to-golden-demon-champion</link>
@@ -262,29 +285,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warhammerarmoury-mar21-1-feature-ilcpqjzysz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The massive Battle for Magma City comes to life in an epic new Warhammer World exhibition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6nurji6m/the-massive-battle-for-magma-city-comes-to-life-in-an-epic-new-warhammer-world-exhibition</link>
-            <guid>6nurji6m</guid>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a Titan’s eye view of the new Legions Imperialis display.]]></description>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/li_whwdisplay-mar28-1-feature-6odwuwel9l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Armoury – Become a Soldier of Nuln]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/1oscdp2u/warhammer-armoury-become-a-soldier-of-nuln</link>
-            <guid>1oscdp2u</guid>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[After months of sweat and toil in the forges, Burgschneider are ready to release their first range of incredibly detailed and lore-accurate weaponry and costumes for Warhammer: The Old World.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/roadmap_thumbnail-elqiiqvwms.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
