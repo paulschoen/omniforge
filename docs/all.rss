@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Apr 2025 13:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 14:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[WarCom Workbench – Has Andy painted his Terminators yet?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2f6jxl5f/warcom-workbench-has-andy-painted-his-terminators-yet</link>
+            <guid>2f6jxl5f</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Checking in with the Warhammer Community team.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warcomworkbench2-apr04-1-feature-sgpgajlexh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to play Soulblight Gravelords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fnoewkgp/how-to-play-soulblight-gravelords</link>
@@ -274,17 +285,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_lizardtactica-mar28-1-feature-epxbm8sfmo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Armoury – Become a soldier of Nuln with this incredible Burgschneider LARP gear]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e4fta6wp/warhammer-armoury-become-a-soldier-of-nuln-with-this-incredible-burgschneider-larp-gear</link>
-            <guid>e4fta6wp</guid>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Level up your cosplay with this new range for the Old World.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammerarmoury-mar21-1-feature-ilcpqjzysz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
