@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 05 Apr 2025 17:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 17:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Overwhelm your senses with the Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s1gkweef/sunday-preview-overwhelm-your-senses-with-the-emperors-children</link>
+            <guid>s1gkweef</guid>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here is what’s available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr6-1-feature-ofta9gxi4o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Ancient kingdoms and Elven lords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qlu1xaks/saturday-pre-orders-ancient-kingdoms-and-elven-lords</link>
@@ -273,21 +286,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/goldendemon_us2025-mar30-1-feature-hl2f0fpw3m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Ancient kingdoms rise]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qaqujhnh/sunday-preview-ancient-kingdoms-rise</link>
-            <guid>qaqujhnh</guid>
-            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[All of next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar30-1-feature-dkfdv1vwjf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
