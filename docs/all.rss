@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 06 Apr 2025 17:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 12:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2025 – AdeptiCon finalists (part one)]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xsq9inbr/golden-demon-2025-adepticon-finalists-part-one</link>
+            <guid>xsq9inbr</guid>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who else won awards at Golden Demon?]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-t5l1rcffk9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Overwhelm your senses with the Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s1gkweef/sunday-preview-overwhelm-your-senses-with-the-emperors-children</link>
@@ -273,19 +286,6 @@ Today Jake runs through the making of a bits box and makes some cool Emperor’s
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd511-mar31-1-feature-wxcrmlkznc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 winners revealed at AdeptiCon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zvwn30fc/golden-demon-2025-winners-revealed-at-adepticon</link>
-            <guid>zvwn30fc</guid>
-            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[See all the incredible miniatures from Warhammer's official painting competition]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/goldendemon_us2025-mar30-1-feature-hl2f0fpw3m.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
