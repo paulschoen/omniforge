@@ -4,11 +4,49 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 09 Apr 2025 06:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 12:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Top Ten Strongest Adeptus Custodes Units - Most Commonly Played Datasheets in Strong Lists?]]></title>
+            <link>https://www.youtube.com/watch?v=FuNjIU6jPEE</link>
+            <guid>yt:video:FuNjIU6jPEE</guid>
+            <pubDate>Wed, 09 Apr 2025 06:00:09 GMT</pubDate>
+            <description><![CDATA[The video discusses the competitive standing of the Adeptus Custodians in Warhammer 40K, highlighting their 50-51% win rate, the top units commonly used in competitive lists, and the popularity of various detachments, while also prompting viewers to consider strategies and recent balance changes affecting their gameplay.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Top Units of the Adeptus Custodians in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Current Competitive Standing:</strong> Adeptus Custodians have a win rate of about 50-51% and are among the top played factions in competitive games, alongside Space Marines.</li>
+    <li>🛠️ <strong>Data Sheets Overview:</strong> The Adeptus Custodians have 31 data sheets available, with a focus on the top 10 most frequently used units in competitive lists.</li>
+    <li>📊 <strong>Detachment Popularity:</strong> Most players are currently using the "Lines of the Emperor" detachment, but "Solar Spearhead" and "Shield Host" remain viable choices.</li>
+    <li>📈 <strong>Unit Selections:</strong> Analyzed 15 competitive lists to identify top units, with honorable mentions and insights into which detachments they belong to.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Win Rate:</strong> Adeptus Custodians maintain a win rate of approximately 50-51% in tournaments.</li>
+    <li>🔢 <strong>Unit Selections:</strong> The top units were included in varying numbers across 15 competitive army lists, with the most commonly seen units being the Custodian Guard (9/15), Blade Champion (7/15), and Caladius Grav Tank (7/15).</li>
+    <li>💵 <strong>Cost of Key Units:</strong> 
+        <ul>
+            <li>🔹 Venitari Custodians: 165 points for 3</li>
+            <li>🔹 Custodian Wardens: 210 points for 4</li>
+            <li>🔹 Blade Champion: 100 points</li>
+        </ul>
+    </li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What strategies can be employed to optimize the use of the Lines of the Emperor detachment in competitive play?</strong></li>
+    <li>🤔 <strong>How do the recent balance changes affect the competitive viability of the Adeptus Custodians compared to other factions?</strong></li>
+    <li>🤔 <strong>Which units have you found most effective in your gameplay, and how do they compare to the top units discussed in this video?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Top Ten Strongest Armies in Warhammer 40K by Win Rate - What's Winning + Why?]]></title>
             <link>https://www.youtube.com/watch?v=b1MAoPCXhPs</link>
@@ -3171,40 +3209,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Top Ten Strongest Adeptus Custodes Units - Most Commonly Played Datasheets in Strong Lists?]]></title>
-            <link>https://www.youtube.com/watch?v=FuNjIU6jPEE</link>
-            <guid>yt:video:FuNjIU6jPEE</guid>
-            <pubDate>Wed, 09 Apr 2025 06:00:09 GMT</pubDate>
-            <description><![CDATA[The video discusses the competitive standing of the Adeptus Custodians in Warhammer 40K, highlighting their 50-51% win rate, the top units commonly used in competitive lists, and the popularity of various detachments, while also prompting viewers to consider strategies and recent balance changes affecting their gameplay.]]></description>
+            <title><![CDATA[Warhammer 40K 'Emergency' Balance Patch is Here - What's Happened to the Orks?]]></title>
+            <link>https://www.youtube.com/watch?v=hyd6Mplnl9M</link>
+            <guid>yt:video:hyd6Mplnl9M</guid>
+            <pubDate>Wed, 09 Apr 2025 11:36:12 GMT</pubDate>
+            <description><![CDATA[The video discusses a significant nerf to the Orc Dakka army in Warhammer 40k, implemented in a recent balance update that reduces their power and win rate, particularly by modifying key rules and increasing command point costs, prompting players to reconsider their strategies.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Top Units of the Adeptus Custodians in Warhammer 40K</h2>
+<h2>📢 Orc Army Nerf in Warhammer 40k - Balance Update Insights</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Current Competitive Standing:</strong> Adeptus Custodians have a win rate of about 50-51% and are among the top played factions in competitive games, alongside Space Marines.</li>
-    <li>🛠️ <strong>Data Sheets Overview:</strong> The Adeptus Custodians have 31 data sheets available, with a focus on the top 10 most frequently used units in competitive lists.</li>
-    <li>📊 <strong>Detachment Popularity:</strong> Most players are currently using the "Lines of the Emperor" detachment, but "Solar Spearhead" and "Shield Host" remain viable choices.</li>
-    <li>📈 <strong>Unit Selections:</strong> Analyzed 15 competitive lists to identify top units, with honorable mentions and insights into which detachments they belong to.</li>
+    <li>🔥 <strong>Major Nerf to Orc Army:</strong> Games Workshop has issued a balance update that significantly reduces the power of the Orc Dakka army, previously considered the strongest in Warhammer 40k.</li>
+    <li>⚔️ <strong>Balance Patch Timing:</strong> This update follows their usual quarterly balance patch schedule, addressing overpowered units.</li>
+    <li>🔧 <strong>Key Changes:</strong> The Orc Detachment's "Daka Daka Daka" rule has been nerfed from sustained hits two to a more moderate sustained hits one for ranged attacks.</li>
+    <li>💡 <strong>Strategic Impacts:</strong> The cost of the War Strategium has increased from one command point to two, making it less viable to use every turn.</li>
+    <li>📉 <strong>Win Rate Changes:</strong> Orcs had a win rate of approximately 57%, with 21 players achieving top placements in tournaments, now likely to decline after the nerf.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Win Rate:</strong> Adeptus Custodians maintain a win rate of approximately 50-51% in tournaments.</li>
-    <li>🔢 <strong>Unit Selections:</strong> The top units were included in varying numbers across 15 competitive army lists, with the most commonly seen units being the Custodian Guard (9/15), Blade Champion (7/15), and Caladius Grav Tank (7/15).</li>
-    <li>💵 <strong>Cost of Key Units:</strong> 
-        <ul>
-            <li>🔹 Venitari Custodians: 165 points for 3</li>
-            <li>🔹 Custodian Wardens: 210 points for 4</li>
-            <li>🔹 Blade Champion: 100 points</li>
-        </ul>
-    </li>
+    <li>📈 <strong>Win Rate:</strong> Orcs held a win rate of approximately <strong>57%</strong> before the nerf, with tournament success significantly noted.</li>
+    <li>🔟 <strong>Player Success:</strong> In just three weeks, <strong>21 players</strong> achieved tournament victories with the Orc army, more than double the next closest army.</li>
+    <li>🎲 <strong>Command Points:</strong> The War Strategium cost has increased from <strong>1</strong> to <strong>2 command points</strong>, impacting strategic options for Orc players.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>What strategies can be employed to optimize the use of the Lines of the Emperor detachment in competitive play?</strong></li>
-    <li>🤔 <strong>How do the recent balance changes affect the competitive viability of the Adeptus Custodians compared to other factions?</strong></li>
-    <li>🤔 <strong>Which units have you found most effective in your gameplay, and how do they compare to the top units discussed in this video?</strong></li>
+    <li>🤔 <strong>How will the nerf to the Orc Dakka army affect the overall balance of power in Warhammer 40k?</strong></li>
+    <li>🌍 <strong>What strategies might players adopt to remain competitive with Orcs following these changes?</strong></li>
+    <li>🛠️ <strong>Could similar nerfs be expected for other overperforming armies like the Inari or Necrons in the future?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>

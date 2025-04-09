@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Apr 2025 11:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 12:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Deep Strike meets the Warhammer: Total War team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qdmxgeou/warhammer-tv-this-week-deep-strike-meets-the-warhammer-total-war-team</link>
+            <guid>qdmxgeou</guid>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s on for Warhammer+ subscribers.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr9-1-feature-foushz4r7x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More Dakka detachment update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mirza2hg/more-dakka-detachment-update</link>
@@ -275,18 +285,6 @@
             <category domain="announcements">Announcements</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tacticalrock-apr1-1-feature-pmjhwdn4sr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[March down to your Warhammer store for a Death Korps of Krieg miniature and coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eyae53ow/march-down-to-your-warhammer-store-for-a-death-korps-of-krieg-miniature-and-coin</link>
-            <guid>eyae53ow</guid>
-            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Show your allegiance to Krieg this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-mar31-1-feature-l5cp2ze3cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
