@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Apr 2025 13:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 14:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designing the Emperor’s Children, Part 2 – Bringing the sons of the Phoenician to life]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nfnfeeu1/designing-the-emperors-children-part-2-bringing-the-sons-of-the-phoenician-to-life</link>
+            <guid>nfnfeeu1</guid>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agony and ecstasy.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp2-apr09-1-feature-4f4w9x3vmy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jude Reid Interview – Writing Fulgrim: The Perfect Son]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uw9rmcys/jude-reid-interview-writing-fulgrim-the-perfect-son</link>
@@ -278,18 +291,6 @@
             <category domain="soulblight-gravelords">Soulblight Gravelords</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbgl-deathrattle-apr01-1-feature-fml7vyzv9z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sink your teeth into these vampiric tales from Black Library as Ushoran debuts in a new novel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kxdsobfs/sink-your-teeth-into-these-vampiric-tales-from-black-library-as-ushoran-debuts-in-a-new-novel</link>
-            <guid>kxdsobfs</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pore over dark volumes at the dead of night.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_ushorannovel-apr01-1-feature-kpu774u5ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
