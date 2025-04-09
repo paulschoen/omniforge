@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Apr 2025 12:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 13:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Jude Reid Interview – Writing Fulgrim: The Perfect Son]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uw9rmcys/jude-reid-interview-writing-fulgrim-the-perfect-son</link>
+            <guid>uw9rmcys</guid>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The author of the upcoming Fulgrim book discusses his immaculate conception.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_judereidinterview-apr9-1-feature-vugilugkgm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Deep Strike meets the Warhammer: Total War team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qdmxgeou/warhammer-tv-this-week-deep-strike-meets-the-warhammer-total-war-team</link>
@@ -18,6 +33,16 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr9-1-feature-foushz4r7x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paint the Biggest Armies in a Week! | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ajegm73i/paint-the-biggest-armies-in-a-week-warhammer</link>
+            <guid>ajegm73i</guid>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dan and Jake have been set the challenge of completing an army each in just five days! Will they be able to complete the task? What will they create? Did Jake understand the task? Will Dan get the footsloggers finished? Find out in this wild race against time!]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01003---paint-biggest-army-possible-in-a-week-thumbnail-v2-ilxftxopoq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[More Dakka detachment update]]></title>
@@ -52,6 +77,16 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr8-feature-tii7vmwhxx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting Better at Painting Warhammer Faces?! | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/r7w7q6hx/getting-better-at-painting-warhammer-faces-warhammer</link>
+            <guid>r7w7q6hx</guid>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jake has requested a helping hand on how to paint some faces, and Dan has answered the call! We’ll be going through painting a couple of skin tones and even their tiny eyes!]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01009-faces-v9-0pgcqmdgxd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Designing the Emperor’s Children, Part 1 – Realising the excess and the depravity of the chosen of Slaanesh]]></title>
@@ -255,36 +290,6 @@
             <category domain="soulblight-gravelords">Soulblight Gravelords</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_ushorannovel-apr01-1-feature-kpu774u5ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand out from the flock with the new Warhammer: Tactical Rock]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fuo6uvss/stand-out-from-the-flock-with-the-new-warhammer-tactical-rock</link>
-            <guid>fuo6uvss</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Step up your game with this revolutionary new addition to your Warhammer gaming experience.]]></description>
-            <category domain="announcements">Announcements</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01629-april-fools-thumbnail-iordjv5p66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 1st of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rom1idn9/the-rumour-engine-1st-of-april</link>
-            <guid>rom1idn9</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr1-feature-0kd9lbli7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand out from the flock with the new “Warhammer: Tactical Rock”]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s7lkrfhr/stand-out-from-the-flock-with-the-new-warhammer-tactical-rock</link>
-            <guid>s7lkrfhr</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[THE gaming accessory of the year]]></description>
-            <category domain="announcements">Announcements</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tacticalrock-apr1-1-feature-pmjhwdn4sr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
