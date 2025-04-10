@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 10 Apr 2025 12:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 14:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designing the Emperor’s Children, Part 3 – The revelations of Fulgrim]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pvo7ictk/designing-the-emperors-children-part-3-the-revelations-of-fulgrim</link>
+            <guid>pvo7ictk</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The embodiment of perfection.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp3-apr10-1-feature-glli2xj2hb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heresy Thursday – The Legions Imperialis FAQ brings small changes for the biggest battles]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nlxrvbuq/heresy-thursday-the-legions-imperialis-faq-brings-small-changes-for-the-biggest-battles</link>
@@ -279,19 +292,6 @@
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_ep3-apr2-1-feature-1gloi8hqsm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2 Episode 3: Official Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/8azulmdf/blacktalon-season-2-episode-3-official-trailer-warhammer</link>
-            <guid>8azulmdf</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Neave faces the daemons of her past in the climactic mid-season finale of Blacktalon, available to watch now on Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01602_blacktalon-2_ep3_trailer-cuts_16x9_thumbnail-v2-hkr4yhumwt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
