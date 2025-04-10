@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Apr 2025 14:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 12:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heresy Thursday – The Legions Imperialis FAQ brings small changes for the biggest battles]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nlxrvbuq/heresy-thursday-the-legions-imperialis-faq-brings-small-changes-for-the-biggest-battles</link>
+            <guid>nlxrvbuq</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download this free document now.]]></description>
+            <category domain="heresy-thursday">Heresy Thursday</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/li_faq-apr10-1-feature-an7si3apme.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designing the Emperor’s Children, Part 2 – Bringing the sons of the Phoenician to life]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nfnfeeu1/designing-the-emperors-children-part-2-bringing-the-sons-of-the-phoenician-to-life</link>
@@ -280,17 +292,6 @@
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01602_blacktalon-2_ep3_trailer-cuts_16x9_thumbnail-v2-hkr4yhumwt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deathrattle Army Set – This skeleton legion has a bone to pick with the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jellrva2/deathrattle-army-set-this-skeleton-legion-has-a-bone-to-pick-with-the-mortal-realms</link>
-            <guid>jellrva2</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Soulblight Gravelords have new minions.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-deathrattle-apr01-1-feature-fml7vyzv9z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
