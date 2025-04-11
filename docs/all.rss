@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 10 Apr 2025 14:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 09:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Painting Lucius the Eternal! | Emperor's Children | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fba7xpm7/painting-lucius-the-eternal-emperors-children-warhammer-40000</link>
+            <guid>fba7xpm7</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[You think you’ve killed him and then, blam, you’re it! Well, you turn into him in a not so nice way. Probably best to lose that fight, yet Dan’s taken the challenge to paint him up! Let’s see how he does…]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/painting-lucius-thumbnail-v2-vsdcxbncel.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designing the Emperor’s Children, Part 3 – The revelations of Fulgrim]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pvo7ictk/designing-the-emperors-children-part-3-the-revelations-of-fulgrim</link>
@@ -21,6 +35,18 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp3-apr10-1-feature-glli2xj2hb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Writing Fulgrim: The Perfect Son – Black Library Author Interview]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/45trsqzl/writing-fulgrim-the-perfect-son-black-library-author-interview</link>
+            <guid>45trsqzl</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get insights into the writing of Fulgrim: The Perfect Son from the mouth of the author, Jude Reid, in this interview: https://ow.ly/SfPp50VxlKB]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01640-jude-reid-bl-interview-wbbigmzpfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Heresy Thursday – The Legions Imperialis FAQ brings small changes for the biggest battles]]></title>
@@ -268,30 +294,6 @@
             <category domain="soulblight-gravelords">Soulblight Gravelords</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbgl-vampireaor-apr02-1-feature-t0ua7sx75d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – The ink is still wet on the latest Battlescroll]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qmyaydkl/warhammer-age-of-sigmar-the-ink-is-still-wet-on-the-latest-battlescroll</link>
-            <guid>qmyaydkl</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules and points updates within.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_rulesupdate-apr02-1-feature-tmpvrrsm01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Episode 3 – The villains revealed!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i8jdyktq/blacktalon-episode-3-the-villains-revealed</link>
-            <guid>i8jdyktq</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the mid-season finale of Blacktalon right now]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep3-apr2-1-feature-1gloi8hqsm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

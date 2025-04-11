@@ -4,11 +4,52 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 10 Apr 2025 21:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 09:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Top Nine Weakest Armies in Warhammer 40K by Win Rate - What's Struggling + Why?]]></title>
+            <link>https://www.youtube.com/watch?v=eUN1aemhtAE</link>
+            <guid>yt:video:eUN1aemhtAE</guid>
+            <pubDate>Thu, 10 Apr 2025 18:00:38 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of struggling Warhammer 40k factions, analyzing their low tournament win rates, the impact of recent balance updates, and common challenges faced, while highlighting specific armies like Sisters of Battle and Tau Empire, with Imperial Agents noted as having the lowest win rate at 41%.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k: Struggling Armies Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Current Meta Analysis:</strong> Exploring the lowest performing Warhammer 40k factions based on recent tournament win rates.</li>
+    <li>📊 <strong>Win Rate Metrics:</strong> Discussion on tournament win percentages as an indicator of army strength, with insights on faction play rates.</li>
+    <li>💡 <strong>Balance Updates Impact:</strong> Evaluating the effect of recent balance updates on various factions and their current standings.</li>
+    <li>⚔️ <strong>Armies in Focus:</strong> Highlighting the Sisters of Battle, Adeptus Mechanicus, Space Marines, Blood Angels, Dark Angels, Black Templars, Drukari, Thousand Sons, Tau Empire, and Imperial Agents.</li>
+    <li>🛠️ <strong>Challenges Faced:</strong> Identifying common themes among struggling factions including low player interest, high points costs, and the need for stronger internal balance.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Lowest Win Rate:</strong> Imperial Agents at 41%, indicating significant struggles in competitive play.</li>
+    <li>📊 <strong>Win Rates of Notable Factions:</strong> 
+        <ul>
+            <li>Sisters of Battle: 48%</li>
+            <li>Adeptus Mechanicus: 47%</li>
+            <li>Space Marines: 47%</li>
+            <li>Thousand Sons: 44%</li>
+            <li>Tau Empire: 42%</li>
+        </ul>
+    </li>
+    <li>🏆 <strong>Tournament Wins:</strong> Tau Empire and Thousand Sons have only one event win each, reflecting their competitive struggles.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> What strategies could be implemented to revitalize interest in underperforming factions?</li>
+    <li>🤔 <strong>Question 2:</strong> How do balance updates influence the competitive landscape of Warhammer 40k?</li>
+    <li>🤔 <strong>Question 3:</strong> In what ways can player skill compensate for a faction's lower win rate in tournaments?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Emperor's Children Cost How Much? Mini Reveals, Teasers + 40K News Round Up]]></title>
             <link>https://www.youtube.com/watch?v=vNuU7EfStcg</link>
@@ -3276,43 +3317,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Top Nine Weakest Armies in Warhammer 40K by Win Rate - What's Struggling + Why?]]></title>
-            <link>https://www.youtube.com/watch?v=eUN1aemhtAE</link>
-            <guid>yt:video:eUN1aemhtAE</guid>
-            <pubDate>Thu, 10 Apr 2025 18:00:38 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of struggling Warhammer 40k factions, analyzing their low tournament win rates, the impact of recent balance updates, and common challenges faced, while highlighting specific armies like Sisters of Battle and Tau Empire, with Imperial Agents noted as having the lowest win rate at 41%.]]></description>
+            <title><![CDATA[Blast Templates - Should they RETURN to Warhammer 40K? Pros and Cons]]></title>
+            <link>https://www.youtube.com/watch?v=3oM3tKNnOLM</link>
+            <guid>yt:video:3oM3tKNnOLM</guid>
+            <pubDate>Fri, 11 Apr 2025 06:00:06 GMT</pubDate>
+            <description><![CDATA[The video discusses the nostalgic appeal and divided opinions on the potential return of blast templates in Warhammer 40k, highlighting their impact on gameplay dynamics, time consumption, and tactical decisions, while also raising questions about enhancing the experience and addressing concerns.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k: Struggling Armies Overview</h2>
+<h2>📢 Should Blast Templates Return to Warhammer 40k?</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Current Meta Analysis:</strong> Exploring the lowest performing Warhammer 40k factions based on recent tournament win rates.</li>
-    <li>📊 <strong>Win Rate Metrics:</strong> Discussion on tournament win percentages as an indicator of army strength, with insights on faction play rates.</li>
-    <li>💡 <strong>Balance Updates Impact:</strong> Evaluating the effect of recent balance updates on various factions and their current standings.</li>
-    <li>⚔️ <strong>Armies in Focus:</strong> Highlighting the Sisters of Battle, Adeptus Mechanicus, Space Marines, Blood Angels, Dark Angels, Black Templars, Drukari, Thousand Sons, Tau Empire, and Imperial Agents.</li>
-    <li>🛠️ <strong>Challenges Faced:</strong> Identifying common themes among struggling factions including low player interest, high points costs, and the need for stronger internal balance.</li>
+    <li>🔥 <strong>Nostalgic Appeal:</strong> Blast templates were a beloved mechanic in early Warhammer 40k, enhancing gameplay with tangible effects on the battlefield.</li>
+    <li>⚖️ <strong>Pros and Cons:</strong> While they added excitement and visual impact, they also introduced complexity and potential disputes.</li>
+    <li>📊 <strong>Survey Results:</strong> A channel poll revealed that 44% of viewers want blast templates back, while 29% are against it, indicating a divided opinion.</li>
+    <li>📅 <strong>Time Consumption:</strong> Using blast templates can slow down gameplay due to the detailed resolution process.</li>
+    <li>🎲 <strong>Gameplay Dynamics:</strong> Templates allowed for hitting multiple units and provided a chaotic fun factor, but also led to tactical decisions impacting unit formations.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Lowest Win Rate:</strong> Imperial Agents at 41%, indicating significant struggles in competitive play.</li>
-    <li>📊 <strong>Win Rates of Notable Factions:</strong> 
-        <ul>
-            <li>Sisters of Battle: 48%</li>
-            <li>Adeptus Mechanicus: 47%</li>
-            <li>Space Marines: 47%</li>
-            <li>Thousand Sons: 44%</li>
-            <li>Tau Empire: 42%</li>
-        </ul>
-    </li>
-    <li>🏆 <strong>Tournament Wins:</strong> Tau Empire and Thousand Sons have only one event win each, reflecting their competitive struggles.</li>
+    <li>📈 <strong>Survey Participation:</strong> 66% of viewers started playing Warhammer 40k in 8th edition or later, meaning many lack experience with blast templates.</li>
+    <li>🕒 <strong>Time Implications:</strong> Resolving blast template attacks often takes significantly longer than regular shooting attacks, affecting overall game speed.</li>
+    <li>📊 <strong>Blast Template Usage:</strong> Players needed to consider model positioning, as bunched units could be more vulnerable to template effects.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> What strategies could be implemented to revitalize interest in underperforming factions?</li>
-    <li>🤔 <strong>Question 2:</strong> How do balance updates influence the competitive landscape of Warhammer 40k?</li>
-    <li>🤔 <strong>Question 3:</strong> In what ways can player skill compensate for a faction's lower win rate in tournaments?</li>
+    <li>🤔 <strong>Question 1:</strong> How do blast templates enhance the tactical experience in Warhammer 40k compared to the current shooting mechanics?</li>
+    <li>🤔 <strong>Question 2:</strong> What changes could be made to blast templates to address the concerns around gameplay speed and disputes?</li>
+    <li>🤔 <strong>Question 3:</strong> In what ways do nostalgia and gameplay experience influence players' preferences for game mechanics like blast templates?</li>
 </ul>
 ]]></content:encoded>
         </item>
