@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Apr 2025 09:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 12:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2025 – AdeptiCon finalists (part two)]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/15nzugz5/golden-demon-2025-adepticon-finalists-part-two</link>
+            <guid>15nzugz5</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who else won awards at Golden Demon?]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-djznoxb0my.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Painting Lucius the Eternal! | Emperor's Children | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fba7xpm7/painting-lucius-the-eternal-emperors-children-warhammer-40000</link>
@@ -283,17 +296,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbgl-hollowkingror-apr03-1-feature-iy8gspyjsy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Blood Knights ride again with a lethal new Army of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rdhgyh53/the-blood-knights-ride-again-with-a-lethal-new-army-of-renown</link>
-            <guid>rdhgyh53</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Throw open the gate to the Crimson Keep!]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-vampireaor-apr02-1-feature-t0ua7sx75d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
