@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Apr 2025 12:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 13:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Beechbone™ is the biggest Ent™ in Fangorn Forest™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eo3jlfyc/beechbonetm-is-the-biggest-enttm-in-fangorn-foresttm</link>
+            <guid>eo3jlfyc</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Smash up Isengard in style.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_beechbone-apr11-1-feature-2gaizis6ur.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2025 – AdeptiCon finalists (part two)]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/15nzugz5/golden-demon-2025-adepticon-finalists-part-two</link>
@@ -285,17 +296,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_missiletarantulas-apr03-feature-6fismgtqmm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cado Ezechiar and the Beast of Castle Sternieste bare their fangs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ij1em2mz/cado-ezechiar-and-the-beast-of-castle-sternieste-bare-their-fangs</link>
-            <guid>ij1em2mz</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A classically doomed antihero leads an elite Regiment of Renown.]]></description>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-hollowkingror-apr03-1-feature-iy8gspyjsy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
