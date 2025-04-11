@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Apr 2025 13:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fulgrim vs the World: How good is the Phoenician on the tabletop?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bdx89ep1/fulgrim-vs-the-world-how-good-is-the-phoenician-on-the-tabletop</link>
+            <guid>bdx89ep1</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We put the incoming Daemon Primarch through his paces.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_fulgrimvseveryone-apr11-1-feature-f9z0dv3ww4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beechbone™ is the biggest Ent™ in Fangorn Forest™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eo3jlfyc/beechbonetm-is-the-biggest-enttm-in-fangorn-foresttm</link>
@@ -284,18 +299,6 @@
             <category domain="adepticon">Adepticon</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_slayersword-apr03-1-feature-l3kr0haxz7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – The Tarantula missile battery is firing on all cylinders]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2qjxlers/heresy-thursday-the-tarantula-missile-battery-is-firing-on-all-cylinders</link>
-            <guid>2qjxlers</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New automated defences for the Legiones Astartes.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_missiletarantulas-apr03-feature-6fismgtqmm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
