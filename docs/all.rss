@@ -4,11 +4,27 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 12 Apr 2025 17:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 17:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – High Elves, bounty hunters, heroes and knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zc96jzat/sunday-preview-high-elves-bounty-hunters-heroes-and-knights</link>
+            <guid>zc96jzat</guid>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here is everything on pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr13-1-feature-wf6zs5nri0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Attain perfection with Fulgrim and his followers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kvlvz831/saturday-pre-orders-attain-perfection-with-fulgrim-and-his-followers</link>
@@ -287,18 +303,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbgl-influencerbattletome-apr04-1-feature-f3fagwyikn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon Slayer Sword Winner – AdeptiCon 2025 | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/t51uuhgv/golden-demon-slayer-sword-winner-adepticon-2025-warhammer</link>
-            <guid>t51uuhgv</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this interview with this year's Slayer Sword winner, Borja Calvo Bertrán De Lis, and get inspired to enter Golden Demon yourself!]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01639_slayer-sword-2025_thumbnail_v3-5fodqbuqky.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
