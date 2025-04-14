@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Apr 2025 12:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 13:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Strike from the skies with new and improved Space Marine Drop Pods]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/v5kqzgnr/strike-from-the-skies-with-new-and-improved-space-marine-drop-pods</link>
+            <guid>v5kqzgnr</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The classic Space Marine delivery system, remade.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-dwemo5wcqb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting ALL the battlefield trophies!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bxu30eex/painting-all-the-battlefield-trophies</link>
+            <guid>bxu30eex</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[You read the title right! Tune in and follow along as Ollie shows you how to paint all 288 components in the battlefield trophies box. No matter who is your enemy; from the imperium, to chaos, to xenos. Everything you need to know is here in this whistle stop tour!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pvo1008---painting-everything-in-the-battlefield-trophies-box-thumbnail-v2-dpmomokikj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -281,31 +304,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr6-1-feature-ofta9gxi4o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Ancient kingdoms and Elven lords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qlu1xaks/saturday-pre-orders-ancient-kingdoms-and-elven-lords</link>
-            <guid>qlu1xaks</guid>
-            <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-apr05-1-feature-63knthqdu5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[March for Macragge – Watch a special Ultramar-themed Hang Out and Paint episode here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4da3jhey/march-for-macragge-watch-a-special-ultramar-themed-hang-out-and-paint-episode-here</link>
-            <guid>4da3jhey</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s a true blue hobby special.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/um_hangout-apr4-1-feature-ahwkbrbtqu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
