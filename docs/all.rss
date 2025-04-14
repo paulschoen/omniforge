@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 13 Apr 2025 17:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 09:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -38,6 +38,19 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-apr12-1-feature-cf2frknpxp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting Fulgrim, Primarch of the Emperor’s Children in All His Indulgent Glory!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/2tbrsd0j/painting-fulgrim-primarch-of-the-emperors-children-in-all-his-indulgent-glory</link>
+            <guid>2tbrsd0j</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adam has laid his soul bare to paint Fulgrim in all his glory. Watch along as Adam takes on painting the ultimate hobby project for the servants of Slaanesh!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/option-1-tgwtjtc9q3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fulgrim vs the World: How good is the Phoenician on the tabletop?]]></title>
@@ -292,17 +305,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warcomworkbench2-apr04-1-feature-sgpgajlexh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to play Soulblight Gravelords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fnoewkgp/how-to-play-soulblight-gravelords</link>
-            <guid>fnoewkgp</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s  Anthony Magro from AoS Coach to discuss his favourite parts of the new Battletome.]]></description>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbgl-influencerbattletome-apr04-1-feature-f3fagwyikn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
