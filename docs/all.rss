@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Apr 2025 09:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 12:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>hsqlxqbs</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the hedonistic champions of Slaanesh.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecfaction-1-feature-beorj2enkc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – High Elves, bounty hunters, heroes and knights]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zc96jzat/sunday-preview-high-elves-bounty-hunters-heroes-and-knights</link>
@@ -294,17 +306,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/um_hangout-apr4-1-feature-ahwkbrbtqu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WarCom Workbench – Has Andy painted his Terminators yet?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2f6jxl5f/warcom-workbench-has-andy-painted-his-terminators-yet</link>
-            <guid>2f6jxl5f</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Checking in with the Warhammer Community team.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcomworkbench2-apr04-1-feature-sgpgajlexh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
