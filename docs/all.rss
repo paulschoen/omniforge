@@ -4,17 +4,29 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Apr 2025 13:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 14:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Land Raider at 25 – Celebrating THE iconic Warhammer tank]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/escfijsw/the-land-raider-at-25-celebrating-the-iconic-warhammer-tank</link>
+            <guid>escfijsw</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A history of one of the greatest kits of all time.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_landraider25-apr14-1-feature-ilm7kynl8s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Strike from the skies with new and improved Space Marine Drop Pods]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/v5kqzgnr/strike-from-the-skies-with-new-and-improved-space-marine-drop-pods</link>
             <guid>v5kqzgnr</guid>
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The classic Space Marine delivery system, remade.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="space-marines">Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
@@ -291,19 +303,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-t5l1rcffk9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Overwhelm your senses with the Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s1gkweef/sunday-preview-overwhelm-your-senses-with-the-emperors-children</link>
-            <guid>s1gkweef</guid>
-            <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is what’s available to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr6-1-feature-ofta9gxi4o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
