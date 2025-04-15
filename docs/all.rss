@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Apr 2025 14:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 11:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 15th of April]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/otkrbj2z/the-rumour-engine-15th-of-april</link>
+            <guid>otkrbj2z</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr15-feature-jgg7fhwvet.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Land Raider at 25 – Celebrating THE iconic Warhammer tank]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/escfijsw/the-land-raider-at-25-celebrating-the-iconic-warhammer-tank</link>
@@ -290,19 +300,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp1-apr07-1-feature-dacnpc6ok3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 – AdeptiCon finalists (part one)]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xsq9inbr/golden-demon-2025-adepticon-finalists-part-one</link>
-            <guid>xsq9inbr</guid>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who else won awards at Golden Demon?]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-t5l1rcffk9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
