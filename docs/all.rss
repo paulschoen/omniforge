@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Apr 2025 11:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 14:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marine 2 DLC – Space Wolves and Imperial Fists take on the Trygon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qzrxxger/space-marine-2-dlc-space-wolves-and-imperial-fists-take-on-the-trygon</link>
+            <guid>qzrxxger</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New challenges and cosmetics await.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update-apr15-1-feature-4eaiawkdml.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 15th of April]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/otkrbj2z/the-rumour-engine-15th-of-april</link>
@@ -287,19 +299,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01009-faces-v9-0pgcqmdgxd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designing the Emperor’s Children, Part 1 – Realising the excess and the depravity of the chosen of Slaanesh]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eplrz3zn/designing-the-emperors-children-part-1-realising-the-excess-and-the-depravity-of-the-chosen-of-slaanesh</link>
-            <guid>eplrz3zn</guid>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In the pursuit of perfection.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp1-apr07-1-feature-dacnpc6ok3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
