@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 16 Apr 2025 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 13:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Learning to paint better and faster… by painting really slowly]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jvdb3ggw/learning-to-paint-better-and-faster-by-painting-really-slowly</link>
+            <guid>jvdb3ggw</guid>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A different way to improve your painting.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/paintingspeed-apr16-1-feature-8gxu3b2bgs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: How We Roll walks the Path to Glory]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9q0mvudq/warhammer-tv-this-week-how-we-roll-walks-the-path-to-glory</link>
@@ -288,17 +298,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_eccrusaderules-apr08-1-feature-mzraokayb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 8th of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bjzt1u58/the-rumour-engine-8th-of-april</link>
-            <guid>bjzt1u58</guid>
-            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr8-feature-tii7vmwhxx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
