@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Apr 2025 14:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 12:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: How We Roll walks the Path to Glory]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9q0mvudq/warhammer-tv-this-week-how-we-roll-walks-the-path-to-glory</link>
+            <guid>9q0mvudq</guid>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new shows to watch on Warhammer+.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr16-1-feature-iy92vahbuy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Marine 2 DLC – Space Wolves and Imperial Fists take on the Trygon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qzrxxger/space-marine-2-dlc-space-wolves-and-imperial-fists-take-on-the-trygon</link>
@@ -289,16 +299,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr8-feature-tii7vmwhxx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Getting Better at Painting Warhammer Faces?! | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/r7w7q6hx/getting-better-at-painting-warhammer-faces-warhammer</link>
-            <guid>r7w7q6hx</guid>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jake has requested a helping hand on how to paint some faces, and Dan has answered the call! We’ll be going through painting a couple of skin tones and even their tiny eyes!]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01009-faces-v9-0pgcqmdgxd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
