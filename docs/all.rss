@@ -4,11 +4,28 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 17 Apr 2025 12:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 13:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Behold a cornucopia of Chaos colour schemes from Vincent Knotley]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yjhrjzkw/behold-a-cornucopia-of-chaos-colour-schemes-from-vincent-knotley</link>
+            <guid>yjhrjzkw</guid>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Alternative schemes for the big four.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecinfluencer-apr18-1-feature-8b2qw7lmla.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Narrative play in Middle-earth™ – Join the final battle]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dlog0p8e/narrative-play-in-middle-earthtm-join-the-final-battle</link>
@@ -19,6 +36,19 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-apr17-1-feature-ypwl7e9jxz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trench Rot Wood on Krieg Artillery | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ew9pqstl/trench-rot-wood-on-krieg-artillery-warhammer-40000</link>
+            <guid>ew9pqstl</guid>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch along as Adam answers your questions about how he painted the wooden panels on his Death Korps of Krieg artillery piece. Sit back, relax, and learn in the name of the Emperor!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-1744894350-bxudwbvtbj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Learning to paint better and faster… by painting really slowly]]></title>
@@ -276,28 +306,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr9-1-feature-foushz4r7x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paint the Biggest Armies in a Week! | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ajegm73i/paint-the-biggest-armies-in-a-week-warhammer</link>
-            <guid>ajegm73i</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dan and Jake have been set the challenge of completing an army each in just five days! Will they be able to complete the task? What will they create? Did Jake understand the task? Will Dan get the footsloggers finished? Find out in this wild race against time!]]></description>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01003---paint-biggest-army-possible-in-a-week-thumbnail-v2-ilxftxopoq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Dakka detachment update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mirza2hg/more-dakka-detachment-update</link>
-            <guid>mirza2hg</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[An update to the recent Ork detachment.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_moredakka-apr9-1-feature-tixli1gboh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
