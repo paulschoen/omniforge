@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 16 Apr 2025 13:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 12:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Narrative play in Middle-earth™ – Join the final battle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dlog0p8e/narrative-play-in-middle-earthtm-join-the-final-battle</link>
+            <guid>dlog0p8e</guid>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three scenarios following The Lord of the Rings: The Return of the King™]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_scenarios-apr17-1-feature-ypwl7e9jxz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Learning to paint better and faster… by painting really slowly]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jvdb3ggw/learning-to-paint-better-and-faster-by-painting-really-slowly</link>
@@ -287,17 +298,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_moredakka-apr9-1-feature-tixli1gboh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get hopped up on powerful combat elixirs with the Emperor’s Children on Crusade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9luzibf/get-hopped-up-on-powerful-combat-elixirs-with-the-emperors-children-on-crusade</link>
-            <guid>z9luzibf</guid>
-            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unleash your inner chemist!]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eccrusaderules-apr08-1-feature-mzraokayb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
