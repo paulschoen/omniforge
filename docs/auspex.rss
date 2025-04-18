@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 17 Apr 2025 17:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 18:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Reacting to the MASSIVE World Eaters Codex Leak - All Detachments, Datasheet Changes + More!]]></title>
+            <link>https://www.youtube.com/watch?v=RuaL2YdIano</link>
+            <guid>yt:video:RuaL2YdIano</guid>
+            <pubDate>Thu, 17 Apr 2025 16:39:11 GMT</pubDate>
+            <description><![CDATA[The video discusses the leaked contents of the World Eaters Codex, highlighting significant changes such as nerfs to Angron's abilities, new movement stats for Korn Berserkers, the introduction of themed detachments, and adjustments to various character strengths and abilities.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 World Eaters Codex Leaks Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>Leaked Content:</strong> Full contents of the World Eaters Codex have leaked, revealing major changes.</li>
+  <li>⚔️ <strong>Character Updates:</strong> Angron's special rules have been nerfed; the Master of Executions lost "Fight First."</li>
+  <li>👹 <strong>Demon Princes:</strong> New abilities for demon units, focusing on discount strategies and themed detachments.</li>
+  <li>🚀 <strong>Movement Changes:</strong> Korn Berserkers now have a flat 8" movement, with boosted Blood Surge abilities.</li>
+  <li>🛡️ <strong>Detachments:</strong> Introduction of new detachments focusing on different unit types and strengths.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📉 <strong>Movement Increase:</strong> Korn Berserkers' movement increased from 6" to 8", enhancing their mobility.</li>
+  <li>🔄 <strong>Buff Adjustments:</strong> Angron's resurrection ability now provides only 8 wounds instead of 16.</li>
+  <li>💥 <strong>Strength Adjustments:</strong> Eightbound units have improved movement to 10" but lost feel no pain ability, making them more vulnerable.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How will the nerfs to Angron's abilities affect competitive play strategies?</strong></li>
+  <li>🧐 <strong>What implications do the new detachments have on army composition and tactics?</strong></li>
+  <li>💭 <strong>How do the overall changes in the World Eaters Codex compare to previous editions?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Which Imperial Guard Regiment to Choose in Warhammer 40K 10th Edition- Armies of the Astra Militarum]]></title>
             <link>https://www.youtube.com/watch?v=dUyTulewOyY</link>
@@ -3655,35 +3688,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Reacting to the MASSIVE World Eaters Codex Leak - All Detachments, Datasheet Changes + More!]]></title>
-            <link>https://www.youtube.com/watch?v=RuaL2YdIano</link>
-            <guid>yt:video:RuaL2YdIano</guid>
-            <pubDate>Thu, 17 Apr 2025 16:39:11 GMT</pubDate>
-            <description><![CDATA[The video discusses the leaked contents of the World Eaters Codex, highlighting significant changes such as nerfs to Angron's abilities, new movement stats for Korn Berserkers, the introduction of themed detachments, and adjustments to various character strengths and abilities.]]></description>
+            <title><![CDATA[Top Six Most Complained About Units in 40K - What's Seen as Too Strong for the Cost, and is it fair?]]></title>
+            <link>https://www.youtube.com/watch?v=bsN1mA0L_qA</link>
+            <guid>yt:video:bsN1mA0L_qA</guid>
+            <pubDate>Fri, 18 Apr 2025 17:16:54 GMT</pubDate>
+            <description><![CDATA[The video discusses the balance of units in Warhammer 40K, highlighting that while most are well-balanced, certain units like Azrael and Deathwing Knights are seen as overpowered for their cost, affecting competitive gameplay and match outcomes, with a focus on player feedback for potential adjustments.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 World Eaters Codex Leaks Overview</h2>
+<h2>📢 Units Too Strong for Their Cost in Warhammer 40K</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>Leaked Content:</strong> Full contents of the World Eaters Codex have leaked, revealing major changes.</li>
-  <li>⚔️ <strong>Character Updates:</strong> Angron's special rules have been nerfed; the Master of Executions lost "Fight First."</li>
-  <li>👹 <strong>Demon Princes:</strong> New abilities for demon units, focusing on discount strategies and themed detachments.</li>
-  <li>🚀 <strong>Movement Changes:</strong> Korn Berserkers now have a flat 8" movement, with boosted Blood Surge abilities.</li>
-  <li>🛡️ <strong>Detachments:</strong> Introduction of new detachments focusing on different unit types and strengths.</li>
+    <li>🔥 <strong>Unit Balance in 40K:</strong> Most units are well-balanced post-updates, but some are perceived as overpowered for their points cost.</li>
+    <li>⚔️ <strong>Top Units Under Scrutiny:</strong> Key units like Azrael, Deathwing Knights, and Eldari Fire Dragons are frequently mentioned as needing adjustments.</li>
+    <li>📈 <strong>Competitive Landscape:</strong> Certain factions, such as Dark Angels and Chaos Knights, dominate with specific units, skewing match outcomes.</li>
+    <li>🛡️ <strong>Defensive Units:</strong> Tough units that are hard to kill often attract more attention than cheaper support units, affecting game balance.</li>
+    <li>💡 <strong>Player Feedback:</strong> The analysis is based on player experiences rather than strictly competitive metrics.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>📉 <strong>Movement Increase:</strong> Korn Berserkers' movement increased from 6" to 8", enhancing their mobility.</li>
-  <li>🔄 <strong>Buff Adjustments:</strong> Angron's resurrection ability now provides only 8 wounds instead of 16.</li>
-  <li>💥 <strong>Strength Adjustments:</strong> Eightbound units have improved movement to 10" but lost feel no pain ability, making them more vulnerable.</li>
+    <li>📉 <strong>Win Rates:</strong> Imperial Knights boast a win rate of around 54%, making them one of the strongest factions.</li>
+    <li>💰 <strong>Fire Dragons Cost:</strong> Initially 100 points, increased to 110, yet remain a staple in competitive lists.</li>
+    <li>🛡️ <strong>Death Shroud Terminators Cost:</strong> 110 points for three units, considered cheap for their high damage and defense capabilities.</li>
+    <li>🔄 <strong>Azrael Points Cost:</strong> As a key character, Azrael's cost increase could directly impact Dark Angels' army strength.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>How will the nerfs to Angron's abilities affect competitive play strategies?</strong></li>
-  <li>🧐 <strong>What implications do the new detachments have on army composition and tactics?</strong></li>
-  <li>💭 <strong>How do the overall changes in the World Eaters Codex compare to previous editions?</strong></li>
+    <li>🤔 <strong>Which units in Warhammer 40K do you believe need a points increase to restore balance?</strong></li>
+    <li>🔍 <strong>How do player experiences shape perceptions of unit strength and balance in competitive play?</strong></li>
+    <li>⚖️ <strong>What adjustments would you recommend for units perceived as under-costed to enhance game balance?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
