@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 18 Apr 2025 12:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 14:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[WarCom Workbench – Freeblades and fat goblins]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z6i29vjp/warcom-workbench-freeblades-and-fat-goblins</link>
+            <guid>z6i29vjp</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Has Andy painted his Terminators?]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warcomworkbench3-apr18-1-feature-bmf6mvgeo8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -292,21 +303,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp2-apr09-1-feature-4f4w9x3vmy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jude Reid Interview – Writing Fulgrim: The Perfect Son]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uw9rmcys/jude-reid-interview-writing-fulgrim-the-perfect-son</link>
-            <guid>uw9rmcys</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The author of the upcoming Fulgrim book discusses his immaculate conception.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_judereidinterview-apr9-1-feature-vugilugkgm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
