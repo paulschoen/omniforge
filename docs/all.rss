@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 17 Apr 2025 13:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 12:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>mveiuxck</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the resolute defenders of Humanity.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_amfaction-1-feature-0pbbywy4h0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Behold a cornucopia of Chaos colour schemes from Vincent Knotley]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yjhrjzkw/behold-a-cornucopia-of-chaos-colour-schemes-from-vincent-knotley</link>
@@ -296,16 +307,6 @@
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_judereidinterview-apr9-1-feature-vugilugkgm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Deep Strike meets the Warhammer: Total War team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qdmxgeou/warhammer-tv-this-week-deep-strike-meets-the-warhammer-total-war-team</link>
-            <guid>qdmxgeou</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s on for Warhammer+ subscribers.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr9-1-feature-foushz4r7x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
