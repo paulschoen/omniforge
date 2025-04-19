@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 18 Apr 2025 15:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 17:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The next wave of High Elves land]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gslgtn17/saturday-pre-orders-the-next-wave-of-high-elves-land</link>
+            <guid>gslgtn17</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-apr19-1-feature-teebgctgjp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alejandro Mancuso attracts the eye of Dark Gods with four magnificent Primarchs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e6mthflx/alejandro-mancuso-attracts-the-eye-of-dark-gods-with-four-magnificent-primarchs</link>
@@ -295,18 +310,6 @@
             <category domain="emperors-children">Emperor's Children</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01640-jude-reid-bl-interview-wbbigmzpfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heresy Thursday – The Legions Imperialis FAQ brings small changes for the biggest battles]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nlxrvbuq/heresy-thursday-the-legions-imperialis-faq-brings-small-changes-for-the-biggest-battles</link>
-            <guid>nlxrvbuq</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download this free document now.]]></description>
-            <category domain="heresy-thursday">Heresy Thursday</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/li_faq-apr10-1-feature-an7si3apme.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
