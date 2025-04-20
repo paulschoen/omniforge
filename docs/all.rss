@@ -4,11 +4,28 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 19 Apr 2025 17:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Apr 2025 17:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Rot and ruin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xjrnugbz/sunday-preview-rot-and-ruin</link>
+            <guid>xjrnugbz</guid>
+            <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A double-pronged Chaos assault.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr20-1-feature-3slbafhffh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The next wave of High Elves land]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gslgtn17/saturday-pre-orders-the-next-wave-of-high-elves-land</link>
@@ -298,18 +315,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecdesignnotesp3-apr10-1-feature-glli2xj2hb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Writing Fulgrim: The Perfect Son – Black Library Author Interview]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/45trsqzl/writing-fulgrim-the-perfect-son-black-library-author-interview</link>
-            <guid>45trsqzl</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get insights into the writing of Fulgrim: The Perfect Son from the mouth of the author, Jude Reid, in this interview: https://ow.ly/SfPp50VxlKB]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01640-jude-reid-bl-interview-wbbigmzpfc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
