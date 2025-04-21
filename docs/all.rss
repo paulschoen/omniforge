@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Apr 2025 12:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 14:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Praise the Lord of Skulls with new World Eaters Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dyqyr3kw/praise-the-lord-of-skulls-with-new-world-eaters-detachments</link>
+            <guid>dyqyr3kw</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rhinos? In a World Eaters army?]]></description>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wedetachments-apr21-1-feature-y78dxyodam.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Death Guard detachments: Bombard the lackeys of the corpse Emperor with plagues and poxwalkers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4bvbomik/death-guard-detachments-bombard-the-lackeys-of-the-corpse-emperor-with-plagues-and-poxwalkers</link>
@@ -298,19 +310,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_beechbone-apr11-1-feature-2gaizis6ur.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 – AdeptiCon finalists (part two)]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/15nzugz5/golden-demon-2025-adepticon-finalists-part-two</link>
-            <guid>15nzugz5</guid>
-            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who else won awards at Golden Demon?]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-djznoxb0my.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
