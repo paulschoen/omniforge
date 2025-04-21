@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Apr 2025 11:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 12:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Death Guard detachments: Bombard the lackeys of the corpse Emperor with plagues and poxwalkers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4bvbomik/death-guard-detachments-bombard-the-lackeys-of-the-corpse-emperor-with-plagues-and-poxwalkers</link>
+            <guid>4bvbomik</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are six new detachments to dig your plague knife into.]]></description>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_deathguarddetachments-apr21-1-feature-obumure7yj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Knives of the Crone bring aelven guile to Warhammer Underworlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mgxduxmn/the-knives-of-the-crone-bring-aelven-guile-to-warhammer-underworlds</link>
@@ -299,20 +311,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_finalists1-apr7-1-feature-djznoxb0my.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Lucius the Eternal! | Emperor's Children | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fba7xpm7/painting-lucius-the-eternal-emperors-children-warhammer-40000</link>
-            <guid>fba7xpm7</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You think you’ve killed him and then, blam, you’re it! Well, you turn into him in a not so nice way. Probably best to lose that fight, yet Dan’s taken the challenge to paint him up! Let’s see how he does…]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/painting-lucius-thumbnail-v2-vsdcxbncel.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
