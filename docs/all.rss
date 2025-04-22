@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Apr 2025 14:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 09:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -77,8 +77,8 @@
             <enclosure url="https://assets.warhammer-community.com/preorders-apr19-1-feature-teebgctgjp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alejandro Mancuso attracts the eye of Dark Gods with four magnificent Primarchs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e6mthflx/alejandro-mancuso-attracts-the-eye-of-dark-gods-with-four-magnificent-primarchs</link>
+            <title><![CDATA[Le Voz de Horus podcast attracts the eye of Dark Gods with four magnificent Primarchs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e6mthflx/le-voz-de-horus-podcast-attracts-the-eye-of-dark-gods-with-four-magnificent-primarchs</link>
             <guid>e6mthflx</guid>
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Celebrating Chaos in all its glory.]]></description>
