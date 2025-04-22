@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Apr 2025 12:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 13:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Two new villains arise for the Death Guard and World Eaters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hywvdtyb/two-new-villains-arise-for-the-death-guard-and-world-eaters</link>
+            <guid>hywvdtyb</guid>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do these champions of blood and bile match up?]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dgweheroes-apr22-1-feature-1otuwkb5io.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 22nd of April]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w0ss22nc/the-rumour-engine-22nd-of-april</link>
@@ -297,18 +310,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/option-1-tgwtjtc9q3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fulgrim vs the World: How good is the Phoenician on the tabletop?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bdx89ep1/fulgrim-vs-the-world-how-good-is-the-phoenician-on-the-tabletop</link>
-            <guid>bdx89ep1</guid>
-            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We put the incoming Daemon Primarch through his paces.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_fulgrimvseveryone-apr11-1-feature-f9z0dv3ww4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
