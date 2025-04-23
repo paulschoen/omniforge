@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Apr 2025 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 13:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[World Eaters tactics – Richard Siegler weighs in on Khorne’s finest]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d56jp9bq/world-eaters-tactics-richard-siegler-weighs-in-on-khornes-finest</link>
+            <guid>d56jp9bq</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exciting new ways to batter the lackeys of the Corpse-Emperor.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_weinfllists-apr23-1-feature-2gnljfi0fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Guy Haley chats fiction on Scribes and Scriveners]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qguopb5d/warhammer-tv-this-week-guy-haley-chats-fiction-on-scribes-and-scriveners</link>
@@ -293,20 +305,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr13-1-feature-wf6zs5nri0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Attain perfection with Fulgrim and his followers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kvlvz831/saturday-pre-orders-attain-perfection-with-fulgrim-and-his-followers</link>
-            <guid>kvlvz831</guid>
-            <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-apr12-1-feature-cf2frknpxp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
