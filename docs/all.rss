@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Apr 2025 13:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 14:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Dawn of Fire hero Ferren Areios battles to reclaim plague-ridden worlds in new spin-off novel Master of Rites]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9jjd0ot7/dawn-of-fire-hero-ferren-areios-battles-to-reclaim-plague-ridden-worlds-in-new-spin-off-novel-master-of-rites</link>
+            <guid>9jjd0ot7</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A newly anointed Ultramarines captain tackles the Death Guard.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_masterofrites-apr23-1-feature-7uj1rdngot.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[World Eaters tactics – Richard Siegler weighs in on Khorne’s finest]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d56jp9bq/world-eaters-tactics-richard-siegler-weighs-in-on-khornes-finest</link>
@@ -289,22 +301,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecfaction-1-feature-beorj2enkc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – High Elves, bounty hunters, heroes and knights]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zc96jzat/sunday-preview-high-elves-bounty-hunters-heroes-and-knights</link>
-            <guid>zc96jzat</guid>
-            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is everything on pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr13-1-feature-wf6zs5nri0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
