@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 23 Apr 2025 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 15:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Every Warhammer 40K Army's Tournament Win Statistics - Who's Best in 10th Edition April 2025]]></title>
+            <link>https://www.youtube.com/watch?v=sfQGXJs6g-U</link>
+            <guid>yt:video:sfQGXJs6g-U</guid>
+            <pubDate>Wed, 23 Apr 2025 06:00:47 GMT</pubDate>
+            <description><![CDATA[The video analyzes the tournament performance of Warhammer 40K factions following a balance update, highlighting win rates, the impact of these updates, and overall balance, noting that while Orcs lead in tournament wins, several factions are underperforming.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40K Faction Performance Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Current Performance:</strong> Analysis of every Warhammer 40K faction's performance in tournaments post-balance update.</li>
+    <li>📊 <strong>Win Rates:</strong> Factions are ranked by tournament win rates, revealing strengths and weaknesses.</li>
+    <li>🔄 <strong>Data Sources:</strong> Utilizes data from sources like Meta Monday and Goonhammer for accurate faction performance tracking.</li>
+    <li>🪄 <strong>Balance Update Impact:</strong> Discusses how the recent balance updates have influenced faction performance, particularly for the Emperor's Children.</li>
+    <li>⚖️ <strong>Overall Balance:</strong> Highlights that overall balance in Warhammer 40K remains decent, especially for casual play.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Win Rates:</strong> Approximately 4 out of 26 factions fall below the target 45-55% win rates.</li>
+    <li>🏆 <strong>Tournament Wins:</strong> Orcs lead with 26 tournament wins, followed by Eldari and Chaos Demons.</li>
+    <li>🔢 <strong>Player Participation:</strong> Imperial Agents are currently the least played faction, making up about 1/5 of the player base.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do balance updates affect your choice of faction in Warhammer 40K?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies have you found most effective with your chosen factions?</li>
+    <li>🤔 <strong>Question 3:</strong> Should Games Workshop reconsider the balance of underperforming factions like Imperial Agents?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Warhammer 40K Datasheets Revealed - Lord of Poxes and Slaughterbound Rules Review]]></title>
             <link>https://www.youtube.com/watch?v=Fjq244bMz3Q</link>
@@ -3956,35 +3989,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Every Warhammer 40K Army's Tournament Win Statistics - Who's Best in 10th Edition April 2025]]></title>
-            <link>https://www.youtube.com/watch?v=sfQGXJs6g-U</link>
-            <guid>yt:video:sfQGXJs6g-U</guid>
-            <pubDate>Wed, 23 Apr 2025 06:00:47 GMT</pubDate>
-            <description><![CDATA[The video analyzes the tournament performance of Warhammer 40K factions following a balance update, highlighting win rates, the impact of these updates, and overall balance, noting that while Orcs lead in tournament wins, several factions are underperforming.]]></description>
+            <title><![CDATA[40K Rules Updates - Allied Daemons, Returning Datasheets, Krieg Rules + Emperor's Children Points]]></title>
+            <link>https://www.youtube.com/watch?v=ZnRfT7m9AYQ</link>
+            <guid>yt:video:ZnRfT7m9AYQ</guid>
+            <pubDate>Wed, 23 Apr 2025 14:10:38 GMT</pubDate>
+            <description><![CDATA[The video discusses recent updates and key changes in Warhammer 40k, including the return of Karanak with improved stats, the reintroduction of seeker chariots, updated demon summoning rules, new wargear options for the Death Core of Creed, tournament legality for Emperor's Children, and minor adjustments to Eldar Legends.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40K Faction Performance Overview</h2>
+<h2>📢 Warhammer 40k Digital Updates & Key Changes</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Current Performance:</strong> Analysis of every Warhammer 40K faction's performance in tournaments post-balance update.</li>
-    <li>📊 <strong>Win Rates:</strong> Factions are ranked by tournament win rates, revealing strengths and weaknesses.</li>
-    <li>🔄 <strong>Data Sources:</strong> Utilizes data from sources like Meta Monday and Goonhammer for accurate faction performance tracking.</li>
-    <li>🪄 <strong>Balance Update Impact:</strong> Discusses how the recent balance updates have influenced faction performance, particularly for the Emperor's Children.</li>
-    <li>⚖️ <strong>Overall Balance:</strong> Highlights that overall balance in Warhammer 40K remains decent, especially for casual play.</li>
+    <li>🔥 <strong>Return of Karanak:</strong> Karanak, the flesh hound character, has returned with updated stats and abilities.</li>
+    <li>🚀 <strong>Seeker Chariots:</strong> Seeker chariots have made a comeback, allowing players to field them once again.</li>
+    <li>📜 <strong>Updated Demon Summoning Rules:</strong> New rules for summoning demons into deity legions limit ally options compared to previous editions.</li>
+    <li>⚔️ <strong>Death Core of Creed Buff:</strong> New wargear options simplify squad configurations, enhancing gameplay flexibility.</li>
+    <li>🌟 <strong>Emperor's Children Tournament Legality:</strong> Points for Emperor's Children are now tournament legal, making them viable for competitive play.</li>
+    <li>💡 <strong>Eldar Legends Update:</strong> Minor changes made to the Eldar Legends document, affecting specific units.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Win Rates:</strong> Approximately 4 out of 26 factions fall below the target 45-55% win rates.</li>
-    <li>🏆 <strong>Tournament Wins:</strong> Orcs lead with 26 tournament wins, followed by Eldari and Chaos Demons.</li>
-    <li>🔢 <strong>Player Participation:</strong> Imperial Agents are currently the least played faction, making up about 1/5 of the player base.</li>
+    <li>📉 <strong>Karanak's Points:</strong> Increased from 65 to <strong>75 points</strong>, now with enhanced abilities including OC3 for objectives.</li>
+    <li>📉 <strong>Hellflayers Points:</strong> Reduced from <strong>105 to 80 points</strong>, while Tormentbringers remain at <strong>140 points</strong>.</li>
+    <li>📈 <strong>Emperor's Children Points:</strong> Key units like the Winged Demon Prince at <strong>180 points</strong> and Lucius at <strong>140 points</strong> are now tournament-ready.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do balance updates affect your choice of faction in Warhammer 40K?</li>
-    <li>🤔 <strong>Question 2:</strong> What strategies have you found most effective with your chosen factions?</li>
-    <li>🤔 <strong>Question 3:</strong> Should Games Workshop reconsider the balance of underperforming factions like Imperial Agents?</li>
+    <li>🤔 <strong>What impact will the changes to demon summoning rules have on competitive play strategies?</strong></li>
+    <li>🤔 <strong>How might the return of Karanak and seeker chariots influence army compositions in upcoming tournaments?</strong></li>
+    <li>🤔 <strong>In what ways do you think the updated Death Core of Creed warggear options will change player tactics?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
