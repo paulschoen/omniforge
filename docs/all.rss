@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Apr 2025 10:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 11:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Evil returns to Middle-earth with the War Drakes of Rhûn and the Umbar Ballista]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eh5t2uuu/evil-returns-to-middle-earth-with-the-war-drakes-of-rhun-and-the-umbar-ballista</link>
+            <guid>eh5t2uuu</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reinforcements for the baddies.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_reveals-apr24-1-feature-dsgtfmzlhj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dawn of Fire hero Ferren Areios battles to reclaim plague-ridden worlds in new spin-off novel Master of Rites]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9jjd0ot7/dawn-of-fire-hero-ferren-areios-battles-to-reclaim-plague-ridden-worlds-in-new-spin-off-novel-master-of-rites</link>
@@ -289,18 +300,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-dwemo5wcqb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting ALL the battlefield trophies!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bxu30eex/painting-all-the-battlefield-trophies</link>
-            <guid>bxu30eex</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You read the title right! Tune in and follow along as Ollie shows you how to paint all 288 components in the battlefield trophies box. No matter who is your enemy; from the imperium, to chaos, to xenos. Everything you need to know is here in this whistle stop tour!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pvo1008---painting-everything-in-the-battlefield-trophies-box-thumbnail-v2-dpmomokikj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
