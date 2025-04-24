@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Apr 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 10:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -32,6 +32,18 @@
             <category domain="world-eaters">World Eaters</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_weinfllists-apr23-1-feature-2gnljfi0fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soulblight Gravelords Painted Quickly and Looking Awesome | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/v3kputym/soulblight-gravelords-painted-quickly-and-looking-awesome-warhammer-age-of-sigmar</link>
+            <guid>v3kputym</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch along as Adam shows you how he tackles painting Soulblight Gravelords quickly and easily so that they look awesome and ready to fight on the battlefield in no time at all.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/soulblight-gravelords-copy-gjruflreuk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Guy Haley chats fiction on Scribes and Scriveners]]></title>
@@ -289,18 +301,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pvo1008---painting-everything-in-the-battlefield-trophies-box-thumbnail-v2-dpmomokikj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>hsqlxqbs</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the hedonistic champions of Slaanesh.]]></description>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecfaction-1-feature-beorj2enkc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
