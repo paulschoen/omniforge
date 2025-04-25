@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Apr 2025 13:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Community Crusade – The incursion begins]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7c3egbf3/the-warhammer-community-crusade-the-incursion-begins</link>
+            <guid>7c3egbf3</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our players muster their 1,000-point armies.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wh-_crusade2-apr25-1-feature-owiigm6vhd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Death Guard tactics – slow and steady wins the race]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2kfajcjk/death-guard-tactics-slow-and-steady-wins-the-race</link>
@@ -290,18 +300,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr16-1-feature-iy92vahbuy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marine 2 DLC – Space Wolves and Imperial Fists take on the Trygon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qzrxxger/space-marine-2-dlc-space-wolves-and-imperial-fists-take-on-the-trygon</link>
-            <guid>qzrxxger</guid>
-            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New challenges and cosmetics await.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-apr15-1-feature-4eaiawkdml.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
