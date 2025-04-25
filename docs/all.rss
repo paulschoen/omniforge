@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Apr 2025 12:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 13:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Death Guard tactics – slow and steady wins the race]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2kfajcjk/death-guard-tactics-slow-and-steady-wins-the-race</link>
+            <guid>2kfajcjk</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Aiden Smalley from Vanguard Tactics kicks up a stink.]]></description>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dg-influencertactics-apr25-1-feature-9jlpue7f4n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bloodshed and buboes – How daemon detachments work for the World Eaters and Death Guard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d5edwgha/bloodshed-and-buboes-how-daemon-detachments-work-for-the-world-eaters-and-death-guard</link>
@@ -291,16 +302,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_update-apr15-1-feature-4eaiawkdml.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 15th of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/otkrbj2z/the-rumour-engine-15th-of-april</link>
-            <guid>otkrbj2z</guid>
-            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr15-feature-jgg7fhwvet.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
