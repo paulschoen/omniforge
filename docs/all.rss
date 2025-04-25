@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Apr 2025 15:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 12:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bloodshed and buboes – How daemon detachments work for the World Eaters and Death Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d5edwgha/bloodshed-and-buboes-how-daemon-detachments-work-for-the-world-eaters-and-death-guard</link>
+            <guid>d5edwgha</guid>
+            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a little help from your daemonic pals.]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wedgdaemons-apr25-1-feature-u0icibyhuy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Upcoming Warhammer Events – Battle for the fate of Ghyran at Warhammer World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f6lcwbpp/upcoming-warhammer-events-battle-for-the-fate-of-ghyran-at-warhammer-world</link>
@@ -288,17 +301,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr15-feature-jgg7fhwvet.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Land Raider at 25 – Celebrating THE iconic Warhammer tank]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/escfijsw/the-land-raider-at-25-celebrating-the-iconic-warhammer-tank</link>
-            <guid>escfijsw</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A history of one of the greatest kits of all time.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_landraider25-apr14-1-feature-ilm7kynl8s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
