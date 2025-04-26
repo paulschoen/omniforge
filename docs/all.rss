@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Apr 2025 15:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 17:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Khorne and Nurgle versus the world]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gltawssc/saturday-pre-orders-khorne-and-nurgle-versus-the-world</link>
+            <guid>gltawssc</guid>
+            <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-apr26-1-feature-bjzv4nlruw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – The Warhammer Community team make progress]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0kz489ni/armies-on-parade-2025-the-warhammer-community-team-make-progress</link>
@@ -292,16 +303,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-1744894350-bxudwbvtbj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Learning to paint better and faster… by painting really slowly]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jvdb3ggw/learning-to-paint-better-and-faster-by-painting-really-slowly</link>
-            <guid>jvdb3ggw</guid>
-            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A different way to improve your painting.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/paintingspeed-apr16-1-feature-8gxu3b2bgs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
