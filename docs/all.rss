@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 26 Apr 2025 17:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 17:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Gods and Godbeasts on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gwl2zlob/sunday-preview-gods-and-godbeasts-on-warhammer-tv</link>
+            <guid>gwl2zlob</guid>
+            <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s a quiet week for pre-orders]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr27-1-feature-6zakwq7z9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Khorne and Nurgle versus the world]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gltawssc/saturday-pre-orders-khorne-and-nurgle-versus-the-world</link>
@@ -290,19 +301,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-apr17-1-feature-ypwl7e9jxz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trench Rot Wood on Krieg Artillery | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ew9pqstl/trench-rot-wood-on-krieg-artillery-warhammer-40000</link>
-            <guid>ew9pqstl</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch along as Adam answers your questions about how he painted the wooden panels on his Death Korps of Krieg artillery piece. Sit back, relax, and learn in the name of the Emperor!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-1744894350-bxudwbvtbj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
