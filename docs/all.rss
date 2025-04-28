@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 27 Apr 2025 17:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 12:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Embrace excess with an Emperor’s Children-themed Miniature of the Month and Coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zqc0kycr/embrace-excess-with-an-emperors-children-themed-miniature-of-the-month-and-coin</link>
+            <guid>zqc0kycr</guid>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-apr28-1-feature-lugrjd93kw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Gods and Godbeasts on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gwl2zlob/sunday-preview-gods-and-godbeasts-on-warhammer-tv</link>
@@ -290,17 +302,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecinfluencer-apr18-1-feature-8b2qw7lmla.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Narrative play in Middle-earth™ – Join the final battle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dlog0p8e/narrative-play-in-middle-earthtm-join-the-final-battle</link>
-            <guid>dlog0p8e</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three scenarios following The Lord of the Rings: The Return of the King™]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_scenarios-apr17-1-feature-ypwl7e9jxz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
