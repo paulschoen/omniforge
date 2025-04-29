@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 29 Apr 2025 11:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 12:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Congratulations to the 2025 Warhammer Heroes Winners]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wfsondzu/congratulations-to-the-2025-warhammer-heroes-winners</link>
+            <guid>wfsondzu</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out who earned their place in the pantheon this year.]]></description>
+            <category domain="warhammer-heroes">Warhammer Heroes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whheroes2025_winners-apr29-1-feature-gancvorazj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 29th of April]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p9gentyu/the-rumour-engine-29th-of-april</link>
@@ -280,23 +290,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-apr19-1-feature-teebgctgjp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Le Voz de Horus podcast attracts the eye of Dark Gods with four magnificent Primarchs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e6mthflx/le-voz-de-horus-podcast-attracts-the-eye-of-dark-gods-with-four-magnificent-primarchs</link>
-            <guid>e6mthflx</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrating Chaos in all its glory.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ecinfluencer2-mancuso-apr18-1-feature-2djdx9jgft.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
