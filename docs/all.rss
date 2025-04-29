@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 28 Apr 2025 14:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 11:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 29th of April]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p9gentyu/the-rumour-engine-29th-of-april</link>
+            <guid>p9gentyu</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr29-feature-rvbsekl2ux.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting a 500 Point Army in 500 Minutes! | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/3rcf5kz0/painting-a-500-point-army-in-500-minutes-warhammer</link>
+            <guid>3rcf5kz0</guid>
+            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dan has been set the challenge of painting up a small force in a race against time! Can he claim success in a little over eight hours? Watch to find out if this squabble of Snotlings and friends can reach painted glory in time for dinner!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/500-500-thumb-xrzz95eno7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Logan Grimnar leads a pack of Space Wolf reinforcements]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/terohgl0/logan-grimnar-leads-a-pack-of-space-wolf-reinforcements</link>
@@ -276,28 +297,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ecinfluencer2-mancuso-apr18-1-feature-2djdx9jgft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WarCom Workbench – Freeblades and fat goblins]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z6i29vjp/warcom-workbench-freeblades-and-fat-goblins</link>
-            <guid>z6i29vjp</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Has Andy painted his Terminators?]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcomworkbench3-apr18-1-feature-bmf6mvgeo8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>mveiuxck</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the resolute defenders of Humanity.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_amfaction-1-feature-0pbbywy4h0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
