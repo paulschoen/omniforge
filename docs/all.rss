@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Apr 2025 11:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 12:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Three new shows to carry you through a week of building and painting]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6k2zjwf4/warhammer-tv-this-week-three-new-shows-to-carry-you-through-a-week-of-building-and-painting</link>
+            <guid>6k2zjwf4</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A brief look at what’s coming.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr30-1-feature-litx11uu2u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team quarterly balance update – Big boosts to lower-performing teams]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e2sdc3qz/kill-team-quarterly-balance-update-big-boosts-to-lower-performing-teams</link>
@@ -268,17 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_deathguarddetachments-apr21-1-feature-obumure7yj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Knives of the Crone bring aelven guile to Warhammer Underworlds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mgxduxmn/the-knives-of-the-crone-bring-aelven-guile-to-warhammer-underworlds</link>
-            <guid>mgxduxmn</guid>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Realmstone Raiders deck is also new.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_knivescrone-apr21-1-feature-0oaiudv8s6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
