@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 29 Apr 2025 13:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 11:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team quarterly balance update – Big boosts to lower-performing teams]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e2sdc3qz/kill-team-quarterly-balance-update-big-boosts-to-lower-performing-teams</link>
+            <guid>e2sdc3qz</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new edition is in good shape.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_update-apr30-1-feature-3hvqlu3ifl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touchline Tactics – How to play Imperial Nobility in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mljcx7ih/touchline-tactics-how-to-play-imperial-nobility-in-blood-bowl</link>
@@ -268,23 +279,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_knivescrone-apr21-1-feature-0oaiudv8s6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Rot and ruin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xjrnugbz/sunday-preview-rot-and-ruin</link>
-            <guid>xjrnugbz</guid>
-            <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A double-pronged Chaos assault.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr20-1-feature-3slbafhffh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
