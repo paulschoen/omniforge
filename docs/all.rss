@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Apr 2025 12:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 14:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Justin D. Hill chats Hell’s Last and the Minka Lesk saga]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/80fqps9q/justin-d-hill-chats-hells-last-and-the-minka-lesk-saga</link>
+            <guid>80fqps9q</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A video interview with the author behind Cadia’s latest hero.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_jhill-interview-apr30-1-feature-myls9l6jyt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Three new shows to carry you through a week of building and painting]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6k2zjwf4/warhammer-tv-this-week-three-new-shows-to-carry-you-through-a-week-of-building-and-painting</link>
@@ -266,18 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wedetachments-apr21-1-feature-y78dxyodam.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death Guard detachments: Bombard the lackeys of the corpse Emperor with plagues and poxwalkers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4bvbomik/death-guard-detachments-bombard-the-lackeys-of-the-corpse-emperor-with-plagues-and-poxwalkers</link>
-            <guid>4bvbomik</guid>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There are six new detachments to dig your plague knife into.]]></description>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_deathguarddetachments-apr21-1-feature-obumure7yj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
