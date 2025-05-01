@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Apr 2025 14:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 12:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enact the King of Rohan’s will with Lief™, Page of Helm™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ftakeald/enact-the-king-of-rohans-will-with-lieftm-page-of-helmtm</link>
+            <guid>ftakeald</guid>
+            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The young squire enters the battlefield.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_lief-may01-1-feature-qmap2pkcse.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Justin D. Hill chats Hell’s Last and the Minka Lesk saga]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/80fqps9q/justin-d-hill-chats-hells-last-and-the-minka-lesk-saga</link>
@@ -267,18 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr22-feature-vcq8iebtot.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Praise the Lord of Skulls with new World Eaters Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dyqyr3kw/praise-the-lord-of-skulls-with-new-world-eaters-detachments</link>
-            <guid>dyqyr3kw</guid>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rhinos? In a World Eaters army?]]></description>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wedetachments-apr21-1-feature-y78dxyodam.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
