@@ -4,11 +4,43 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 01 May 2025 06:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 18:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Does Your Army Need THIS Powerful Rule? The Power of 'Sticky Objectives' in Warhammer 40K]]></title>
+            <link>https://www.youtube.com/watch?v=1cqX1iTwefc</link>
+            <guid>yt:video:1cqX1iTwefc</guid>
+            <pubDate>Thu, 01 May 2025 06:00:01 GMT</pubDate>
+            <description><![CDATA[The video explains the Objective Secured rule in 40K gameplay, highlighting its strategic importance in holding objectives, the use of inexpensive units for advantage, and the timing of control for generating victory points while posing questions about tactical implications and faction-specific strategies.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Understanding Objective Secured Rules in 40K Gameplay</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Objective Secured Rule:</strong> A crucial rule that allows units to hold objectives without being present, providing strategic advantages in gameplay.</li>
+    <li>🛡️ <strong>Common Units:</strong> Various strong armies incorporate cheap units like Intercessors, Cadian Shock Troops, and Battle Sisters for this rule.</li>
+    <li>🎯 <strong>Victory Points Advantage:</strong> Holding objectives can generate victory points across the game without needing to occupy the objective at all times.</li>
+    <li>📅 <strong>Timing Matters:</strong> The rules can vary in their timing, with some allowing control at the start or end of turns, impacting strategy.</li>
+    <li>💡 <strong>Multiple Uses:</strong> The rule can provide multiple tactical advantages, such as allowing units to engage elsewhere while still holding objectives.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Unit Cost:</strong> Many effective units for this rule, like Chaos Cultists, cost around 50 points, making them valuable for their role.</li>
+    <li>⚔️ <strong>Objective Control:</strong> Even if a unit is destroyed, as long as the opponent doesn't claim the objective, it remains under your control for future turns.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How can the use of cheap units with the Objective Secured rule change the dynamics of your gameplay strategy?</li>
+    <li>🤔 <strong>Question 2:</strong> In what scenarios might it be beneficial to sacrifice a unit to maintain control of an objective?</li>
+    <li>🤔 <strong>Question 3:</strong> How do different factions utilize the Objective Secured rule to maximize their strengths on the battlefield?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[High Marshal Helbrecht is HUGELY DANGEROUS for foes of the Black Templars! #warhammer40k]]></title>
             <link>https://www.youtube.com/watch?v=xCmozVUDveU</link>
@@ -4525,34 +4557,38 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Does Your Army Need THIS Powerful Rule? The Power of 'Sticky Objectives' in Warhammer 40K]]></title>
-            <link>https://www.youtube.com/watch?v=1cqX1iTwefc</link>
-            <guid>yt:video:1cqX1iTwefc</guid>
-            <pubDate>Thu, 01 May 2025 06:00:01 GMT</pubDate>
-            <description><![CDATA[The video explains the Objective Secured rule in 40K gameplay, highlighting its strategic importance in holding objectives, the use of inexpensive units for advantage, and the timing of control for generating victory points while posing questions about tactical implications and faction-specific strategies.]]></description>
+            <title><![CDATA[Every Unique EMPEROR'S CHIDREN Unit in Warhammer 40K]]></title>
+            <link>https://www.youtube.com/watch?v=GIPn1OEUaMM</link>
+            <guid>yt:video:GIPn1OEUaMM</guid>
+            <pubDate>Thu, 01 May 2025 18:00:25 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the Codex Emperor's Children, detailing key units such as North Marines, Torment Troops, and Lucius the Eternal, while discussing their costs, strengths, and strategic roles on the battlefield.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Understanding Objective Secured Rules in 40K Gameplay</h2>
+<h2>📢 Codex Emperor's Children Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Objective Secured Rule:</strong> A crucial rule that allows units to hold objectives without being present, providing strategic advantages in gameplay.</li>
-    <li>🛡️ <strong>Common Units:</strong> Various strong armies incorporate cheap units like Intercessors, Cadian Shock Troops, and Battle Sisters for this rule.</li>
-    <li>🎯 <strong>Victory Points Advantage:</strong> Holding objectives can generate victory points across the game without needing to occupy the objective at all times.</li>
-    <li>📅 <strong>Timing Matters:</strong> The rules can vary in their timing, with some allowing control at the start or end of turns, impacting strategy.</li>
-    <li>💡 <strong>Multiple Uses:</strong> The rule can provide multiple tactical advantages, such as allowing units to engage elsewhere while still holding objectives.</li>
+    <li>🔥 <strong>North Marines:</strong> Costing 135 points for six, they serve as a strong ranged threat, ignoring cover.</li>
+    <li>🔥 <strong>Torment Troops:</strong> Available for 85 points, these battle line troops excel in objective play with good Objective Control (OC) and the infiltrate ability.</li>
+    <li>🔥 <strong>Flawless Blades:</strong> Elite units enhanced by boons, capable of wounding any opponent effectively.</li>
+    <li>🔥 <strong>Lucius the Eternal:</strong> A powerful operative at 140 points, known for his fight-first ability and fast movement.</li>
+    <li>🔥 <strong>Lord Exultant:</strong> A strong leader for infiltrators, proficient with relic combos and enhancing squad damage with lethal hits.</li>
+    <li>🔥 <strong>Lord Cacophinus:</strong> An economical character at 60 points who provides sustained hits to Noise Marines with a powerful doom siren.</li>
+    <li>🔥 <strong>Frim:</strong> Fast-moving character with fight-first capability, but costly relative to his damage and defense.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Unit Cost:</strong> Many effective units for this rule, like Chaos Cultists, cost around 50 points, making them valuable for their role.</li>
-    <li>⚔️ <strong>Objective Control:</strong> Even if a unit is destroyed, as long as the opponent doesn't claim the objective, it remains under your control for future turns.</li>
+    <li>📉 <strong>Cost of North Marines:</strong> 135 points for six units, presenting a strong tactical option.</li>
+    <li>📉 <strong>Torment Troops Cost:</strong> 85 points for five units, enhancing objective holding capabilities.</li>
+    <li>📉 <strong>Lucius the Eternal:</strong> 140 points, highlighting the investment for fast, aggressive play.</li>
+    <li>📉 <strong>Lord Cacophinus Cost:</strong> Only 60 points, offering great value for a character with strong capabilities.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How can the use of cheap units with the Objective Secured rule change the dynamics of your gameplay strategy?</li>
-    <li>🤔 <strong>Question 2:</strong> In what scenarios might it be beneficial to sacrifice a unit to maintain control of an objective?</li>
-    <li>🤔 <strong>Question 3:</strong> How do different factions utilize the Objective Secured rule to maximize their strengths on the battlefield?</li>
+    <li>🤔 <strong>How do the unique abilities of the Codex Emperor's Children enhance their tactical flexibility on the battlefield?</strong></li>
+    <li>🤔 <strong>What are the implications of the cost-to-effectiveness ratio for units like the Lord Cacophinus in competitive play?</strong></li>
+    <li>🤔 <strong>In what scenarios would you prioritize investing in characters like Lucius the Eternal over standard troops?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
