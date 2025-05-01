@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 01 May 2025 12:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 14:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting a World Eaters Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-world-eaters-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>xixjivoy</guid>
+            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the blood-crazed berzerkers of Khorne.]]></description>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wefaction-1-feature-noaj9mr9ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enact the King of Rohan’s will with Lief™, Page of Helm™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftakeald/enact-the-king-of-rohans-will-with-lieftm-page-of-helmtm</link>
@@ -268,16 +280,6 @@
             <category domain="world-eaters">World Eaters</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_dgweheroes-apr22-1-feature-1otuwkb5io.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 22nd of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w0ss22nc/the-rumour-engine-22nd-of-april</link>
-            <guid>w0ss22nc</guid>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr22-feature-vcq8iebtot.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
