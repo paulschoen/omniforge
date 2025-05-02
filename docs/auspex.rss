@@ -4,11 +4,47 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 01 May 2025 18:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 09:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Every Unique EMPEROR'S CHIDREN Unit in Warhammer 40K]]></title>
+            <link>https://www.youtube.com/watch?v=GIPn1OEUaMM</link>
+            <guid>yt:video:GIPn1OEUaMM</guid>
+            <pubDate>Thu, 01 May 2025 18:00:25 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the Codex Emperor's Children, detailing key units such as North Marines, Torment Troops, and Lucius the Eternal, while discussing their costs, strengths, and strategic roles on the battlefield.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Codex Emperor's Children Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>North Marines:</strong> Costing 135 points for six, they serve as a strong ranged threat, ignoring cover.</li>
+    <li>🔥 <strong>Torment Troops:</strong> Available for 85 points, these battle line troops excel in objective play with good Objective Control (OC) and the infiltrate ability.</li>
+    <li>🔥 <strong>Flawless Blades:</strong> Elite units enhanced by boons, capable of wounding any opponent effectively.</li>
+    <li>🔥 <strong>Lucius the Eternal:</strong> A powerful operative at 140 points, known for his fight-first ability and fast movement.</li>
+    <li>🔥 <strong>Lord Exultant:</strong> A strong leader for infiltrators, proficient with relic combos and enhancing squad damage with lethal hits.</li>
+    <li>🔥 <strong>Lord Cacophinus:</strong> An economical character at 60 points who provides sustained hits to Noise Marines with a powerful doom siren.</li>
+    <li>🔥 <strong>Frim:</strong> Fast-moving character with fight-first capability, but costly relative to his damage and defense.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Cost of North Marines:</strong> 135 points for six units, presenting a strong tactical option.</li>
+    <li>📉 <strong>Torment Troops Cost:</strong> 85 points for five units, enhancing objective holding capabilities.</li>
+    <li>📉 <strong>Lucius the Eternal:</strong> 140 points, highlighting the investment for fast, aggressive play.</li>
+    <li>📉 <strong>Lord Cacophinus Cost:</strong> Only 60 points, offering great value for a character with strong capabilities.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do the unique abilities of the Codex Emperor's Children enhance their tactical flexibility on the battlefield?</strong></li>
+    <li>🤔 <strong>What are the implications of the cost-to-effectiveness ratio for units like the Lord Cacophinus in competitive play?</strong></li>
+    <li>🤔 <strong>In what scenarios would you prioritize investing in characters like Lucius the Eternal over standard troops?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Does Your Army Need THIS Powerful Rule? The Power of 'Sticky Objectives' in Warhammer 40K]]></title>
             <link>https://www.youtube.com/watch?v=1cqX1iTwefc</link>
@@ -4557,38 +4593,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Every Unique EMPEROR'S CHIDREN Unit in Warhammer 40K]]></title>
-            <link>https://www.youtube.com/watch?v=GIPn1OEUaMM</link>
-            <guid>yt:video:GIPn1OEUaMM</guid>
-            <pubDate>Thu, 01 May 2025 18:00:25 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the Codex Emperor's Children, detailing key units such as North Marines, Torment Troops, and Lucius the Eternal, while discussing their costs, strengths, and strategic roles on the battlefield.]]></description>
+            <title><![CDATA[Don't Mess Up THESE in Warhammer 40K - Aircraft Rules, Tactics + Balance Problems]]></title>
+            <link>https://www.youtube.com/watch?v=ge7Uh7BNGE4</link>
+            <guid>yt:video:ge7Uh7BNGE4</guid>
+            <pubDate>Fri, 02 May 2025 06:00:35 GMT</pubDate>
+            <description><![CDATA[The video discusses the current challenges and nuances of using aircraft in Warhammer 40k, highlighting their limited playability, frequent points increases by Games Workshop, unique gameplay mechanics, and inherent weaknesses that hinder their effectiveness in competitive scenarios.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Codex Emperor's Children Overview</h2>
+<h2>📢 Aircraft Rules and Nuances in Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>North Marines:</strong> Costing 135 points for six, they serve as a strong ranged threat, ignoring cover.</li>
-    <li>🔥 <strong>Torment Troops:</strong> Available for 85 points, these battle line troops excel in objective play with good Objective Control (OC) and the infiltrate ability.</li>
-    <li>🔥 <strong>Flawless Blades:</strong> Elite units enhanced by boons, capable of wounding any opponent effectively.</li>
-    <li>🔥 <strong>Lucius the Eternal:</strong> A powerful operative at 140 points, known for his fight-first ability and fast movement.</li>
-    <li>🔥 <strong>Lord Exultant:</strong> A strong leader for infiltrators, proficient with relic combos and enhancing squad damage with lethal hits.</li>
-    <li>🔥 <strong>Lord Cacophinus:</strong> An economical character at 60 points who provides sustained hits to Noise Marines with a powerful doom siren.</li>
-    <li>🔥 <strong>Frim:</strong> Fast-moving character with fight-first capability, but costly relative to his damage and defense.</li>
+    <li>✈️ <strong>Niche Play:</strong> Aircraft in Warhammer 40k are currently a rarely played unit, often sidelined in favor of ground forces.</li>
+    <li>📈 <strong>Points Increase:</strong> Whenever an aircraft shows competitive success, Games Workshop tends to increase their points, discouraging mainstream use.</li>
+    <li>🛠️ <strong>Gameplay Mechanics:</strong> Aircraft have unique movement and combat mechanics that can lead to misunderstandings among players.</li>
+    <li>💔 <strong>Weaknesses:</strong> Aircraft are often fragile and struggle to interact with primary objectives due to their OC0 status, limiting their effectiveness.</li>
+    <li>🚀 <strong>High Mobility:</strong> Many aircraft have a movement stat of 20, allowing them to cover large distances quickly, but they come with restrictions on engagement.</li>
+    <li>🎲 <strong>Bombing Runs:</strong> Aircraft can inflict damage through bombing runs, but these rules are often criticized for being underwhelming.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Cost of North Marines:</strong> 135 points for six units, presenting a strong tactical option.</li>
-    <li>📉 <strong>Torment Troops Cost:</strong> 85 points for five units, enhancing objective holding capabilities.</li>
-    <li>📉 <strong>Lucius the Eternal:</strong> 140 points, highlighting the investment for fast, aggressive play.</li>
-    <li>📉 <strong>Lord Cacophinus Cost:</strong> Only 60 points, offering great value for a character with strong capabilities.</li>
+    <li>📉 <strong>Points Costs:</strong> Aircraft like the Void Raven Bomber have seen increases from 200 to 235 points when competitive, affecting their viability.</li>
+    <li>🕒 <strong>Turn Timing:</strong> Non-hover aircraft must arrive from reserves by turn 2 to be effective, as they often don't contribute until turn 3.</li>
+    <li>🛑 <strong>OC Status:</strong> All aircraft currently have OC0, meaning they cannot contribute to primary objectives.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How do the unique abilities of the Codex Emperor's Children enhance their tactical flexibility on the battlefield?</strong></li>
-    <li>🤔 <strong>What are the implications of the cost-to-effectiveness ratio for units like the Lord Cacophinus in competitive play?</strong></li>
-    <li>🤔 <strong>In what scenarios would you prioritize investing in characters like Lucius the Eternal over standard troops?</strong></li>
+    <li>🤔 <strong>Design Balance:</strong> How can Games Workshop better balance aircraft to enhance their role in competitive play without overpowering them?</li>
+    <li>🔍 <strong>Community Feedback:</strong> What changes would the Warhammer community propose to improve the functionality and playability of aircraft?</li>
+    <li>⚔️ <strong>Gameplay Strategies:</strong> In what innovative ways can players utilize aircraft to gain an advantage despite their current limitations?</li>
 </ul>
 ]]></content:encoded>
         </item>
