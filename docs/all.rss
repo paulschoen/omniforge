@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 May 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 15:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to use the Knives of the Crone in Warhammer Underworlds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xpttvrmb/how-to-use-the-knives-of-the-crone-in-warhammer-underworlds</link>
+            <guid>xpttvrmb</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take on the blood-soaked devotees of Morai-Heg.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_knivesofthecrone-may07-1-feature-d960a0drb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Corsairs, Vampires, Battle Sisters and more star in new Black Library books]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2thqqbn0/corsairs-vampires-battle-sisters-and-more-star-in-new-black-library-books</link>
@@ -261,17 +272,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr29-feature-rvbsekl2ux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting a 500 Point Army in 500 Minutes! | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/3rcf5kz0/painting-a-500-point-army-in-500-minutes-warhammer</link>
-            <guid>3rcf5kz0</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dan has been set the challenge of painting up a small force in a race against time! Can he claim success in a little over eight hours? Watch to find out if this squabble of Snotlings and friends can reach painted glory in time for dinner!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/500-500-thumb-xrzz95eno7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
