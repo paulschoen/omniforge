@@ -4,11 +4,135 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 03 May 2025 17:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 13:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Win big with Burgschneider]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qfj5ggqx/warhammer-tv-this-week-win-big-with-burgschneider</link>
+            <guid>qfj5ggqx</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus: Old World cartography and tips from a Golden Demon winner.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may07-1-feature-3tyzppk24w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Bolts from the blue]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g6r8abst/scourge-of-ghyran-bolts-from-the-blue</link>
+            <guid>g6r8abst</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[You’ve got to have faith.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran02-may07-1-feature-loyeibpoge.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Explore deeper into Warhammer with these upcoming books from DK]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ouxhupcj/explore-deeper-into-warhammer-with-these-upcoming-books-from-dk</link>
+            <guid>ouxhupcj</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Make space on your shelves for more Warhammer.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dkbookspreview-may06-1-feature-dtiaxpztrk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Make your Soulblight Gravelords Vile | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/pbok6e8j/make-your-soulblight-gravelords-vile-warhammer-age-of-sigmar</link>
+            <guid>pbok6e8j</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01047---make-your-soulblight-gravelords-vile-thumbnail-v2-jqx0ewiurw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Ghyran day 1: Bring on the SkavenDOOM!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ahs2k9uo/scourge-of-ghyran-day-1-bring-on-the-skavendoom</link>
+            <guid>ahs2k9uo</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The ratmen have tunnelled their way into pole position.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="skaven">Skaven</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran1-may06-1-feature-gmb3mpluzm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 6th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p4trvsr8/the-rumour-engine-6th-of-may</link>
+            <guid>p4trvsr8</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may6-1-feature-4ytrjnm8qp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Forest of Death]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vcnzljhc/chronicles-of-ruin-forest-of-death</link>
+            <guid>vcnzljhc</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Something stirs at the trespass of the Crowblade Clan…]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_soulblightfiction-may05-1-feature-ezo30lynox.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imperial Knights revealed – The Knight Defender is the greatest building-sized bodyguard in the Imperium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yom5sqsp/imperial-knights-revealed-the-knight-defender-is-the-greatest-building-sized-bodyguard-in-the-imperium</link>
+            <guid>yom5sqsp</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hark! A new Codex is coming!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-wysfqketlr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prepare for the next General’s Handbook with the Scourge of Ghyran!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2pgti3di/prepare-for-the-next-generals-handbook-with-the-scourge-of-ghyran</link>
+            <guid>2pgti3di</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A monthlong celebration of excellence in the Mortal Realms.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyranintro-may05-1-feature-k8m5pnggpf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White Dwarf 512 – Plague be upon ye, all who enter here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wubentk1/white-dwarf-512-plague-be-upon-ye-all-who-enter-here</link>
+            <guid>wubentk1</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s in this month’s issue?]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd512-apr28-1-feature-mesmlz0rly.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunday Preview – Bloodsuckers and Barrow Kingdoms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iupolkdl/sunday-preview-bloodsuckers-and-barrow-kingdoms</link>
+            <guid>iupolkdl</guid>
+            <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may04-1-feature-e1mgfzkuon.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – In the eye of the storm]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gttmpimu/saturday-pre-orders-in-the-eye-of-the-storm</link>
@@ -89,6 +213,16 @@
             <enclosure url="https://assets.warhammer-community.com/kt_update-apr30-1-feature-3hvqlu3ifl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hell's Last with Justin D Hill | Black Library]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wmhbe2qi/hells-last-with-justin-d-hill-black-library</link>
+            <guid>wmhbe2qi</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this interview with Black Library author Justin Hill as they explore the thrilling Astra Militarum novel, Hell's Last.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01666_thumbnail-cwpvnqbe3q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Touchline Tactics – How to play Imperial Nobility in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mljcx7ih/touchline-tactics-how-to-play-imperial-nobility-in-blood-bowl</link>
             <guid>mljcx7ih</guid>
@@ -141,144 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_spacewolves-apr28-1-feature-lhtgzg2mjn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Embrace excess with an Emperor’s Children-themed Miniature of the Month and Coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zqc0kycr/embrace-excess-with-an-emperors-children-themed-miniature-of-the-month-and-coin</link>
-            <guid>zqc0kycr</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-apr28-1-feature-lugrjd93kw.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Gods and Godbeasts on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gwl2zlob/sunday-preview-gods-and-godbeasts-on-warhammer-tv</link>
-            <guid>gwl2zlob</guid>
-            <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s a quiet week for pre-orders]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr27-1-feature-6zakwq7z9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Khorne and Nurgle versus the world]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gltawssc/saturday-pre-orders-khorne-and-nurgle-versus-the-world</link>
-            <guid>gltawssc</guid>
-            <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-apr26-1-feature-bjzv4nlruw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies on Parade 2025 – The Warhammer Community team make progress]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0kz489ni/armies-on-parade-2025-the-warhammer-community-team-make-progress</link>
-            <guid>0kz489ni</guid>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How is our team’s entry getting on?]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aop_progress2-apr25-1-feature-gh3rdyys8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community Crusade – The incursion begins]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7c3egbf3/the-warhammer-community-crusade-the-incursion-begins</link>
-            <guid>7c3egbf3</guid>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our players muster their 1,000-point armies.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh-_crusade2-apr25-1-feature-owiigm6vhd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death Guard tactics – slow and steady wins the race]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2kfajcjk/death-guard-tactics-slow-and-steady-wins-the-race</link>
-            <guid>2kfajcjk</guid>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Aiden Smalley from Vanguard Tactics kicks up a stink.]]></description>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_dg-influencertactics-apr25-1-feature-9jlpue7f4n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bloodshed and buboes – How daemon detachments work for the World Eaters and Death Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d5edwgha/bloodshed-and-buboes-how-daemon-detachments-work-for-the-world-eaters-and-death-guard</link>
-            <guid>d5edwgha</guid>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a little help from your daemonic pals.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wedgdaemons-apr25-1-feature-u0icibyhuy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Warhammer Events – Battle for the fate of Ghyran at Warhammer World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f6lcwbpp/upcoming-warhammer-events-battle-for-the-fate-of-ghyran-at-warhammer-world</link>
-            <guid>f6lcwbpp</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your tickets for this summer’s best Warhammer events.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-apr24-1-feature-fgqwjwwe20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evil returns to Middle-earth with the War Drakes of Rhûn and the Umbar Ballista]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eh5t2uuu/evil-returns-to-middle-earth-with-the-war-drakes-of-rhun-and-the-umbar-ballista</link>
-            <guid>eh5t2uuu</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reinforcements for the baddies.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_reveals-apr24-1-feature-dsgtfmzlhj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dawn of Fire hero Ferren Areios battles to reclaim plague-ridden worlds in new spin-off novel Master of Rites]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9jjd0ot7/dawn-of-fire-hero-ferren-areios-battles-to-reclaim-plague-ridden-worlds-in-new-spin-off-novel-master-of-rites</link>
-            <guid>9jjd0ot7</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A newly anointed Ultramarines captain tackles the Death Guard.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_masterofrites-apr23-1-feature-7uj1rdngot.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Eaters tactics – Richard Siegler weighs in on Khorne’s finest]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d56jp9bq/world-eaters-tactics-richard-siegler-weighs-in-on-khornes-finest</link>
-            <guid>d56jp9bq</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Exciting new ways to batter the lackeys of the Corpse-Emperor.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_weinfllists-apr23-1-feature-2gnljfi0fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soulblight Gravelords Painted Quickly and Looking Awesome | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/v3kputym/soulblight-gravelords-painted-quickly-and-looking-awesome-warhammer-age-of-sigmar</link>
-            <guid>v3kputym</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch along as Adam shows you how he tackles painting Soulblight Gravelords quickly and easily so that they look awesome and ready to fight on the battlefield in no time at all.]]></description>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/soulblight-gravelords-copy-gjruflreuk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
