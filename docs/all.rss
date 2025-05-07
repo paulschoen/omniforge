@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 May 2025 13:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Corsairs, Vampires, Battle Sisters and more star in new Black Library books]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2thqqbn0/corsairs-vampires-battle-sisters-and-more-star-in-new-black-library-books</link>
+            <guid>2thqqbn0</guid>
+            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Make space on your bookcase.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_comingsoon-may07-1-feature-gmfximca4h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Win big with Burgschneider]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qfj5ggqx/warhammer-tv-this-week-win-big-with-burgschneider</link>
@@ -262,19 +272,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/500-500-thumb-xrzz95eno7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Logan Grimnar leads a pack of Space Wolf reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/terohgl0/logan-grimnar-leads-a-pack-of-space-wolf-reinforcements</link>
-            <guid>terohgl0</guid>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More new Space Wolves? Hail Russ!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_spacewolves-apr28-1-feature-lhtgzg2mjn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
