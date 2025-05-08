@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 08 May 2025 12:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 13:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community Showcase: We’re in thrall to these undead masterpieces]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xszg98ct/community-showcase-were-in-thrall-to-these-undead-masterpieces</link>
+            <guid>xszg98ct</guid>
+            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A parade of morbid magnificence.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sbinfluencer-may08-1-feature-ecfv7mfr9k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran day 3: Dining out with the Flesh-eaters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r1lrr7uz/scourge-of-ghyran-day-3-dining-out-with-the-flesh-eaters</link>
@@ -264,16 +276,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_imperials-apr29-1-feature-ajjvf4m50v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Congratulations to the 2025 Warhammer Heroes Winners]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wfsondzu/congratulations-to-the-2025-warhammer-heroes-winners</link>
-            <guid>wfsondzu</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out who earned their place in the pantheon this year.]]></description>
-            <category domain="warhammer-heroes">Warhammer Heroes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whheroes2025_winners-apr29-1-feature-gancvorazj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
