@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 May 2025 15:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 12:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran day 3: Dining out with the Flesh-eaters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r1lrr7uz/scourge-of-ghyran-day-3-dining-out-with-the-flesh-eaters</link>
+            <guid>r1lrr7uz</guid>
+            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nourishment for your noxious nobles.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran03-may08-1-feature-hwmq6cygwd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to use the Knives of the Crone in Warhammer Underworlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xpttvrmb/how-to-use-the-knives-of-the-crone-in-warhammer-underworlds</link>
@@ -262,16 +274,6 @@
             <category domain="warhammer-heroes">Warhammer Heroes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whheroes2025_winners-apr29-1-feature-gancvorazj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 29th of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p9gentyu/the-rumour-engine-29th-of-april</link>
-            <guid>p9gentyu</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr29-feature-rvbsekl2ux.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
