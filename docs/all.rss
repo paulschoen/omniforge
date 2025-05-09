@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 May 2025 12:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 13:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Hail to the Hollow King]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r3e8lgu2/hail-to-the-hollow-king</link>
+            <guid>r3e8lgu2</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Daz talks us through his beautiful work on Cado Ezechiar.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dazcado-may09-1-feature-9bcbo29yl1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran day 4: Fanatic Fantastic]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/smdux6ly/scourge-of-ghyran-day-4-fanatic-fantastic</link>
@@ -268,17 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr30-1-feature-litx11uu2u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team quarterly balance update – Big boosts to lower-performing teams]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e2sdc3qz/kill-team-quarterly-balance-update-big-boosts-to-lower-performing-teams</link>
-            <guid>e2sdc3qz</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new edition is in good shape.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_update-apr30-1-feature-3hvqlu3ifl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
