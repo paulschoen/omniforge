@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 08 May 2025 13:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 11:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Open events 2025: What’s inside the Premium swag boxes?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yqvdnx05/warhammer-open-events-2025-whats-inside-the-premium-swag-boxes</link>
+            <guid>yqvdnx05</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Don’t miss out on this bounty of heretical artefacts.]]></description>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/eventsswag-may9-1-feature-td2ad3nzpp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community Showcase: We’re in thrall to these undead masterpieces]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xszg98ct/community-showcase-were-in-thrall-to-these-undead-masterpieces</link>
@@ -266,16 +277,6 @@
             <category domain="black-library">Black Library</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01666_thumbnail-cwpvnqbe3q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to play Imperial Nobility in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mljcx7ih/touchline-tactics-how-to-play-imperial-nobility-in-blood-bowl</link>
-            <guid>mljcx7ih</guid>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stay high and mighty while getting down and dirty on the pitch.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_imperials-apr29-1-feature-ajjvf4m50v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
