@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 May 2025 11:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 12:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran day 4: Fanatic Fantastic]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/smdux6ly/scourge-of-ghyran-day-4-fanatic-fantastic</link>
+            <guid>smdux6ly</guid>
+            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New stuff for Moonclan and Gitmob.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran04-may09-1-feature-z0ozlxlpmv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Open events 2025: What’s inside the Premium swag boxes?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yqvdnx05/warhammer-open-events-2025-whats-inside-the-premium-swag-boxes</link>
@@ -267,16 +279,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_update-apr30-1-feature-3hvqlu3ifl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hell's Last with Justin D Hill | Black Library]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wmhbe2qi/hells-last-with-justin-d-hill-black-library</link>
-            <guid>wmhbe2qi</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this interview with Black Library author Justin Hill as they explore the thrilling Astra Militarum novel, Hell's Last.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01666_thumbnail-cwpvnqbe3q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
