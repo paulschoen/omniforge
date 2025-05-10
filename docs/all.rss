@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 10 May 2025 12:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 17:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Barrow Kingdoms rise from the grave]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nphtttgm/saturday-pre-orders-barrow-kingdoms-rise-from-the-grave</link>
+            <guid>nphtttgm</guid>
+            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may10-1-feature-ijoyylkcla.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran day 5: Torment by day, haunt by night]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/virk2hly/scourge-of-ghyran-day-5-torment-by-day-haunt-by-night</link>
@@ -268,17 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wefaction-1-feature-noaj9mr9ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enact the King of Rohan’s will with Lief™, Page of Helm™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ftakeald/enact-the-king-of-rohans-will-with-lieftm-page-of-helmtm</link>
-            <guid>ftakeald</guid>
-            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The young squire enters the battlefield.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_lief-may01-1-feature-qmap2pkcse.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
