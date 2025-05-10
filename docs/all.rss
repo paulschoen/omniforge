@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 May 2025 14:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 12:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran day 5: Torment by day, haunt by night]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/virk2hly/scourge-of-ghyran-day-5-torment-by-day-haunt-by-night</link>
+            <guid>virk2hly</guid>
+            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Spooktacular delights and gifts for gheists.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran05-may10-1-feature-txlewhepd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon returns to SPIEL 2025]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9rdm38gw/golden-demon-returns-to-spiel-2025</link>
@@ -267,19 +279,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_lief-may01-1-feature-qmap2pkcse.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Justin D. Hill chats Hell’s Last and the Minka Lesk saga]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/80fqps9q/justin-d-hill-chats-hells-last-and-the-minka-lesk-saga</link>
-            <guid>80fqps9q</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A video interview with the author behind Cadia’s latest hero.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_jhill-interview-apr30-1-feature-myls9l6jyt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
