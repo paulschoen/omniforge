@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 11 May 2025 12:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 May 2025 17:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Sorcerous Space Marines and forest sentinels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wy2pxyu4/sunday-preview-sorcerous-space-marines-and-forest-sentinels</link>
+            <guid>wy2pxyu4</guid>
+            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may11-1-feature-w73z7uwnfh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Expedite your planning permission across the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hn12fjge/scourge-of-ghyran-expedite-your-planning-permission-across-the-mortal-realms</link>
@@ -271,18 +286,6 @@
             <category domain="pre-orders">Pre-orders</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may03-1-feature-bzmy0n5u0j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Death Guard Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-death-guard-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>xixjivoy</guid>
-            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the indomitable champions of pestilence.]]></description>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_dgfaction-1-feature-gpha8dmmpv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
