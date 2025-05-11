@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 10 May 2025 17:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 May 2025 12:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Expedite your planning permission across the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hn12fjge/scourge-of-ghyran-expedite-your-planning-permission-across-the-mortal-realms</link>
+            <guid>hn12fjge</guid>
+            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Complement your Castelite with cool new rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran06-may11-1-feature-lxcductw91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Barrow Kingdoms rise from the grave]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nphtttgm/saturday-pre-orders-barrow-kingdoms-rise-from-the-grave</link>
@@ -271,18 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_dgfaction-1-feature-gpha8dmmpv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a World Eaters Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-world-eaters-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>xixjivoy</guid>
-            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the blood-crazed berzerkers of Khorne.]]></description>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wefaction-1-feature-noaj9mr9ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
