@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 May 2025 13:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Underworlds – Battle for glory in a new season of Organised Play]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wn2r6n9i/warhammer-underworlds-battle-for-glory-in-a-new-season-of-organised-play</link>
+            <guid>wn2r6n9i</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Play games, win prizes.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_op-may12-1-feature-pnczywjm4j.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chaos Knights revealed – Darkflame and a deadly drill make the Knight Ruinator a hellacious headhunter]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter</link>
@@ -275,16 +285,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyranintro-may05-1-feature-k8m5pnggpf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 512 – Plague be upon ye, all who enter here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wubentk1/white-dwarf-512-plague-be-upon-ye-all-who-enter-here</link>
-            <guid>wubentk1</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s in this month’s issue?]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd512-apr28-1-feature-mesmlz0rly.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
