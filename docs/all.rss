@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 May 2025 12:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 13:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chaos Knights revealed – Darkflame and a deadly drill make the Knight Ruinator a hellacious headhunter]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter</link>
+            <guid>mijwqkw4</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Burn and bore your way to victory!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-p9no8albex.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: It’s a krule world]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/aybhy6cq/scourge-of-ghyran-its-a-krule-world</link>
@@ -273,21 +285,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd512-apr28-1-feature-mesmlz0rly.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Bloodsuckers and Barrow Kingdoms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iupolkdl/sunday-preview-bloodsuckers-and-barrow-kingdoms</link>
-            <guid>iupolkdl</guid>
-            <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may04-1-feature-e1mgfzkuon.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
