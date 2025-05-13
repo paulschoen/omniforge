@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 May 2025 09:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 12:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Skeletal debt-collectors come a-knocking]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mt3qwtxa/scourge-of-ghyran-skeletal-debt-collectors-come-a-knocking</link>
+            <guid>mt3qwtxa</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reanimate, invigorate… turn people into skeletons.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog02-may12-1-feature-2llac7hrb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Planetfall countdown – DROP MINUS 399 HOURS]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wmno4akm/planetfall-countdown-drop-minus-399-hours</link>
@@ -272,18 +284,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-may6-1-feature-4ytrjnm8qp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – Forest of Death]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vcnzljhc/chronicles-of-ruin-forest-of-death</link>
-            <guid>vcnzljhc</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Something stirs at the trespass of the Crowblade Clan…]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_soulblightfiction-may05-1-feature-ezo30lynox.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
