@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 May 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 03:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Planetfall countdown – DROP MINUS 399 HOURS]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wmno4akm/planetfall-countdown-drop-minus-399-hours</link>
+            <guid>wmno4akm</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reconnaissance fleet assets enter system]]></description>
+            <category domain="the-horus-heresy">The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh-13-05-1-feature-tj9byn6ha2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Underworlds – Battle for glory in a new season of Organised Play]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wn2r6n9i/warhammer-underworlds-battle-for-glory-in-a-new-season-of-organised-play</link>
@@ -274,17 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-wysfqketlr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prepare for the next General’s Handbook with the Scourge of Ghyran!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2pgti3di/prepare-for-the-next-generals-handbook-with-the-scourge-of-ghyran</link>
-            <guid>2pgti3di</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A monthlong celebration of excellence in the Mortal Realms.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyranintro-may05-1-feature-k8m5pnggpf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
