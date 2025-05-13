@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Mon, 12 May 2025 15:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 00:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[New Knight Revealed - Knight Ruinator and Codex Chaos Knights Announced...]]></title>
+            <link>https://www.youtube.com/watch?v=7ARYwQanNzg</link>
+            <guid>yt:video:7ARYwQanNzg</guid>
+            <pubDate>Mon, 12 May 2025 14:10:47 GMT</pubDate>
+            <description><![CDATA[The video reveals the Night Ruinator, a new model for the Chaos Knights in Warhammer 40k featuring a siege drill and flamethrower, discusses its diverse weaponry and expected pricing, and poses questions about its impact on gameplay and strategies.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Chaos Knights Revealed: The Night Ruinator</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Model Reveal:</strong> The Night Ruinator, a major addition to the Chaos Knights range, features a large siege drill and flamethrower.</li>
+    <li>🎨 <strong>Release Schedule:</strong> Upcoming releases include Imperial and Chaos Knights, with pre-orders for Thousand Sons and Space Wolves expected soon.</li>
+    <li>⚔️ <strong>Weaponry Overview:</strong> Equipped with a Dark Flame Lance, a siege drill (Feloreball), and missile pods (Terapulse missiles) for diverse combat roles.</li>
+    <li>📦 <strong>Box Set Options:</strong> Will be sold in two separate box sets, along with existing kits, allowing for various assembly options.</li>
+    <li>🧐 <strong>Potential Stats:</strong> The Dark Flame Lance is likely similar to current Knight weapons, with a range of 18 inches and high damage potential.</li>
+    <li>💰 <strong>Expected Pricing:</strong> Anticipated price points around £110-£178 or $145, subject to Games Workshop's pricing strategies.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Pricing Range:</strong> Expected prices for the new model are between £110 and £178, or $145.</li>
+    <li>📏 <strong>Weapon Range:</strong> The Dark Flame Lance is projected to have an 18-inch range, capable of 3D6 hits.</li>
+    <li>🔢 <strong>Statistical Comparisons:</strong> The potential damage output is significant, with references to strength 8 and AP1 weapon stats.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the introduction of the Night Ruinator affect existing Chaos Knight strategies?</strong></li>
+    <li>🧐 <strong>What implications do you think the pricing and availability of the new model will have on the competitive scene?</strong></li>
+    <li>💭 <strong>Which weapon combinations do you believe would be most effective for the Night Ruinator in gameplay?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Thousand Sons Combat Patrol REVEALED - Big Release Week for the Legion of Tzeentch]]></title>
             <link>https://www.youtube.com/watch?v=CjR1xEiXqp4</link>
@@ -5231,36 +5265,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Knight Revealed - Knight Ruinator and Codex Chaos Knights Announced...]]></title>
-            <link>https://www.youtube.com/watch?v=7ARYwQanNzg</link>
-            <guid>yt:video:7ARYwQanNzg</guid>
-            <pubDate>Mon, 12 May 2025 14:10:47 GMT</pubDate>
-            <description><![CDATA[The video reveals the Night Ruinator, a new model for the Chaos Knights in Warhammer 40k featuring a siege drill and flamethrower, discusses its diverse weaponry and expected pricing, and poses questions about its impact on gameplay and strategies.]]></description>
+            <title><![CDATA[Thousand Sons - Possible Rules Leak and Everything we Know So Far]]></title>
+            <link>https://www.youtube.com/watch?v=ELvIU1w6zO8</link>
+            <guid>yt:video:ELvIU1w6zO8</guid>
+            <pubDate>Mon, 12 May 2025 21:55:02 GMT</pubDate>
+            <description><![CDATA[The upcoming Codex for the Thousand Sons, releasing on May 31 with pre-orders starting May 17, will introduce new detachments, units, and mechanics, retain unique psychic powers, and include key characters like Magnus, while currently facing a competitive win rate of 46-47%.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k Chaos Knights Revealed: The Night Ruinator</h2>
+<h2>📢 Upcoming Codex: Thousand Sons Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Model Reveal:</strong> The Night Ruinator, a major addition to the Chaos Knights range, features a large siege drill and flamethrower.</li>
-    <li>🎨 <strong>Release Schedule:</strong> Upcoming releases include Imperial and Chaos Knights, with pre-orders for Thousand Sons and Space Wolves expected soon.</li>
-    <li>⚔️ <strong>Weaponry Overview:</strong> Equipped with a Dark Flame Lance, a siege drill (Feloreball), and missile pods (Terapulse missiles) for diverse combat roles.</li>
-    <li>📦 <strong>Box Set Options:</strong> Will be sold in two separate box sets, along with existing kits, allowing for various assembly options.</li>
-    <li>🧐 <strong>Potential Stats:</strong> The Dark Flame Lance is likely similar to current Knight weapons, with a range of 18 inches and high damage potential.</li>
-    <li>💰 <strong>Expected Pricing:</strong> Anticipated price points around £110-£178 or $145, subject to Games Workshop's pricing strategies.</li>
+    <li>🔥 <strong>Release Dates:</strong> Pre-orders start on <strong>May 17</strong>; full release in stores on <strong>May 31</strong>.</li>
+    <li>🆕 <strong>New Additions:</strong> Introduction of new detachments, units, and mechanics, including the Seitar robots.</li>
+    <li>📊 <strong>Current Performance:</strong> Thousand Sons have a win rate of around <strong>46-47%</strong>, indicating they are somewhat underperforming in the current meta.</li>
+    <li>🔮 <strong>Psychic Powers:</strong> Retention of unique psychic abilities, with the potential for a revamped cabalistic ritual system.</li>
+    <li>🧙‍♂️ <strong>Key Characters:</strong> Magnus and other sorcerers are central to competitive builds, with rumors of new abilities and adjustments.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Pricing Range:</strong> Expected prices for the new model are between £110 and £178, or $145.</li>
-    <li>📏 <strong>Weapon Range:</strong> The Dark Flame Lance is projected to have an 18-inch range, capable of 3D6 hits.</li>
-    <li>🔢 <strong>Statistical Comparisons:</strong> The potential damage output is significant, with references to strength 8 and AP1 weapon stats.</li>
+    <li>📅 <strong>120 Pages:</strong> The new Codex will be <strong>120 pages</strong> long, providing extensive rules and lore.</li>
+    <li>🃏 <strong>39 Reference Cards:</strong> Includes <strong>39</strong> reference cards, with <strong>28</strong> dedicated to Thousand Sons after excluding other factions.</li>
+    <li>🧙‍♂️ <strong>46-47% Win Rate:</strong> Current tournament performance indicates a win rate close to <strong>46-47%</strong>, suggesting competitiveness issues.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the introduction of the Night Ruinator affect existing Chaos Knight strategies?</strong></li>
-    <li>🧐 <strong>What implications do you think the pricing and availability of the new model will have on the competitive scene?</strong></li>
-    <li>💭 <strong>Which weapon combinations do you believe would be most effective for the Night Ruinator in gameplay?</strong></li>
+    <li>🤔 <strong>What potential strategies could be employed to enhance the Thousand Sons' competitive viability?</strong></li>
+    <li>🔍 <strong>How might the new codex impact the overall meta in Warhammer 40K?</strong></li>
+    <li>🎲 <strong>What role do you think psychic powers will play in upcoming games with the new codex mechanics?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
