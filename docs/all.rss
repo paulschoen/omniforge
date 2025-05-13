@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 May 2025 12:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 13:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 13th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/czmpjcko/the-rumour-engine-13th-of-may</link>
+            <guid>czmpjcko</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may12-1-feature-jcdc3yfr3l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Skeletal debt-collectors come a-knocking]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mt3qwtxa/scourge-of-ghyran-skeletal-debt-collectors-come-a-knocking</link>
@@ -274,16 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran1-may06-1-feature-gmb3mpluzm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 6th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p4trvsr8/the-rumour-engine-6th-of-may</link>
-            <guid>p4trvsr8</guid>
-            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may6-1-feature-4ytrjnm8qp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
