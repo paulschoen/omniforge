@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 May 2025 03:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 09:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -40,6 +40,17 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-p9no8albex.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Ways To Paint Spooky Graves | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/2alhclv3/three-ways-to-paint-spooky-graves-warhammer-age-of-sigmar</link>
+            <guid>2alhclv3</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[On hallowed ground sits a Necromancer’s dream – three Cursed Sepulchres, spewing out all the deathly energies one could want. But they need painting up to really get the dead moving, and we have three different schemes to try.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumb-v2-9hkmrruugw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: It’s a krule world]]></title>
@@ -235,6 +246,7 @@
             <link>https://www.warhammer-community.com/en-gb/videos/pbok6e8j/make-your-soulblight-gravelords-vile-warhammer-age-of-sigmar</link>
             <guid>pbok6e8j</guid>
             <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Love Soulblight Gravelords, but the vampires seem a little bit too clean? Well, Emma has a few simple effects that work a treat to make your blood-sucking noble into a vile, horrific monster, worthy of Nagash’s praise.]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01047---make-your-soulblight-gravelords-vile-thumbnail-v2-jqx0ewiurw.jpg" length="0" type="image/jpg"/>
@@ -272,18 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_soulblightfiction-may05-1-feature-ezo30lynox.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imperial Knights revealed – The Knight Defender is the greatest building-sized bodyguard in the Imperium]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yom5sqsp/imperial-knights-revealed-the-knight-defender-is-the-greatest-building-sized-bodyguard-in-the-imperium</link>
-            <guid>yom5sqsp</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hark! A new Codex is coming!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-wysfqketlr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
