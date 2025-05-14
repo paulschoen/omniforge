@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 May 2025 09:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 12:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Gifts from the Blood God]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w480zowt/scourge-of-ghyran-gifts-from-the-blood-god</link>
+            <guid>w480zowt</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exciting advances in skull extraction.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog08-may13-1-feature-uzltd8z9tj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Skulls returns! #WarhammerSkulls]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/2tlfbxpp/warhammer-skulls-returns-warhammerskulls</link>
@@ -272,17 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran02-may07-1-feature-loyeibpoge.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explore deeper into Warhammer with these upcoming books from DK]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ouxhupcj/explore-deeper-into-warhammer-with-these-upcoming-books-from-dk</link>
-            <guid>ouxhupcj</guid>
-            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Make space on your shelves for more Warhammer.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_dkbookspreview-may06-1-feature-dtiaxpztrk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
