@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 May 2025 12:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 14:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sekhetar Robots are the stealthiest killer automata you’ve never seen]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/v9jvkrt4/sekhetar-robots-are-the-stealthiest-killer-automata-youve-never-seen</link>
+            <guid>v9jvkrt4</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How exactly do you hide these looming, living statues?]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ts-sekhetarrobots-may14-1-feature-uxlrpnynwp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Lupercal trailer – Uncover a plot to kill the Warmaster on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/v25ljay9/warhammer-tv-this-week-uncover-a-plot-to-kill-the-warmaster-in-a-new-trailer</link>
+            <guid>v25ljay9</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new shows with your subscription.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature2-z9h9ti1hon.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Gifts from the Blood God]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w480zowt/scourge-of-ghyran-gifts-from-the-blood-god</link>
@@ -262,28 +284,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_comingsoon-may07-1-feature-gmfximca4h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Win big with Burgschneider]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qfj5ggqx/warhammer-tv-this-week-win-big-with-burgschneider</link>
-            <guid>qfj5ggqx</guid>
-            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus: Old World cartography and tips from a Golden Demon winner.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may07-1-feature-3tyzppk24w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Bolts from the blue]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g6r8abst/scourge-of-ghyran-bolts-from-the-blue</link>
-            <guid>g6r8abst</guid>
-            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You’ve got to have faith.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran02-may07-1-feature-loyeibpoge.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
