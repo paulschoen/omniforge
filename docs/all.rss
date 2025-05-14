@@ -4,13 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 May 2025 16:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 09:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Warhammer Skulls 2025 – The festival of Warhammer video games Returns next week]]></title>
+            <title><![CDATA[Warhammer Skulls returns! #WarhammerSkulls]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/2tlfbxpp/warhammer-skulls-returns-warhammerskulls</link>
+            <guid>2tlfbxpp</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer superfan and star of Warhammer 40,000: Boltgun, Rahul Kohli has some big news about Warhammer Skulls!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01677_rk_skulls-announcement_thumb_16x9-pgp2fp9uws.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Skulls 2025 – The festival of Warhammer video games returns next week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ajsw3jef/warhammer-skulls-2025-the-festival-of-warhammer-video-games-returns-next-week</link>
             <guid>ajsw3jef</guid>
             <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
@@ -273,16 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_dkbookspreview-may06-1-feature-dtiaxpztrk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Make your Soulblight Gravelords Vile | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pbok6e8j/make-your-soulblight-gravelords-vile-warhammer-age-of-sigmar</link>
-            <guid>pbok6e8j</guid>
-            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Love Soulblight Gravelords, but the vampires seem a little bit too clean? Well, Emma has a few simple effects that work a treat to make your blood-sucking noble into a vile, horrific monster, worthy of Nagash’s praise.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01047---make-your-soulblight-gravelords-vile-thumbnail-v2-jqx0ewiurw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
