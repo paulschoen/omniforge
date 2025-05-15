@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 15 May 2025 13:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to get the most out of the Thousand Sons, just as planned]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nofwm1b5/how-to-get-the-most-out-of-the-thousand-sons-just-as-planned</link>
+            <guid>nofwm1b5</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Change the ways you play…]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ts-influencerexpert-may15-1-feature-0xpk4jejsa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Narrative Play in Middle-earth™ – A surprise trip]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6rn7mqtc/narrative-play-in-middle-earthtm-a-surprise-trip</link>
@@ -273,17 +285,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran04-may09-1-feature-z0ozlxlpmv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Open events 2025: What’s inside the Premium swag boxes?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yqvdnx05/warhammer-open-events-2025-whats-inside-the-premium-swag-boxes</link>
-            <guid>yqvdnx05</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Don’t miss out on this bounty of heretical artefacts.]]></description>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/eventsswag-may9-1-feature-td2ad3nzpp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
