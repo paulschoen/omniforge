@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 15 May 2025 12:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 13:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Narrative Play in Middle-earth™ – A surprise trip]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6rn7mqtc/narrative-play-in-middle-earthtm-a-surprise-trip</link>
+            <guid>6rn7mqtc</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three more free scenarios, this time covering the first film of the Hobbit trilogy.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_scenarios-may15-1-feature-udalhrgvwh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Aether-tech upgrades]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/x74upui6/scourge-of-ghyran-aether-tech-upgrades</link>
@@ -273,18 +284,6 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/eventsswag-may9-1-feature-td2ad3nzpp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community Showcase: We’re in thrall to these undead masterpieces]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xszg98ct/community-showcase-were-in-thrall-to-these-undead-masterpieces</link>
-            <guid>xszg98ct</guid>
-            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A parade of morbid magnificence.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sbinfluencer-may08-1-feature-ecfv7mfr9k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
