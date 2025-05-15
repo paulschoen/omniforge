@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 May 2025 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 12:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Aether-tech upgrades]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x74upui6/scourge-of-ghyran-aether-tech-upgrades</link>
+            <guid>x74upui6</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Incredible new deals inside! (Terms, conditions, subclauses, caveats and addendums apply).]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog10-may15-1-feature-mvny9ruzmu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New from Black Library – Four new special editions are on the way]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mxqno8xi/new-from-black-library-four-new-special-editions-are-on-the-way</link>
@@ -273,18 +285,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sbinfluencer-may08-1-feature-ecfv7mfr9k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran day 3: Dining out with the Flesh-eaters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r1lrr7uz/scourge-of-ghyran-day-3-dining-out-with-the-flesh-eaters</link>
-            <guid>r1lrr7uz</guid>
-            <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nourishment for your noxious nobles.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran03-may08-1-feature-hwmq6cygwd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
