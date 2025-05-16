@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 May 2025 10:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 12:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: ’Arder, choppier, piggier]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vfl6phvy/scourge-of-ghyran-arder-choppier-piggier</link>
+            <guid>vfl6phvy</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Even the violence in Ghyran is green.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog11-may16-1-feature-65jp3nqtlz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orruk Warclans: Ironjawz - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wj5z3hch/orruk-warclans-ironjawz-scourge-of-ghyran</link>
+            <guid>wj5z3hch</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bash down branches and hack apart the Realm of Life with brutal Ironjawz and all new kunnin' planz.]]></description>
+            <category domain="orruk-warclans">Orruk Warclans</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01614_sog_11_ironjawz_thumb-hgoxf80njb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[How to get the most out of the Thousand Sons, just as planned]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nofwm1b5/how-to-get-the-most-out-of-the-thousand-sons-just-as-planned</link>
@@ -256,29 +278,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-may11-1-feature-w73z7uwnfh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Expedite your planning permission across the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hn12fjge/scourge-of-ghyran-expedite-your-planning-permission-across-the-mortal-realms</link>
-            <guid>hn12fjge</guid>
-            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Complement your Castelite with cool new rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran06-may11-1-feature-lxcductw91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cities of Sigmar - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wuqheimj/cities-of-sigmar-scourge-of-ghyran</link>
-            <guid>wuqheimj</guid>
-            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sigmar has delivered fresh plans for your Cities of Sigmar forces in the Realm of Life.]]></description>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01609_sog_06_cities-of-sigmar_thumb-4tytu5rxxd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
