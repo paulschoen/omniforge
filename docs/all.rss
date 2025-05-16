@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 15 May 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 10:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -43,6 +43,17 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog10-may15-1-feature-mvny9ruzmu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kharadron Overlords - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6qc1c6n1/kharadron-overlords-scourge-of-ghyran</link>
+            <guid>6qc1c6n1</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Seek profit in Ghyran and plot your course to gains and glory now.]]></description>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01613_sog_10_kharadron_thumb-hfs6vv7yqw.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New from Black Library – Four new special editions are on the way]]></title>
@@ -101,6 +112,17 @@
             <enclosure url="https://assets.warhammer-community.com/aos_sog08-may13-1-feature-uzltd8z9tj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Blades of Khorne - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/yjyloqfm/blades-of-khorne-scourge-of-ghyran</link>
+            <guid>yjyloqfm</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Make the Realm of Life bleed with new skull-reaping rules!]]></description>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01612_sog_09_blades-of-khorne_thumb-kcllhxrjzm.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Warhammer Skulls returns! #WarhammerSkulls]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/2tlfbxpp/warhammer-skulls-returns-warhammerskulls</link>
             <guid>2tlfbxpp</guid>
@@ -142,6 +164,17 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog02-may12-1-feature-2llac7hrb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ossiarch Bonereapers - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hojf1lty/ossiarch-bonereapers-scourge-of-ghyran</link>
+            <guid>hojf1lty</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring inescapable death to the Realm of Life and reap your macabre tithe in the name of mighty Nagash.]]></description>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01611_sog_08_ossiarch-bone-reapers_thumb-zulrx8tiy2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Planetfall countdown – DROP MINUS 399 HOURS]]></title>
@@ -199,6 +232,17 @@
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran07-may12-1-feature-ced5fbzfy5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Scourge of Ghyran – Orruk Warclans: Kruleboyz - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cvgfnmf0/scourge-of-ghyran-orruk-warclans-kruleboyz-scourge-of-ghyran</link>
+            <guid>cvgfnmf0</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sharpen your Kruleboyz' stikkas and strike at the heart of Ghyran with savage new schemes.]]></description>
+            <category domain="orruk-warclans">Orruk Warclans</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01610_sog_07_kruleboyz_thumb-leetppgrsb.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Sunday Preview – Sorcerous Space Marines and forest sentinels]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wy2pxyu4/sunday-preview-sorcerous-space-marines-and-forest-sentinels</link>
             <guid>wy2pxyu4</guid>
@@ -226,65 +270,15 @@
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran06-may11-1-feature-lxcductw91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Saturday Pre-orders – Barrow Kingdoms rise from the grave]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nphtttgm/saturday-pre-orders-barrow-kingdoms-rise-from-the-grave</link>
-            <guid>nphtttgm</guid>
-            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <title><![CDATA[Cities of Sigmar - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wuqheimj/cities-of-sigmar-scourge-of-ghyran</link>
+            <guid>wuqheimj</guid>
+            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sigmar has delivered fresh plans for your Cities of Sigmar forces in the Realm of Life.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-may10-1-feature-ijoyylkcla.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran day 5: Torment by day, haunt by night]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/virk2hly/scourge-of-ghyran-day-5-torment-by-day-haunt-by-night</link>
-            <guid>virk2hly</guid>
-            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Spooktacular delights and gifts for gheists.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran05-may10-1-feature-txlewhepd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon returns to SPIEL 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9rdm38gw/golden-demon-returns-to-spiel-2025</link>
-            <guid>9rdm38gw</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The second leg of this year’s epic painting competition will be held in Germany once again.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_spielannounce-apr24-1-feature-wjmszvuaby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hail to the Hollow King]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r3e8lgu2/hail-to-the-hollow-king</link>
-            <guid>r3e8lgu2</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Daz talks us through his beautiful work on Cado Ezechiar.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_dazcado-may09-1-feature-9bcbo29yl1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran day 4: Fanatic Fantastic]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/smdux6ly/scourge-of-ghyran-day-4-fanatic-fantastic</link>
-            <guid>smdux6ly</guid>
-            <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New stuff for Moonclan and Gitmob.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran04-may09-1-feature-z0ozlxlpmv.jpg" length="0" type="image/jpg"/>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01609_sog_06_cities-of-sigmar_thumb-4tytu5rxxd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
