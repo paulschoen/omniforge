@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 May 2025 12:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 13:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – The awakening of the Wood Elves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ozijmoha/old-world-almanack-the-awakening-of-the-wood-elves</link>
+            <guid>ozijmoha</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Old World’s surliest dendrologists notch their bows.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_woodelves-may16-1-feature-6ti2gyu4ao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: ’Arder, choppier, piggier]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vfl6phvy/scourge-of-ghyran-arder-choppier-piggier</link>
@@ -263,21 +275,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01610_sog_07_kruleboyz_thumb-leetppgrsb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Sorcerous Space Marines and forest sentinels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wy2pxyu4/sunday-preview-sorcerous-space-marines-and-forest-sentinels</link>
-            <guid>wy2pxyu4</guid>
-            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may11-1-feature-w73z7uwnfh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
