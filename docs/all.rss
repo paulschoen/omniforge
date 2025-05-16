@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 May 2025 13:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 14:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painters capture the new Sekhetar Robots in these awesome dioramas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wmtk5ffc/community-painters-capture-the-new-sekhetar-robots-in-these-awesome-dioramas</link>
+            <guid>wmtk5ffc</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Killer robots hidden in plain sight.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_-sekhetarrobotsinfluencers-may16-1-feature-o7gjqfekcq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – The awakening of the Wood Elves]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ozijmoha/old-world-almanack-the-awakening-of-the-wood-elves</link>
@@ -264,17 +278,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran07-may12-1-feature-ced5fbzfy5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran – Orruk Warclans: Kruleboyz - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/cvgfnmf0/scourge-of-ghyran-orruk-warclans-kruleboyz-scourge-of-ghyran</link>
-            <guid>cvgfnmf0</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sharpen your Kruleboyz' stikkas and strike at the heart of Ghyran with savage new schemes.]]></description>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01610_sog_07_kruleboyz_thumb-leetppgrsb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
