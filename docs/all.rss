@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 May 2025 14:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 18:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Horus Heresy preview: Celebrate with us!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2rwd3d6m/horus-heresy-preview-celebrate-with-us</link>
+            <guid>2rwd3d6m</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us next Friday at 7pm BST.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/01-thh_joinuspreview-1-feature-b8wmvpsp18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community painters capture the new Sekhetar Robots in these awesome dioramas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wmtk5ffc/community-painters-capture-the-new-sekhetar-robots-in-these-awesome-dioramas</link>
@@ -266,18 +277,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumb-v2-9hkmrruugw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: It’s a krule world]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/aybhy6cq/scourge-of-ghyran-its-a-krule-world</link>
-            <guid>aybhy6cq</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Teaching old orruks new tricks.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran07-may12-1-feature-ced5fbzfy5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
