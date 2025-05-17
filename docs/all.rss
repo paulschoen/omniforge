@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 May 2025 18:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 12:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fyreslayers - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4fogs7dj/fyreslayers-scourge-of-ghyran</link>
+            <guid>4fogs7dj</guid>
+            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imbue your weapons with the power of the forge and slay your way through the Realm of Life.]]></description>
+            <category domain="fyreslayers">Fyreslayers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01615_sog_12_fyreslayers_thumb-zysikaleay.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: A blaze of glory]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fzqvvgl3/scourge-of-ghyran-a-blaze-of-glory</link>
+            <guid>fzqvvgl3</guid>
+            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Make way for the Magmadroths.]]></description>
+            <category domain="fyreslayers">Fyreslayers</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran00-may17-1-feature-dkf3ygofvi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Horus Heresy preview: Celebrate with us!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2rwd3d6m/horus-heresy-preview-celebrate-with-us</link>
@@ -254,29 +277,6 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_op-may12-1-feature-pnczywjm4j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Knights revealed – Darkflame and a deadly drill make the Knight Ruinator a hellacious headhunter]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter</link>
-            <guid>mijwqkw4</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Burn and bore your way to victory!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="chaos-knights">Chaos Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_imperialknights-may05-1-feature-p9no8albex.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three Ways To Paint Spooky Graves | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/2alhclv3/three-ways-to-paint-spooky-graves-warhammer-age-of-sigmar</link>
-            <guid>2alhclv3</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[On hallowed ground sits a Necromancer’s dream – three Cursed Sepulchres, spewing out all the deathly energies one could want. But they need painting up to really get the dead moving, and we have three different schemes to try.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumb-v2-9hkmrruugw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
