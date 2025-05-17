@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 17 May 2025 12:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 17:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Arcane automata and Asrai awakened]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8olipekn/saturday-pre-orders-arcane-automata-and-asrai-awakened</link>
+            <guid>8olipekn</guid>
+            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may17-1-feature-stqi70ha1l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fyreslayers - Scourge of Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/4fogs7dj/fyreslayers-scourge-of-ghyran</link>
@@ -267,16 +281,6 @@
             <category domain="the-horus-heresy">The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh-13-05-1-feature-tj9byn6ha2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Underworlds – Battle for glory in a new season of Organised Play]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wn2r6n9i/warhammer-underworlds-battle-for-glory-in-a-new-season-of-organised-play</link>
-            <guid>wn2r6n9i</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Play games, win prizes.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_op-may12-1-feature-pnczywjm4j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
