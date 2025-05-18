@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 17 May 2025 17:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 12:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Disciples of Tzeentch - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/h20ffthk/disciples-of-tzeentch-scourge-of-ghyran</link>
+            <guid>h20ffthk</guid>
+            <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ghyran is changing, just as planned. Sow the seeds of sorcery in the Realm of Life.]]></description>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01616_sog_13_disciples-of-tzeentch_thumb-mfaar1boiw.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: The season of change]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sveuaip3/scourge-of-ghyran-the-season-of-change</link>
+            <guid>sveuaip3</guid>
+            <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sorcerous gifts aplenty.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran13-may18-1-feature-lhvrvcts3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Arcane automata and Asrai awakened]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8olipekn/saturday-pre-orders-arcane-automata-and-asrai-awakened</link>
@@ -260,27 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog02-may12-1-feature-2llac7hrb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ossiarch Bonereapers - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hojf1lty/ossiarch-bonereapers-scourge-of-ghyran</link>
-            <guid>hojf1lty</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring inescapable death to the Realm of Life and reap your macabre tithe in the name of mighty Nagash.]]></description>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01611_sog_08_ossiarch-bone-reapers_thumb-zulrx8tiy2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Planetfall countdown – DROP MINUS 399 HOURS]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wmno4akm/planetfall-countdown-drop-minus-399-hours</link>
-            <guid>wmno4akm</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reconnaissance fleet assets enter system]]></description>
-            <category domain="the-horus-heresy">The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh-13-05-1-feature-tj9byn6ha2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
