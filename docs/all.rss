@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 18 May 2025 12:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 17:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Let slip the wolves of war]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z7xgw4fb/sunday-preview-let-slip-the-wolves-of-war</link>
+            <guid>z7xgw4fb</guid>
+            <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may18-1-feature-sury7ti8rb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Disciples of Tzeentch - Scourge of Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/h20ffthk/disciples-of-tzeentch-scourge-of-ghyran</link>
@@ -271,18 +284,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-may12-1-feature-jcdc3yfr3l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Skeletal debt-collectors come a-knocking]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mt3qwtxa/scourge-of-ghyran-skeletal-debt-collectors-come-a-knocking</link>
-            <guid>mt3qwtxa</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reanimate, invigorate… turn people into skeletons.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog02-may12-1-feature-2llac7hrb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
