@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 19 May 2025 13:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 14:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chapter Approved 2025 – Asymmetric missions and catch-up mechanics come to Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ykj6czq0/chapter-approved-2025-asymmetric-missions-and-catch-up-mechanics-come-to-warhammer-40000</link>
+            <guid>ykj6czq0</guid>
+            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s new in the next essential competitive companion.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chapterapproved-may19-1-feature-c7hhlybfik.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Wolves – Meet the new leaders of the pack]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s2lwrd2d/space-wolves-meet-the-new-leaders-of-the-pack</link>
@@ -277,17 +287,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog08-may13-1-feature-uzltd8z9tj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blades of Khorne - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/yjyloqfm/blades-of-khorne-scourge-of-ghyran</link>
-            <guid>yjyloqfm</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Make the Realm of Life bleed with new skull-reaping rules!]]></description>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01612_sog_09_blades-of-khorne_thumb-kcllhxrjzm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
