@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 19 May 2025 12:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 12:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,17 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran14-may19-1-feature-irkhjoiegc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Idoneth Deepkin - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/giulujq2/idoneth-deepkin-scourge-of-ghyran</link>
+            <guid>giulujq2</guid>
+            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Crash into the Realm of Life like an aelven wave and douse Ghyran in ethersea now.]]></description>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01617_sog_14_idoneth_thumb-isvogyrize.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sunday Preview – Let slip the wolves of war]]></title>
@@ -275,17 +286,6 @@
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01677_rk_skulls-announcement_thumb_16x9-pgp2fp9uws.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Skulls 2025 – The festival of Warhammer video games returns next week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ajsw3jef/warhammer-skulls-2025-the-festival-of-warhammer-video-games-returns-next-week</link>
-            <guid>ajsw3jef</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us for updates, announcements and more.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/skullsannouncment-may13-1-feature-vnj7ysttvi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
