@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 18 May 2025 17:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 12:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Horrors from the deep]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qyzybjbo/scourge-of-ghyran-horrors-from-the-deep</link>
+            <guid>qyzybjbo</guid>
+            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold a briny bounty.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran14-may19-1-feature-irkhjoiegc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Let slip the wolves of war]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z7xgw4fb/sunday-preview-let-slip-the-wolves-of-war</link>
@@ -274,16 +286,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/skullsannouncment-may13-1-feature-vnj7ysttvi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 13th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/czmpjcko/the-rumour-engine-13th-of-may</link>
-            <guid>czmpjcko</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may12-1-feature-jcdc3yfr3l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
