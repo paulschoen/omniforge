@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 19 May 2025 14:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 12:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: The Sons of Behemat have some big new ideas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l3vj0gnr/scourge-of-ghyran-the-sons-of-behemat-have-some-big-new-ideas</link>
+            <guid>l3vj0gnr</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ghyran quakes under the weight of new rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran15-may20-1-feature-hk6l9kkbyk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chapter Approved 2025 – Asymmetric missions and catch-up mechanics come to Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ykj6czq0/chapter-approved-2025-asymmetric-missions-and-catch-up-mechanics-come-to-warhammer-40000</link>
@@ -275,18 +287,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature2-z9h9ti1hon.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Gifts from the Blood God]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w480zowt/scourge-of-ghyran-gifts-from-the-blood-god</link>
-            <guid>w480zowt</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Exciting advances in skull extraction.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog08-may13-1-feature-uzltd8z9tj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
