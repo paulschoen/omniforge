@@ -4,11 +4,46 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Tue, 20 May 2025 06:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 17:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Death Guard are Winning BIG - Seven Strong Army Lists]]></title>
+            <link>https://www.youtube.com/watch?v=EFssMTqe1-A</link>
+            <guid>yt:video:EFssMTqe1-A</guid>
+            <pubDate>Tue, 20 May 2025 05:00:12 GMT</pubDate>
+            <description><![CDATA[The video discusses the recent tournament success of the Death Guard faction in Warhammer 40K, highlighting their impressive 60% win rate, strategic advantages of popular detachments like Valiant Victorium, and key units such as Mortarion and Plague Marines, while posing questions about their competitive edge and future army compositions.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Death Guard Army Lists: Tournament Success and Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Death Guard Dominance:</strong> The Death Guard faction has emerged as a top contender in recent tournaments, boasting impressive win rates.</li>
+    <li>🏆 <strong>Tournament Performance:</strong> Death Guard won 5-6 grand tournaments within their first weekend of competition.</li>
+    <li>📊 <strong>Win Rate Statistics:</strong> Current win rates hover around 60% from over 600 casual games, suggesting they may be the strongest faction in Warhammer 40K.</li>
+    <li>📋 <strong>Popular Detachments:</strong> The Valiant Victorium is a leading detachment, favored for its strategic advantages and flexibility.</li>
+    <li>💀 <strong>Unit Highlights:</strong> Key units include Mortarion, Plague Marines, and Deathshroud Terminators, with strategies focusing on their unique strengths.</li>
+    <li>🔍 <strong>Competitive Builds:</strong> Various successful lists showcased different unit combinations emphasizing both melee and ranged capabilities.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Win Rate:</strong> Approximately 60% win rate across 600 casual games.</li>
+    <li>🏅 <strong>Tournament Wins:</strong> Achieved 5-6 grand tournament victories in the first weekend.</li>
+    <li>💰 <strong>Mortarion’s Cost:</strong> 380 points for one of the strongest units in the game.</li>
+    <li>⚔️ <strong>Deathshroud Terminators:</strong> 140 points for three, or 300 points for six, showcasing their significant impact.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do the recent changes in the Death Guard's rules enhance their competitive edge in tournaments?</strong></li>
+    <li>💡 <strong>What strategies can be employed to counter the rising power of Death Guard armies?</strong></li>
+    <li>🔄 <strong>With the strong performance of the Death Guard, what shifts might we see in future army compositions across the game's factions?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big 40K Rules Reveals - Space Wolves Detachment + Characters, Mission Deck Gameplay]]></title>
             <link>https://www.youtube.com/watch?v=l5fnw7odMrg</link>
@@ -5764,37 +5799,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Death Guard are Winning BIG - Seven Strong Army Lists]]></title>
-            <link>https://www.youtube.com/watch?v=EFssMTqe1-A</link>
-            <guid>yt:video:EFssMTqe1-A</guid>
-            <pubDate>Tue, 20 May 2025 05:00:12 GMT</pubDate>
-            <description><![CDATA[The video discusses the recent tournament success of the Death Guard faction in Warhammer 40K, highlighting their impressive 60% win rate, strategic advantages of popular detachments like Valiant Victorium, and key units such as Mortarion and Plague Marines, while posing questions about their competitive edge and future army compositions.]]></description>
+            <title><![CDATA[Space Wolves Detachments and Unit Rules - Army Wide Lethal Hits Possible!]]></title>
+            <link>https://www.youtube.com/watch?v=1p6bV6vU_Ys</link>
+            <guid>yt:video:1p6bV6vU_Ys</guid>
+            <pubDate>Tue, 20 May 2025 16:35:32 GMT</pubDate>
+            <description><![CDATA[The video discusses significant updates for the Space Wolves army, including new rules, detachments, and unit previews, along with pre-order discounts and strategic considerations for gameplay.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Death Guard Army Lists: Tournament Success and Insights</h2>
+<h2>📢 Space Wolves Updates & Previews</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Death Guard Dominance:</strong> The Death Guard faction has emerged as a top contender in recent tournaments, boasting impressive win rates.</li>
-    <li>🏆 <strong>Tournament Performance:</strong> Death Guard won 5-6 grand tournaments within their first weekend of competition.</li>
-    <li>📊 <strong>Win Rate Statistics:</strong> Current win rates hover around 60% from over 600 casual games, suggesting they may be the strongest faction in Warhammer 40K.</li>
-    <li>📋 <strong>Popular Detachments:</strong> The Valiant Victorium is a leading detachment, favored for its strategic advantages and flexibility.</li>
-    <li>💀 <strong>Unit Highlights:</strong> Key units include Mortarion, Plague Marines, and Deathshroud Terminators, with strategies focusing on their unique strengths.</li>
-    <li>🔍 <strong>Competitive Builds:</strong> Various successful lists showcased different unit combinations emphasizing both melee and ranged capabilities.</li>
+    <li>🔥 <strong>Big Release Week:</strong> Major updates for Space Wolves, including the army set and chapter approved mission deck.</li>
+    <li>📦 <strong>Pre-order Information:</strong> Discounts offered through affiliate retailers worldwide.</li>
+    <li>🛡️ <strong>New Special Rules:</strong> The "Curse of the Wolfin" introduces increased Objective Control (OC) for certain units, enhancing their gameplay.</li>
+    <li>⚔️ <strong>Detachments Overview:</strong> Three confirmed detachments—Saga of the Beast Slayer, Saga of the Hunter, and Saga of the Bolt—each with unique mechanics.</li>
+    <li>💥 <strong>Lethal Hits Mechanic:</strong> Units targeting monsters or vehicles gain lethal hits, potentially boosting overall damage output.</li>
+    <li>💪 <strong>New Unit Previews:</strong> Detailed insights into Blood Claws, Thunderwolf Cavalry, and Wolfguard Terminators, showcasing their enhanced abilities.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Win Rate:</strong> Approximately 60% win rate across 600 casual games.</li>
-    <li>🏅 <strong>Tournament Wins:</strong> Achieved 5-6 grand tournament victories in the first weekend.</li>
-    <li>💰 <strong>Mortarion’s Cost:</strong> 380 points for one of the strongest units in the game.</li>
-    <li>⚔️ <strong>Deathshroud Terminators:</strong> 140 points for three, or 300 points for six, showcasing their significant impact.</li>
+    <li>📅 <strong>Release Times:</strong> Pre-orders available from midnight Eastern Time on Friday to Saturday morning.</li>
+    <li>📈 <strong>Discounts:</strong> Up to 21% off at various retailers: 15% in the UK, 10% in Canada, and 16% in the EU.</li>
+    <li>🔢 <strong>Squad Sizes:</strong> Blood Claws available in squads of 10 to 20, giving players the option to hoard units.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How do the recent changes in the Death Guard's rules enhance their competitive edge in tournaments?</strong></li>
-    <li>💡 <strong>What strategies can be employed to counter the rising power of Death Guard armies?</strong></li>
-    <li>🔄 <strong>With the strong performance of the Death Guard, what shifts might we see in future army compositions across the game's factions?</strong></li>
+    <li>🤔 <strong>How will the new lethal hits mechanic change the strategy for Space Wolves in combat?</strong></li>
+    <li>🧐 <strong>What impact do you think the new detachments will have on the overall balance of Warhammer 40K?</strong></li>
+    <li>💭 <strong>Which unit do you believe will be the most game-changing in the updated Space Wolves roster?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
