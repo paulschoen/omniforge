@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 May 2025 12:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 13:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 20th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/91ngnypk/the-rumour-engine-20th-of-may</link>
+            <guid>91ngnypk</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may20-1-feature-hnl5tmesvx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: The Sons of Behemat have some big new ideas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l3vj0gnr/scourge-of-ghyran-the-sons-of-behemat-have-some-big-new-ideas</link>
@@ -277,16 +287,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01673-kill-lupercal-series-trailer-thumbnail-xdxr1ztv57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Lupercal trailer – Uncover a plot to kill the Warmaster on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/v25ljay9/warhammer-tv-this-week-uncover-a-plot-to-kill-the-warmaster-in-a-new-trailer</link>
-            <guid>v25ljay9</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three new shows with your subscription.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature2-z9h9ti1hon.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
