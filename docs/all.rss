@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 May 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 15:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -30,6 +30,17 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-may20-1-feature-hnl5tmesvx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sons of Behemat - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cszuc4k0/sons-of-behemat-scourge-of-ghyran</link>
+            <guid>cszuc4k0</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Trample all before you and tear out the roots of Ghyran's defenders with the Sons of Behemat.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01618_sog_15_sons-of-behemat_thumb-woxtggsrk0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: The Sons of Behemat have some big new ideas]]></title>
@@ -275,18 +286,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_specialeds-may14-1-feature-aqzkwcpm2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sekhetar Robots are the stealthiest killer automata you’ve never seen]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/v9jvkrt4/sekhetar-robots-are-the-stealthiest-killer-automata-youve-never-seen</link>
-            <guid>v9jvkrt4</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How exactly do you hide these looming, living statues?]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ts-sekhetarrobots-may14-1-feature-uxlrpnynwp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
