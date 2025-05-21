@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 May 2025 12:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 13:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Robbie MacNiven talks Carcharodons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6orzwuzm/warhammer-tv-this-week-robbie-macniven-talks-carcharodons</link>
+            <guid>6orzwuzm</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus episodes of Battle Report and Armies of Renown.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may21-1-feature-5hzdcywmpk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Shadowy shenanigans from Morathi-Khaine and Morai-Heg]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e4tg4hmu/scourge-of-ghyran-shadowy-shenanigans-from-morathi-khaine-and-morai-heg</link>
@@ -20,6 +30,17 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran16-may21-1-feature-wkyy99lcen.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daughters of Khaine - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/sd9hnsur/daughters-of-khaine-scourge-of-ghyran</link>
+            <guid>sd9hnsur</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stab at the heart of Ghyran with slaughterous and vindictive new tactics.]]></description>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01619_sog_16_daughters-of-khaine_thumb-wr84llnrou.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Space Wolves – A skjald talks sagas and stratagems]]></title>
@@ -265,29 +286,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-may15-1-feature-udalhrgvwh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Aether-tech upgrades]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x74upui6/scourge-of-ghyran-aether-tech-upgrades</link>
-            <guid>x74upui6</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Incredible new deals inside! (Terms, conditions, subclauses, caveats and addendums apply).]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog10-may15-1-feature-mvny9ruzmu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kharadron Overlords - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6qc1c6n1/kharadron-overlords-scourge-of-ghyran</link>
-            <guid>6qc1c6n1</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Seek profit in Ghyran and plot your course to gains and glory now.]]></description>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01613_sog_10_kharadron_thumb-hfs6vv7yqw.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
