@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 May 2025 13:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 14:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Gather round, young pups, for the great sagas of the Space Wolves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lfbouv2u/gather-round-young-pups-for-the-great-sagas-of-the-space-wolves</link>
+            <guid>lfbouv2u</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Where do you start reading about the sons of Russ?]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_spacewolves-may21-1-feature-ikkixavo5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Robbie MacNiven talks Carcharodons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6orzwuzm/warhammer-tv-this-week-robbie-macniven-talks-carcharodons</link>
@@ -275,17 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ts-influencerexpert-may15-1-feature-0xpk4jejsa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Narrative Play in Middle-earth™ – A surprise trip]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6rn7mqtc/narrative-play-in-middle-earthtm-a-surprise-trip</link>
-            <guid>6rn7mqtc</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three more free scenarios, this time covering the first film of the Hobbit trilogy.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_scenarios-may15-1-feature-udalhrgvwh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
