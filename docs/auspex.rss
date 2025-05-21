@@ -4,11 +4,43 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 21 May 2025 00:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 09:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[New Combat Patrol Box Set for Space Wolves - How Good Is It?]]></title>
+            <link>https://www.youtube.com/watch?v=4CfK5C8oleI</link>
+            <guid>yt:video:4CfK5C8oleI</guid>
+            <pubDate>Tue, 20 May 2025 23:11:05 GMT</pubDate>
+            <description><![CDATA[The Space Wolves Combat Patrol box set, Ascar's Wolf Pack, features new models including a battle leader and various infantry, is expected to release in 4 to 8 weeks at around $170, and offers significant value with a 27% discount on miniatures compared to previous sets.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Space Wolves Combat Patrol Box Set Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Release:</strong> The Space Wolves Combat Patrol box set, titled Ascar's Wolf Pack, features three out of four new kits alongside an existing elite infantry model.</li>
+    <li>⚙️ <strong>Contents:</strong> Includes a battle leader, 10 blood claws, 5 savage wolfen, and 5 wolf guard terminators, enhancing the Space Wolves lineup.</li>
+    <li>📅 <strong>Launch Timeline:</strong> Expected release is 4 to 8 weeks after the main army set, with potential delays for maximized sales.</li>
+    <li>💰 <strong>Pricing:</strong> Estimated pricing is around $170, £130, or $100, aligning with previous box set costs.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Miniatures Count:</strong> The box set contains approximately 500 points of miniatures, offering a significant value increase from the previous iteration.</li>
+    <li>💵 <strong>Discount Rate:</strong> Estimated discount of around 27% compared to the total individual prices of the miniatures, previously at 17% for older sets.</li>
+    <li>🕒 <strong>Timing for Releases:</strong> Typically, new box sets release 4-8 weeks after army set launches, indicating potential wait time for consumers.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do the new models in the Space Wolves Combat Patrol impact gameplay strategies compared to previous versions?</li>
+    <li>🤔 <strong>Question 2:</strong> What are the advantages or disadvantages of the pricing structure for new Warhammer 40k releases?</li>
+    <li>🤔 <strong>Question 3:</strong> How does the new Combat Patrol box set compare to other factions' releases in terms of value and gameplay effectiveness?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Space Wolves Detachments and Unit Rules - Army Wide Lethal Hits Possible!]]></title>
             <link>https://www.youtube.com/watch?v=1p6bV6vU_Ys</link>
@@ -5833,34 +5865,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Combat Patrol Box Set for Space Wolves - How Good Is It?]]></title>
-            <link>https://www.youtube.com/watch?v=4CfK5C8oleI</link>
-            <guid>yt:video:4CfK5C8oleI</guid>
-            <pubDate>Tue, 20 May 2025 23:11:05 GMT</pubDate>
-            <description><![CDATA[The Space Wolves Combat Patrol box set, Ascar's Wolf Pack, features new models including a battle leader and various infantry, is expected to release in 4 to 8 weeks at around $170, and offers significant value with a 27% discount on miniatures compared to previous sets.]]></description>
+            <title><![CDATA[Logan Grimnar in Codex Space Wolves - What can the Great Wolf Do?]]></title>
+            <link>https://www.youtube.com/watch?v=Z0uHZ9e-Gx4</link>
+            <guid>yt:video:Z0uHZ9e-Gx4</guid>
+            <pubDate>Wed, 21 May 2025 06:00:33 GMT</pubDate>
+            <description><![CDATA[The video reviews Logan Grimnar, the Great Wolf and Chapter Master of the Space Wolves, detailing his combat abilities with the Ax Morai, his new miniature release in Terminator armor, updated rules and cost adjustments, as well as strategic implications for gameplay.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Space Wolves Combat Patrol Box Set Overview</h2>
+<h2>📢 Logan Grimnar's Rules Review - Space Wolves</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Release:</strong> The Space Wolves Combat Patrol box set, titled Ascar's Wolf Pack, features three out of four new kits alongside an existing elite infantry model.</li>
-    <li>⚙️ <strong>Contents:</strong> Includes a battle leader, 10 blood claws, 5 savage wolfen, and 5 wolf guard terminators, enhancing the Space Wolves lineup.</li>
-    <li>📅 <strong>Launch Timeline:</strong> Expected release is 4 to 8 weeks after the main army set, with potential delays for maximized sales.</li>
-    <li>💰 <strong>Pricing:</strong> Estimated pricing is around $170, £130, or $100, aligning with previous box set costs.</li>
+    <li>🔥 <strong>Overview of Logan Grimnar:</strong> The Great Wolf and Chapter Master known for his prowess and headstrong nature, often clashing with other Imperial forces.</li>
+    <li>⚔️ <strong>Combat Profile:</strong> Equipped with the Ax Morai, Logan can deal significant melee damage and has strong defensive stats with 8 wounds and 2+ armor save.</li>
+    <li>📦 <strong>New Miniature Release:</strong> A newly sculpted model in Terminator armor with two wolves, expected to be priced between $34-$65.</li>
+    <li>🔍 <strong>Data Sheet Changes:</strong> Logan now costs 110 points, slightly cheaper than before and has updated rules regarding unit composition and charge mechanics.</li>
+    <li>🛡️ <strong>Special Rules:</strong> Includes "Guile of the Great Wolf" for opponent's command point costs and "High King of Fenris" for strategic reserves deployment.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Miniatures Count:</strong> The box set contains approximately 500 points of miniatures, offering a significant value increase from the previous iteration.</li>
-    <li>💵 <strong>Discount Rate:</strong> Estimated discount of around 27% compared to the total individual prices of the miniatures, previously at 17% for older sets.</li>
-    <li>🕒 <strong>Timing for Releases:</strong> Typically, new box sets release 4-8 weeks after army set launches, indicating potential wait time for consumers.</li>
+    <li>🔢 <strong>Points Cost:</strong> Logan Grimnar is now 110 points, down from 115 points in the previous Codex.</li>
+    <li>⚔️ <strong>Attack Stats:</strong> Can make 6 attacks at strength 8 AP2 or 10 attacks at strength 6 AP2 in sweep mode.</li>
+    <li>🛡️ <strong>Defensive Profile:</strong> 8 wounds with toughness 5 and a 2+ armor save, making him durable for his point cost.</li>
+    <li>📈 <strong>Miniature Pricing:</strong> Expected pricing for the new model ranges from $34 to $65, reflecting high-detail and added components.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do the new models in the Space Wolves Combat Patrol impact gameplay strategies compared to previous versions?</li>
-    <li>🤔 <strong>Question 2:</strong> What are the advantages or disadvantages of the pricing structure for new Warhammer 40k releases?</li>
-    <li>🤔 <strong>Question 3:</strong> How does the new Combat Patrol box set compare to other factions' releases in terms of value and gameplay effectiveness?</li>
+    <li>🤔 <strong>Question 1:</strong> How do Logan Grimnar's abilities affect your strategy when using Space Wolves on the battlefield?</li>
+    <li>🤔 <strong>Question 2:</strong> What synergies can you create by pairing Logan with other units in your army?</li>
+    <li>🤔 <strong>Question 3:</strong> How does the new miniature design enhance the narrative and gameplay experience of the Space Wolves?</li>
 </ul>
 ]]></content:encoded>
         </item>
