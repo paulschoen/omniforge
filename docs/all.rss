@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 May 2025 15:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 12:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Shadowy shenanigans from Morathi-Khaine and Morai-Heg]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e4tg4hmu/scourge-of-ghyran-shadowy-shenanigans-from-morathi-khaine-and-morai-heg</link>
+            <guid>e4tg4hmu</guid>
+            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Painting the Realm of Life red.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran16-may21-1-feature-wkyy99lcen.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Wolves – A skjald talks sagas and stratagems]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2ijmotgp/space-wolves-a-skjald-talks-sagas-and-stratagems</link>
@@ -276,16 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01613_sog_10_kharadron_thumb-hfs6vv7yqw.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New from Black Library – Four new special editions are on the way]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mxqno8xi/new-from-black-library-four-new-special-editions-are-on-the-way</link>
-            <guid>mxqno8xi</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Beautiful new books to buy soon.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_specialeds-may14-1-feature-aqzkwcpm2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
