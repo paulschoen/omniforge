@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 May 2025 13:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Set forth across the Sea of Stars with the Space Wolves on Crusade]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dcq468l5/set-forth-across-the-sea-of-stars-with-the-space-wolves-on-crusade</link>
+            <guid>dcq468l5</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fame, vengeance, and glorious death!]]></description>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_spacewolfcrusadefocus-may22-1-feature-a7k0qo6vcw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: It’s written in the stars]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mfhqec9j/scourge-of-ghyran-its-written-in-the-stars</link>
@@ -277,17 +289,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_woodelves-may16-1-feature-6ti2gyu4ao.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: ’Arder, choppier, piggier]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vfl6phvy/scourge-of-ghyran-arder-choppier-piggier</link>
-            <guid>vfl6phvy</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Even the violence in Ghyran is green.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog11-may16-1-feature-65jp3nqtlz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
