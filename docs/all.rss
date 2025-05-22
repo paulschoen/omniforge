@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 May 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 16:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Skulls 2025 – The Warhammer video games festival is back!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fxexx0tv/skulls-2025-the-warhammer-video-games-festival-is-back</link>
+            <guid>fxexx0tv</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch all of the incredible reveals right here.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/skulls2025-may22-preshow-1-feature-dyif6fkdho.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Set forth across the Sea of Stars with the Space Wolves on Crusade]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dcq468l5/set-forth-across-the-sea-of-stars-with-the-space-wolves-on-crusade</link>
@@ -277,18 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_-sekhetarrobotsinfluencers-may16-1-feature-o7gjqfekcq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – The awakening of the Wood Elves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ozijmoha/old-world-almanack-the-awakening-of-the-wood-elves</link>
-            <guid>ozijmoha</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Old World’s surliest dendrologists notch their bows.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_woodelves-may16-1-feature-6ti2gyu4ao.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
