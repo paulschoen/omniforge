@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 May 2025 14:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 12:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: It’s written in the stars]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mfhqec9j/scourge-of-ghyran-its-written-in-the-stars</link>
+            <guid>mfhqec9j</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cold-blooded killers stalk the jungles.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran17-may22-1-feature-0frxrsqggv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gather round, young pups, for the great sagas of the Space Wolves]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lfbouv2u/gather-round-young-pups-for-the-great-sagas-of-the-space-wolves</link>
@@ -276,18 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01614_sog_11_ironjawz_thumb-hgoxf80njb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[How to get the most out of the Thousand Sons, just as planned]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nofwm1b5/how-to-get-the-most-out-of-the-thousand-sons-just-as-planned</link>
-            <guid>nofwm1b5</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Change the ways you play…]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ts-influencerexpert-may15-1-feature-0xpk4jejsa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
