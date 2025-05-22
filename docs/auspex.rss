@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 22 May 2025 00:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 13:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Codex Space Wolves 10th Edition - Full Rules Review]]></title>
+            <link>https://www.youtube.com/watch?v=m8wKjRpuXVk</link>
+            <guid>yt:video:m8wKjRpuXVk</guid>
+            <pubDate>Wed, 21 May 2025 18:13:04 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Space Wolves Codex in Warhammer 40K 10th Edition, highlighting its unique army rules, three new detachments, twenty updated data sheets, and the impact of character restrictions on gameplay strategy.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Overview of Space Wolves Codex in Warhammer 40K 10th Edition</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Codex Release:</strong> Introduction of the Space Wolves Codex as a supplement to core Space Marines, featuring unique army rules, data sheets, and new models.</li>
+    <li>📖 <strong>Core Rules:</strong> Includes faction rules like Oath Moment, Curse of the Wolfin, and new detachment mechanics that enhance gameplay.</li>
+    <li>🛡️ <strong>Detachments:</strong> Three main detachments are introduced - Saga of the Bold, Saga of the Beast Slayer, and Saga of the Hunter, each with unique abilities and strategies.</li>
+    <li>📊 <strong>Data Sheets:</strong> 20 unique Space Wolves data sheets with notable changes, including the removal of some units and updates to others like Grey Hunters and Blood Claws.</li>
+    <li>⚔️ <strong>Character Restrictions:</strong> Generic characters cannot lead unique Space Wolves units, focusing the gameplay on unique characters and units.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>20 Unique Data Sheets:</strong> The Codex introduces 20 distinct data sheets for new models and units.</li>
+    <li>💰 <strong>Cost Adjustments:</strong> Printed point values may not reflect final costs; previous points for many units have been adjusted, e.g., Grey Hunters listed at 190 points.</li>
+    <li>🕒 <strong>Pre-order Timing:</strong> The Space Wolves Army set goes live for pre-order this weekend, with anticipated high demand.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the removal of generic character leadership impact the gameplay strategy for Space Wolves players?</strong></li>
+    <li>🤔 <strong>What unique advantages do the new detachments offer, and how can they be best utilized in matches?</strong></li>
+    <li>🤔 <strong>With the focus on unique units, how might this change the composition of competitive Space Wolves armies?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Logan Grimnar in Codex Space Wolves - What can the Great Wolf Do?]]></title>
             <link>https://www.youtube.com/watch?v=Z0uHZ9e-Gx4</link>
@@ -5899,35 +5932,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Codex Space Wolves 10th Edition - Full Rules Review]]></title>
-            <link>https://www.youtube.com/watch?v=m8wKjRpuXVk</link>
-            <guid>yt:video:m8wKjRpuXVk</guid>
-            <pubDate>Wed, 21 May 2025 18:13:04 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Space Wolves Codex in Warhammer 40K 10th Edition, highlighting its unique army rules, three new detachments, twenty updated data sheets, and the impact of character restrictions on gameplay strategy.]]></description>
+            <title><![CDATA[40K Core Gameplay Changes Revealed - All the Missions from the Updated 2025-26 Deck]]></title>
+            <link>https://www.youtube.com/watch?v=tQqvTc695Ps</link>
+            <guid>yt:video:tQqvTc695Ps</guid>
+            <pubDate>Thu, 22 May 2025 13:03:09 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the updated Warhammer 40k mission deck, highlighting new gameplay changes, the introduction of asymmetric missions, a challenger card mechanic for trailing players, and adjustments to primary and secondary mission cards.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Overview of Space Wolves Codex in Warhammer 40K 10th Edition</h2>
+<h2>📢 Warhammer 40k: Updated Mission Deck Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Codex Release:</strong> Introduction of the Space Wolves Codex as a supplement to core Space Marines, featuring unique army rules, data sheets, and new models.</li>
-    <li>📖 <strong>Core Rules:</strong> Includes faction rules like Oath Moment, Curse of the Wolfin, and new detachment mechanics that enhance gameplay.</li>
-    <li>🛡️ <strong>Detachments:</strong> Three main detachments are introduced - Saga of the Bold, Saga of the Beast Slayer, and Saga of the Hunter, each with unique abilities and strategies.</li>
-    <li>📊 <strong>Data Sheets:</strong> 20 unique Space Wolves data sheets with notable changes, including the removal of some units and updates to others like Grey Hunters and Blood Claws.</li>
-    <li>⚔️ <strong>Character Restrictions:</strong> Generic characters cannot lead unique Space Wolves units, focusing the gameplay on unique characters and units.</li>
+    <li>🔥 <strong>Gameplay Changes:</strong> The new mission deck features updates that refine gameplay, impacting army construction and mission rules.</li>
+    <li>🔄 <strong>New Mission Cards:</strong> 10 primary mission cards introduced for 2000-point games, replacing previous set, with some unchanged and others refined.</li>
+    <li>🎲 <strong>Asymmetric Missions:</strong> Introduction of asymmetric missions, altering deployment zones for attackers and defenders.</li>
+    <li>🏆 <strong>Challenger Card Mechanic:</strong> New catchup mechanic allows trailing players to gain powerful bonuses.</li>
+    <li>📜 <strong>Secondary Missions:</strong> 19 secondary mission cards now available, with adjustments to existing cards and the addition of new ones.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>20 Unique Data Sheets:</strong> The Codex introduces 20 distinct data sheets for new models and units.</li>
-    <li>💰 <strong>Cost Adjustments:</strong> Printed point values may not reflect final costs; previous points for many units have been adjusted, e.g., Grey Hunters listed at 190 points.</li>
-    <li>🕒 <strong>Pre-order Timing:</strong> The Space Wolves Army set goes live for pre-order this weekend, with anticipated high demand.</li>
+    <li>🔟 <strong>Number of Primary Missions:</strong> Increased from 9 to 10 in the new mission deck for standard games.</li>
+    <li>💰 <strong>Victory Points for Hidden Supplies:</strong> Score 5 points for controlling 1 objective, 10 for 2, and 15 if controlling more than the opponent.</li>
+    <li>📈 <strong>Terraform Action Changes:</strong> Players score 1 victory point per terraformed objective at the end of each turn, enhancing scoring dynamics.</li>
+    <li>📉 <strong>Victory Points for Recover Assets:</strong> Reduced from 6 to 5 for achieving actions in three areas.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the removal of generic character leadership impact the gameplay strategy for Space Wolves players?</strong></li>
-    <li>🤔 <strong>What unique advantages do the new detachments offer, and how can they be best utilized in matches?</strong></li>
-    <li>🤔 <strong>With the focus on unique units, how might this change the composition of competitive Space Wolves armies?</strong></li>
+    <li>🤔 <strong>How will these changes affect army composition strategies in competitive play?</strong></li>
+    <li>❓ <strong>What impact do you think the new catchup mechanics will have on match outcomes?</strong></li>
+    <li>💡 <strong>Which of the new mission objectives do you find the most intriguing or challenging?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>

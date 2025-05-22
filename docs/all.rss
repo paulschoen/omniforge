@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 May 2025 12:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 13:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,17 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran17-may22-1-feature-0frxrsqggv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seraphon - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kkp2aycl/seraphon-scourge-of-ghyran</link>
+            <guid>kkp2aycl</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join Ghyran's defence with cold-blooded cunning and enact the latest part of the Old Ones' Great Plan.]]></description>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01620_sog_17_seraphon_thumb-qxyf9jl6mc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gather round, young pups, for the great sagas of the Space Wolves]]></title>
@@ -277,17 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog11-may16-1-feature-65jp3nqtlz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orruk Warclans: Ironjawz - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wj5z3hch/orruk-warclans-ironjawz-scourge-of-ghyran</link>
-            <guid>wj5z3hch</guid>
-            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bash down branches and hack apart the Realm of Life with brutal Ironjawz and all new kunnin' planz.]]></description>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01614_sog_11_ironjawz_thumb-hgoxf80njb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
