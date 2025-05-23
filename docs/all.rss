@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 18:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer: The Horus Heresy – Strap in for the Dropsite Preview]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gx47zys7/warhammer-the-horus-heresy-strap-in-for-the-dropsite-preview</link>
+            <guid>gx47zys7</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your roundup of the big Horus Heresy news.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/02-thh_hub-1-feature-d0illccwte.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Tournament Companion is your trusty copilot for competitive Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qm0cbyck/the-tournament-companion-is-your-trusty-copilot-for-competitive-warhammer-40000</link>
@@ -300,18 +311,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01619_sog_16_daughters-of-khaine_thumb-wr84llnrou.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Wolves – A skjald talks sagas and stratagems]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2ijmotgp/space-wolves-a-skjald-talks-sagas-and-stratagems</link>
-            <guid>2ijmotgp</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to make the most of the new Space Wolves Army Set.]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_swtactica-may20-1-feature-wt1zhrwj2p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
