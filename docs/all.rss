@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 12:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 13:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting a Thousand Sons Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jyv0zxf6/starting-a-thousand-sons-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>jyv0zxf6</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the sorcerous scholars of Tzeentch.]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_tsfaction-1-feature-ueariuhqub.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slaves to Darkness – Scourge of Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/dtabpwnu/slaves-to-darkness-scourge-of-ghyran</link>
@@ -297,18 +309,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01618_sog_15_sons-of-behemat_thumb-woxtggsrk0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: The Sons of Behemat have some big new ideas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l3vj0gnr/scourge-of-ghyran-the-sons-of-behemat-have-some-big-new-ideas</link>
-            <guid>l3vj0gnr</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ghyran quakes under the weight of new rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran15-may20-1-feature-hk6l9kkbyk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
