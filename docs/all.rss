@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 12:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 12:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Slaves to Darkness – Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/dtabpwnu/slaves-to-darkness-scourge-of-ghyran</link>
+            <guid>dtabpwnu</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ride out from the Eightpoints and bring ruin to the Realm of Life with Archaon's latest schemes]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01621_sog_18_slaves-to-darkness_thumb-ke75k5og9n.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Are you deserving of glory?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pncricfo/scourge-of-ghyran-are-you-deserving-of-glory</link>
@@ -299,16 +309,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran15-may20-1-feature-hk6l9kkbyk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chapter Approved 2025 – Asymmetric missions and catch-up mechanics come to Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ykj6czq0/chapter-approved-2025-asymmetric-missions-and-catch-up-mechanics-come-to-warhammer-40000</link>
-            <guid>ykj6czq0</guid>
-            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s new in the next essential competitive companion.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_chapterapproved-may19-1-feature-c7hhlybfik.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
