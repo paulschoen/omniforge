@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 13:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Space Wolves 13th Company return from the Warp in this beautiful community army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9uif22a3/the-space-wolves-13th-company-return-from-the-warp-in-this-beautiful-community-army</link>
+            <guid>9uif22a3</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gorgeous work from Fletcher at Tabletop Tactics.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_-swinfluencers-may23-1-feature-7lmvfipykx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting a Thousand Sons Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jyv0zxf6/starting-a-thousand-sons-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -298,17 +311,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-may20-1-feature-hnl5tmesvx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sons of Behemat - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/cszuc4k0/sons-of-behemat-scourge-of-ghyran</link>
-            <guid>cszuc4k0</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Trample all before you and tear out the roots of Ghyran's defenders with the Sons of Behemat.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01618_sog_15_sons-of-behemat_thumb-woxtggsrk0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
