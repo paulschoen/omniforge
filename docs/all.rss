@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Tournament Companion is your trusty copilot for competitive Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qm0cbyck/the-tournament-companion-is-your-trusty-copilot-for-competitive-warhammer-40000</link>
+            <guid>qm0cbyck</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take on the latest Chapter Approved mission pack at local and global tournaments.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_tournamentcompanion-may23-1-feature-5hk1yy0f45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Space Wolves 13th Company return from the Warp in this beautiful community army]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9uif22a3/the-space-wolves-13th-company-return-from-the-warp-in-this-beautiful-community-army</link>
@@ -301,16 +312,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_swtactica-may20-1-feature-wt1zhrwj2p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 20th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/91ngnypk/the-rumour-engine-20th-of-may</link>
-            <guid>91ngnypk</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may20-1-feature-hnl5tmesvx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
