@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 09:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 12:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Are you deserving of glory?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pncricfo/scourge-of-ghyran-are-you-deserving-of-glory</link>
+            <guid>pncricfo</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The hordes descend upon Ghyran.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="slaves-to-darkness">Slaves to Darkness</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran18-may23-1-feature-04cywfpq5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tacticus - Adeptus Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/vlhlqozc/tacticus-adeptus-custodes</link>
@@ -297,18 +309,6 @@ The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enfo
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_chapterapproved-may19-1-feature-c7hhlybfik.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Wolves – Meet the new leaders of the pack]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s2lwrd2d/space-wolves-meet-the-new-leaders-of-the-pack</link>
-            <guid>s2lwrd2d</guid>
-            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[When it comes to heroes worthy of a saga, nobody does it better than the Space Wolves.]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_spacewolfcharacters-may19-1-feature-fixvcjopl5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
