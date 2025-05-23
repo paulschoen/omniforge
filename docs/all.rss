@@ -4,11 +4,144 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 18:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 21:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fellblade Super-Heavy Battle Tank Revealed | Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qt8al9sx/fellblade-super-heavy-battle-tank-revealed-warhammer-the-horus-heresy</link>
+            <guid>qt8al9sx</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Crush your foes under the massive tracks of the new Legion Fellblade]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/fellblade_thumbnail-8xnp9t5op0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Ways To Catch Up on Horus Heresy Lore | Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/opepxfhx/three-ways-to-catch-up-on-horus-heresy-lore-warhammer-the-horus-heresy</link>
+            <guid>opepxfhx</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Previously, in The Horus Heresy: our top three ways to get up to speed with Heresy lore]]></description>
+            <category domain="the-horus-heresy">The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/catch-up-on-the-story_thumbnail-ecz6f3usxt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Saturnine Technology? | Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cr6f8qee/what-is-saturnine-technology-warhammer-the-horus-heresy</link>
+            <guid>cr6f8qee</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Saturnine Terminator armour is the most advanced and powerful in the Imperium. Saturnine Dreadnoughts are larger still, and among the most powerful war machines in the Space Marine Legions.
+
+Explore the history of Saturnine technology and its use in the time of the Horus Heresy.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01685_thumbnail_v2-o8v8yx3wnn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The mighty Legion Fellblade rolls out of the forges in plastic]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xgbdwomg/the-mighty-legion-fellblade-rolls-out-of-the-forges-in-plastic</link>
+            <guid>xgbdwomg</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/08-thh_fellbladereveal-1-feature-3mlsl5ange.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine – Big guns, small guns and breachers!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers</link>
+            <guid>mpozkj8g</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More reveals from The Horus Heresy Preview.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/10-thh_more-1-feature-mezkni4wa4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine – How to catch up with the events of the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7umjeo5o/saturnine-how-to-catch-up-with-the-events-of-the-horus-heresy</link>
+            <guid>7umjeo5o</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/09-thh_catchup-1-feature-4vkjgjhq1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine: What is Saturnine-pattern Terminator armour?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8awupwvv/saturnine-what-is-saturnine-pattern-terminator-armour</link>
+            <guid>8awupwvv</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The history of the most advanced armour in the Imperium.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/06-thh_saturnine-1-feature-ka49s56xqk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine: The top five rules changes for the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b3ladnma/saturnine-the-top-five-rules-changes-for-the-new-edition</link>
+            <guid>b3ladnma</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/05-thh_toprules-1-feature-thi1sec2i6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine: What’s in the box?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kob2ooam/saturnine-whats-in-the-box</link>
+            <guid>kob2ooam</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find the full contents here.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/04-thh_minis-1-feature-mxqrueqe7h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine: Your questions on the new edition of Horus Heresy answered]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m11ujimg/saturnine-your-questions-on-the-new-edition-of-horus-heresy-answered</link>
+            <guid>m11ujimg</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what you need to know about Saturnine]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/07-thh_everythingtoknow-1-feature-e2z2ldlxwx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine trailer: Watch the all-new Horus Heresy cinematic]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s7uyc8wb/saturnine-trailer-watch-the-all-new-horus-heresy-cinematic</link>
+            <guid>s7uyc8wb</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[From the palace of Terra to the black sands of Isstvan.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/03-thh_cinematic-1-feature-eupolltgnu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer: The Horus Heresy – The New Edition Cinematic Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ewqizddb/t</link>
+            <guid>ewqizddb</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The galaxy burns! The new edition of Warhammer: The Horus Heresy is here. Pick your side and join the fight.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thh-cinematic2025-thumb-text-uurbrovzld.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer: The Horus Heresy – Strap in for the Dropsite Preview]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gx47zys7/warhammer-the-horus-heresy-strap-in-for-the-dropsite-preview</link>
@@ -167,150 +300,6 @@ Updated for a new generation by SneakyBox with 4K resolution, modernised control
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/smme_mce_main-game_trailerthumbnail_1920x1080-wr9kzbrthv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Rogue Trader - Lex Imperialis Release Date Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/0amhk8ys/warhammer-40000-rogue-trader-lex-imperialis-release-date-trailer</link>
-            <guid>0amhk8ys</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA["Lex Imperialis" - the second story expansion for Warhammer 40,000: Rogue Trader - is to be released on June 24, 2025. It features15 hours of compelling gameplay, a new companion, Familiars, and an entirely new faction: the Adeptus Arbites.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls_2025_dlc2_release_date_thumbnail_1920x1080-ul1vqbj3jp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Siege Mode Teaser]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/vl5btyae/warhammer-40000-space-marine-2-siege-mode-teaser</link>
-            <guid>vl5btyae</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Teased during Warhammer Skulls Festival livestream, the “Siege” update brings an endless new PvE game mode, alongside two new cosmetic DLCs, coming June 26.
-
-Focus Entertainment and Saber Interactive are excited to announce the release date and reveal the first gameplay footage for Warhammer 40,000: Space Marine 2’s long-awaited Siege mode. Available for free to all PlayStation 5, Xbox Series and PC players on June 26, the “Siege” update comes with a new PvE game mode and two new cosmetics DLCs for Season Pass owners.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_skulls_trailer_thumbnail_1920x1080_v1_4-w9eri6kbqu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide - Arbites Class Announcement]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/byq7laau/warhammer-40000-darktide-arbites-class-announcement</link>
-            <guid>byq7laau</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You are justice. 
-
-The Adeptus Arbites are  Warhammer 40,000: Darktide's first new class! They enforce the Lex Imperialis – the Imperial Law.  Utterly unforgiving, they persecute heretics and traitors throughout the Emperor’s realm. As an Arbitrator, you are a warrior of the Emperor’s justice, prosecuting crimes against the Imperium with disciplined zeal. Restore order to Tertium with your Cyber-Mastiff and a devastating array of new weaponry.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_lighter_announcement_1920_1080-asjerfwxua.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Skulls Showcase - Festival of Video Games 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kby2xuq0/warhammer-skulls-showcase-festival-of-video-games-2025</link>
-            <guid>kby2xuq0</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer Skulls is back for a ninth year, with loads of news, reveals, DLCs, and more for your favourite video games]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-2025_showcase-thumb-rdnc1xaddj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Skulls 2025 – The Warhammer video games festival is back!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fxexx0tv/skulls-2025-the-warhammer-video-games-festival-is-back</link>
-            <guid>fxexx0tv</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch all of the incredible reveals right here.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls2025-may22-1-feature-(1)-ovqc8hyboa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Set forth across the Sea of Stars with the Space Wolves on Crusade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dcq468l5/set-forth-across-the-sea-of-stars-with-the-space-wolves-on-crusade</link>
-            <guid>dcq468l5</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fame, vengeance, and glorious death!]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_spacewolfcrusadefocus-may22-1-feature-a7k0qo6vcw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: It’s written in the stars]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mfhqec9j/scourge-of-ghyran-its-written-in-the-stars</link>
-            <guid>mfhqec9j</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cold-blooded killers stalk the jungles.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="seraphon">Seraphon</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran17-may22-1-feature-0frxrsqggv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seraphon - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kkp2aycl/seraphon-scourge-of-ghyran</link>
-            <guid>kkp2aycl</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join Ghyran's defence with cold-blooded cunning and enact the latest part of the Old Ones' Great Plan.]]></description>
-            <category domain="seraphon">Seraphon</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01620_sog_17_seraphon_thumb-qxyf9jl6mc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gather round, young pups, for the great sagas of the Space Wolves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lfbouv2u/gather-round-young-pups-for-the-great-sagas-of-the-space-wolves</link>
-            <guid>lfbouv2u</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Where do you start reading about the sons of Russ?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_spacewolves-may21-1-feature-ikkixavo5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Robbie MacNiven talks Carcharodons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6orzwuzm/warhammer-tv-this-week-robbie-macniven-talks-carcharodons</link>
-            <guid>6orzwuzm</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus episodes of Battle Report and Armies of Renown.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may21-1-feature-5hzdcywmpk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Shadowy shenanigans from Morathi-Khaine and Morai-Heg]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e4tg4hmu/scourge-of-ghyran-shadowy-shenanigans-from-morathi-khaine-and-morai-heg</link>
-            <guid>e4tg4hmu</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Painting the Realm of Life red.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran16-may21-1-feature-wkyy99lcen.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daughters of Khaine - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/sd9hnsur/daughters-of-khaine-scourge-of-ghyran</link>
-            <guid>sd9hnsur</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stab at the heart of Ghyran with slaughterous and vindictive new tactics.]]></description>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01619_sog_16_daughters-of-khaine_thumb-wr84llnrou.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
