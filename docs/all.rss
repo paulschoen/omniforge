@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 May 2025 21:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 12:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Seeking enlightenment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ji9e5exb/scourge-of-ghyran-seeking-enlightenment</link>
+            <guid>ji9e5exb</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Illuminating rules for your haughtiest aelves.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran19-may24-1-feature-odeh1xovtj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fellblade Super-Heavy Battle Tank Revealed | Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qt8al9sx/fellblade-super-heavy-battle-tank-revealed-warhammer-the-horus-heresy</link>
@@ -285,21 +297,6 @@ Go to playsupremacy.com to get updates on Supremacy Warhammer 40,000 and pre-reg
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail1-min-(1)-edurjhvo9b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine Master Crafted Edition Official Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/odcp5rys/warhammer-40000-space-marine-master-crafted-edition-official-trailer</link>
-            <guid>odcp5rys</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[SEGA has announced Warhammer 40,000: Space Marine - Master Crafted Edition.
-
-Updated for a new generation by SneakyBox with 4K resolution, modernised controls, an interface overhaul, improved character models and remastered audio, the Master Crafted Edition brings the fight, the gore and the glory closer, louder and with greater impact than ever before. Experience this landmark third-person shooter set within the grim darkness and ceaseless conflict of the Warhammer 40,000 universe like never before.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/smme_mce_main-game_trailerthumbnail_1920x1080-wr9kzbrthv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
