@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 24 May 2025 12:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 17:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The Space Wolves bare their fangs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mcvpfgti/saturday-pre-orders-the-space-wolves-bare-their-fangs</link>
+            <guid>mcvpfgti</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may24-1-feature-9r7ambimwe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Seeking enlightenment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ji9e5exb/scourge-of-ghyran-seeking-enlightenment</link>
@@ -279,24 +291,6 @@ Their purpose on the contested world of Hekateus IV remains unknown. Are they fe
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/copy-of-skulls_2025_dh_announcement_trailer_thumbnail_1920x1080-9t7dyulbo2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Supremacy: Warhammer 40,000 - Announcement Trailer (Skulls 2025)]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/mfgjtvab/supremacy-warhammer-40000-announcement-trailer-skulls-2025</link>
-            <guid>mfgjtvab</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new war ignites in the grim darkness of the far future.
-
-Supremacy: Warhammer 40,000 brings the legendary strategy franchise to the brutal battlefields of Vigilus.
-
-From the creators of Supremacy 1914, Supremacy: Warhammer 40,000 is a long-term, multiplayer strategy experience set in the iconic Warhammer 40,000 universe—where tactics, domination, war pacts or betrayal decide the fate of the planet.
-
-Go to playsupremacy.com to get updates on Supremacy Warhammer 40,000 and pre-register on Google Play and the App Store now!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail1-min-(1)-edurjhvo9b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
