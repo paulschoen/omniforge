@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sat, 24 May 2025 21:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 21:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Space Wolves Points Reveals, Pre-orders GONE Instantly + Base Size Recommendations Coming to 40K?]]></title>
+            <link>https://www.youtube.com/watch?v=3y8pNn4O9Nk</link>
+            <guid>yt:video:3y8pNn4O9Nk</guid>
+            <pubDate>Sat, 24 May 2025 19:58:25 GMT</pubDate>
+            <description><![CDATA[The video discusses the high demand and rapid sellouts of Space Wolf Army sets and Chapter Approved mission cards, highlights limited stock availability outside Australia, reveals new points for various Space Wolf units, and introduces a new base sizing guide for tournament play in Warhammer 40k.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Space Wolves & Chapter Approved Release Highlights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>High Demand:</strong> Space Wolf Army sets and Chapter Approved mission cards sold out quickly in the UK and USA.</li>
+    <li>💥 <strong>Stock Status:</strong> Limited availability reported outside Australia, with good stock in Australia and New Zealand.</li>
+    <li>📜 <strong>Points Reveals:</strong> New points for Space Wolf units confirmed from the upcoming Munatorium Field manual.</li>
+    <li>🏆 <strong>Tournament Companion:</strong> A new base sizing guide will be included in the tournament companion for Warhammer 40k.</li>
+    <li>❌ <strong>Supply Issues:</strong> Many retailers received fewer copies than expected, leading to rapid sellouts.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Sales Trends:</strong> Anecdotal evidence suggests retailers received only 10 to 30 copies of popular releases.</li>
+    <li>⚔️ <strong>Blood Claws Cost:</strong> 135 points for 10 units, making them the cheapest power-armored Space Marines.</li>
+    <li>🐺 <strong>Thunderwolves Pricing:</strong> Remains at 100 points for three, maintaining their value with improved stats.</li>
+    <li>🚀 <strong>Character Costs:</strong> Logan is listed between 110-115 points, while Ragnar Blackmane is around 90 points.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do you think the limited stock affects the future releases from Games Workshop?</li>
+    <li>🔍 <strong>Question 2:</strong> With the new points revealed, which Space Wolf units do you believe will dominate in competitive play?</li>
+    <li>📏 <strong>Question 3:</strong> What impact do you think the new base sizing guidelines will have on gameplay and tournament organization?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[The Big 40K Core Gameplay Update - All Changes Reviewed from the Chapter 2025-26 Mission Deck]]></title>
             <link>https://www.youtube.com/watch?v=Ap7BWR0T-YE</link>
@@ -6133,36 +6167,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Space Wolves Points Reveals, Pre-orders GONE Instantly + Base Size Recommendations Coming to 40K?]]></title>
-            <link>https://www.youtube.com/watch?v=3y8pNn4O9Nk</link>
-            <guid>yt:video:3y8pNn4O9Nk</guid>
-            <pubDate>Sat, 24 May 2025 19:58:25 GMT</pubDate>
-            <description><![CDATA[The video discusses the high demand and rapid sellouts of Space Wolf Army sets and Chapter Approved mission cards, highlights limited stock availability outside Australia, reveals new points for various Space Wolf units, and introduces a new base sizing guide for tournament play in Warhammer 40k.]]></description>
+            <title><![CDATA[What's in 40K's new Expansion Book - Rules Review for the Armageddon Crusade Book]]></title>
+            <link>https://www.youtube.com/watch?v=SCnwwLYFmk4</link>
+            <guid>yt:video:SCnwwLYFmk4</guid>
+            <pubDate>Sun, 25 May 2025 19:19:54 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new "Crusade Armageddon" book for Warhammer 40k, highlighting its lore, campaign structure divided into four phases, player alliances, new crusade rules, and the introduction of unpredictable demonic adversaries.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Space Wolves & Chapter Approved Release Highlights</h2>
+<h2>📢 Overview of the New Armageddon Book for Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>High Demand:</strong> Space Wolf Army sets and Chapter Approved mission cards sold out quickly in the UK and USA.</li>
-    <li>💥 <strong>Stock Status:</strong> Limited availability reported outside Australia, with good stock in Australia and New Zealand.</li>
-    <li>📜 <strong>Points Reveals:</strong> New points for Space Wolf units confirmed from the upcoming Munatorium Field manual.</li>
-    <li>🏆 <strong>Tournament Companion:</strong> A new base sizing guide will be included in the tournament companion for Warhammer 40k.</li>
-    <li>❌ <strong>Supply Issues:</strong> Many retailers received fewer copies than expected, leading to rapid sellouts.</li>
+    <li>🔥 <strong>Introduction to Armageddon:</strong> The new <em>Crusade Armageddon</em> book features a mix of lore, rules, and campaign content, focusing on the fourth war for Armageddon.</li>
+    <li>🌌 <strong>Campaign Structure:</strong> The campaign is divided into four phases, allowing for fast or slow gameplay, depending on player engagement and preferences.</li>
+    <li>🛡️ <strong>Three Alliances:</strong> Players can choose between Gate Breakers (Imperial), Desecrators (Chaos), and Marauders (Xenos) to fight for objectives.</li>
+    <li>🎲 <strong>Crusade Rules:</strong> The book includes standard crusade rules, new relics, battle traits, and agendas themed around warp-infused battlefields.</li>
+    <li>👾 <strong>Unbound Adversaries:</strong> Demonic entities that spawn randomly during battles, creating unpredictable challenges for players.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Sales Trends:</strong> Anecdotal evidence suggests retailers received only 10 to 30 copies of popular releases.</li>
-    <li>⚔️ <strong>Blood Claws Cost:</strong> 135 points for 10 units, making them the cheapest power-armored Space Marines.</li>
-    <li>🐺 <strong>Thunderwolves Pricing:</strong> Remains at 100 points for three, maintaining their value with improved stats.</li>
-    <li>🚀 <strong>Character Costs:</strong> Logan is listed between 110-115 points, while Ragnar Blackmane is around 90 points.</li>
+    <li>📈 <strong>Player Choices:</strong> A poll indicated equal interest in both the <em>Crusade Armageddon</em> book and the Space Wolves Army set.</li>
+    <li>⚔️ <strong>Victory Points:</strong> Players can earn strategic points for winning games, impacting their alliance's success throughout the campaign.</li>
+    <li>🔄 <strong>Game Phases:</strong> The campaign can be completed in as little as one game per phase or stretched out to several months based on player preference.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do you think the limited stock affects the future releases from Games Workshop?</li>
-    <li>🔍 <strong>Question 2:</strong> With the new points revealed, which Space Wolf units do you believe will dominate in competitive play?</li>
-    <li>📏 <strong>Question 3:</strong> What impact do you think the new base sizing guidelines will have on gameplay and tournament organization?</li>
+    <li>🤔 <strong>How might the introduction of warp-infused rules change the dynamics of traditional Warhammer 40k gameplay?</strong></li>
+    <li>🤔 <strong>What strategies could players implement to adapt to the unpredictability of unbound adversaries?</strong></li>
+    <li>🤔 <strong>In what ways can the campaign structure enhance player engagement in storytelling within their games?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
