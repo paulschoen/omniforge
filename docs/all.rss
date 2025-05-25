@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 24 May 2025 17:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 12:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Gifts from the Dark Prince]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ckqykyrx/scourge-of-ghyran-gifts-from-the-dark-prince</link>
+            <guid>ckqykyrx</guid>
+            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sowing seeds of temptation in Ghyran.]]></description>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran20-may25-1-feature-uxr7fgkbne.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The Space Wolves bare their fangs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mcvpfgti/saturday-pre-orders-the-space-wolves-bare-their-fangs</link>
@@ -279,18 +290,6 @@ Their purpose on the contested world of Hekateus IV remains unknown. Are they fe
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new--keyart_dow_thumbnail_gold-pszyglhxqg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dark Heresy - Announcement Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lanpeqrs/warhammer-40000-dark-heresy-announcement-trailer</link>
-            <guid>lanpeqrs</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Owlcat Games reveal a new game in Warhammer 40,000 Universe. Become an acolyte of the Inquisition in this grim dark, party-based, story-driven cRPG. Lead investigations, uncover grand conspiracies, master tactical combat, and wage a secret war against heresy. Find more about Warhammer 40,000: Dark Heresy at darkheresy.owlcat.games]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/copy-of-skulls_2025_dh_announcement_trailer_thumbnail_1920x1080-9t7dyulbo2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
