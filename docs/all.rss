@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 May 2025 11:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 12:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Grub’s up!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rtsvngru/scourge-of-ghyran-grubs-up</link>
+            <guid>rtsvngru</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Putting on a feast in Ghyran.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog21-may26-1-feature-usgmnoqfob.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies of Middle-earth™ designer’s notes – Discussing the new profiles]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rbdmxuwb/armies-of-middle-earthtm-designers-notes-discussing-the-new-profiles</link>
@@ -270,20 +282,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran18-may23-1-feature-04cywfpq5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tacticus - Adeptus Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/vlhlqozc/tacticus-adeptus-custodes</link>
-            <guid>vlhlqozc</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[From Warhammer Skulls 2025 to the frontlines — the Adeptus Custodes have entered Warhammer 40,000: Tacticus.
-Lead the Emperor’s guardians and meet your fellow tacticians in our Official Discord!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ua_trailers_skulls2025_thumbnail_2-4arhdyu1wl.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
