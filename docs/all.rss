@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 May 2025 12:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 13:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Idoneth Deepkin break the waves with new Ikons of the Sea and Storm]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nt1kv1fq/the-idoneth-deepkin-break-the-waves-with-new-ikons-of-the-sea-and-storm</link>
+            <guid>nt1kv1fq</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Treasures from the deep.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_idonethreveal-may26-1-feature-vaezxulkbs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Grub’s up!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rtsvngru/scourge-of-ghyran-grubs-up</link>
@@ -20,6 +32,16 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog21-may26-1-feature-usgmnoqfob.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ogor Mawtribes - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rg2l3xrc/ogor-mawtribes-scourge-of-ghyran</link>
+            <guid>rg2l3xrc</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gorge on Ghyran and consume all before you with realm-devouring new rules]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01624_sog_21_ogor-mawtribes_thumb-ku2kjoaqre.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Armies of Middle-earth™ designer’s notes – Discussing the new profiles]]></title>
@@ -47,6 +69,16 @@
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-may25-1-feature-u8hzvsietg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hedonites of Slaanesh - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zf6hknus/hedonites-of-slaanesh-scourge-of-ghyran</link>
+            <guid>zf6hknus</guid>
+            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inflict pain upon verdant Ghyran for Slaanesh’s sinister pleasure with the Hedonites of Slaanesh]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01623_sog_20_hedonites-of-slaanesh_thumb-bjsxacnehh.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Scourge of Ghyran: Gifts from the Dark Prince]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ckqykyrx/scourge-of-ghyran-gifts-from-the-dark-prince</link>
             <guid>ckqykyrx</guid>
@@ -68,6 +100,16 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may24-1-feature-9r7ambimwe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lumineth Realm-lords - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/1vs444v4/lumineth-realm-lords-scourge-of-ghyran</link>
+            <guid>1vs444v4</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mountains move in defence of Ghyran. Banish the darkness with the light of Hysh and the Lumineth Realm-lords]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01622_sog_19_lumineth_thumb-suxswten6r.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Seeking enlightenment]]></title>
@@ -235,53 +277,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_tournamentcompanion-may23-1-feature-5hk1yy0f45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Space Wolves 13th Company return from the Warp in this beautiful community army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9uif22a3/the-space-wolves-13th-company-return-from-the-warp-in-this-beautiful-community-army</link>
-            <guid>9uif22a3</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gorgeous work from Fletcher at Tabletop Tactics.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_-swinfluencers-may23-1-feature-7lmvfipykx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Thousand Sons Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jyv0zxf6/starting-a-thousand-sons-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>jyv0zxf6</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the sorcerous scholars of Tzeentch.]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_tsfaction-1-feature-ueariuhqub.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slaves to Darkness – Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dtabpwnu/slaves-to-darkness-scourge-of-ghyran</link>
-            <guid>dtabpwnu</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ride out from the Eightpoints and bring ruin to the Realm of Life with Archaon's latest schemes]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01621_sog_18_slaves-to-darkness_thumb-ke75k5og9n.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Are you deserving of glory?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pncricfo/scourge-of-ghyran-are-you-deserving-of-glory</link>
-            <guid>pncricfo</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The hordes descend upon Ghyran.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="slaves-to-darkness">Slaves to Darkness</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran18-may23-1-feature-04cywfpq5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
