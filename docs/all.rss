@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 25 May 2025 17:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 11:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies of Middle-earth™ designer’s notes – Discussing the new profiles]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rbdmxuwb/armies-of-middle-earthtm-designers-notes-discussing-the-new-profiles</link>
+            <guid>rbdmxuwb</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fill in the gaps with an exciting new supplement.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_profiles-apr28-1-feature-rhbqpi4hih.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Change comes to the Mortal Realms and the Brayherds raid the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ck4pqjsu/sunday-preview-change-comes-to-the-mortal-realms-and-the-brayherds-raid-the-old-world</link>
@@ -274,25 +284,6 @@ Lead the Emperor’s guardians and meet your fellow tacticians in our Official D
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ua_trailers_skulls2025_thumbnail_2-4arhdyu1wl.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Mechanicus 2 - Allegiances Unknown trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qe6y3spn/warhammer-40000-mechanicus-2-allegiances-unknown-trailer</link>
-            <guid>qe6y3spn</guid>
-            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kasedo Games & Bulwark Studios today released the long-anticipated trailer                                                                                                          offering a first look at gameplay for its turn-based tactical sequel Warhammer 40,000: Mechanicus II, coming to Windows PC, PlayStation®5, & Xbox Series X|S later this year.
-
-The trailer offers a thrilling first glimpse of a new planetary conflict between the Adeptus Mechanicus and the ancient Necron dynasty, in gripping tactical skirmishes across visually diverse and richly detailed battlefields – each teeming with opportunities for strategic domination.
-
-As well as familiar faces, players will encounter the Leagues of Votann for the first time in a Warhammer video game.
-
-Their purpose on the contested world of Hekateus IV remains unknown. Are they fellow seekers of knowledge, mercenaries in search of profit, or something far more dangerous? Their presence raises questions, and their loyalty is anything but guaranteed.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls_2025_trailer_thumbnail-6pvyqrd6lv.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
