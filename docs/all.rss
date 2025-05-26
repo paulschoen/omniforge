@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 May 2025 13:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine: How to prepare for the new edition of the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0helqmal/saturnine-how-to-prepare-for-the-new-edition-of-the-horus-heresy</link>
+            <guid>0helqmal</guid>
+            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/11-thh_gettingready-1-feature-ar8iqpubvu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Idoneth Deepkin break the waves with new Ikons of the Sea and Storm]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nt1kv1fq/the-idoneth-deepkin-break-the-waves-with-new-ikons-of-the-sea-and-storm</link>
@@ -266,17 +275,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/02-thh_hub-1-feature-d0illccwte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Tournament Companion is your trusty copilot for competitive Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qm0cbyck/the-tournament-companion-is-your-trusty-copilot-for-competitive-warhammer-40000</link>
-            <guid>qm0cbyck</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take on the latest Chapter Approved mission pack at local and global tournaments.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_tournamentcompanion-may23-1-feature-5hk1yy0f45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
