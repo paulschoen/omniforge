@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 May 2025 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 12:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,16 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog22-may27-1-feature-0cxepvlbi2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maggotkin of Nurgle - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kf7up5al/maggotkin-of-nurgle-scourge-of-ghyran</link>
+            <guid>kf7up5al</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Become the plague fly in Ghyran's ointment as you spread Nurgle's corrupt influence]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01625_sog_22_maggotkin-of-nurgle_thumb-kfvmytlfm3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Saturnine: How to prepare for the new edition of the Horus Heresy]]></title>
@@ -266,16 +276,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/03-thh_cinematic-1-feature-eupolltgnu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: The Horus Heresy – The New Edition Cinematic Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ewqizddb/t</link>
-            <guid>ewqizddb</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The galaxy burns! The new edition of Warhammer: The Horus Heresy is here. Pick your side and join the fight.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thh-cinematic2025-thumb-text-uurbrovzld.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
