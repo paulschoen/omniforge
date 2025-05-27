@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 May 2025 12:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 13:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 27th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hzrcnd9b/the-rumour-engine-27th-of-may</link>
+            <guid>hzrcnd9b</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may27-1-feature-akmnocqmz9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: A bounty of buboes and bile]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vdmhzuhs/scourge-of-ghyran-a-bounty-of-buboes-and-bile</link>
@@ -264,18 +274,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/07-thh_everythingtoknow-1-feature-e2z2ldlxwx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine trailer: Watch the all-new Horus Heresy cinematic]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s7uyc8wb/saturnine-trailer-watch-the-all-new-horus-heresy-cinematic</link>
-            <guid>s7uyc8wb</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[From the palace of Terra to the black sands of Isstvan.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/03-thh_cinematic-1-feature-eupolltgnu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
