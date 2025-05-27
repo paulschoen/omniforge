@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 May 2025 14:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 15:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – What lurks within the Wildwood?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood</link>
+            <guid>qlwqfahu</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Beastmen return to the Old World.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_beastmen1-may27-1-feature-ii0ppvxtlk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine lore focus: The Imperial Palace]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/faggbycw/saturnine-lore-focus-the-imperial-palace</link>
@@ -261,18 +272,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/05-thh_toprules-1-feature-thi1sec2i6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: What’s in the box?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kob2ooam/saturnine-whats-in-the-box</link>
-            <guid>kob2ooam</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find the full contents here.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/04-thh_minis-1-feature-mxqrueqe7h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
