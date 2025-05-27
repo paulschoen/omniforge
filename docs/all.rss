@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 May 2025 13:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 14:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine lore focus: The Imperial Palace]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/faggbycw/saturnine-lore-focus-the-imperial-palace</link>
+            <guid>faggbycw</guid>
+            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the seat of the Emperor’s power.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_imperialpalacelore-may28-1-feature-yxaeocehwb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 27th of May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hzrcnd9b/the-rumour-engine-27th-of-may</link>
@@ -263,17 +273,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/04-thh_minis-1-feature-mxqrueqe7h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: Your questions on the new edition of Horus Heresy answered]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m11ujimg/saturnine-your-questions-on-the-new-edition-of-horus-heresy-answered</link>
-            <guid>m11ujimg</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what you need to know about Saturnine]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/07-thh_everythingtoknow-1-feature-e2z2ldlxwx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
