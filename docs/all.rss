@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 May 2025 12:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 13:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies of Middle-earth™ designers’ notes – The army lists]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tl8jt4oz/armies-of-middle-earthtm-designers-notes-the-army-lists</link>
+            <guid>tl8jt4oz</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Many new ways to play from the wider world of Middle-earth.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_armylists-may28-1-feature-(1)-wp10t3nnnw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch Kill Lupercal Episode 1 now!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g41sxryn/watch-kill-lupercal-episode-1-now</link>
@@ -262,17 +273,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01685_thumbnail_v2-o8v8yx3wnn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The mighty Legion Fellblade rolls out of the forges in plastic]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xgbdwomg/the-mighty-legion-fellblade-rolls-out-of-the-forges-in-plastic</link>
-            <guid>xgbdwomg</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/08-thh_fellbladereveal-1-feature-3mlsl5ange.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
