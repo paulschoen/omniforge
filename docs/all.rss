@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 May 2025 15:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 11:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Underworlds – The Spring 2025 balance update is here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/edayyf5n/warhammer-underworlds-the-spring-2025-balance-update-is-here</link>
+            <guid>edayyf5n</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Minor updates and your questions answered.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_update-may21-1-feature-vmx3lkxw2v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: If you go down to the woods today…]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g2vmbqtb/scourge-of-ghyran-if-you-go-down-to-the-woods-today</link>
+            <guid>g2vmbqtb</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[… you’re going to get killed by the trees.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog23-may28-1-feature-qwwufrz5br.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – What lurks within the Wildwood?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood</link>
@@ -250,28 +272,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/09-thh_catchup-1-feature-4vkjgjhq1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: What is Saturnine-pattern Terminator armour?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8awupwvv/saturnine-what-is-saturnine-pattern-terminator-armour</link>
-            <guid>8awupwvv</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The history of the most advanced armour in the Imperium.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/06-thh_saturnine-1-feature-ka49s56xqk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: The top five rules changes for the new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b3ladnma/saturnine-the-top-five-rules-changes-for-the-new-edition</link>
-            <guid>b3ladnma</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/05-thh_toprules-1-feature-thi1sec2i6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
