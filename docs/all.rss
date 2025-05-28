@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 May 2025 13:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 14:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Grand Narrative returns for September’s Warhammer World events]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qc0vk9ug/the-grand-narrative-returns-for-septembers-warhammer-world-events</link>
+            <guid>qc0vk9ug</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s going on at the heart of Warhammer?]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-may28-1-feature-u1jkwqrz1w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies of Middle-earth™ designers’ notes – The army lists]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tl8jt4oz/armies-of-middle-earthtm-designers-notes-the-army-lists</link>
@@ -260,19 +270,6 @@
             <category domain="the-horus-heresy">The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/catch-up-on-the-story_thumbnail-ecz6f3usxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What is Saturnine Technology? | Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/cr6f8qee/what-is-saturnine-technology-warhammer-the-horus-heresy</link>
-            <guid>cr6f8qee</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Saturnine Terminator armour is the most advanced and powerful in the Imperium. Saturnine Dreadnoughts are larger still, and among the most powerful war machines in the Space Marine Legions.
-
-Explore the history of Saturnine technology and its use in the time of the Horus Heresy.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01685_thumbnail_v2-o8v8yx3wnn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
