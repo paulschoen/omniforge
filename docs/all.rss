@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 May 2025 11:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 12:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Watch Kill Lupercal Episode 1 now!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g41sxryn/watch-kill-lupercal-episode-1-now</link>
+            <guid>g41sxryn</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The latest animation on Warhammer TV is here – and it’s set at the Siege of Terra.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/killlupercal_ep1-may28-1-feature-ucny3roqhz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sylvaneth - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ija3xkfu/sylvaneth-scourge-of-ghyran</link>
+            <guid>ija3xkfu</guid>
+            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sharpen your thorns and execute the Everqueen's will for Ghyran's defence with new Sylvaneth strategies]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01626_sog_23_sylvaneth_thumb-mzk0zycwtk.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Underworlds – The Spring 2025 balance update is here]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/edayyf5n/warhammer-underworlds-the-spring-2025-balance-update-is-here</link>
@@ -250,28 +273,6 @@ Explore the history of Saturnine technology and its use in the time of the Horus
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/08-thh_fellbladereveal-1-feature-3mlsl5ange.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine – Big guns, small guns and breachers!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers</link>
-            <guid>mpozkj8g</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More reveals from The Horus Heresy Preview.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/10-thh_more-1-feature-mezkni4wa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine – How to catch up with the events of the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7umjeo5o/saturnine-how-to-catch-up-with-the-events-of-the-horus-heresy</link>
-            <guid>7umjeo5o</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/09-thh_catchup-1-feature-4vkjgjhq1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
