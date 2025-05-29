@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 May 2025 12:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 14:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine lore focus: Who is Constantin Valdor?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wcw9mlf9/saturnine-lore-focus-who-is-constantin-valdor</link>
+            <guid>wcw9mlf9</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More info on the Emperor’s golden champion.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/14-thh_valdor-1-feature-mgw432ucas.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: The Lords of Death attempt to conquer the Realm of Life]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fwi6nshx/scourge-of-ghyran-the-lords-of-death-attempt-to-conquer-the-realm-of-life</link>
@@ -262,16 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran19-may24-1-feature-odeh1xovtj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fellblade Super-Heavy Battle Tank Revealed | Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qt8al9sx/fellblade-super-heavy-battle-tank-revealed-warhammer-the-horus-heresy</link>
-            <guid>qt8al9sx</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Crush your foes under the massive tracks of the new Legion Fellblade]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/fellblade_thumbnail-8xnp9t5op0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
