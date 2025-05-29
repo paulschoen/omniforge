@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 May 2025 14:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 15:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – The Children of Chaos]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos</link>
+            <guid>rybvkwfs</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look into Arcane Journal: Beastmen]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_beastmen2-may29-1-feature-bzhnzobmzq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine lore focus: Who is Constantin Valdor?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wcw9mlf9/saturnine-lore-focus-who-is-constantin-valdor</link>
@@ -260,18 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01622_sog_19_lumineth_thumb-suxswten6r.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Seeking enlightenment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ji9e5exb/scourge-of-ghyran-seeking-enlightenment</link>
-            <guid>ji9e5exb</guid>
-            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Illuminating rules for your haughtiest aelves.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran19-may24-1-feature-odeh1xovtj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
