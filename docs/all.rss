@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 May 2025 14:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 12:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: The Lords of Death attempt to conquer the Realm of Life]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fwi6nshx/scourge-of-ghyran-the-lords-of-death-attempt-to-conquer-the-realm-of-life</link>
+            <guid>fwi6nshx</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Undead rules… with bite.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog24-may29-1-feature-oeoswdvsyg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Grand Narrative returns for September’s Warhammer World events]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qc0vk9ug/the-grand-narrative-returns-for-septembers-warhammer-world-events</link>
@@ -260,16 +272,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/fellblade_thumbnail-8xnp9t5op0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Three Ways To Catch Up on Horus Heresy Lore | Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/opepxfhx/three-ways-to-catch-up-on-horus-heresy-lore-warhammer-the-horus-heresy</link>
-            <guid>opepxfhx</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Previously, in The Horus Heresy: our top three ways to get up to speed with Heresy lore]]></description>
-            <category domain="the-horus-heresy">The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/catch-up-on-the-story_thumbnail-ecz6f3usxt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
