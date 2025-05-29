@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 May 2025 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 16:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blood Bowl FAQ update – Play ball with new clarifications]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uxzldbhu/blood-bowl-faq-update-play-ball-with-new-clarifications</link>
+            <guid>uxzldbhu</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just a few changes in May’s FAQ.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_faqs-may27-1-feature-rojjmoebaw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saturnine: Highlights from the Dropsite Preview]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/an3sesur/saturnine-highlights-from-the-dropsite-preview</link>
+            <guid>an3sesur</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Catch up on what you missed.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/13-thh_preview5mins-1-feature-gv5entg7y7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – The Children of Chaos]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos</link>
@@ -250,28 +270,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran20-may25-1-feature-uxr7fgkbne.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – The Space Wolves bare their fangs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mcvpfgti/saturday-pre-orders-the-space-wolves-bare-their-fangs</link>
-            <guid>mcvpfgti</guid>
-            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-may24-1-feature-9r7ambimwe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lumineth Realm-lords - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/1vs444v4/lumineth-realm-lords-scourge-of-ghyran</link>
-            <guid>1vs444v4</guid>
-            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mountains move in defence of Ghyran. Banish the darkness with the light of Hysh and the Lumineth Realm-lords]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01622_sog_19_lumineth_thumb-suxswten6r.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
