@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 May 2025 11:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 12:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Ghyran: Get ready to sack or save the Realm of Life]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1tvkzyji/scourge-of-ghyran-get-ready-to-sack-or-save-the-realm-of-life</link>
+            <guid>1tvkzyji</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prepare yourself for the incoming year of matched play.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sog-outro-may30-1-feature-rj7pkzrijd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A spite and a treeman walk out onto the gridiron…]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fmqprbjz/a-spite-and-a-treeman-walk-out-onto-the-gridiron</link>
@@ -259,16 +270,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-may25-1-feature-u8hzvsietg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hedonites of Slaanesh - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zf6hknus/hedonites-of-slaanesh-scourge-of-ghyran</link>
-            <guid>zf6hknus</guid>
-            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Inflict pain upon verdant Ghyran for Slaanesh’s sinister pleasure with the Hedonites of Slaanesh]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01623_sog_20_hedonites-of-slaanesh_thumb-bjsxacnehh.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
