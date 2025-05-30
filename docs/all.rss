@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 May 2025 14:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 15:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine competition: Your chance to win a Primarch!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u1l6enmp/saturnine-competition-your-chance-to-win-a-primarch</link>
+            <guid>u1l6enmp</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sign up to our newsletter for a chance to win.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/14-emailcomp-1-feature-rfgcnvbjyy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spearhead – Season of War talk deathly duels and tactical depth in Sand and Bone]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jzsmhjca/spearhead-season-of-war-talk-deathly-duels-and-tactical-depth-in-sand-and-bone</link>
@@ -256,16 +266,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog21-may26-1-feature-usgmnoqfob.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ogor Mawtribes - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rg2l3xrc/ogor-mawtribes-scourge-of-ghyran</link>
-            <guid>rg2l3xrc</guid>
-            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gorge on Ghyran and consume all before you with realm-devouring new rules]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01624_sog_21_ogor-mawtribes_thumb-ku2kjoaqre.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
