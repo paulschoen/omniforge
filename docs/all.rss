@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 May 2025 12:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 13:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Middle-earth™ Matched Play Guide – The designers’ notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ftrmj8kc/middle-earthtm-matched-play-guide-the-designers-notes</link>
+            <guid>ftrmj8kc</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Competitive play in Middle-earth.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_matchedplay-may30-1-feature-62lo11s1vc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: Get ready to sack or save the Realm of Life]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1tvkzyji/scourge-of-ghyran-get-ready-to-sack-or-save-the-realm-of-life</link>
@@ -255,21 +265,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_profiles-apr28-1-feature-rhbqpi4hih.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Change comes to the Mortal Realms and the Brayherds raid the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ck4pqjsu/sunday-preview-change-comes-to-the-mortal-realms-and-the-brayherds-raid-the-old-world</link>
-            <guid>ck4pqjsu</guid>
-            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what is available to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may25-1-feature-u8hzvsietg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
