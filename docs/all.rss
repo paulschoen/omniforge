@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 May 2025 15:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 16:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV Summer Season 2025 Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/utxkj8vu/warhammer-tv-summer-season-2025-trailer</link>
+            <guid>utxkj8vu</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season of Warhammer TV's on the way!]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/this-summer-on-youtube-thumbnail-vym4mmdhfg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine competition: Your chance to win a Primarch!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u1l6enmp/saturnine-competition-your-chance-to-win-a-primarch</link>
@@ -254,18 +264,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_idonethreveal-may26-1-feature-vaezxulkbs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Grub’s up!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rtsvngru/scourge-of-ghyran-grubs-up</link>
-            <guid>rtsvngru</guid>
-            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Putting on a feast in Ghyran.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog21-may26-1-feature-usgmnoqfob.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
