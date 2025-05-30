@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 May 2025 16:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 11:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A spite and a treeman walk out onto the gridiron…]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fmqprbjz/a-spite-and-a-treeman-walk-out-onto-the-gridiron</link>
+            <guid>fmqprbjz</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Branch out with two new Star Players.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_mapleswift-may30-1-feature-pjjghirokn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blood Bowl FAQ update – Play ball with new clarifications]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uxzldbhu/blood-bowl-faq-update-play-ball-with-new-clarifications</link>
@@ -259,17 +269,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01623_sog_20_hedonites-of-slaanesh_thumb-bjsxacnehh.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Gifts from the Dark Prince]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ckqykyrx/scourge-of-ghyran-gifts-from-the-dark-prince</link>
-            <guid>ckqykyrx</guid>
-            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sowing seeds of temptation in Ghyran.]]></description>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_scourgeghyran20-may25-1-feature-uxr7fgkbne.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
