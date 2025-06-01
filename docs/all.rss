@@ -4,11 +4,27 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 31 May 2025 17:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jun 2025 17:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Chaos Knights crush the competition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yvrlx5af/sunday-preview-chaos-knights-crush-the-competition</link>
+            <guid>yvrlx5af</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun01-1-feature-maletthx06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Spearheads, Brayherds, and the Armies of Middle-earth™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/teeizxbe/saturday-pre-orders-spearheads-brayherds-and-the-armies-of-middle-earthtm</link>
@@ -256,15 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01625_sog_22_maggotkin-of-nurgle_thumb-kfvmytlfm3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: How to prepare for the new edition of the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0helqmal/saturnine-how-to-prepare-for-the-new-edition-of-the-horus-heresy</link>
-            <guid>0helqmal</guid>
-            <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/11-thh_gettingready-1-feature-ar8iqpubvu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
