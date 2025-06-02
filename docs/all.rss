@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Jun 2025 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 16:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Old World Matched Play Guide: New ways to play in the World of Legend]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/azlyvdkm/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend</link>
+            <guid>azlyvdkm</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The definitive guide to matched play in Warhammer: The Old World.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_mpguide-june02-1-feature-bucsgzritr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get involved with Warhammer Age of Sigmar Organised Play]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xykts2qe/get-involved-with-warhammer-age-of-sigmar-organised-play</link>
@@ -264,17 +274,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01626_sog_23_sylvaneth_thumb-mzk0zycwtk.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Underworlds – The Spring 2025 balance update is here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/edayyf5n/warhammer-underworlds-the-spring-2025-balance-update-is-here</link>
-            <guid>edayyf5n</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Minor updates and your questions answered.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_update-may21-1-feature-vmx3lkxw2v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
