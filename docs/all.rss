@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 01 Jun 2025 17:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 12:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Embrace undeath with a free Barrow Guard miniature of the month and Soulblight Gravelords coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zaftimpb/embrace-undeath-with-a-free-barrow-guard-miniature-of-the-month-and-soulblight-gravelords-coin</link>
+            <guid>zaftimpb</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-jun02-1-feature-otrwnxvib4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Chaos Knights crush the competition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yvrlx5af/sunday-preview-chaos-knights-crush-the-competition</link>
@@ -262,16 +274,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog22-may27-1-feature-0cxepvlbi2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maggotkin of Nurgle - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kf7up5al/maggotkin-of-nurgle-scourge-of-ghyran</link>
-            <guid>kf7up5al</guid>
-            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Become the plague fly in Ghyran's ointment as you spread Nurgle's corrupt influence]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01625_sog_22_maggotkin-of-nurgle_thumb-kfvmytlfm3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
