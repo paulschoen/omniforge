@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Jun 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get involved with Warhammer Age of Sigmar Organised Play]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xykts2qe/get-involved-with-warhammer-age-of-sigmar-organised-play</link>
+            <guid>xykts2qe</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take part in store to win prizes.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_orgplay2025-june02-1-feature-1hdar2omnr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness: How do Advanced Characteristics work?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fstxtjge/rules-in-the-age-of-darkness-how-do-advanced-characteristics-work</link>
@@ -265,17 +275,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_update-may21-1-feature-vmx3lkxw2v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: If you go down to the woods today…]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g2vmbqtb/scourge-of-ghyran-if-you-go-down-to-the-woods-today</link>
-            <guid>g2vmbqtb</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[… you’re going to get killed by the trees.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog23-may28-1-feature-qwwufrz5br.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
