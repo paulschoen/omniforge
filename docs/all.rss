@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Jun 2025 13:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness: How do Advanced Characteristics work?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fstxtjge/rules-in-the-age-of-darkness-how-do-advanced-characteristics-work</link>
+            <guid>fstxtjge</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What do the new stats bring to your games of Horus Heresy?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/16-newcharacteristics-1-feature-7cdnodhnij.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An oracle and an incarnate rear from the abyssal depths…]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dunnnmdk/an-oracle-and-an-incarnate-rear-from-the-abyssal-depths</link>
@@ -115,6 +125,18 @@
             <enclosure url="https://assets.warhammer-community.com/aos_sog-outro-may30-1-feature-rj7pkzrijd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Frozen Fenrisian Fun - Painting A Space Wolves Blood Claw | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lfdngfol/frozen-fenrisian-fun-painting-a-space-wolves-blood-claw-warhammer-40000</link>
+            <guid>lfdngfol</guid>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blood Claws are the impetuous Upstarts of the Space Wolves Legion, today Jake will show you how to paint one up and make a fancy ice base to go alongside it!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/space-wolves-thumbnail-3k4gvp2s9w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A spite and a treeman walk out onto the gridiron…]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fmqprbjz/a-spite-and-a-treeman-walk-out-onto-the-gridiron</link>
             <guid>fmqprbjz</guid>
@@ -165,6 +187,17 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/14-thh_valdor-1-feature-mgw432ucas.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soulblight Gravelords - Scourge of Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tc76wjim/soulblight-gravelords-scourge-of-ghyran</link>
+            <guid>tc76wjim</guid>
+            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Realm of Life’s blood is ripe for the drinking.]]></description>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01627_sog_24_soulblight-gravelords_thumb-ia0o66pezc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Scourge of Ghyran: The Lords of Death attempt to conquer the Realm of Life]]></title>
@@ -243,37 +276,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog23-may28-1-feature-qwwufrz5br.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – What lurks within the Wildwood?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood</link>
-            <guid>qlwqfahu</guid>
-            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Beastmen return to the Old World.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_beastmen1-may27-1-feature-ii0ppvxtlk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine lore focus: The Imperial Palace]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/faggbycw/saturnine-lore-focus-the-imperial-palace</link>
-            <guid>faggbycw</guid>
-            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the seat of the Emperor’s power.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_imperialpalacelore-may28-1-feature-yxaeocehwb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 27th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hzrcnd9b/the-rumour-engine-27th-of-may</link>
-            <guid>hzrcnd9b</guid>
-            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may27-1-feature-akmnocqmz9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
