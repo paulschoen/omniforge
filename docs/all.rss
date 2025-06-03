@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Jun 2025 14:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 15:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Spread terror and acquire glory with new Chaos Knights Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pum0qvvj/spread-terror-and-acquire-glory-with-new-chaos-knights-detachments</link>
+            <guid>pum0qvvj</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What can your heretic Knights do in the new Codex?]]></description>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ckdetachments-june03-1-feature-pjtfbv7rzy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine lore focus: Who is Jenetia Krole?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xpcz1fwv/saturnine-lore-focus-who-is-jenetia-krole</link>
@@ -260,16 +271,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog24-may29-1-feature-oeoswdvsyg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Grand Narrative returns for September’s Warhammer World events]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qc0vk9ug/the-grand-narrative-returns-for-septembers-warhammer-world-events</link>
-            <guid>qc0vk9ug</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s going on at the heart of Warhammer?]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-may28-1-feature-u1jkwqrz1w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
