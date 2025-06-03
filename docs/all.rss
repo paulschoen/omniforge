@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Jun 2025 16:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 12:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 3rd of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/owcpxu44/the-rumour-engine-3rd-of-june</link>
+            <guid>owcpxu44</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun03-1-feature-qiua7pawrq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Old World Matched Play Guide: New ways to play in the World of Legend]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/azlyvdkm/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend</link>
@@ -37,7 +47,7 @@
             <description><![CDATA[What do the new stats bring to your games of Horus Heresy?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/16-newcharacteristics-1-feature-7cdnodhnij.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/16-newcharacteristics-1-feature-e539l6g461.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[An oracle and an incarnate rear from the abyssal depths…]]></title>
@@ -262,18 +272,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/killlupercal_ep1-may28-1-feature-ucny3roqhz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvaneth - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ija3xkfu/sylvaneth-scourge-of-ghyran</link>
-            <guid>ija3xkfu</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sharpen your thorns and execute the Everqueen's will for Ghyran's defence with new Sylvaneth strategies]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01626_sog_23_sylvaneth_thumb-mzk0zycwtk.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
