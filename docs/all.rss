@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Jun 2025 12:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 13:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 513 – Khorne reigns supreme]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6sgzfuui/white-dwarf-513-khorne-reigns-supreme</link>
+            <guid>6sgzfuui</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who knew the god of murder could read?]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd513-june03-1-feature-z5ouagof6g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 3rd of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/owcpxu44/the-rumour-engine-3rd-of-june</link>
@@ -261,17 +271,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_armylists-may28-1-feature-(1)-wp10t3nnnw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch Kill Lupercal Episode 1 now!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g41sxryn/watch-kill-lupercal-episode-1-now</link>
-            <guid>g41sxryn</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest animation on Warhammer TV is here – and it’s set at the Siege of Terra.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/killlupercal_ep1-may28-1-feature-ucny3roqhz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
