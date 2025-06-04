@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Jun 2025 15:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 09:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer 40,000 Balance Dataslate – June 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bk58priy/the-warhammer-40000-balance-dataslate-june-2025</link>
+            <guid>bk58priy</guid>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download the next major updates for your armies.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-jun04-1-feature-ihdqqmkjg5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quarterly Detachments – New rules for the Chaos Space Marines, Dark Angels, and Tyranids]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qdz5ukjz/quarterly-detachments-new-rules-for-the-chaos-space-marines-dark-angels-and-tyranids</link>
+            <guid>qdz5ukjz</guid>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Details on the new Detachments.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_detachments-jun04-1-feature-zealkj18yg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spread terror and acquire glory with new Chaos Knights Detachments]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pum0qvvj/spread-terror-and-acquire-glory-with-new-chaos-knights-detachments</link>
@@ -39,6 +64,16 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd513-june03-1-feature-z5ouagof6g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Cleaning Your Warhammer Resin | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/c6rl2fss/introduction-to-cleaning-your-warhammer-resin-warhammer</link>
+            <guid>c6rl2fss</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch along as Adam takes you through the steps to working with Warhammer resin. He’ll go over some basic principles that you can apply to building and prepping your first resin character models for your army!]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01012-cleaning-your-resin-v2-ls6ab85plu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 3rd of June]]></title>
@@ -238,39 +273,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_beastmen2-may29-1-feature-bzhnzobmzq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine lore focus: Who is Constantin Valdor?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wcw9mlf9/saturnine-lore-focus-who-is-constantin-valdor</link>
-            <guid>wcw9mlf9</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More info on the Emperor’s golden champion.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/14-thh_valdor-1-feature-mgw432ucas.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soulblight Gravelords - Scourge of Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tc76wjim/soulblight-gravelords-scourge-of-ghyran</link>
-            <guid>tc76wjim</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Realm of Life’s blood is ripe for the drinking.]]></description>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01627_sog_24_soulblight-gravelords_thumb-ia0o66pezc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: The Lords of Death attempt to conquer the Realm of Life]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fwi6nshx/scourge-of-ghyran-the-lords-of-death-attempt-to-conquer-the-realm-of-life</link>
-            <guid>fwi6nshx</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Undead rules… with bite.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog24-may29-1-feature-oeoswdvsyg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
