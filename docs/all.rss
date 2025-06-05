@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Jun 2025 13:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 14:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine lore focus: Who is Malcador the Sigillite?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l7pqa7zk/saturnine-lore-focus-who-is-malcador-the-sigillite</link>
+            <guid>l7pqa7zk</guid>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[One of the greatest enigmas of the entire Horus Heresy…]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_malcador-jun04-1-feature-c381adtlbk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Entreat with powerful allies and earn awesome abilities in the new Chaos Knights Crusade]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lns8sec3/entreat-with-powerful-allies-and-earn-awesome-abilities-in-the-new-chaos-knights-crusade</link>
@@ -261,17 +271,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_matchedplay-may30-1-feature-62lo11s1vc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Ghyran: Get ready to sack or save the Realm of Life]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1tvkzyji/scourge-of-ghyran-get-ready-to-sack-or-save-the-realm-of-life</link>
-            <guid>1tvkzyji</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Prepare yourself for the incoming year of matched play.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sog-outro-may30-1-feature-rj7pkzrijd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
