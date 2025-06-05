@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Jun 2025 12:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 13:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Entreat with powerful allies and earn awesome abilities in the new Chaos Knights Crusade]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lns8sec3/entreat-with-powerful-allies-and-earn-awesome-abilities-in-the-new-chaos-knights-crusade</link>
+            <guid>lns8sec3</guid>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who will you show favour to?]]></description>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ckcrusade-june05-1-feature-zdu9pbf0jg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Season of War on the General’s Handbook – rules, battle tactics, and battle plans]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/btvsaldb/season-of-war-on-the-generals-handbook-rules-battle-tactics-and-battle-plans</link>
@@ -261,18 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sog-outro-may30-1-feature-rj7pkzrijd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frozen Fenrisian Fun - Painting A Space Wolves Blood Claw | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lfdngfol/frozen-fenrisian-fun-painting-a-space-wolves-blood-claw-warhammer-40000</link>
-            <guid>lfdngfol</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blood Claws are the impetuous Upstarts of the Space Wolves Legion, today Jake will show you how to paint one up and make a fancy ice base to go alongside it!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/space-wolves-thumbnail-3k4gvp2s9w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
