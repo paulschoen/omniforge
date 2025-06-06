@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Jun 2025 14:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 12:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Season of War on the General’s Handbook – How their favourite armies fare in Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ixg5h4ke/season-of-war-on-the-generals-handbook-how-their-favourite-armies-fare-in-ghyran</link>
+            <guid>ixg5h4ke</guid>
+            <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Detailed commentary on three armies.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="skaven">Skaven</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_ghbinfluencer2-june06-1-feature-tavfklfy84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine lore focus: Who is Malcador the Sigillite?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l7pqa7zk/saturnine-lore-focus-who-is-malcador-the-sigillite</link>
@@ -261,16 +274,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos-may30-spearheadinfluencer-1-feature-ffdl9v4boh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ Matched Play Guide – The designers’ notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ftrmj8kc/middle-earthtm-matched-play-guide-the-designers-notes</link>
-            <guid>ftrmj8kc</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Competitive play in Middle-earth.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_matchedplay-may30-1-feature-62lo11s1vc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
