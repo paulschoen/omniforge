@@ -4,11 +4,48 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Jun 2025 12:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 21:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – cursed Knights and the dawn of a new Imperium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/clrlja97/saturday-pre-orders-cursed-knights-and-the-dawn-of-a-new-imperium</link>
+            <guid>clrlja97</guid>
+            <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pre-order the latest releases.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jun07-1-feature-kca24ftacl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Scab King, Jake’s venerable converted Chaos Knight]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ghnkw0qa/meet-the-scab-king-jakes-venerable-converted-chaos-knight</link>
+            <guid>ghnkw0qa</guid>
+            <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A collection of cool kitbashed Knights.]]></description>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/jakesknights-jun06-1-feature-au5e3tzp5l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness: Investigating the new weapon stats]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ky4t9whx/rules-in-the-age-of-darkness-investigating-the-new-weapon-stats</link>
+            <guid>ky4t9whx</guid>
+            <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Big guns never tire.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_weaponprofiles-jun06-1-feature-psmix8luul.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Season of War on the General’s Handbook – How their favourite armies fare in Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ixg5h4ke/season-of-war-on-the-generals-handbook-how-their-favourite-armies-fare-in-ghyran</link>
@@ -243,37 +280,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may31-1-feature-6xpyi6l2i9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Summer Season 2025 Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/utxkj8vu/warhammer-tv-summer-season-2025-trailer</link>
-            <guid>utxkj8vu</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season of Warhammer TV's on the way!]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/this-summer-on-youtube-thumbnail-vym4mmdhfg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine competition: Your chance to win a Primarch!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u1l6enmp/saturnine-competition-your-chance-to-win-a-primarch</link>
-            <guid>u1l6enmp</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sign up to our newsletter for a chance to win.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/14-emailcomp-1-feature-rfgcnvbjyy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spearhead – Season of War talk deathly duels and tactical depth in Sand and Bone]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jzsmhjca/spearhead-season-of-war-talk-deathly-duels-and-tactical-depth-in-sand-and-bone</link>
-            <guid>jzsmhjca</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Top tips on how to outperform your foe in the new season of Spearhead.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos-may30-spearheadinfluencer-1-feature-ffdl9v4boh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
