@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Jun 2025 13:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 14:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness: A challenge of champions!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zxczxmzi/rules-in-the-age-of-darkness-a-challenge-of-champions</link>
+            <guid>zxczxmzi</guid>
+            <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to fight epic duels between heroes and demigods.]]></description>
+            <category domain="the-horus-heresy">The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/19-thh_combat-1-feature-1n4hbxkusq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Khorne Deathbringer is on the hunt for trophies – don’t lose your head]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sp0hlq5y/the-khorne-deathbringer-is-on-the-hunt-for-trophies-dont-lose-your-head</link>
@@ -266,18 +276,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/16-newcharacteristics-1-feature-e539l6g461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An oracle and an incarnate rear from the abyssal depths…]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dunnnmdk/an-oracle-and-an-incarnate-rear-from-the-abyssal-depths</link>
-            <guid>dunnnmdk</guid>
-            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reinforcements for the Idoneth Deepkin.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_idonethreveal2-jun02-1-feature-lcjjjdyaam.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
