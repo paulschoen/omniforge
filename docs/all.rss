@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Jun 2025 12:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 13:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Building the Celestial Empire of Grand Cathay]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1ovkvf4r/old-world-almanack-building-the-celestial-empire-of-grand-cathay</link>
+            <guid>1ovkvf4r</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s behind the latest – and oldest – faction in the Old World?]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-1-feature-qzapemayvf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 10th of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jkjawugf/the-rumour-engine-10th-of-june</link>
@@ -266,16 +278,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_mpguide-june02-1-feature-bucsgzritr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get involved with Warhammer Age of Sigmar Organised Play]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xykts2qe/get-involved-with-warhammer-age-of-sigmar-organised-play</link>
-            <guid>xykts2qe</guid>
-            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take part in store to win prizes.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_orgplay2025-june02-1-feature-1hdar2omnr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
