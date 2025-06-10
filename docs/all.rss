@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Jun 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 15:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Year of Chaos in review – All the gifts of the dark gods]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nd4k1col/the-year-of-chaos-in-review-all-the-gifts-of-the-dark-gods</link>
+            <guid>nd4k1col</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look back at a whole lot of Chaos.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_yearofchaos-jun10-1-feature-b0mmn7rb1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Horus Heresy explained – A short history of the Warmaster’s betrayal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/y7oihj6s/the-horus-heresy-explained-a-short-history-of-the-warmasters-betrayal</link>
@@ -268,16 +277,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01012-cleaning-your-resin-v2-ls6ab85plu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 3rd of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/owcpxu44/the-rumour-engine-3rd-of-june</link>
-            <guid>owcpxu44</guid>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun03-1-feature-qiua7pawrq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
