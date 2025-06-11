@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Jun 2025 12:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 13:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Mad Dok Grotsnik – Black Library author Denny Flowers discusses the legendary painboy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mo8rntxn/mad-dok-grotsnik-black-library-author-denny-flowers-discusses-the-legendary-painboy</link>
+            <guid>mo8rntxn</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this video interview.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_grotsnikinterview-jun11-1-feature-o41sq8hxtg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch Kill Lupercal episode 2 now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qovzfrwh/watch-kill-lupercal-episode-2-now</link>
@@ -269,16 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ckdetachments-june03-1-feature-pjtfbv7rzy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine lore focus: Who is Jenetia Krole?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xpcz1fwv/saturnine-lore-focus-who-is-jenetia-krole</link>
-            <guid>xpcz1fwv</guid>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Emperor’s quietest advisor.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_jenetiakrole-jun03-1-feature-1lzhg1ezi8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
