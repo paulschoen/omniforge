@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Jun 2025 13:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 14:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness: How to build an army in the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/itpl4ywx/rules-in-the-age-of-darkness-how-to-build-an-army-in-the-new-edition</link>
+            <guid>itpl4ywx</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Force Organisation Chart has changed, but how?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/23-forceorg-1-feature-j2p3weif2h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mad Dok Grotsnik – Black Library author Denny Flowers discusses the legendary painboy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mo8rntxn/mad-dok-grotsnik-black-library-author-denny-flowers-discusses-the-legendary-painboy</link>
@@ -269,17 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_detachments-jun04-1-feature-zealkj18yg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spread terror and acquire glory with new Chaos Knights Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pum0qvvj/spread-terror-and-acquire-glory-with-new-chaos-knights-detachments</link>
-            <guid>pum0qvvj</guid>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What can your heretic Knights do in the new Codex?]]></description>
-            <category domain="chaos-knights">Chaos Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ckdetachments-june03-1-feature-pjtfbv7rzy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
