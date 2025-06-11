@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Jun 2025 09:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 12:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Watch Kill Lupercal episode 2 now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qovzfrwh/watch-kill-lupercal-episode-2-now</link>
+            <guid>qovzfrwh</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Princeps of Tempestus and Gryphonicus join the fray.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/killlupercal_ep2-jun11-1-feature-1cdoscujza.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – A new Battlescroll to tidy up before the General’s Handbook]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xdlrpjox/warhammer-age-of-sigmar-a-new-battlescroll-to-tidy-up-before-the-generals-handbook</link>
@@ -268,16 +279,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_jenetiakrole-jun03-1-feature-1lzhg1ezi8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 513 – Khorne reigns supreme]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6sgzfuui/white-dwarf-513-khorne-reigns-supreme</link>
-            <guid>6sgzfuui</guid>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who knew the god of murder could read?]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd513-june03-1-feature-z5ouagof6g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
