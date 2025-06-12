@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Jun 2025 12:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 13:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – A short history of Cathay]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zscdwwzf/old-world-almanack-a-short-history-of-cathay</link>
+            <guid>zscdwwzf</guid>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just what is the Celestial Dragon Empire?]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_cathaylore-jun12-1-feature-6bka4ezhck.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Legacies of Middle-earth – Rules for yet more warriors of good and evil]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jysh351k/legacies-of-middle-earth-rules-for-yet-more-warriors-of-good-and-evil</link>
@@ -265,18 +277,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_ghbinfluencer-june05-1-feature-pfyzz1hbdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Captain Centos returns to celebrate some major Warhammer store milestones]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jncq9s4v/captain-centos-returns-to-celebrate-some-major-warhammer-store-milestones</link>
-            <guid>jncq9s4v</guid>
-            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new commemorative series miniature revealed.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-c9bziq5816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
