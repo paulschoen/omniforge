@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Jun 2025 14:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 09:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Denny Flowers talks Grotsnik: Da Mad Dok!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/i2hkotob/denny-flowers-talks-grotsnik-da-mad-dok</link>
+            <guid>i2hkotob</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Denny Flowers talks Grotsnik: Da Mad Dok!]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="orks">Orks</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01667-df-grotsnik-thumbnail-(0-00-02-00)-2epqcjxfca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness: How to build an army in the new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/itpl4ywx/rules-in-the-age-of-darkness-how-to-build-an-army-in-the-new-edition</link>
@@ -29,6 +40,18 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_grotsnikinterview-jun11-1-feature-o41sq8hxtg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Lupercal: Episode 2 Official Trailer – Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/mdtigorp/kill-lupercal-episode-2-official-trailer-warhammer</link>
+            <guid>mdtigorp</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[As the Siege of Terra rages, the Loyalist Titans of Aurora Ferrum hear whispers of the Warmaster’s arrival and must decide whether to focus on their traitorous counterparts or stalk a bigger quarry.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01674-kill-lupercal-ep-2-thumbnail-v2-mhabsfnu9k.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Watch Kill Lupercal episode 2 now]]></title>
@@ -254,31 +277,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jun04-1-feature-joibxlioej.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer 40,000 Balance Dataslate – June 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bk58priy/the-warhammer-40000-balance-dataslate-june-2025</link>
-            <guid>bk58priy</guid>
-            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the next major updates for your armies.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-jun04-1-feature-ihdqqmkjg5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quarterly Detachments – New rules for the Chaos Space Marines, Dark Angels, and Tyranids]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qdz5ukjz/quarterly-detachments-new-rules-for-the-chaos-space-marines-dark-angels-and-tyranids</link>
-            <guid>qdz5ukjz</guid>
-            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Details on the new Detachments.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_detachments-jun04-1-feature-zealkj18yg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
