@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Jun 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 15:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Buddy up and purge Tyranids from Volkus with new co-operative Kill Team missions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qkzradmc/buddy-up-and-purge-tyranids-from-volkus-with-new-co-operative-kill-team-missions</link>
+            <guid>qkzradmc</guid>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Even head-to-head games aren’t safe from the Tyranids.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_typhonnpos-12jun-1-feature-8rvbffuw2o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Horus Heresy: The tragic tale of the Dropsite Massacre]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5b3wkzet/the-horus-heresy-the-tragic-tale-of-the-dropsite-massacre</link>
@@ -20,7 +30,7 @@
             <enclosure url="https://assets.warhammer-community.com/24-isstvanvlore-1-feature-95be6urgaw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Old World Almanack – A short history of Cathay]]></title>
+            <title><![CDATA[Old World Almanack – A short history of Grand Cathay]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zscdwwzf/old-world-almanack-a-short-history-of-cathay</link>
             <guid>zscdwwzf</guid>
             <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
@@ -32,7 +42,7 @@
             <enclosure url="https://assets.warhammer-community.com/tow_cathaylore-jun12-1-feature-6bka4ezhck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Legacies of Middle-earth – Rules for yet more warriors of good and evil]]></title>
+            <title><![CDATA[Legacies of Middle-earth™ – Rules for yet more warriors of good and evil]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jysh351k/legacies-of-middle-earth-rules-for-yet-more-warriors-of-good-and-evil</link>
             <guid>jysh351k</guid>
             <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
@@ -266,17 +276,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_malcador-jun04-1-feature-c381adtlbk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Entreat with powerful allies and earn awesome abilities in the new Chaos Knights Crusade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lns8sec3/entreat-with-powerful-allies-and-earn-awesome-abilities-in-the-new-chaos-knights-crusade</link>
-            <guid>lns8sec3</guid>
-            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who will you show favour to?]]></description>
-            <category domain="chaos-knights">Chaos Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ckcrusade-june05-1-feature-zdu9pbf0jg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
