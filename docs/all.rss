@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Jun 2025 13:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Horus Heresy: The tragic tale of the Dropsite Massacre]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5b3wkzet/the-horus-heresy-the-tragic-tale-of-the-dropsite-massacre</link>
+            <guid>5b3wkzet</guid>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What exactly happened on the black sands of Isstvan V?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/24-isstvanvlore-1-feature-95be6urgaw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – A short history of Cathay]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zscdwwzf/old-world-almanack-a-short-history-of-cathay</link>
@@ -267,16 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ckcrusade-june05-1-feature-zdu9pbf0jg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Season of War on the General’s Handbook – rules, battle tactics, and battle plans]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/btvsaldb/season-of-war-on-the-generals-handbook-rules-battle-tactics-and-battle-plans</link>
-            <guid>btvsaldb</guid>
-            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Part one of a deep dive on the new season of Matched Play.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ghbinfluencer-june05-1-feature-pfyzz1hbdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
