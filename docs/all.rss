@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Jun 2025 12:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 13:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rapiers and Tarantulas painted by members of the Warhammer Design Studio]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uhpg6wrx/rapiers-and-tarantulas-painted-by-members-of-the-warhammer-design-studio</link>
+            <guid>uhpg6wrx</guid>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heavy weapons, cool paint schemes.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_sdsrapiers-jun13-1-feature-ss18xfoorv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness: How vehicles work]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bz3yebcn/rules-in-the-age-of-darkness-how-vehicles-work</link>
@@ -263,19 +275,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_weaponprofiles-jun06-1-feature-psmix8luul.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Season of War on the General’s Handbook – How their favourite armies fare in Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ixg5h4ke/season-of-war-on-the-generals-handbook-how-their-favourite-armies-fare-in-ghyran</link>
-            <guid>ixg5h4ke</guid>
-            <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Detailed commentary on three armies.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="skaven">Skaven</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ghbinfluencer2-june06-1-feature-tavfklfy84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
