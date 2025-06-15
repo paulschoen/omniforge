@@ -4,11 +4,43 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sun, 15 Jun 2025 00:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[One Potentially GAME CHANGING Warhammer 40K Stratagem Power Combo - Rapid Ingress Intervention!]]></title>
+            <link>https://www.youtube.com/watch?v=pqp9j7AmLXA</link>
+            <guid>yt:video:pqp9j7AmLXA</guid>
+            <pubDate>Sat, 14 Jun 2025 22:30:09 GMT</pubDate>
+            <description><![CDATA[The video explores strategic power moves in Warhammer 40K, focusing on a high investment strategy for melee armies, the advantages of deep strike mechanics, and the tactical benefits of positioning units for countercharges, while also highlighting the recent reduction in command point costs for heroic interventions and the implications for gameplay.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Strategic Power Moves in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>High Investment Strategy:</strong> The video discusses a powerful stratagem combo that can significantly impact the game, particularly for melee armies.</li>
+    <li>⚔️ <strong>Deep Strike Mechanics:</strong> Highlights the value of rapid ingress for getting units into melee, emphasizing its strategic advantages before the enemy's shooting phase.</li>
+    <li>🎯 <strong>Heroic Intervention:</strong> Explains how to set up units for countercharges during the enemy's turn, potentially changing the tide of battle.</li>
+    <li>🧠 <strong>Tactical Positioning:</strong> Discusses the importance of positioning units effectively to maximize their impact and minimize enemy fire.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Command Points Cost:</strong> The heroic intervention strategy now costs only 1 command point, down from 2, making it more accessible for players.</li>
+    <li>🔄 <strong>Unit Activation:</strong> Using rapid ingress can allow a unit to activate in the enemy's turn, providing a tactical advantage by potentially wiping out an opponent's unit before they can attack.</li>
+    <li>📊 <strong>Probability of Charge Success:</strong> A 9-inch charge generally has about a 50/50 chance to succeed, making positioning crucial for maximizing effectiveness.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How can different army compositions utilize rapid ingress to their advantage?</strong></li>
+    <li>🤔 <strong>What other out-of-sequence plays could be considered with similar strategies?</strong></li>
+    <li>🤔 <strong>How does the reduction in command point cost for heroic intervention change gameplay strategies for melee units?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hellblasters, Aggressors and Heavy Intercessor Points Drops - How Good Were the Space Marine Changes]]></title>
             <link>https://www.youtube.com/watch?v=i-xKZLI6TFI</link>
@@ -7348,34 +7380,41 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[One Potentially GAME CHANGING Warhammer 40K Stratagem Power Combo - Rapid Ingress Intervention!]]></title>
-            <link>https://www.youtube.com/watch?v=pqp9j7AmLXA</link>
-            <guid>yt:video:pqp9j7AmLXA</guid>
-            <pubDate>Sat, 14 Jun 2025 22:30:09 GMT</pubDate>
-            <description><![CDATA[The video explores strategic power moves in Warhammer 40K, focusing on a high investment strategy for melee armies, the advantages of deep strike mechanics, and the tactical benefits of positioning units for countercharges, while also highlighting the recent reduction in command point costs for heroic interventions and the implications for gameplay.]]></description>
+            <title><![CDATA[Nine Warhammer 40K Units that ROSE UP in the Recent Balance Dataslate]]></title>
+            <link>https://www.youtube.com/watch?v=MKIywbhR9no</link>
+            <guid>yt:video:MKIywbhR9no</guid>
+            <pubDate>Sun, 15 Jun 2025 14:00:37 GMT</pubDate>
+            <description><![CDATA[The video discusses nine Warhammer 40k units that received significant buffs and points reductions in the latest balance update, enhancing their competitive viability, including notable units like Vashtor the Arch-Contempt, Sanguin Guard, and Thunderwolf Cavalry.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Strategic Power Moves in Warhammer 40K</h2>
+<h2>📢 Nine Warhammer 40k Units That Won Big In The Latest Balance Update</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>High Investment Strategy:</strong> The video discusses a powerful stratagem combo that can significantly impact the game, particularly for melee armies.</li>
-    <li>⚔️ <strong>Deep Strike Mechanics:</strong> Highlights the value of rapid ingress for getting units into melee, emphasizing its strategic advantages before the enemy's shooting phase.</li>
-    <li>🎯 <strong>Heroic Intervention:</strong> Explains how to set up units for countercharges during the enemy's turn, potentially changing the tide of battle.</li>
-    <li>🧠 <strong>Tactical Positioning:</strong> Discusses the importance of positioning units effectively to maximize their impact and minimize enemy fire.</li>
+    <li>🔥 <strong>Vashtor the Arch-Contempt:</strong> Major buffs make him more dangerous and resilient, improving his synergy with Demon vehicles.</li>
+    <li>🔥 <strong>Tettomancer and Wraiths:</strong> Points cut from 315 to 300 (5%) enhances their already strong competitive status.</li>
+    <li>🔥 <strong>Thunderwolf Cavalry:</strong> Efficiency improved with a points decrease of 17% (100 points for three), enhancing speed and melee damage.</li>
+    <li>🔥 <strong>Sanguin Guard:</strong> Significant points reduction from 130 to 110 (16%), increasing their viability in Blood Angels lists.</li>
+    <li>🔥 <strong>Lionel Johnson:</strong> Remains at 315 points but gains substantial buffs, increasing his effectiveness in Dark Angels lists.</li>
+    <li>🔥 <strong>Alleris Custodians:</strong> Points cut from 65 to 60 (8%), making them more competitive in the Custodians lineup.</li>
+    <li>🔥 <strong>Black Templars Brethren:</strong> Points reduction makes them a more appealing option, with Hellbreck also seeing a decrease from 130 to 120 points.</li>
+    <li>🔥 <strong>Mephiston:</strong> Drops to 120 points, making him a strong utility and threat option for Blood Angels.</li>
+    <li>🔥 <strong>Lord Discordant:</strong> Gains buffs to melee and durability but remains a situational choice depending on the meta.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Command Points Cost:</strong> The heroic intervention strategy now costs only 1 command point, down from 2, making it more accessible for players.</li>
-    <li>🔄 <strong>Unit Activation:</strong> Using rapid ingress can allow a unit to activate in the enemy's turn, providing a tactical advantage by potentially wiping out an opponent's unit before they can attack.</li>
-    <li>📊 <strong>Probability of Charge Success:</strong> A 9-inch charge generally has about a 50/50 chance to succeed, making positioning crucial for maximizing effectiveness.</li>
+    <li>📉 <strong>Vashtor's Cost:</strong> Remains at 175 points, but gains major buffs across the board.</li>
+    <li>📉 <strong>Tettomancer and Wraiths:</strong> Points reduced from 315 to 300, a 5% cut.</li>
+    <li>📉 <strong>Sanguin Guard:</strong> Points drop from 130 to 110, a 20-point decrease (16%).</li>
+    <li>📉 <strong>Thunderwolf Cavalry:</strong> Now 100 points for three (17% decrease), enhancing their threat range.</li>
+    <li>📉 <strong>Mephiston:</strong> New cost of 120 points from 135, increasing his competitiveness.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How can different army compositions utilize rapid ingress to their advantage?</strong></li>
-    <li>🤔 <strong>What other out-of-sequence plays could be considered with similar strategies?</strong></li>
-    <li>🤔 <strong>How does the reduction in command point cost for heroic intervention change gameplay strategies for melee units?</strong></li>
+    <li>🤔 <strong>What strategies can players employ to maximize the new buffs of Vashtor in their lists?</strong></li>
+    <li>🤔 <strong>How do the points adjustments impact the overall meta for Warhammer 40k?</strong></li>
+    <li>🤔 <strong>Which units do you think will become staples in competitive play following these updates?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
