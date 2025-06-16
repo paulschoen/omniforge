@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Jun 2025 12:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 13:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine Terminators kit focus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cdhwm3am/saturnine-terminators-kit-focus</link>
+            <guid>cdhwm3am</guid>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s on the sprue?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/27-saturninetermkit-1-feature-a0ig6zw6t1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carry the honour of the Black Templars with a new Crusade Ancient and Codex Supplement]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ld1cnqrg/carry-the-honour-of-the-black-templars-with-a-new-crusade-ancient-and-codex-supplement</link>
@@ -264,17 +274,6 @@
             <category domain="the-horus-heresy">The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/19-thh_combat-1-feature-1n4hbxkusq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Khorne Deathbringer is on the hunt for trophies – don’t lose your head]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sp0hlq5y/the-khorne-deathbringer-is-on-the-hunt-for-trophies-dont-lose-your-head</link>
-            <guid>sp0hlq5y</guid>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The servants of the Blood God get their due.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-ck9lopjr1l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
