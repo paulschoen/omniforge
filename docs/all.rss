@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Jun 2025 13:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine Armour: The lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mv2za3uy/saturnine-armour-the-lore</link>
+            <guid>mv2za3uy</guid>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explaining the strangest Terminator armour of all.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/26-saturninetermlore-1-feature-9lyq2mxool.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine Terminators kit focus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cdhwm3am/saturnine-terminators-kit-focus</link>
@@ -264,16 +274,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jun10-1-feature-shiab9hr77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness: A challenge of champions!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zxczxmzi/rules-in-the-age-of-darkness-a-challenge-of-champions</link>
-            <guid>zxczxmzi</guid>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to fight epic duels between heroes and demigods.]]></description>
-            <category domain="the-horus-heresy">The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/19-thh_combat-1-feature-1n4hbxkusq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
