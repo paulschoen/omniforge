@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Jun 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 11:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 17th of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rfaqtkj1/the-rumour-engine-17th-of-june</link>
+            <guid>rfaqtkj1</guid>
+            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun17-1-feature-5nprhpkiye.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine Armour: The lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mv2za3uy/saturnine-armour-the-lore</link>
@@ -264,16 +274,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-1-feature-qzapemayvf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 10th of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jkjawugf/the-rumour-engine-10th-of-june</link>
-            <guid>jkjawugf</guid>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun10-1-feature-shiab9hr77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
