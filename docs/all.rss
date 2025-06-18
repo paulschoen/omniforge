@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Jun 2025 13:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 14:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine Siege Dreadnought: The Lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jy1vnchu/saturnine-siege-dreadnought-the-lore</link>
+            <guid>jy1vnchu</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Made on Saturn. Perfected by Vulkan.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/29-saturninedreadlore-1-feature-axeqiaypfi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine Dreadnought kit focus: The biggest beast in the new boxed set]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bgqbjojp/saturnine-dreadnought-kit-focus-the-biggest-beast-in-the-new-boxed-set</link>
@@ -263,17 +273,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/23-forceorg-1-feature-j2p3weif2h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mad Dok Grotsnik – Black Library author Denny Flowers discusses the legendary painboy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mo8rntxn/mad-dok-grotsnik-black-library-author-denny-flowers-discusses-the-legendary-painboy</link>
-            <guid>mo8rntxn</guid>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this video interview.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_grotsnikinterview-jun11-1-feature-o41sq8hxtg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
