@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 17 Jun 2025 13:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 11:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Writing the latest General’s Handbook]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jk0wbzuu/warhammer-tv-this-week-writing-the-latest-generals-handbook</link>
+            <guid>jk0wbzuu</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jun18-1-feature-adzfrz0umo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Index: Imperial Knights updated]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z27eyxs1/index-imperial-knights-updated</link>
+            <guid>z27eyxs1</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your Knights have gained wounds but lost a point of Toughness.]]></description>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_knightsindex-jun18-1-feature-dqfxj93rmn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness – Saturnine Terminators take the field]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7h1lqo8p/rules-in-the-age-of-darkness-saturnine-terminators-take-the-field</link>
@@ -254,26 +275,6 @@
             <category domain="animations">Animations</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/killlupercal_ep2-jun11-1-feature-1cdoscujza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – A new Battlescroll to tidy up before the General’s Handbook]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xdlrpjox/warhammer-age-of-sigmar-a-new-battlescroll-to-tidy-up-before-the-generals-handbook</link>
-            <guid>xdlrpjox</guid>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the latest rules update here.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_rulesupdate-jun11-1-feature-npwvggwtfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Year of Chaos in review – All the gifts of the dark gods]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nd4k1col/the-year-of-chaos-in-review-all-the-gifts-of-the-dark-gods</link>
-            <guid>nd4k1col</guid>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A look back at a whole lot of Chaos.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_yearofchaos-jun10-1-feature-b0mmn7rb1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
