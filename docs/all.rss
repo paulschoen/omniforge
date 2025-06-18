@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Jun 2025 12:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 13:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine Dreadnought kit focus: The biggest beast in the new boxed set]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bgqbjojp/saturnine-dreadnought-kit-focus-the-biggest-beast-in-the-new-boxed-set</link>
+            <guid>bgqbjojp</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Examining all the kit options.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/30-saturninedreadkit-1-feature-h9vdmu6vmu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Sculpting the Cathayan expeditionary force]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/aglktgbi/old-world-almanack-sculpting-the-cathayan-expeditionary-force</link>
@@ -264,18 +274,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_grotsnikinterview-jun11-1-feature-o41sq8hxtg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Lupercal: Episode 2 Official Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/mdtigorp/kill-lupercal-episode-2-official-trailer-warhammer</link>
-            <guid>mdtigorp</guid>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[As the Siege of Terra rages, the Loyalist Titans of Aurora Ferrum hear whispers of the Warmaster’s arrival and must decide whether to focus on their traitorous counterparts or stalk a bigger quarry.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01674-kill-lupercal-ep-2-thumbnail-v2-mhabsfnu9k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
