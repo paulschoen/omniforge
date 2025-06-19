@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Jun 2025 12:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 13:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness – the Saturnine Dreadnought]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nvoot66p/rules-in-the-age-of-darkness-the-saturnine-dreadnought</link>
+            <guid>nvoot66p</guid>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Raw destructive power.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/31-satdreadrules-1-feature-tnknslxsz2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Sculpting the great and the good of Grand Cathay]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pkxzhver/old-world-almanack-sculpting-the-great-and-the-good-of-grand-cathay</link>
@@ -264,17 +274,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_scenarios-jun12-1-feature-gv8dsmgckx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Denny Flowers talks Grotsnik: Da Mad Dok!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/i2hkotob/denny-flowers-talks-grotsnik-da-mad-dok</link>
-            <guid>i2hkotob</guid>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Denny Flowers talks Grotsnik: Da Mad Dok!]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="orks">Orks</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01667-df-grotsnik-thumbnail-(0-00-02-00)-2epqcjxfca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
