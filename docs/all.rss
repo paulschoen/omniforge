@@ -4,13 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Jun 2025 14:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 13:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Return to the Dark Imperium with a new special edition of The Lords of Silence]]></title>
+            <title><![CDATA[Saturnine: Araknae quad-accelerator kit focus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hg33jiei/saturnine-araknae-quad-accelerator-kit-focus</link>
+            <guid>hg33jiei</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the biggest gun on Isstvan V.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_araknaekit-jun20-1-feature-lc7ahnlzwm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Return to the Dark Imperium with a new illustrated edition of The Lords of Silence]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p019duoe/return-to-the-dark-imperium-with-a-new-special-edition-of-the-lords-of-silence</link>
             <guid>p019duoe</guid>
             <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
@@ -263,17 +273,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathaylore-jun12-1-feature-6bka4ezhck.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legacies of Middle-earth™ – Rules for yet more warriors of good and evil]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jysh351k/legacies-of-middle-earth-rules-for-yet-more-warriors-of-good-and-evil</link>
-            <guid>jysh351k</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Two PDFs for free download.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_legacies-jun12-1-feature-uh3znrkeco.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
