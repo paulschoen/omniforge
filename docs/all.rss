@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Jun 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 15:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painters turn their brushes to the immortal empire of Grand Cathay]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dli5gza2/community-painters-turn-their-brushes-to-the-immortal-empire-of-grand-cathay</link>
+            <guid>dli5gza2</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A gallery of gorgeous Cathayans.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_grandcathayinfluencer-jun20-1-feature-okw3pzbq2v.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Disintegrators: Weapons of a Dark Age]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sp53m4ex/disintegrators-weapons-of-a-dark-age</link>
@@ -261,16 +273,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_typhonnpos-12jun-1-feature-8rvbffuw2o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Horus Heresy: The tragic tale of the Dropsite Massacre]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5b3wkzet/the-horus-heresy-the-tragic-tale-of-the-dropsite-massacre</link>
-            <guid>5b3wkzet</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What exactly happened on the black sands of Isstvan V?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/24-isstvanvlore-1-feature-95be6urgaw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
