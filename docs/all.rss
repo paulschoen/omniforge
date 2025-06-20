@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Jun 2025 13:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 14:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Disintegrators: Weapons of a Dark Age]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sp53m4ex/disintegrators-weapons-of-a-dark-age</link>
+            <guid>sp53m4ex</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The history of disintegrator weapons.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_disintegrators-june20-1-feature-ukfd7oex3v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine: Araknae quad-accelerator kit focus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hg33jiei/saturnine-araknae-quad-accelerator-kit-focus</link>
@@ -261,18 +271,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/24-isstvanvlore-1-feature-95be6urgaw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – A short history of Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zscdwwzf/old-world-almanack-a-short-history-of-cathay</link>
-            <guid>zscdwwzf</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Just what is the Celestial Dragon Empire?]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_cathaylore-jun12-1-feature-6bka4ezhck.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
