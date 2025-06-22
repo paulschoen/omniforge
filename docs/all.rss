@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 21 Jun 2025 17:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 17:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Howl with the wolves of Fenris]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eloq521l/sunday-preview-howl-with-the-wolves-of-fenris</link>
+            <guid>eloq521l</guid>
+            <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun22-1-feature-or4s92qm06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The armies of Grand Cathay arrive on the shores of the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mhlo1zjg/saturday-pre-orders-the-armies-of-grand-cathay-arrive-on-the-shores-of-the-old-world</link>
@@ -266,16 +281,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_sdsrapiers-jun13-1-feature-ss18xfoorv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness: How vehicles work]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bz3yebcn/rules-in-the-age-of-darkness-how-vehicles-work</link>
-            <guid>bz3yebcn</guid>
-            <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A primer for new players and veterans alike.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/25-vehiclerules-1-feature-hos3kpyvlb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
