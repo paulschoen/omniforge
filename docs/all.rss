@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Jun 2025 10:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 11:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Execrator will make sure you keep your vow to kill absurd amounts of heretics]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gfdvs4yb/the-execrator-will-make-sure-you-keep-your-vow-to-kill-absurd-amounts-of-heretics</link>
+            <guid>gfdvs4yb</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Chaplain variant joins the Black Templars.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-orfbggranq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Expunge the empyrean with the new Grey Knights Combat Patrol]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5uu8rg9p/expunge-the-empyrean-with-the-new-grey-knights-combat-patrol</link>
@@ -269,20 +282,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun15-1-feature-1sy2xxlfuo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Tyranids stalk the Adeptus Mechanicus in Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/q7amnxzu/saturday-pre-orders-tyranids-stalk-the-adeptus-mechanicus-in-kill-team</link>
-            <guid>q7amnxzu</guid>
-            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jun14-1-feature-dwod1q20gd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
