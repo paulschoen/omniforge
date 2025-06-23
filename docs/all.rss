@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Jun 2025 09:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 10:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Expunge the empyrean with the new Grey Knights Combat Patrol]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5uu8rg9p/expunge-the-empyrean-with-the-new-grey-knights-combat-patrol</link>
+            <guid>5uu8rg9p</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Castellan Crowe leads a surgical strike force of daemonhunters.]]></description>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_gkcombatpatrol-jun23-1-feature-iuaglr98xd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Darktide - Arbites Class | Release Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/pi5n3mab/warhammer-40000-darktide-arbites-class-release-trailer</link>
@@ -270,18 +283,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jun14-1-feature-dwod1q20gd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prepare to be blown away by this barrage of Community-painted Raveners and Battleclades]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rttkzndd/prepare-to-be-blown-away-by-this-barrage-of-community-painted-raveners-and-battleclades</link>
-            <guid>rttkzndd</guid>
-            <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A tremendous Kill Team showcase.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_-typhoninfluencerpainting-jun13-1-feature-uesgrxufs6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
