@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sat, 21 Jun 2025 21:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 00:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Exploring One Gamey 40K Charge Blocking Trick - with Base Size Maths + Player Polls]]></title>
+            <link>https://www.youtube.com/watch?v=Fh-SrSZIb5o</link>
+            <guid>yt:video:Fh-SrSZIb5o</guid>
+            <pubDate>Sat, 21 Jun 2025 20:00:09 GMT</pubDate>
+            <description><![CDATA[The video explores the 1-Inch Ruin Wall Maneuver in Warhammer 40K, discussing its tactical implications, community debates on its validity, and the mathematical factors that influence its effectiveness, while highlighting mixed player sentiments regarding its use in both tournament and casual settings.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Deep Dive into the 1-Inch Ruin Wall Maneuver in Warhammer 40K</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>What is the 1-Inch Ruin Wall Maneuver?</strong> A tactical move where players deploy units just behind ruins to prevent enemy engagement.</li>
+    <li>🔍 <strong>Debate on Validity:</strong> The maneuver's effectiveness is questioned, as mathematical insights suggest it may not always be possible.</li>
+    <li>🎲 <strong>Usage in Play:</strong> Commonly seen in tournament play but less frequent in casual games due to its peculiar nature.</li>
+    <li>📊 <strong>Community Reactions:</strong> Polls reveal mixed feelings about the maneuver, with many players feeling it can be 'gamy'.</li>
+    <li>🤔 <strong>Mathematical Insights:</strong> Geometry plays a crucial role in determining which model bases can effectively use the maneuver.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📏 <strong>Wall Thickness:</strong> Thickness impacts game dynamics; 3mm and 5mm walls can significantly alter engagement possibilities.</li>
+    <li>⚖️ <strong>Base Sizes:</strong> Models on 32mm or larger bases struggle against the screening technique, whereas 25mm bases find it easier to engage.</li>
+    <li>📈 <strong>Poll Results:</strong> 54% of players do not utilize the 1-inch rule in games, while about 60% view it negatively when used against them.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do you feel about using tactical maneuvers that may be perceived as unfair in casual games?</li>
+    <li>💡 <strong>Question 2:</strong> What alternative strategies could be employed to counter the 1-inch ruin wall maneuver effectively?</li>
+    <li>📏 <strong>Question 3:</strong> Should game designers implement stricter rules regarding terrain interactions to enhance fairness in gameplay?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40K Army Tier List - Which Factions are Strong + Weak After the Updates?]]></title>
             <link>https://www.youtube.com/watch?v=Gn_-PUXBq6g</link>
@@ -7690,35 +7723,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Exploring One Gamey 40K Charge Blocking Trick - with Base Size Maths + Player Polls]]></title>
-            <link>https://www.youtube.com/watch?v=Fh-SrSZIb5o</link>
-            <guid>yt:video:Fh-SrSZIb5o</guid>
-            <pubDate>Sat, 21 Jun 2025 20:00:09 GMT</pubDate>
-            <description><![CDATA[The video explores the 1-Inch Ruin Wall Maneuver in Warhammer 40K, discussing its tactical implications, community debates on its validity, and the mathematical factors that influence its effectiveness, while highlighting mixed player sentiments regarding its use in both tournament and casual settings.]]></description>
+            <title><![CDATA[Big 40K Release Week - Drop Pods, Full Space Wolves Release, Terrain + More]]></title>
+            <link>https://www.youtube.com/watch?v=K2SKcxoWQT4</link>
+            <guid>yt:video:K2SKcxoWQT4</guid>
+            <pubDate>Sun, 22 Jun 2025 22:07:45 GMT</pubDate>
+            <description><![CDATA[The video summarizes the full release of the Space Wolves Codex and new kits, including Logan Grimnar, with pre-orders starting on June 28 and sales beginning July 12, while also highlighting the postponed Combat Patrol box set and the release of the "Dawn of Fire" novel.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Deep Dive into the 1-Inch Ruin Wall Maneuver in Warhammer 40K</h2>
+<h2>📢 Warhammer 40K: Space Wolves Release Week Summary</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>What is the 1-Inch Ruin Wall Maneuver?</strong> A tactical move where players deploy units just behind ruins to prevent enemy engagement.</li>
-    <li>🔍 <strong>Debate on Validity:</strong> The maneuver's effectiveness is questioned, as mathematical insights suggest it may not always be possible.</li>
-    <li>🎲 <strong>Usage in Play:</strong> Commonly seen in tournament play but less frequent in casual games due to its peculiar nature.</li>
-    <li>📊 <strong>Community Reactions:</strong> Polls reveal mixed feelings about the maneuver, with many players feeling it can be 'gamy'.</li>
-    <li>🤔 <strong>Mathematical Insights:</strong> Geometry plays a crucial role in determining which model bases can effectively use the maneuver.</li>
+    <li>🔥 <strong>Major Release:</strong> Full release of the <strong>Space Wolves Codex</strong> along with new kits including <strong>Logan Grimnar</strong> and updated drop pods.</li>
+    <li>📅 <strong>Pre-Order Dates:</strong> Pre-orders go live on <strong>June 28</strong>, with full sales starting on <strong>July 12</strong>.</li>
+    <li>⚙️ <strong>New Kits:</strong> Four new Space Wolves kits: <strong>Logan Grimnar</strong>, <strong>Arjac Rockfist</strong>, <strong>Terminators</strong>, and others.</li>
+    <li>📚 <strong>Novel Release:</strong> <strong>Dawn of Fire</strong> novel focusing on current Warhammer 40K lore.</li>
+    <li>🔄 <strong>Combat Patrol Delay:</strong> The Space Wolves Combat Patrol box set is postponed.</li>
+    <li>📈 <strong>Competitive Play:</strong> Space Wolves points will go live, allowing players to use them in tournaments.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📏 <strong>Wall Thickness:</strong> Thickness impacts game dynamics; 3mm and 5mm walls can significantly alter engagement possibilities.</li>
-    <li>⚖️ <strong>Base Sizes:</strong> Models on 32mm or larger bases struggle against the screening technique, whereas 25mm bases find it easier to engage.</li>
-    <li>📈 <strong>Poll Results:</strong> 54% of players do not utilize the 1-inch rule in games, while about 60% view it negatively when used against them.</li>
+    <li>💰 <strong>Codex Pricing:</strong> Expected to cost around <strong>£20</strong> ($35) as a supplement.</li>
+    <li>📦 <strong>New Miniature Costs:</strong> Logan Grimnar estimated at <strong>£34</strong> ($58), Arjac Rockfist at <strong>£28</strong> ($45).</li>
+    <li>🛒 <strong>Discount Retailers:</strong> Various retailers offering discounts: <strong>15%</strong> off at Element Games (UK) and <strong>21%</strong> off at Gap Games (Australia).</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do you feel about using tactical maneuvers that may be perceived as unfair in casual games?</li>
-    <li>💡 <strong>Question 2:</strong> What alternative strategies could be employed to counter the 1-inch ruin wall maneuver effectively?</li>
-    <li>📏 <strong>Question 3:</strong> Should game designers implement stricter rules regarding terrain interactions to enhance fairness in gameplay?</li>
+    <li>🤔 <strong>Question 1:</strong> How will the new Space Wolves units impact competitive play in the upcoming events?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players employ to optimize their use of the new Space Wolves Codex?</li>
+    <li>🤔 <strong>Question 3:</strong> Which new miniature release are you most excited about and why?</li>
 </ul>
 ]]></content:encoded>
         </item>
