@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Jun 2025 12:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 13:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How big is a Space Marine Legion?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/c9qnghtw/how-big-is-a-space-marine-legion</link>
+            <guid>c9qnghtw</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s not as clear-cut an answer as you may think…]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_legionscale-jun23-1-feature-ynvblcafnm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Grand Cathay on the tabletop]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rrielj4b/old-world-almanack-grand-cathay-on-the-tabletop</link>
@@ -267,19 +277,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/27-saturninetermkit-1-feature-a0ig6zw6t1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carry the honour of the Black Templars with a new Crusade Ancient and Codex Supplement]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ld1cnqrg/carry-the-honour-of-the-black-templars-with-a-new-crusade-ancient-and-codex-supplement</link>
-            <guid>ld1cnqrg</guid>
-            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Purge beneath a brand new banner.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-w7royvcw09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
