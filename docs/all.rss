@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Jun 2025 11:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 12:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Grand Cathay on the tabletop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rrielj4b/old-world-almanack-grand-cathay-on-the-tabletop</link>
+            <guid>rrielj4b</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules for the expeditionary army.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_grandcathayrules-jun23-1-feature-nzsxwbzgg8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Execrator will make sure you keep your vow to kill absurd amounts of heretics]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gfdvs4yb/the-execrator-will-make-sure-you-keep-your-vow-to-kill-absurd-amounts-of-heretics</link>
@@ -268,20 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-w7royvcw09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Grand Cathay marches from Nan-Gau]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/piux6zf8/sunday-preview-grand-cathay-marches-from-nan-gau</link>
-            <guid>piux6zf8</guid>
-            <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun15-1-feature-1sy2xxlfuo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
