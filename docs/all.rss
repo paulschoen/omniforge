@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Jun 2025 12:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 13:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Touchline Tactics – How to cheat your way to the top in Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/myjrlrb0/touchline-tactics-how-to-cheat-your-way-to-the-top-in-blood-bowl</link>
+            <guid>myjrlrb0</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to lose friends and annoy people.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_howtocheat-jun24-1-feature-50jdnzl2xm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grand Cathay Gate Masters of the Celestial Cities | Warhammer: The Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ic4vkpp0/grand-cathay-gate-masters-of-the-celestial-cities-warhammer-the-old-world</link>
+            <guid>ic4vkpp0</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch along as Adam shows you how to paint your Grand Cathay Gate Masters of the Celestial Cities in no time at all, so you can get them on the city walls defending Grand Cathay against all of her enemies!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/cathay-hero-thumbnail-dcsipk3p56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 24th of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vmmsjnxp/the-rumour-engine-24th-of-june</link>
@@ -257,28 +278,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/28-sattermierules-1-feature-elcsfmypi6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – The iconography of an eternal empire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wkn8afkh/old-world-almanack-the-iconography-of-an-eternal-empire</link>
-            <guid>wkn8afkh</guid>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New factions are more than just their miniatures.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_cathaysymbols-jun17-1-feature-4ilrmiqpjj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 17th of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rfaqtkj1/the-rumour-engine-17th-of-june</link>
-            <guid>rfaqtkj1</guid>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun17-1-feature-5nprhpkiye.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
