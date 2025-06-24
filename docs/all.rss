@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Jun 2025 13:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 14:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness – How to add allies to your army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oqgzfhnh/rules-in-the-age-of-darkness-how-to-add-allies-to-your-army</link>
+            <guid>oqgzfhnh</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Combined arms in games of Horus Heresy.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_allies-jun24-1-feature-4goozchitd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touchline Tactics – How to cheat your way to the top in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/myjrlrb0/touchline-tactics-how-to-cheat-your-way-to-the-top-in-blood-bowl</link>
@@ -268,16 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_knightsindex-jun18-1-feature-dqfxj93rmn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness – Saturnine Terminators take the field]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7h1lqo8p/rules-in-the-age-of-darkness-saturnine-terminators-take-the-field</link>
-            <guid>7h1lqo8p</guid>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The heavy armour has arrived.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/28-sattermierules-1-feature-elcsfmypi6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
