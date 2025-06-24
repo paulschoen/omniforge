@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Jun 2025 15:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 12:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 24th of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vmmsjnxp/the-rumour-engine-24th-of-june</link>
+            <guid>vmmsjnxp</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun24-1-feature-qevmgycqnd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rule the skies with a flotilla of Kharadron Overlords innovations]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m7jip1j9/rule-the-skies-with-a-flotilla-of-kharadron-overlords-innovations</link>
@@ -269,16 +279,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jun17-1-feature-5nprhpkiye.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine Armour: The lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mv2za3uy/saturnine-armour-the-lore</link>
-            <guid>mv2za3uy</guid>
-            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Explaining the strangest Terminator armour of all.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/26-saturninetermlore-1-feature-9lyq2mxool.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
