@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Jun 2025 09:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 10:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World FAQ and errata – Designer’s notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wgp83jlw/old-world-faq-and-errata-designers-notes</link>
+            <guid>wgp83jlw</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Targeted rules changes for Warhammer: The Old World.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_faqs-jun25-1-feature-zv6dxwrg4v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Rogue Trader - Lex Imperialis Launch Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/7rxucrkw/warhammer-40000-rogue-trader-lex-imperialis-launch-trailer</link>
@@ -268,15 +279,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathayminis-jun18-1-feature-g6zawn1lsa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Writing the latest General’s Handbook]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jk0wbzuu/warhammer-tv-this-week-writing-the-latest-generals-handbook</link>
-            <guid>jk0wbzuu</guid>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jun18-1-feature-adzfrz0umo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
