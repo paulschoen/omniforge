@@ -4,11 +4,17 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 25 Jun 2025 03:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 21:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Codex Necrons Unit Tier List in Warhammer 40K - Strongest + Weakest Necron Datasheets]]></title>
+            <link>https://www.youtube.com/watch?v=_zKzlsQ2MMM</link>
+            <guid>yt:video:_zKzlsQ2MMM</guid>
+            <pubDate>Wed, 25 Jun 2025 02:00:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four Combat Patrols being REPLACED, Prices Confirmed for Space Wolves and GW Catering for Magnets?]]></title>
             <link>https://www.youtube.com/watch?v=umSlOSPdoVI</link>
@@ -7856,10 +7862,41 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Codex Necrons Unit Tier List in Warhammer 40K - Strongest + Weakest Necron Datasheets]]></title>
-            <link>https://www.youtube.com/watch?v=_zKzlsQ2MMM</link>
-            <guid>yt:video:_zKzlsQ2MMM</guid>
-            <pubDate>Wed, 25 Jun 2025 02:00:25 GMT</pubDate>
+            <title><![CDATA[Twelve Warhammer 40K Gameplay + Starategy MISTAKES to Avoid]]></title>
+            <link>https://www.youtube.com/watch?v=qHx0Mo7XFBQ</link>
+            <guid>yt:video:qHx0Mo7XFBQ</guid>
+            <pubDate>Wed, 25 Jun 2025 18:00:47 GMT</pubDate>
+            <description><![CDATA[The video discusses key gameplay mistakes and strategies in Warhammer 40k, emphasizing effective terrain use, optimal damage interactions, unit spacing, command point management, and the importance of balancing scoring with unit destruction to enhance overall performance in the game.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Gameplay Mistakes & Strategies</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Terrain Utilization:</strong> Use terrain effectively to block line of sight and gain cover saves, especially against melee units.</li>
+    <li>🔥 <strong>Model Damage Interactions:</strong> Resolve attacks in an optimal order to maximize kills, especially when using different damage profiles.</li>
+    <li>🔥 <strong>Reactive Mechanics:</strong> Remember to consider reactive moves like Overwatch and heroic interventions that can change the outcome of charges.</li>
+    <li>🔥 <strong>Unit Spacing:</strong> Maintain gaps between units to prevent enemy disruption charges that can cripple multiple units.</li>
+    <li>🔥 <strong>Scoring vs. Destroying:</strong> Balance between scoring points and eliminating enemy units, as focusing too heavily on one can lead to losses.</li>
+    <li>🔥 <strong>Command Point Management:</strong> Save command points for crucial moments, using them wisely to maximize their impact on the game.</li>
+    <li>🔥 <strong>Pre-measuring:</strong> Always measure distances before moving to ensure units can reach objectives or make successful charges.</li>
+    <li>🔥 <strong>Shooting vs. Charging:</strong> Avoid shooting yourself out of easy charge opportunities, as it can increase the distance needed for a successful charge.</li>
+    <li>🔥 <strong>Splitting Fire:</strong> Find a balance between splitting fire among multiple targets and overcommitting firepower to a single unit.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Reactive Mechanic Range:</strong> Heroic interventions can occur within 6 inches of an enemy unit, significantly impacting charge decisions.</li>
+    <li>📉 <strong>Point Trade-off:</strong> Trading a 300-point unit for only 3 victory points can be a detrimental decision in gameplay.</li>
+    <li>📉 <strong>Unit Density:</strong> Positioning units with an ideal 9-inch denial zone can effectively prevent enemy reserves from engaging impactful units.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How can effective terrain use change the dynamics of a game in Warhammer 40k?</strong></li>
+    <li>🤔 <strong>What strategies can be employed to better balance scoring points versus destroying enemy units?</strong></li>
+    <li>🤔 <strong>In what ways can pre-measuring distances before moving units impact gameplay outcomes?</strong></li>
+</ul>
+]]></content:encoded>
         </item>
     </channel>
 </rss>
