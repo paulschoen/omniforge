@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Jun 2025 11:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 13:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Loyalist lore – Where were the Legiones Astartes as the Horus Heresy broke out?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qbwgpft8/loyalist-lore-where-were-the-legiones-astartes-as-the-horus-heresy-broke-out</link>
+            <guid>qbwgpft8</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The state of play at the time of the Dropsite Massacre.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_loyalists-june25-1-feature-9ja8bmegpa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Open up the new General’s Handbook]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3mzgxatr/warhammer-tv-this-week-open-up-the-new-generals-handbook</link>
@@ -268,16 +278,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/29-saturninedreadlore-1-feature-axeqiaypfi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine Dreadnought kit focus: The biggest beast in the new boxed set]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bgqbjojp/saturnine-dreadnought-kit-focus-the-biggest-beast-in-the-new-boxed-set</link>
-            <guid>bgqbjojp</guid>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Examining all the kit options.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/30-saturninedreadkit-1-feature-h9vdmu6vmu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
