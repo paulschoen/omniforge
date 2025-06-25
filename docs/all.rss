@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Jun 2025 13:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 14:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Silent King – Guy Haley on closing out the epic Dawn of Fire saga]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3cpmyspp/the-silent-king-guy-haley-on-closing-out-the-epic-dawn-of-fire-saga</link>
+            <guid>3cpmyspp</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the interview here.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_dawnoffire-jun25-1-feature-dfljn60cor.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Loyalist lore – Where were the Legiones Astartes as the Horus Heresy broke out?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qbwgpft8/loyalist-lore-where-were-the-legiones-astartes-as-the-horus-heresy-broke-out</link>
@@ -268,16 +279,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathayminis2-jun19-1-feature-bcjactvoiv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine Siege Dreadnought: The Lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jy1vnchu/saturnine-siege-dreadnought-the-lore</link>
-            <guid>jy1vnchu</guid>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Made on Saturn. Perfected by Vulkan.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/29-saturninedreadlore-1-feature-axeqiaypfi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
