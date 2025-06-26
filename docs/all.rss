@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Jun 2025 13:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 14:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Upcoming Warhammer Events – Throne of Skulls Doubles and weekday Warhammer in October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tibbkvgv/upcoming-warhammer-events-throne-of-skulls-doubles-and-weekday-warhammer-in-october</link>
+            <guid>tibbkvgv</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Details for upcoming Warhammer events.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-june26-1-feature-tpxuptktog.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness – Missions and objectives]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/asfjtjhy/rules-in-the-age-of-darkness-missions-and-objectives</link>
@@ -269,16 +281,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_disintegrators-june20-1-feature-ukfd7oex3v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine: Araknae quad-accelerator kit focus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hg33jiei/saturnine-araknae-quad-accelerator-kit-focus</link>
-            <guid>hg33jiei</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at the biggest gun on Isstvan V.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_araknaekit-jun20-1-feature-lc7ahnlzwm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
