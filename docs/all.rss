@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Jun 2025 14:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 09:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Author Interview: Guy Haley]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ggpdvskd/author-interview-guy-haley</link>
+            <guid>ggpdvskd</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Black Library’s Guy Haley discusses his new Dawn of Fire novel and bringing Archmagos Dominus Belisarius Cawl to life – so to speak – on the page.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="videos">Videos</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01669_cp_bl-interview_guy-haley_-thumbnail-fn0biu7rmk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Silent King – Guy Haley on closing out the epic Dawn of Fire saga]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3cpmyspp/the-silent-king-guy-haley-on-closing-out-the-epic-dawn-of-fire-saga</link>
@@ -267,18 +279,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/31-satdreadrules-1-feature-tnknslxsz2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Sculpting the great and the good of Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pkxzhver/old-world-almanack-sculpting-the-great-and-the-good-of-grand-cathay</link>
-            <guid>pkxzhver</guid>
-            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How the centrepiece miniatures were created.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_cathayminis2-jun19-1-feature-bcjactvoiv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
