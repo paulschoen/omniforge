@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Jun 2025 09:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 12:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Two Cathayan Sentinel Schemes! | Warhammer: The Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hnkohpxa/two-cathayan-sentinel-schemes-warhammer-the-old-world</link>
+            <guid>hnkohpxa</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Not one, but two titans are on the table today with the gigantic constructs known as Cathayan Sentinels, which stand tall in the face of Chaos. Dan is going through a pair of paint schemes in the name of the Celestial Dragon, with these terracotta and warpstone variants!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/cathanian-sentinals-5-ofno99gxjj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Author Interview: Guy Haley]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ggpdvskd/author-interview-guy-haley</link>
@@ -269,16 +280,6 @@
             <category domain="death-guard">Death Guard</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_lordsofsilence-jun19-1-feature-yo5almeui5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness – the Saturnine Dreadnought]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nvoot66p/rules-in-the-age-of-darkness-the-saturnine-dreadnought</link>
-            <guid>nvoot66p</guid>
-            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Raw destructive power.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/31-satdreadrules-1-feature-tnknslxsz2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
