@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Jun 2025 12:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 13:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness – Missions and objectives]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/asfjtjhy/rules-in-the-age-of-darkness-missions-and-objectives</link>
+            <guid>asfjtjhy</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s how you win.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_missions-jun26-1-feature-kdzbkays2r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Two Cathayan Sentinel Schemes! | Warhammer: The Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/hnkohpxa/two-cathayan-sentinel-schemes-warhammer-the-old-world</link>
@@ -269,17 +279,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_araknaekit-jun20-1-feature-lc7ahnlzwm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Return to the Dark Imperium with a new illustrated edition of The Lords of Silence]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p019duoe/return-to-the-dark-imperium-with-a-new-special-edition-of-the-lords-of-silence</link>
-            <guid>p019duoe</guid>
-            <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The classic Death Guard tale is back, and beautiful.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="death-guard">Death Guard</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_lordsofsilence-jun19-1-feature-yo5almeui5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
