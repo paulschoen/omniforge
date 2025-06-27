@@ -4,11 +4,37 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Jun 2025 14:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 09:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Horus Heresy – Everyone is Talking About it!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/d9wjzkdk/the-horus-heresy-everyone-is-talking-about-it</link>
+            <guid>d9wjzkdk</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Horus Heresy – Loyalist or Traitor, simply everyone is talking about it!
+A brand new edition is landing soon, and the whole world has gone Horus Heresy crazy!
+Can you blame them? After all, there are no bystanders in the war for the future of humanity.
+Even YOU must choose a side, so discover your Legion and pledge your loyalty today!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-(black-logo)-edxbkyfoi0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Siege Update Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rlbm30dv/warhammer-40000-space-marine-2-siege-update-trailer</link>
+            <guid>rlbm30dv</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to celebrate the release of the Siege Update for their blockbuster third-person shooter Warhammer 40,000: Space Marine 2. Available now for free to all Xbox Series players, this new update comes with a new PvE game mode and two new cosmetics DLCs for Season Pass owners.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_siegeupdate_thumbnail_1920x1080-ivj8kpaoag.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Upcoming Warhammer Events – Throne of Skulls Doubles and weekday Warhammer in October]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tibbkvgv/upcoming-warhammer-events-throne-of-skulls-doubles-and-weekday-warhammer-in-october</link>
@@ -259,28 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01196---kill-team-typhon---tyranid-raveners-thumbnail-nqd3wn5g1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community painters turn their brushes to the immortal empire of Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dli5gza2/community-painters-turn-their-brushes-to-the-immortal-empire-of-grand-cathay</link>
-            <guid>dli5gza2</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A gallery of gorgeous Cathayans.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_grandcathayinfluencer-jun20-1-feature-okw3pzbq2v.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Disintegrators: Weapons of a Dark Age]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sp53m4ex/disintegrators-weapons-of-a-dark-age</link>
-            <guid>sp53m4ex</guid>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The history of disintegrator weapons.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_disintegrators-june20-1-feature-ukfd7oex3v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
