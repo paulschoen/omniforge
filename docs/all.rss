@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Jun 2025 09:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 13:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Traitor lore – How the trap was set]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w3jmtzfv/traitor-lore-how-the-trap-was-set</link>
+            <guid>w3jmtzfv</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Where were the Traitor Legions after the Dropsite Massacre?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_traitors-june27-1-feature-ubdmvrmcpz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Horus Heresy – Everyone is Talking About it!]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/d9wjzkdk/the-horus-heresy-everyone-is-talking-about-it</link>
@@ -273,18 +283,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jun21-1-feature-kybrirzsxk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hive Fleet Typhon Tyranids – Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/5wmldqsl/hive-fleet-typhon-tyranids-warhammer-40000</link>
-            <guid>5wmldqsl</guid>
-            <pubDate>Sat, 21 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hive Fleet Typhon are a hyper-predatory brood of Tyranids, often emerging to feast on worlds already weakened by war, famine, and disasters. There're rumours about these xenos cannibalising other Hive Fleets, so hopefully you can paint them up fast before they eat each other!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01196---kill-team-typhon---tyranid-raveners-thumbnail-nqd3wn5g1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
