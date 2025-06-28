@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Jun 2025 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 17:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Unleash the wrath of the Allfather]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ld9ugdlv/saturday-pre-orders-unleash-the-wrath-of-the-allfather</link>
+            <guid>ld9ugdlv</guid>
+            <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything you can pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jun28-1-feature-ned4ojw7yx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The life cycle of a Space Wolf, as told by his beard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o3c99sgs/the-life-cycle-of-a-space-wolf-as-told-by-his-beard</link>
@@ -267,21 +281,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dt-launchtrailer_1280_720-zson6pjfwm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Howl with the wolves of Fenris]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eloq521l/sunday-preview-howl-with-the-wolves-of-fenris</link>
-            <guid>eloq521l</guid>
-            <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun22-1-feature-or4s92qm06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
