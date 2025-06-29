@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 28 Jun 2025 17:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 17:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The Idoneth Deepkin breach the waves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/idqpwh8t/sunday-preview-the-idoneth-deepkin-breach-the-waves</link>
+            <guid>idqpwh8t</guid>
+            <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here is everything you can pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun29-1-feature-tdqiyuzvlh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Unleash the wrath of the Allfather]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ld9ugdlv/saturday-pre-orders-unleash-the-wrath-of-the-allfather</link>
@@ -270,17 +284,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_gkcombatpatrol-jun23-1-feature-iuaglr98xd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide - Arbites Class | Release Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pi5n3mab/warhammer-40000-darktide-arbites-class-release-trailer</link>
-            <guid>pi5n3mab</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You are justice. The Adeptus Arbites,  Warhammer 40,000: Darktide's first DLC class, is soon available to all players! Restore order to Tertium tomorrow - June 23, 2025 - with your Cyber-Mastiff and a devastating array of new weaponry.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dt-launchtrailer_1280_720-zson6pjfwm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
