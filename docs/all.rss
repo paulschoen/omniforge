@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 30 Jun 2025 12:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kamandora’s Blades have come to scavenge skulls from the depths of Embergard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5bhawyez/kamandoras-blades-have-come-to-scavenge-skulls-from-the-depths-of-embergard</link>
+            <guid>5bhawyez</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Channel your anger with a new warband and deck.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_kamandora-jun30-1-feature-fxht4nsffr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness – The Journal Tactica]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bkrrzoql/rules-in-the-age-of-darkness-the-journal-tactica</link>
@@ -79,6 +90,17 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_traitors-june27-1-feature-ubdmvrmcpz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Horus Heresy – the Warmaster and the Emperor’s Praetorian!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/vjuow1jt/the-horus-heresy-the-warmaster-and-the-emperors-praetorian</link>
+            <guid>vjuow1jt</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two legends of the Age of Darkness: the Warmaster and the Emperor’s Praetorian!]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/m2-retro-joytoy_thumbnail_v1-1wsuhfj3ux.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Horus Heresy – Everyone is Talking About it!]]></title>
@@ -257,28 +279,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-8xffoq5jyc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How big is a Space Marine Legion?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/c9qnghtw/how-big-is-a-space-marine-legion</link>
-            <guid>c9qnghtw</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s not as clear-cut an answer as you may think…]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_legionscale-jun23-1-feature-ynvblcafnm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Grand Cathay on the tabletop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rrielj4b/old-world-almanack-grand-cathay-on-the-tabletop</link>
-            <guid>rrielj4b</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules for the expeditionary army.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_grandcathayrules-jun23-1-feature-nzsxwbzgg8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
