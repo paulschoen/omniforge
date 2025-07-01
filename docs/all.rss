@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Jul 2025 13:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Heroes brings another elite team of Space Marines to the battlefield]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/msumipr2/warhammer-heroes-brings-another-elite-team-of-space-marines-to-the-battlefield</link>
+            <guid>msumipr2</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Seven incredible new sculpts.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-xmipdoyeyw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction focus – Traitor Astartes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lunnztux/faction-focus-traitor-astartes</link>
@@ -266,16 +278,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/copy-of-dlc2_release_trailer_thumbnail_1920x1080-oa5jifp5dz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness – How to add allies to your army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oqgzfhnh/rules-in-the-age-of-darkness-how-to-add-allies-to-your-army</link>
-            <guid>oqgzfhnh</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Combined arms in games of Horus Heresy.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_allies-jun24-1-feature-4goozchitd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
