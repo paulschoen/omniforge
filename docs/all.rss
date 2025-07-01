@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Jul 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 15:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enter the latest Warhammer 40,000 Organised Play season]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fuyhljgg/enter-the-latest-warhammer-40000-organised-play-season</link>
+            <guid>fuyhljgg</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New prizes for the second half of 2025.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orgplay2025-july01-1-feature-jruolrdec2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Heroes brings another elite team of Space Marines to the battlefield]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/msumipr2/warhammer-heroes-brings-another-elite-team-of-space-marines-to-the-battlefield</link>
@@ -267,17 +277,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_faqs-jun25-1-feature-zv6dxwrg4v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Rogue Trader - Lex Imperialis Launch Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/7rxucrkw/warhammer-40000-rogue-trader-lex-imperialis-launch-trailer</link>
-            <guid>7rxucrkw</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lex Imperialis, the second major expansion for Warhammer 40,000: Rogue Trader, offers a new 15-hour storyline and introduces the Adeptus Arbites — a faction of incorruptible enforcers — alongside a new companion: the grim and relentless Solomorne Anthar.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/copy-of-dlc2_release_trailer_thumbnail_1920x1080-oa5jifp5dz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
