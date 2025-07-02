@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Jul 2025 15:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 12:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Learn about Isstvan III]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8pdant33/warhammer-tv-this-week-learn-about-isstvan-iii</link>
+            <guid>8pdant33</guid>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything you can watch this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jul02-1-feature-bs0uoy3icg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enter the latest Warhammer 40,000 Organised Play season]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fuyhljgg/enter-the-latest-warhammer-40000-organised-play-season</link>
@@ -266,17 +276,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jun25-1-feature-tr853mxlds.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World FAQ and errata – Designer’s notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wgp83jlw/old-world-faq-and-errata-designers-notes</link>
-            <guid>wgp83jlw</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Targeted rules changes for Warhammer: The Old World.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_faqs-jun25-1-feature-zv6dxwrg4v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
