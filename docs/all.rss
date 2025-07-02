@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Jul 2025 14:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The future of the Horus Heresy – Digital downloads, expansions and new miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0sdbyj1k/the-future-of-the-horus-heresy-digital-downloads-expansions-and-new-miniatures</link>
+            <guid>0sdbyj1k</guid>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_roadmap-jul02-1-feature-kb7qnumxvh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus – The Mechanicum]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tmpcghmk/faction-focus-the-mechanicum</link>
@@ -265,17 +274,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="interviews">Interviews</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01669_cp_bl-interview_guy-haley_-thumbnail-fn0biu7rmk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Silent King – Guy Haley on closing out the epic Dawn of Fire saga]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3cpmyspp/the-silent-king-guy-haley-on-closing-out-the-epic-dawn-of-fire-saga</link>
-            <guid>3cpmyspp</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the interview here.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_dawnoffire-jun25-1-feature-dfljn60cor.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
