@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Jul 2025 13:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 14:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus – The Mechanicum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tmpcghmk/faction-focus-the-mechanicum</link>
+            <guid>tmpcghmk</guid>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the inscrutable priesthood of Mars.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_mechrules-jul02-1-feature-xny1zihasj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Take control of the tides with a new army rule in Battletome: Idoneth Deepkin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xgqtxbqa/take-control-of-the-tides-with-a-new-army-rule-in-battletome-idoneth-deepkin</link>
@@ -266,16 +276,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_dawnoffire-jun25-1-feature-dfljn60cor.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loyalist lore – Where were the Legiones Astartes as the Horus Heresy broke out?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qbwgpft8/loyalist-lore-where-were-the-legiones-astartes-as-the-horus-heresy-broke-out</link>
-            <guid>qbwgpft8</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The state of play at the time of the Dropsite Massacre.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_loyalists-june25-1-feature-9ja8bmegpa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
