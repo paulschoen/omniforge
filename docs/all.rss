@@ -4,16 +4,28 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Jul 2025 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 12:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
+            <title><![CDATA[Enact the will of Volturnos or defend the spirit-reefs with two new Armies of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d7dbai1r/enact-the-will-of-volturnos-or-defend-the-spirit-reefs-with-two-new-armies-of-renown</link>
+            <guid>d7dbai1r</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two new ways to deploy your Idoneth Deepkin.]]></description>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_idonethaor-jul03-1-feature-zy8dzp1zll.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The future of the Horus Heresy – Digital downloads, expansions and new miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0sdbyj1k/the-future-of-the-horus-heresy-digital-downloads-expansions-and-new-miniatures</link>
             <guid>0sdbyj1k</guid>
             <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There's plenty more to come.]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_roadmap-jul02-1-feature-kb7qnumxvh.jpg" length="0" type="image/jpg"/>
@@ -262,18 +274,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/cathanian-sentinals-5-ofno99gxjj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Author Interview: Guy Haley]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ggpdvskd/author-interview-guy-haley</link>
-            <guid>ggpdvskd</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Black Library’s Guy Haley discusses his new Dawn of Fire novel and bringing Archmagos Dominus Belisarius Cawl to life – so to speak – on the page.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="videos">Videos</category>
-            <category domain="interviews">Interviews</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01669_cp_bl-interview_guy-haley_-thumbnail-fn0biu7rmk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
