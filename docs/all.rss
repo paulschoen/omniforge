@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Jul 2025 13:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction focus – Solar Auxilia]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tco7zcqb/faction-focus-solar-auxilia</link>
+            <guid>tco7zcqb</guid>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the strongest mortal soldiers in the Horus Heresy.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_auxrules-jul03-1-feature-dzqhfadkao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting a Space Wolves Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9lj8ew6i/starting-a-space-wolves-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -266,18 +276,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="space-marines">Space Marines</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_siegeupdate_thumbnail_1920x1080-ivj8kpaoag.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Warhammer Events – Throne of Skulls Doubles and weekday Warhammer in October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tibbkvgv/upcoming-warhammer-events-throne-of-skulls-doubles-and-weekday-warhammer-in-october</link>
-            <guid>tibbkvgv</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Details for upcoming Warhammer events.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-june26-1-feature-tpxuptktog.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
