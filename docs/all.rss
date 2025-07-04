@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Jul 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 16:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[You are invited to the Big Summer Warhammer Preview on 18th July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yjzdwr3c/you-are-invited-to-the-big-summer-warhammer-preview-on-18th-july</link>
+            <guid>yjzdwr3c</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Huge reveals are coming for Aos, 40k and more]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bigsummer_incoming-jul4-1-feature-mb09z7lva8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus – Questoris Familia]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jd7u7fuv/faction-focus-questoris-familia</link>
@@ -262,18 +272,6 @@ Who will triumph?]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jun28-1-feature-ned4ojw7yx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The life cycle of a Space Wolf, as told by his beard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o3c99sgs/the-life-cycle-of-a-space-wolf-as-told-by-his-beard</link>
-            <guid>o3c99sgs</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What kinds of heads do you get in the new kits?]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_swheads-jun26-1-feature-jba1lcyabi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
