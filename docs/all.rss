@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Jul 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 11:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enlist a pair of giant sharks or a Namarti raiding party with two new Regiments of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xm3rsnuh/enlist-a-pair-of-giant-sharks-or-a-namarti-raiding-party-with-two-new-regiments-of-renown</link>
+            <guid>xm3rsnuh</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Cythai lend their arms and fins to the armies of Order.]]></description>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_idonethror-jul04-1-feature-s6nudelfza.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction focus – Solar Auxilia]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tco7zcqb/faction-focus-solar-auxilia</link>
@@ -264,18 +275,6 @@ Even YOU must choose a side, so discover your Legion and pledge your loyalty tod
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-(black-logo)-edxbkyfoi0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Siege Update Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rlbm30dv/warhammer-40000-space-marine-2-siege-update-trailer</link>
-            <guid>rlbm30dv</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to celebrate the release of the Siege Update for their blockbuster third-person shooter Warhammer 40,000: Space Marine 2. Available now for free to all Xbox Series players, this new update comes with a new PvE game mode and two new cosmetics DLCs for Season Pass owners.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_siegeupdate_thumbnail_1920x1080-ivj8kpaoag.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
