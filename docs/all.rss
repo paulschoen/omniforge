@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Jul 2025 12:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 14:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus – Questoris Familia]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jd7u7fuv/faction-focus-questoris-familia</link>
+            <guid>jd7u7fuv</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How the Knightly Houses play in the Age of Darkness.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_knightstitansrules-jul04-1-feature-ewd2gq7qej.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – The Reaping]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4jtwzxns/chronicles-of-ruin-the-reaping</link>
@@ -42,7 +52,7 @@
             <category domain="idoneth-deepkin">Idoneth Deepkin</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_idonethror-jul04-1-feature-s6nudelfza.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/aos_idonethror-jul04-1-feature-vuwhutfvae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Faction focus – Solar Auxilia]]></title>
@@ -264,16 +274,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_swheads-jun26-1-feature-jba1lcyabi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Traitor lore – How the trap was set]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w3jmtzfv/traitor-lore-how-the-trap-was-set</link>
-            <guid>w3jmtzfv</guid>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Where were the Traitor Legions after the Dropsite Massacre?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_traitors-june27-1-feature-ubdmvrmcpz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
