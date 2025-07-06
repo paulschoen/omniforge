@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 05 Jul 2025 17:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jul 2025 17:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The Horus Heresy begins with Saturnine]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zojna4pr/sunday-preview-the-horus-heresy-begins-with-saturnine</link>
+            <guid>zojna4pr</guid>
+            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new edition is almost here.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul6-1-feature-ufzp4xyxcn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Take the plunge with the Idoneth Deepkin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eccbhxtl/saturday-pre-orders-take-the-plunge-with-the-idoneth-deepkin</link>
@@ -257,20 +270,6 @@ Who will triumph?]]></description>
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-jun30-1-feature-rreksrgsno.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The Idoneth Deepkin breach the waves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/idqpwh8t/sunday-preview-the-idoneth-deepkin-breach-the-waves</link>
-            <guid>idqpwh8t</guid>
-            <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is everything you can pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun29-1-feature-tdqiyuzvlh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
