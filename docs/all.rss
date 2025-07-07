@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 06 Jul 2025 17:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 12:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Palanite Enforcers unleash their unique brand of justice with new officers, weapons and a book]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6ojnf0ga/palanite-enforcers-unleash-their-unique-brand-of-justice-with-new-officers-weapons-and-a-book</link>
+            <guid>6ojnf0ga</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring order back to the underhive, or die trying.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_enfreveal-jul07-1-feature-p1sxsmqodb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The Horus Heresy begins with Saturnine]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zojna4pr/sunday-preview-the-horus-heresy-begins-with-saturnine</link>
@@ -259,17 +270,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_journalstactica-jun30-1-feature-rottxy5f3y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Chaos with a with a free miniature of the month and an Eye of Horus coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oz8jlxkg/celebrate-chaos-with-a-with-a-free-miniature-of-the-month-and-an-eye-of-horus-coin</link>
-            <guid>oz8jlxkg</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-jun30-1-feature-rreksrgsno.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
