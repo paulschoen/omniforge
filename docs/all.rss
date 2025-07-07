@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 07 Jul 2025 13:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 15:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -100,6 +100,27 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_teamcathay-jul04-1-feature-czugrgrsgl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Warhammer Preview - 18th of July 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/e8fl4vyb/the-big-summer-warhammer-preview-18th-of-july-2025</link>
+            <guid>e8fl4vyb</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Big Summer Warhammer Preview is coming to your screens on 18 July, AND we're celebrating 10 years of Warhammer Age of Sigmar. “What’s with all the hats,” you ask? No, we’re not sure either…]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01757_preview-tease_thumbnail_v3-uxeqcqibn6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Making Monochrome Models! | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bcr1ewjt/making-monochrome-models-warhammer</link>
+            <guid>bcr1ewjt</guid>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Monochrome is a fancy word for painting stuff in black and white, so today Jake will show you how to do this and, crucially, make your models look great at the same time. Who knows – maybe there will even be a mysterious THIRD colour introduced? Watch and see!]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01044---doing-monochrome-models-thumbnail-wbzti09yad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Enlist a pair of giant sharks or a Namarti raiding party with two new Regiments of Renown]]></title>
@@ -250,27 +271,6 @@ Who will triumph?]]></description>
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jul1-1-feature-iapfnlmqm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction focus – Loyalist Astartes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/unoaw6qi/faction-focus-loyalist-astartes</link>
-            <guid>unoaw6qi</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at the nine Legions who still serve the Emperor.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_loyalistrules-jun30-1-feature-3qqhzdsxu1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kamandora’s Blades have come to scavenge skulls from the depths of Embergard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5bhawyez/kamandoras-blades-have-come-to-scavenge-skulls-from-the-depths-of-embergard</link>
-            <guid>5bhawyez</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Channel your anger with a new warband and deck.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_kamandora-jun30-1-feature-fxht4nsffr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
