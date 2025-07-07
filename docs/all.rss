@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 07 Jul 2025 12:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 13:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Horus Heresy round table – The origins of Saturnine armour]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rzbpqwiz/the-horus-heresy-round-table-the-origins-of-saturnine-armour</link>
+            <guid>rzbpqwiz</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We speak to some of the team behind the new edition of The Horus Heresy.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_roundtable1-jul07-1-feature-a4o24g8cte.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Palanite Enforcers unleash their unique brand of justice with new officers, weapons and a book]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6ojnf0ga/palanite-enforcers-unleash-their-unique-brand-of-justice-with-new-officers-weapons-and-a-book</link>
@@ -260,16 +271,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_kamandora-jun30-1-feature-fxht4nsffr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness – The Journal Tactica]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bkrrzoql/rules-in-the-age-of-darkness-the-journal-tactica</link>
-            <guid>bkrrzoql</guid>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new way to expand the story of the Horus Heresy.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_journalstactica-jun30-1-feature-rottxy5f3y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
