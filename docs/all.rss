@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 07 Jul 2025 15:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 12:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 8th of July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oz5gsuqr/the-rumour-engine-8th-of-july</link>
+            <guid>oz5gsuqr</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul8-1-feature-rbsmya2zut.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Horus Heresy round table – The origins of Saturnine armour]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rzbpqwiz/the-horus-heresy-round-table-the-origins-of-saturnine-armour</link>
@@ -261,16 +271,6 @@ Who will triumph?]]></description>
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd514-july01-1-feature-wl8nheezdk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 1st of July]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nsx0qayw/the-rumour-engine-1st-of-july</link>
-            <guid>nsx0qayw</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul1-1-feature-iapfnlmqm3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
