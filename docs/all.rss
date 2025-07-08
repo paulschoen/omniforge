@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 08 Jul 2025 12:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 13:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Horus Heresy round table – Crusade armour, disintegrators and more]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ma3wgcpx/the-horus-heresy-round-table-crusade-armour-disintegrators-and-more</link>
+            <guid>ma3wgcpx</guid>
+            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What went into fashioning all the other new stuff in the Saturnine box?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_roundtable2-jul08-1-feature-2pylfsvbdm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 8th of July]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oz5gsuqr/the-rumour-engine-8th-of-july</link>
@@ -261,16 +272,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_traitorrules-jul01-1-feature-qx9rulrgvq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 514 – Everything changes for a Tzeentchian issue]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8gmohkiy/white-dwarf-514-everything-changes-for-a-tzeentchian-issue</link>
-            <guid>8gmohkiy</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at this week’s issue.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd514-july01-1-feature-wl8nheezdk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
