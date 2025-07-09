@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Jul 2025 12:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 13:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Horus Heresy round table – Refreshing the rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2atp1lyq/horus-heresy-round-table-refreshing-the-rules</link>
+            <guid>2atp1lyq</guid>
+            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Is it a revolution or an evolution?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_roundtable3-jul09-1-feature-8flhzs9vsi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: The Questing Knights continue their adventure]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7uo9ameo/warhammer-tv-this-week-the-questing-knights-continue-their-adventure</link>
@@ -260,18 +271,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_orgplay2025-july01-1-feature-jruolrdec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Heroes brings another elite team of Space Marines to the battlefield]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/msumipr2/warhammer-heroes-brings-another-elite-team-of-space-marines-to-the-battlefield</link>
-            <guid>msumipr2</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Seven incredible new sculpts.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-xmipdoyeyw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
