@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Jul 2025 13:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 10:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Squeeze more than just a confession out of ‘em with the Palanite Enforcer Haunts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vhx2d2jj/squeeze-more-than-just-a-confession-out-of-em-with-the-palanite-enforcer-haunts</link>
+            <guid>vhx2d2jj</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Maintain order in the underhive with powerful psychic backup.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_haunts-jul21-1-feature-jn2g7aixpt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Horus Heresy round table – Refreshing the rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2atp1lyq/horus-heresy-round-table-refreshing-the-rules</link>
@@ -261,16 +272,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jul02-1-feature-bs0uoy3icg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enter the latest Warhammer 40,000 Organised Play season]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fuyhljgg/enter-the-latest-warhammer-40000-organised-play-season</link>
-            <guid>fuyhljgg</guid>
-            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New prizes for the second half of 2025.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orgplay2025-july01-1-feature-jruolrdec2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
