@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 10 Jul 2025 10:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules in the Age of Darkness – How to fight and kill a Titan]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w4pg4fut/rules-in-the-age-of-darkness-how-to-fight-and-kill-a-titan</link>
+            <guid>w4pg4fut</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold the god-engines and despair.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_titanrules-jul10-1-feature-bksaywkmoa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Squeeze more than just a confession out of ‘em with the Palanite Enforcer Haunts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vhx2d2jj/squeeze-more-than-just-a-confession-out-of-em-with-the-palanite-enforcer-haunts</link>
@@ -262,16 +272,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_idonetharmyrules-jul02-1-feature-pbo9isgp0p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Learn about Isstvan III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8pdant33/warhammer-tv-this-week-learn-about-isstvan-iii</link>
-            <guid>8pdant33</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything you can watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jul02-1-feature-bs0uoy3icg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
