@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 10 Jul 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 11:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Building on Saturnine – Where to take your Horus Heresy force next?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uijwthl0/building-on-saturnine-where-to-take-your-horus-heresy-force-next</link>
+            <guid>uijwthl0</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mustering a Legion worthy of a Primarch.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_buildingarmy-jul10-1-feature-sl42pev0jn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules in the Age of Darkness – How to fight and kill a Titan]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w4pg4fut/rules-in-the-age-of-darkness-how-to-fight-and-kill-a-titan</link>
@@ -261,17 +272,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_mechrules-jul02-1-feature-xny1zihasj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take control of the tides with a new army rule in Battletome: Idoneth Deepkin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xgqtxbqa/take-control-of-the-tides-with-a-new-army-rule-in-battletome-idoneth-deepkin</link>
-            <guid>xgqtxbqa</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wash away the enemies of the enclaves.]]></description>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_idonetharmyrules-jul02-1-feature-pbo9isgp0p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
