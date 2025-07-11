@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Jul 2025 11:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 12:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – The Red God]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lqrdq4wc/chronicles-of-ruin-the-red-god</link>
+            <guid>lqrdq4wc</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The life and times of Khorne’s faithful.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_khornefiction-jul11-1-feature-qwswjgpxly.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Building on Saturnine – Where to take your Horus Heresy force next?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uijwthl0/building-on-saturnine-where-to-take-your-horus-heresy-force-next</link>
@@ -262,16 +274,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_roadmap-jul02-1-feature-kb7qnumxvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus – The Mechanicum]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tmpcghmk/faction-focus-the-mechanicum</link>
-            <guid>tmpcghmk</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at the inscrutable priesthood of Mars.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_mechrules-jul02-1-feature-xny1zihasj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
