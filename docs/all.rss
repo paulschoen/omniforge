@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Jul 2025 12:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get ready to battle in The Horus Heresy with this Learn to Play video]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ifl8ekwd/get-ready-to-battle-in-the-horus-heresy-with-this-learn-to-play-video</link>
+            <guid>ifl8ekwd</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this new rules primer.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bigsummer_thisweek-jul14-1-feature-xkgp5kkli3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – The Red God]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lqrdq4wc/chronicles-of-ruin-the-red-god</link>
@@ -264,16 +274,6 @@ Who will triumph?]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/seige-of-cthonia_thumbnail-ebr8urhc3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The future of the Horus Heresy – Digital downloads, expansions and new miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0sdbyj1k/the-future-of-the-horus-heresy-digital-downloads-expansions-and-new-miniatures</link>
-            <guid>0sdbyj1k</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There's plenty more to come.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_roadmap-jul02-1-feature-kb7qnumxvh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
