@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Jul 2025 14:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 17:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Saturnine]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ujwwshq1/saturday-pre-orders-saturnine</link>
+            <guid>ujwwshq1</guid>
+            <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jul12-1-feature-cnluywxivs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get ready to battle in The Horus Heresy with this Learn to Play video]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ifl8ekwd/get-ready-to-battle-in-the-horus-heresy-with-this-learn-to-play-video</link>
@@ -17,7 +29,7 @@
             <description><![CDATA[Check out this new rules primer.]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bigsummer_thisweek-jul14-1-feature-xkgp5kkli3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/thh_howtoplay-jul09-1-feature-xhqwnfifbw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – The Red God]]></title>
@@ -37,7 +49,6 @@
             <guid>uijwthl0</guid>
             <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Mustering a Legion worthy of a Primarch.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_buildingarmy-jul10-1-feature-sl42pev0jn.jpg" length="0" type="image/jpg"/>
@@ -261,19 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_idonethaor-jul03-1-feature-zy8dzp1zll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Horus Heresy – The Siege of Cthonia!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/0v819qzw/the-horus-heresy-the-siege-of-cthonia</link>
-            <guid>0v819qzw</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lay siege to Cthonia!
-Traitor against Loyalist. Sons of Horus against the Imperial Fists.
-Who will triumph?]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/seige-of-cthonia_thumbnail-ebr8urhc3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
