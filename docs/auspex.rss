@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sat, 12 Jul 2025 21:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 21:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[How to Beat Knights in Warhammer 40K - Some Tips, Tricks and Counters]]></title>
+            <link>https://www.youtube.com/watch?v=N_BChCCmnfs</link>
+            <guid>yt:video:N_BChCCmnfs</guid>
+            <pubDate>Sat, 12 Jul 2025 20:00:11 GMT</pubDate>
+            <description><![CDATA[The video discusses effective tactics to counter the dominating Imperial and Chaos Knights in Warhammer 40k, emphasizing the importance of terrain, tailored army compositions, and strategic gameplay to mitigate their high win rates and tournament success.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Tactics to Counter Imperial and Chaos Knights in Warhammer 40k</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Power of Knights:</strong> Imperial and Chaos Knights are dominating Warhammer 40k with high win rates, making them a significant challenge for opponents.</li>
+    <li>⚖️ <strong>Balance Adjustments:</strong> Recent points cuts have boosted both factions, with Imperial Knights winning 57-60% of games and Chaos Knights 52-60%.</li>
+    <li>🏆 <strong>Tournament Success:</strong> Both factions are winning numerous tournaments, indicating their competitive strength.</li>
+    <li>🛡️ <strong>Terrain Advantage:</strong> Playing on terrain-heavy boards can level the playing field against Knights, limiting their mobility and effectiveness.</li>
+    <li>🧩 <strong>Army Composition:</strong> Players are encouraged to tailor their lists with anti-tank options to effectively counter Knights' resilience.</li>
+    <li>🎯 <strong>Strategic Gameplay:</strong> Understanding Knights' movement and attack capabilities can inform better positioning and tactics during games.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Win Rates:</strong> Imperial Knights: 57-60%, Chaos Knights: 52-60%.</li>
+    <li>🏅 <strong>Tournament Results:</strong> Knights have multiple 5-0 undefeated runs and numerous event wins in recent weeks.</li>
+    <li>🛡️ <strong>Toughness Levels:</strong> Most Titanic Knights have toughness 11, while some like the Castellan have toughness 12.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How can terrain manipulation change the dynamics of a game against Knights?</strong></li>
+    <li>💭 <strong>What specific strategies can players use to effectively counter the current dominance of Knights in tournaments?</strong></li>
+    <li>🧠 <strong>How do player perceptions of balance affect gameplay and enjoyment in matches involving Knights?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40K's BEST Looking Miniatures for EVERY ARMY? As Ranked by You!]]></title>
             <link>https://www.youtube.com/watch?v=A5K712gkv3Q</link>
@@ -8748,36 +8782,37 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to Beat Knights in Warhammer 40K - Some Tips, Tricks and Counters]]></title>
-            <link>https://www.youtube.com/watch?v=N_BChCCmnfs</link>
-            <guid>yt:video:N_BChCCmnfs</guid>
-            <pubDate>Sat, 12 Jul 2025 20:00:11 GMT</pubDate>
-            <description><![CDATA[The video discusses effective tactics to counter the dominating Imperial and Chaos Knights in Warhammer 40k, emphasizing the importance of terrain, tailored army compositions, and strategic gameplay to mitigate their high win rates and tournament success.]]></description>
+            <title><![CDATA[Chaos Space Marines - an Army Overview in Warhammer 40K]]></title>
+            <link>https://www.youtube.com/watch?v=gOxTjG5dVgM</link>
+            <guid>yt:video:gOxTjG5dVgM</guid>
+            <pubDate>Sun, 13 Jul 2025 20:42:10 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of Chaos Space Marines in Warhammer 40k, highlighting their competitive win rate of 48%, recent tournament successes, popular units, and the impact of core rules like the Dark Packs mechanic on gameplay strategy.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Tactics to Counter Imperial and Chaos Knights in Warhammer 40k</h2>
+<h2>📢 Overview of Chaos Space Marines in Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Power of Knights:</strong> Imperial and Chaos Knights are dominating Warhammer 40k with high win rates, making them a significant challenge for opponents.</li>
-    <li>⚖️ <strong>Balance Adjustments:</strong> Recent points cuts have boosted both factions, with Imperial Knights winning 57-60% of games and Chaos Knights 52-60%.</li>
-    <li>🏆 <strong>Tournament Success:</strong> Both factions are winning numerous tournaments, indicating their competitive strength.</li>
-    <li>🛡️ <strong>Terrain Advantage:</strong> Playing on terrain-heavy boards can level the playing field against Knights, limiting their mobility and effectiveness.</li>
-    <li>🧩 <strong>Army Composition:</strong> Players are encouraged to tailor their lists with anti-tank options to effectively counter Knights' resilience.</li>
-    <li>🎯 <strong>Strategic Gameplay:</strong> Understanding Knights' movement and attack capabilities can inform better positioning and tactics during games.</li>
+    <li>🔥 <strong>Faction Overview:</strong> Discussion on the Chaos Space Marines and their performance in Warhammer 40k.</li>
+    <li>⚔️ <strong>Win Rates:</strong> Chaos Space Marines have a competitive win rate of around <strong>48%</strong>, ranking as the <strong>15th most played</strong> army.</li>
+    <li>🏆 <strong>Tournament Success:</strong> Chaos Space Marines have won <strong>three small grand tournaments</strong> in the first month of 10th edition.</li>
+    <li>🚀 <strong>Popular Units:</strong> Highlights of standout units include <strong>Legionaries, Chosen,</strong> and <strong>Lord Discordant</strong>.</li>
+    <li>🛡️ <strong>Core Rules:</strong> Overview of the Dark Packs rule, which affects shooting and combat outcomes.</li>
+    <li>📊 <strong>Detachments:</strong> Focus on successful detachments like <strong>Renegade Raiders</strong> and <strong>Pat Banzalots</strong> with win rates up to <strong>57%</strong>.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Win Rates:</strong> Imperial Knights: 57-60%, Chaos Knights: 52-60%.</li>
-    <li>🏅 <strong>Tournament Results:</strong> Knights have multiple 5-0 undefeated runs and numerous event wins in recent weeks.</li>
-    <li>🛡️ <strong>Toughness Levels:</strong> Most Titanic Knights have toughness 11, while some like the Castellan have toughness 12.</li>
+    <li>📈 <strong>Win Rate:</strong> Chaos Space Marines hold a competitive win rate of approximately <strong>48%</strong> in both competitive and casual play.</li>
+    <li>🏅 <strong>Top Played Faction:</strong> Currently ranked as the <strong>15th most played army</strong> out of <strong>28</strong> in Warhammer 40k.</li>
+    <li>🏆 <strong>Tournament Wins:</strong> Three small grand tournaments won in the first month of the 10th edition.</li>
+    <li>📉 <strong>Detachments Success:</strong> Renegade Raiders have a win rate of <strong>52-57%</strong> in competitive play.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How can terrain manipulation change the dynamics of a game against Knights?</strong></li>
-    <li>💭 <strong>What specific strategies can players use to effectively counter the current dominance of Knights in tournaments?</strong></li>
-    <li>🧠 <strong>How do player perceptions of balance affect gameplay and enjoyment in matches involving Knights?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> How do the rules and mechanics of Chaos Space Marines influence their gameplay strategy in competitive settings?</li>
+    <li>🤔 <strong>Question 2:</strong> What factors contribute to the current popularity of certain units over others in the Chaos Space Marine roster?</li>
+    <li>🤔 <strong>Question 3:</strong> How can players effectively use the Dark Packs mechanic to maximize their damage output during battles?</li>
 </ul>
 ]]></content:encoded>
         </item>
