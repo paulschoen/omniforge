@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 12 Jul 2025 17:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 17:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Gold and gore flow through the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jkwdtmzc/sunday-preview-gold-and-gore-flow-through-the-mortal-realms</link>
+            <guid>jkwdtmzc</guid>
+            <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Khorne versus Kharadron – who will win?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul13-1-feature-v2kwt9ucok.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Saturnine]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ujwwshq1/saturday-pre-orders-saturnine</link>
@@ -261,17 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_swfaction-1-feature-6c2o6h1j2t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enact the will of Volturnos or defend the spirit-reefs with two new Armies of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d7dbai1r/enact-the-will-of-volturnos-or-defend-the-spirit-reefs-with-two-new-armies-of-renown</link>
-            <guid>d7dbai1r</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Two new ways to deploy your Idoneth Deepkin.]]></description>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_idonethaor-jul03-1-feature-zy8dzp1zll.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
