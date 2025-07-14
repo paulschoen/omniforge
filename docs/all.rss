@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 13 Jul 2025 17:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 11:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tune in to the Big Summer Warhammer Preview this Friday]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/votmxm3n/tune-in-to-the-big-summer-warhammer-preview-this-friday</link>
+            <guid>votmxm3n</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s almost here…]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bigsummer_thisweek-jul14-1-feature-7ruwvirbeo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Gold and gore flow through the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jkwdtmzc/sunday-preview-gold-and-gore-flow-through-the-mortal-realms</link>
@@ -263,18 +273,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_auxrules-jul03-1-feature-dzqhfadkao.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Space Wolves Army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9lj8ew6i/starting-a-space-wolves-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>9lj8ew6i</guid>
-            <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the wild warriors of Fenris.]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_swfaction-1-feature-6c2o6h1j2t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
