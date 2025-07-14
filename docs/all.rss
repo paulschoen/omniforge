@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Jul 2025 13:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 15:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Combat Patrols for Tyranids, Black Templars and Space Wolves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6etmdqh1/new-combat-patrols-for-tyranids-black-templars-and-space-wolves</link>
+            <guid>6etmdqh1</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Start your next army with three thematic boxed sets.]]></description>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_combatpatrols-jul14-1-feature-84uxdjqqgu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grace the Underhive with dedicated Palanite Companions to beat back the riffraff]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/urpbfqfz/grace-the-underhive-with-dedicated-palanite-companions-to-beat-back-the-riffraff</link>
@@ -264,16 +279,6 @@
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01757_preview-tease_thumbnail_v3-uxeqcqibn6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Making Monochrome Models! | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bcr1ewjt/making-monochrome-models-warhammer</link>
-            <guid>bcr1ewjt</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Monochrome is a fancy word for painting stuff in black and white, so today Jake will show you how to do this and, crucially, make your models look great at the same time. Who knows – maybe there will even be a mysterious THIRD colour introduced? Watch and see!]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01044---doing-monochrome-models-thumbnail-wbzti09yad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
