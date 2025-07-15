@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Jul 2025 12:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 13:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Last Chances]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vvzwamdh/chronicles-of-ruin-last-chances</link>
+            <guid>vvzwamdh</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Kharadron Overlords are on the search for true friendship. Just kidding – it’s for profit.]]></description>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_kharafiction-jul15-1-feature-auvvdyk6pb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revolutionise carnage and slaughter with new Blades of Khorne battle traits]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0tefbjnw/revolutionise-carnage-and-slaughter-with-new-blades-of-khorne-battle-traits</link>
@@ -265,18 +277,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_knightstitansrules-jul04-1-feature-ewd2gq7qej.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Reaping]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4jtwzxns/chronicles-of-ruin-the-reaping</link>
-            <guid>4jtwzxns</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Idoneth Deepkin are on the hunt.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_idonethfiction-jul04-1-feature-icl86x3l1j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
