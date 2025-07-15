@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 14 Jul 2025 15:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 11:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 15th of July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/shjsuqk0/the-rumour-engine-15th-of-july</link>
+            <guid>shjsuqk0</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul15-1-feature-zcpw1yadon.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Combat Patrols for Tyranids, Black Templars and Space Wolves]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6etmdqh1/new-combat-patrols-for-tyranids-black-templars-and-space-wolves</link>
@@ -268,17 +278,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_teamcathay-jul04-1-feature-czugrgrsgl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Warhammer Preview - 18th of July 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/e8fl4vyb/the-big-summer-warhammer-preview-18th-of-july-2025</link>
-            <guid>e8fl4vyb</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Big Summer Warhammer Preview is coming to your screens on 18 July, AND we're celebrating 10 years of Warhammer Age of Sigmar. “What’s with all the hats,” you ask? No, we’re not sure either…]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01757_preview-tease_thumbnail_v3-uxeqcqibn6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
