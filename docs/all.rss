@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Jul 2025 11:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 12:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revolutionise carnage and slaughter with new Blades of Khorne battle traits]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0tefbjnw/revolutionise-carnage-and-slaughter-with-new-blades-of-khorne-battle-traits</link>
+            <guid>0tefbjnw</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New ways to annihilate your foes.]]></description>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_khornearmyrules-jul15-1-feature-gm9qsuhpqq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 15th of July]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/shjsuqk0/the-rumour-engine-15th-of-july</link>
@@ -266,18 +277,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_idonethfiction-jul04-1-feature-icl86x3l1j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community team experiment with Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/diy4cycs/the-warhammer-community-team-experiment-with-grand-cathay</link>
-            <guid>diy4cycs</guid>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Inspirational painting from the team.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_teamcathay-jul04-1-feature-czugrgrsgl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
