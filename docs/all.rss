@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 16 Jul 2025 14:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 12:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Narrative Play in Middle-earth™ – The Battle of the Five Armies™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xwgttbro/narrative-play-in-middle-earthtm-the-battle-of-the-five-armiestm</link>
+            <guid>xwgttbro</guid>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Play out the dramatic finale!]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_scenarios-jul17-1-feature-ynuzj85hyx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Legacies of the Age of Darkness: What you need to know]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p0y6yx4s/legacies-of-the-age-of-darkness-what-you-need-to-know</link>
@@ -263,17 +273,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_roundtable1-jul07-1-feature-a4o24g8cte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Palanite Enforcers unleash their unique brand of justice with new officers, weapons and a book]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6ojnf0ga/palanite-enforcers-unleash-their-unique-brand-of-justice-with-new-officers-weapons-and-a-book</link>
-            <guid>6ojnf0ga</guid>
-            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring order back to the underhive, or die trying.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_enfreveal-jul07-1-feature-p1sxsmqodb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
