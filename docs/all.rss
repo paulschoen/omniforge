@@ -4,11 +4,191 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 18 Jul 2025 12:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 21:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Necrons vs Deathwatch in NEW Kill Team Box | Warhammer 40,000: Kill Team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lt6r98de/necrons-vs-deathwatch-in-new-kill-team-box-warhammer-40000-kill-team</link>
+            <guid>lt6r98de</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Kill Team: Tomb World boxed set announced, featuring kill teams for Necrons and Deathwatch!]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/kill-team-tomb-world_thumbnail_-anezfpx76g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Praise Hashut! The Helsmiths of Hashut Arrive in the Mortal Realms | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/gs20p79w/praise-hashut-the-helsmiths-of-hashut-arrive-in-the-mortal-realms-warhammer-age-of-sigmar</link>
+            <guid>gs20p79w</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A brand new faction is coming to the Mortal Realms, as revealed at the Big Summer Warhammer Preview. All hail the Helsmiths of Hashut!]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/helsmiths_thumbnail_v4-swikcjjgqk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Deathwatch Kill Teams descend into the Tomb World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9lpgtcwy/the-big-summer-preview-deathwatch-kill-teams-descend-into-the-tomb-world</link>
+            <guid>9lpgtcwy</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season of Kill Team expansions starts here.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature10-ofz8pgys2l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Leagues of Votann REVEALED – Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zcn8er27/new-leagues-of-votann-revealed-warhammer-40000</link>
+            <guid>zcn8er27</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fresh miniatures and more on the way for the Leagues of Votann, as revealed at the Big Summer Warhammer Preview.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/leagues-of-votann_thumbnail-1_v3-wunznevqt5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Wear Lieutenant Titus’ helmet]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2flkfg4j/the-big-summer-preview-wear-lieutenant-titus-helmet</link>
+            <guid>2flkfg4j</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first officially licensed, wearable Space Marine helmet is here.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature11-jcj2qgcvbl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Champions of the First Founding]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding</link>
+            <guid>meznaevz</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Space Marine characters and Combat Patrols incoming.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="white-scars">White Scars</category>
+            <category domain="iron-hands">Iron Hands</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature09-ehjo2cbapk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – An epic new series from Black Library]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8tc8lyjz/the-big-summer-preview-an-epic-new-series-from-black-library</link>
+            <guid>8tc8lyjz</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warmaster is dead, Terra lies in ruins and the Emperor is silent… what happens next?]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature08-uqfdvvy6d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – The Legions descend with a new MkII Assault Squad]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ovghpkqm/the-big-summer-preview-the-legions-descend-with-a-new-mkii-assault-squad</link>
+            <guid>ovghpkqm</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deliver death from above.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature07-isg2hxucz3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Armoured reinforcements for Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0atwaj1l/the-big-summer-preview-armoured-reinforcements-for-legions-imperialis</link>
+            <guid>0atwaj1l</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tanks, transports, artillery and more are on the way.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-06-u3n55iw45a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Hunt for glory in the depths of the Spitewood]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e49o7val/the-big-summer-preview-hunt-for-glory-in-the-depths-of-the-spitewood</link>
+            <guid>e49o7val</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new expansion and 16 returning warbands.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature05-24nammtqfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Bow down before the Helsmiths of Hashut]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sjcpuxok/the-big-summer-preview-bow-down-before-the-helsmiths-of-hashut</link>
+            <guid>sjcpuxok</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meet the Zharrdron, the dark cousins of the duardin.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature04-yuxifj2sut.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – The forces of Death muster anew]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew</link>
+            <guid>kscdd2nk</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Battletomes and more for the Grand Alliance of Death.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature03-bz0n1k9j2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Tomb Kings herald more Old World releases]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ko8rqxzy/the-big-summer-preview-tomb-kings-herald-more-old-world-releases</link>
+            <guid>ko8rqxzy</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[From the dusty lands of Khemri come new miniatures and new lore…]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature02-0ggbqzvdow.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Reinforcing the Kindred]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred</link>
+            <guid>chuafiji</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Votann has spoken, and it was worth the wait.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature01-jeg2srzfta.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Warhammer Preview Show – All of the reveals in one place]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hrf6bpfn/the-big-summer-warhammer-preview-show-all-of-the-reveals-in-one-place</link>
+            <guid>hrf6bpfn</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[All the live announcements from the latest massive Warhammer live preview show.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature00-m9fydgc5id.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to paint an entire company of Space Marines]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/slezlhvy/how-to-paint-an-entire-company-of-space-marines</link>
@@ -106,174 +286,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_khornearmyrules-jul15-1-feature-gm9qsuhpqq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 15th of July]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/shjsuqk0/the-rumour-engine-15th-of-july</link>
-            <guid>shjsuqk0</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul15-1-feature-zcpw1yadon.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Combat Patrols for Tyranids, Black Templars and Space Wolves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6etmdqh1/new-combat-patrols-for-tyranids-black-templars-and-space-wolves</link>
-            <guid>6etmdqh1</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Start your next army with three thematic boxed sets.]]></description>
-            <category domain="combat-patrol">Combat Patrol</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_combatpatrols-jul14-1-feature-84uxdjqqgu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grace the Underhive with dedicated Palanite Companions to beat back the riffraff]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/urpbfqfz/grace-the-underhive-with-dedicated-palanite-companions-to-beat-back-the-riffraff</link>
-            <guid>urpbfqfz</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring two bodyguards to your next brawl.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_palanitecompanions-jul14-1-feature-aw96zdgjfp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Innovate, speculate, and accumulate with the new Battletome: Kharadron Overlords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r1y5d0m1/innovate-speculate-and-accumulate-with-the-new-battletome-kharadron-overlords</link>
-            <guid>r1y5d0m1</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fresh tech from the skyfaring duardin.]]></description>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_kharadronrules-jul14-1-feature-seg3ycwqjz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tune in to the Big Summer Warhammer Preview this Friday]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/votmxm3n/tune-in-to-the-big-summer-warhammer-preview-this-friday</link>
-            <guid>votmxm3n</guid>
-            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s almost here…]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bigsummer_thisweek-jul14-1-feature-7ruwvirbeo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Gold and gore flow through the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jkwdtmzc/sunday-preview-gold-and-gore-flow-through-the-mortal-realms</link>
-            <guid>jkwdtmzc</guid>
-            <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Khorne versus Kharadron – who will win?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul13-1-feature-v2kwt9ucok.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Saturnine]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ujwwshq1/saturday-pre-orders-saturnine</link>
-            <guid>ujwwshq1</guid>
-            <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jul12-1-feature-cnluywxivs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get ready to battle in The Horus Heresy with this Learn to Play video]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ifl8ekwd/get-ready-to-battle-in-the-horus-heresy-with-this-learn-to-play-video</link>
-            <guid>ifl8ekwd</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this new rules primer.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_howtoplay-jul09-1-feature-xhqwnfifbw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Red God]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lqrdq4wc/chronicles-of-ruin-the-red-god</link>
-            <guid>lqrdq4wc</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The life and times of Khorne’s faithful.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_khornefiction-jul11-1-feature-qwswjgpxly.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building on Saturnine – Where to take your Horus Heresy force next?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uijwthl0/building-on-saturnine-where-to-take-your-horus-heresy-force-next</link>
-            <guid>uijwthl0</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mustering a Legion worthy of a Primarch.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_buildingarmy-jul10-1-feature-sl42pev0jn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules in the Age of Darkness – How to fight and kill a Titan]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w4pg4fut/rules-in-the-age-of-darkness-how-to-fight-and-kill-a-titan</link>
-            <guid>w4pg4fut</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the god-engines and despair.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_titanrules-jul10-1-feature-bksaywkmoa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Squeeze more than just a confession out of ‘em with the Palanite Enforcer Haunts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vhx2d2jj/squeeze-more-than-just-a-confession-out-of-em-with-the-palanite-enforcer-haunts</link>
-            <guid>vhx2d2jj</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Maintain order in the underhive with powerful psychic backup.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_haunts-jul21-1-feature-jn2g7aixpt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horus Heresy round table – Refreshing the rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2atp1lyq/horus-heresy-round-table-refreshing-the-rules</link>
-            <guid>2atp1lyq</guid>
-            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Is it a revolution or an evolution?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_roundtable3-jul09-1-feature-8flhzs9vsi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: The Questing Knights continue their adventure]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7uo9ameo/warhammer-tv-this-week-the-questing-knights-continue-their-adventure</link>
-            <guid>7uo9ameo</guid>
-            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New episodes of Painting Desk and Deep Strike.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jul09-1-feature-3arcdhi4xx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Horus Heresy round table – Crusade armour, disintegrators and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ma3wgcpx/the-horus-heresy-round-table-crusade-armour-disintegrators-and-more</link>
-            <guid>ma3wgcpx</guid>
-            <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What went into fashioning all the other new stuff in the Saturnine box?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_roundtable2-jul08-1-feature-2pylfsvbdm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
