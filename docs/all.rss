@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 18 Jul 2025 21:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 17:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Maximise carnage and profit]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lo879vwu/saturday-pre-orders-maximise-carnage-and-profit</link>
+            <guid>lo879vwu</guid>
+            <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jul19-1-feature-8ykpeiwjzt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Necrons vs Deathwatch in NEW Kill Team Box | Warhammer 40,000: Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/lt6r98de/necrons-vs-deathwatch-in-new-kill-team-box-warhammer-40000-kill-team</link>
@@ -275,17 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_kharafiction-jul15-1-feature-auvvdyk6pb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revolutionise carnage and slaughter with new Blades of Khorne battle traits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0tefbjnw/revolutionise-carnage-and-slaughter-with-new-blades-of-khorne-battle-traits</link>
-            <guid>0tefbjnw</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New ways to annihilate your foes.]]></description>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_khornearmyrules-jul15-1-feature-gm9qsuhpqq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
