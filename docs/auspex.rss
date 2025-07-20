@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sun, 20 Jul 2025 03:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 21:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[The New Deathwatch Minis - What Does the New Primaris Kill Team Mean?]]></title>
+            <link>https://www.youtube.com/watch?v=9yHzqOzzJEM</link>
+            <guid>yt:video:9yHzqOzzJEM</guid>
+            <pubDate>Sun, 20 Jul 2025 02:00:15 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Death Watch Primaris kill team kit for Warhammer 40k, highlighting its features, anticipated popularity among players, and current performance challenges, including a win rate drop to 42%.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Death Watch New Primaris Kit Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>New Kit Launch:</strong> Death Watch introduces a new Primaris kill team kit, enhancing their model range for Warhammer 40k.</li>
+  <li>⚔️ <strong>In-Game Role:</strong> Death Watch serves as the militant arm of the Inquisition, featuring specialists from various Space Marine chapters.</li>
+  <li>🛠️ <strong>Miniature Details:</strong> The kit includes 10 Primaris Marines with versatile armor options (Gravis, Phobos, and Tacticus).</li>
+  <li>📈 <strong>Player Interest:</strong> The new models are the most anticipated reveal, with 330 players expressing interest, significantly outpacing other models.</li>
+  <li>📉 <strong>Current Performance:</strong> Death Watch has seen a drop in win rates to around 42%, indicating challenges in competitive play.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>💰 <strong>Price Range:</strong> The upcoming kit is expected to retail around £100 or $170.</li>
+  <li>📊 <strong>Win Rate:</strong> Death Watch's win rate has declined to approximately 42%, reflecting recent performance struggles.</li>
+  <li>👥 <strong>Player Poll:</strong> 330 individuals expressed intent to purchase the new Death Watch kill team, leading the popularity polls.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How will the new data sheet for Death Watch affect gameplay dynamics in competitive settings?</strong></li>
+  <li>🔍 <strong>What implications does the integration of Death Watch into the Agents of the Imperium faction have for collectors and players?</strong></li>
+  <li>⚖️ <strong>Will the limited wargear options in the new kit impact the overall strategy and diversity of play for Death Watch armies?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Rating Warhammer 40K's New Combat Patrol Box Sets - a Good Deal or Not ?]]></title>
             <link>https://www.youtube.com/watch?v=FIPpbFJl4pQ</link>
@@ -9194,35 +9227,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The New Deathwatch Minis - What Does the New Primaris Kill Team Mean?]]></title>
-            <link>https://www.youtube.com/watch?v=9yHzqOzzJEM</link>
-            <guid>yt:video:9yHzqOzzJEM</guid>
-            <pubDate>Sun, 20 Jul 2025 02:00:15 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Death Watch Primaris kill team kit for Warhammer 40k, highlighting its features, anticipated popularity among players, and current performance challenges, including a win rate drop to 42%.]]></description>
+            <title><![CDATA[MASSIVE 40K Release Week- Double Codex Release, Tyranids, Templars, Grey Knights, Space Wolves Boxes]]></title>
+            <link>https://www.youtube.com/watch?v=vfZwfSQuQd8</link>
+            <guid>yt:video:vfZwfSQuQd8</guid>
+            <pubDate>Sun, 20 Jul 2025 18:55:56 GMT</pubDate>
+            <description><![CDATA[The video discusses the upcoming releases for Warhammer 40k, including new Codexes and miniatures for Black Templars and Grey Knights, with pre-orders starting on July 26 and full sales on August 9, while also highlighting pricing details and the potential impact on gameplay strategies.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Death Watch New Primaris Kit Overview</h2>
+<h2>📢 Warhammer 40k Release Roundup</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>New Kit Launch:</strong> Death Watch introduces a new Primaris kill team kit, enhancing their model range for Warhammer 40k.</li>
-  <li>⚔️ <strong>In-Game Role:</strong> Death Watch serves as the militant arm of the Inquisition, featuring specialists from various Space Marine chapters.</li>
-  <li>🛠️ <strong>Miniature Details:</strong> The kit includes 10 Primaris Marines with versatile armor options (Gravis, Phobos, and Tacticus).</li>
-  <li>📈 <strong>Player Interest:</strong> The new models are the most anticipated reveal, with 330 players expressing interest, significantly outpacing other models.</li>
-  <li>📉 <strong>Current Performance:</strong> Death Watch has seen a drop in win rates to around 42%, indicating challenges in competitive play.</li>
+    <li>🔥 <strong>Major Releases:</strong> New Codexes for Black Templars and Grey Knights, alongside miniatures and box sets.</li>
+    <li>📅 <strong>Pre-Order Dates:</strong> Pre-orders begin on July 26; full sale launches on August 9.</li>
+    <li>⚔️ <strong>Black Templars:</strong> New character miniatures (Execrated Chaplain, Crusade Ancient) and a combat patrol box set.</li>
+    <li>🛡️ <strong>Grey Knights:</strong> Sanctic Conclave Battle Force box and new Dread Knight with upgraded weaponry.</li>
+    <li>🐺 <strong>Combat Patrol Space Wolves:</strong> Includes new terminators and a solid starter kit.</li>
+    <li>🦠 <strong>Tyrannids:</strong> New combat patrol announced, featuring unique units for expansion.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>💰 <strong>Price Range:</strong> The upcoming kit is expected to retail around £100 or $170.</li>
-  <li>📊 <strong>Win Rate:</strong> Death Watch's win rate has declined to approximately 42%, reflecting recent performance struggles.</li>
-  <li>👥 <strong>Player Poll:</strong> 330 individuals expressed intent to purchase the new Death Watch kill team, leading the popularity polls.</li>
+    <li>💰 <strong>Price Range:</strong> Black Templars Codex priced at $35 (£20), Grey Knights at approximately $45 (£26).</li>
+    <li>📦 <strong>Combat Patrol Points:</strong> Black Templars combat patrol valued at around 450 points, Grey Knights at over 1000 points.</li>
+    <li>📉 <strong>Discount Rates:</strong> Discounts range from 10% to 27% compared to buying separately, depending on the retailer.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>How will the new data sheet for Death Watch affect gameplay dynamics in competitive settings?</strong></li>
-  <li>🔍 <strong>What implications does the integration of Death Watch into the Agents of the Imperium faction have for collectors and players?</strong></li>
-  <li>⚖️ <strong>Will the limited wargear options in the new kit impact the overall strategy and diversity of play for Death Watch armies?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> How do these new releases impact the balance of power among different factions in Warhammer 40k?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players adopt to effectively utilize these new units in gameplay?</li>
+    <li>🤔 <strong>Question 3:</strong> How do the new pricing and discount trends reflect on Games Workshop's marketing strategy?</li>
 </ul>
 ]]></content:encoded>
         </item>
