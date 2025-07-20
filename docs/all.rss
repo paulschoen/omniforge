@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 19 Jul 2025 17:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 17:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Muster the knights and templars of the far future]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dlcascsr/sunday-preview-muster-the-knights-and-templars-of-the-far-future</link>
+            <guid>dlcascsr</guid>
+            <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul20-1-feature-qk5j78iqaz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Maximise carnage and profit]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lo879vwu/saturday-pre-orders-maximise-carnage-and-profit</link>
@@ -276,18 +289,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_drekkiflynt-16jul-1-feature-rnnpgfw9do.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – Last Chances]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vvzwamdh/chronicles-of-ruin-last-chances</link>
-            <guid>vvzwamdh</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Kharadron Overlords are on the search for true friendship. Just kidding – it’s for profit.]]></description>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_kharafiction-jul15-1-feature-auvvdyk6pb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
