@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Jul 2025 14:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 15:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Global Warhammer store celebration – Mark huge milestones with Captain Centos]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pmlj6ozw/global-warhammer-store-celebration-mark-huge-milestones-with-captain-centos</link>
+            <guid>pmlj6ozw</guid>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out how and when you can join in at your local Warhammer store.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/500storeanniversary2025-jul21-1-feature-frtevxyp2h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WarCom Team Paints Saturnine – The Loyalist Legions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p6uo0yz6/warcom-team-paints-saturnine-the-loyalist-legions</link>
@@ -279,17 +290,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_messaging-jul16-1-feature-mi5iw3abfu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Vongrim Guild are Kharadron adventurists with even less moral compunction…]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r0ecok1a/the-vongrim-guild-are-kharadron-adventurists-with-even-less-moral-compunction</link>
-            <guid>r0ecok1a</guid>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Extract maximum profit by bending the rules.]]></description>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_khararules2-jul16-1-feature-m6jdk1soti.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
