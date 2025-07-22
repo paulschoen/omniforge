@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Jul 2025 11:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 13:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grey Knights – Moving and shaking with the Knights of Titan]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ntzalchg/grey-knights-moving-and-shaking-with-the-knights-of-titan</link>
+            <guid>ntzalchg</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deep Strike is only the beginning.]]></description>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_greyknightdetachments-jul22-1-feature-1tfmmxzs34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 22nd of July]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nmaptg9k/the-rumour-engine-22nd-of-july</link>
@@ -280,16 +291,6 @@
             <category domain="blades-of-khorne">Blades of Khorne</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_khorneaor-jul17-1-feature-urvqfguypg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Narrative Play in Middle-earth™ – The Battle of the Five Armies™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xwgttbro/narrative-play-in-middle-earthtm-the-battle-of-the-five-armiestm</link>
-            <guid>xwgttbro</guid>
-            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Play out the dramatic finale!]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_scenarios-jul17-1-feature-ynuzj85hyx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
