@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Jul 2025 13:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 14:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Witness the horror of the Dropsite Massacre in this incredible new Warhammer World diorama]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9ytcm21f/witness-the-horror-of-the-dropsite-massacre-in-this-incredible-new-warhammer-world-diorama</link>
+            <guid>9ytcm21f</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The events of Isstvan V brought to life.]]></description>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_diorama-july15-1-feature-kmitgxlsij.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grey Knights – Moving and shaking with the Knights of Titan]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ntzalchg/grey-knights-moving-and-shaking-with-the-knights-of-titan</link>
@@ -280,17 +291,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_paintingspacemarines-jul18-1-feature-p1yuggpceu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Field furious armies exclusively made of Gorechosen… or Bloodthirsters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5ex5kbbq/field-furious-armies-exclusively-made-of-gorechosen-or-bloodthirsters</link>
-            <guid>5ex5kbbq</guid>
-            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Vicious new Armies of Renown.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_khorneaor-jul17-1-feature-urvqfguypg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
