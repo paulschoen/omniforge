@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Jul 2025 13:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 14:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -29,6 +29,17 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jul23-1-feature-lixk6yakg1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting Silver is Awesome | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/yh78vktc/painting-silver-is-awesome-warhammer</link>
+            <guid>yh78vktc</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Painting silver is awesome! It’s a great colour and a perfect choice for any army scheme, not just weapons and accessories! Try adding spot colours or creating coloured metallics – and it’s super easy to use! Tune in and see Ollie talk about one of his favourite colours to paint.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01013---why-you-should-paint-silver-acq0ph61md.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kill Team quarterly update – Astartes adjusted and other big changes]]></title>
@@ -62,6 +73,16 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_greyknightdetachments-jul22-1-feature-1tfmmxzs34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Isstvan V Dropsite Massacre Diorama – Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/u1j1vqcw/isstvan-v-dropsite-massacre-diorama-warhammer-the-horus-heresy</link>
+            <guid>u1j1vqcw</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How did it feel to be on the ground at the Dropsite Massacre? We’ll never know for sure, but this should give you a pretty good idea.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01681-narrative-video_thumbnail_option-2_v3-42t03d7yck.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 22nd of July]]></title>
@@ -266,30 +287,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature04-yuxifj2sut.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – The forces of Death muster anew]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew</link>
-            <guid>kscdd2nk</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Battletomes and more for the Grand Alliance of Death.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature03-bz0n1k9j2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Tomb Kings herald more Old World releases]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ko8rqxzy/the-big-summer-preview-tomb-kings-herald-more-old-world-releases</link>
-            <guid>ko8rqxzy</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[From the dusty lands of Khemri come new miniatures and new lore…]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature02-0ggbqzvdow.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
