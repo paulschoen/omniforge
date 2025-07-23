@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Jul 2025 14:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 10:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team quarterly update – Astartes adjusted and other big changes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/siyw6k39/kill-team-quarterly-update-astartes-adjusted-and-other-big-changes</link>
+            <guid>siyw6k39</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Eyes up, operatives, changes are here.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_update-jul23-1-feature-e2zeq1ad5h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Witness the horror of the Dropsite Massacre in this incredible new Warhammer World diorama]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9ytcm21f/witness-the-horror-of-the-dropsite-massacre-in-this-incredible-new-warhammer-world-diorama</link>
@@ -280,17 +291,6 @@
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature00-m9fydgc5id.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to paint an entire company of Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/slezlhvy/how-to-paint-an-entire-company-of-space-marines</link>
-            <guid>slezlhvy</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Batch painting tips from the team.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_paintingspacemarines-jul18-1-feature-p1yuggpceu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
