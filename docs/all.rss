@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Jul 2025 10:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 12:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: Asymmetric battles and huge painting projects]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e49kx93e/warhammer-tv-this-week-asymmetric-battles-and-huge-painting-projects</link>
+            <guid>e49kx93e</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus a deep dive on the Idoneth Deepkin.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jul23-1-feature-lixk6yakg1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team quarterly update – Astartes adjusted and other big changes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/siyw6k39/kill-team-quarterly-update-astartes-adjusted-and-other-big-changes</link>
@@ -281,16 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature01-jeg2srzfta.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Warhammer Preview Show – All of the reveals in one place]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hrf6bpfn/the-big-summer-warhammer-preview-show-all-of-the-reveals-in-one-place</link>
-            <guid>hrf6bpfn</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[All the live announcements from the latest massive Warhammer live preview show.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature00-m9fydgc5id.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
