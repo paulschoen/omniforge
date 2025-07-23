@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Jul 2025 12:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 13:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Are the Black Templars really the most zealous warriors in the galaxy?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gvxp1p3a/are-the-black-templars-really-the-most-zealous-warriors-in-the-galaxy</link>
+            <guid>gvxp1p3a</guid>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can anyone beat them for sheer unadulterated rage?]]></description>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_btzealots-jul23-1-feature-bp8jjvvvcs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: Asymmetric battles and huge painting projects]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e49kx93e/warhammer-tv-this-week-asymmetric-battles-and-huge-painting-projects</link>
@@ -279,18 +290,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature02-0ggbqzvdow.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Reinforcing the Kindred]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred</link>
-            <guid>chuafiji</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Votann has spoken, and it was worth the wait.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature01-jeg2srzfta.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
