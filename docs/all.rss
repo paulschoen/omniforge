@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Jul 2025 14:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 12:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Inside the secret daemon-killing armoury of the Grey Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4rwcqh72/inside-the-secret-daemon-killing-armoury-of-the-grey-knights</link>
+            <guid>4rwcqh72</guid>
+            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What does the new Nemesis flail do?]]></description>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_gkweapons-jul24-1-feature-17gdkxxwmg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Are the Black Templars really the most zealous warriors in the galaxy?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gvxp1p3a/are-the-black-templars-really-the-most-zealous-warriors-in-the-galaxy</link>
@@ -276,17 +287,6 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature05-24nammtqfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Bow down before the Helsmiths of Hashut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sjcpuxok/the-big-summer-preview-bow-down-before-the-helsmiths-of-hashut</link>
-            <guid>sjcpuxok</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Meet the Zharrdron, the dark cousins of the duardin.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature04-yuxifj2sut.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
