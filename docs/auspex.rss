@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 24 Jul 2025 00:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 06:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Kaldor Draigo Removed from Codex, New Dreadknight, Termis Changes - Codex Grey Knights Rules Changes]]></title>
+            <link>https://www.youtube.com/watch?v=6Fri-oRxb_Q</link>
+            <guid>yt:video:6Fri-oRxb_Q</guid>
+            <pubDate>Wed, 23 Jul 2025 21:15:38 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Grey Knights codex, highlighting significant changes such as updated profiles and rules, the removal of key miniatures, modified squad sizes and pricing, and the introduction of new weapon options, while also raising questions about the potential impact on gameplay strategies and the competitive landscape in Warhammer 40k.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Grey Knights Codeex Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Codeex Release:</strong> The Grey Knights' new codeex features substantial changes, including updated profiles and rules.</li>
+    <li>🔄 <strong>Model Updates:</strong> No new unique miniature resculpts; notable removal of Caldor Drago and Brother Captain Stern, which disappointed many players.</li>
+    <li>📦 <strong>Combat Patrols:</strong> Grey Knights will have a Santic Conclave battle force and a new combat patrol, but lack a range update.</li>
+    <li>🛡️ <strong>Terminators Changes:</strong> Terminator squad sizes modified to four and eight, with new special weapon options.</li>
+    <li>⚔️ <strong>Grandmaster and Nemesis Dread Knight:</strong> New weapon profiles added, including a powerful melter weapon with improved special rules.</li>
+    <li>📉 <strong>Data Sheets:</strong> Some units have had their rules and profiles adjusted, with a mix of buffs and nerfs.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Points Cost:</strong> The Grandmaster's cost is updated from 210 to 225 points post-codeex release.</li>
+    <li>⚔️ <strong>Terminators Pricing:</strong> Brotherhood Terminators range from 170 points for 5 models to 410 points for 8 models, with a special weapon unlocked at five.</li>
+    <li>📈 <strong>Weapon Strength:</strong> New weapon profiles feature melter 4, allowing for enhanced damage against tougher targets.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the removal of key characters like Caldor Drago impact gameplay strategies for Grey Knight players?</strong></li>
+    <li>🤔 <strong>What changes in the new codeex do you think will most significantly affect the competitive landscape for Warhammer 40k?</strong></li>
+    <li>🤔 <strong>With the introduction of new weapon profiles, how might players adapt their tactics when using the Grey Knights?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Every Warhammer 40K Army's Tournament Win Statistics - Who's Best in 10th Edition July 2025]]></title>
             <link>https://www.youtube.com/watch?v=XP3nT3m7KqY</link>
@@ -9429,36 +9463,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Kaldor Draigo Removed from Codex, New Dreadknight, Termis Changes - Codex Grey Knights Rules Changes]]></title>
-            <link>https://www.youtube.com/watch?v=6Fri-oRxb_Q</link>
-            <guid>yt:video:6Fri-oRxb_Q</guid>
-            <pubDate>Wed, 23 Jul 2025 21:15:38 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Grey Knights codex, highlighting significant changes such as updated profiles and rules, the removal of key miniatures, modified squad sizes and pricing, and the introduction of new weapon options, while also raising questions about the potential impact on gameplay strategies and the competitive landscape in Warhammer 40k.]]></description>
+            <title><![CDATA[Codex Grey Knights in Warhammer 40K 10th Edition – Full Rules Review]]></title>
+            <link>https://www.youtube.com/watch?v=N-rih3zcc6A</link>
+            <guid>yt:video:N-rih3zcc6A</guid>
+            <pubDate>Thu, 24 Jul 2025 03:44:10 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the Grey Knights 10th Edition Codex, highlighting key features like the new teleportation ability, five introduced detachments, the removal of notable units, and updates to rules and data sheets, while also discussing the potential impact on competitive gameplay and available discounts for purchases.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Grey Knights Codeex Overview</h2>
+<h2>📢 Grey Knights 10th Edition Codex Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Codeex Release:</strong> The Grey Knights' new codeex features substantial changes, including updated profiles and rules.</li>
-    <li>🔄 <strong>Model Updates:</strong> No new unique miniature resculpts; notable removal of Caldor Drago and Brother Captain Stern, which disappointed many players.</li>
-    <li>📦 <strong>Combat Patrols:</strong> Grey Knights will have a Santic Conclave battle force and a new combat patrol, but lack a range update.</li>
-    <li>🛡️ <strong>Terminators Changes:</strong> Terminator squad sizes modified to four and eight, with new special weapon options.</li>
-    <li>⚔️ <strong>Grandmaster and Nemesis Dread Knight:</strong> New weapon profiles added, including a powerful melter weapon with improved special rules.</li>
-    <li>📉 <strong>Data Sheets:</strong> Some units have had their rules and profiles adjusted, with a mix of buffs and nerfs.</li>
+    <li>🔥 <strong>Core Rule: Gate of Infinity</strong> - Grey Knights can teleport units off the board, returning them from strategic reserve for tactical advantages during gameplay.</li>
+    <li>⚔️ <strong>Detachments Overview</strong> - Five new detachments introduced, enhancing faction strategies and playstyles, including Brotherhood Strike and Augurium Task Force.</li>
+    <li>📉 <strong>Loss of Key Units</strong> - Caldor Drago and other units transitioned to Legends, sparking community dissatisfaction.</li>
+    <li>📦 <strong>Pre-Orders and Discounts</strong> - Affiliate links available for discounted purchases of the Grey Knights Codex and related models.</li>
+    <li>🔄 <strong>Data Sheets and Rules Changes</strong> - Key updates to character and unit stats, including the introduction of new weapons and abilities for existing models.</li>
+    <li>📈 <strong>Gameplay Strategies</strong> - New rules and detachments are expected to enhance Grey Knights' competitive viability, particularly in melee and psychic abilities.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>💰 <strong>Points Cost:</strong> The Grandmaster's cost is updated from 210 to 225 points post-codeex release.</li>
-    <li>⚔️ <strong>Terminators Pricing:</strong> Brotherhood Terminators range from 170 points for 5 models to 410 points for 8 models, with a special weapon unlocked at five.</li>
-    <li>📈 <strong>Weapon Strength:</strong> New weapon profiles feature melter 4, allowing for enhanced damage against tougher targets.</li>
+    <li>📉 <strong>25 Data Sheets:</strong> Total number of data sheets in the new Codex, with three units removed.</li>
+    <li>📅 <strong>10-20% Discount:</strong> Available through affiliate retailers for Grey Knights products.</li>
+    <li>⚔️ <strong>225 Points:</strong> Cost of the Grandmaster Dread Knight in the new Codex.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the removal of key characters like Caldor Drago impact gameplay strategies for Grey Knight players?</strong></li>
-    <li>🤔 <strong>What changes in the new codeex do you think will most significantly affect the competitive landscape for Warhammer 40k?</strong></li>
-    <li>🤔 <strong>With the introduction of new weapon profiles, how might players adapt their tactics when using the Grey Knights?</strong></li>
+    <li>🤔 <strong>How will the removal of key characters like Caldor Drago impact Grey Knights' strategies in competitive play?</strong></li>
+    <li>🔍 <strong>What strategies can players develop using the new detachments to maximize the effectiveness of their Grey Knights army?</strong></li>
+    <li>💡 <strong>With the updates to data sheets, which unit do you think will emerge as the most powerful in the new meta?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
