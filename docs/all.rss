@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Jul 2025 13:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 14:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[WarCom Team Paints Saturnine – The Traitor Legions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/adg4tubx/warcom-team-paints-saturnine-the-traitor-legions</link>
+            <guid>adg4tubx</guid>
+            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We get our hands on the new miniatures.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_warcomtraitors-jul16-1-feature-bogdu6dmv1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Templars painted by a hand that designed them? The Emperor approves]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/expqztky/black-templars-painted-by-a-hand-that-designed-them-the-emperor-approves</link>
@@ -278,17 +290,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature07-isg2hxucz3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Armoured reinforcements for Legions Imperialis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0atwaj1l/the-big-summer-preview-armoured-reinforcements-for-legions-imperialis</link>
-            <guid>0atwaj1l</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tanks, transports, artillery and more are on the way.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-06-u3n55iw45a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
