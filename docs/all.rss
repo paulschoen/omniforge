@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Jul 2025 12:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 13:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Templars painted by a hand that designed them? The Emperor approves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/expqztky/black-templars-painted-by-a-hand-that-designed-them-the-emperor-approves</link>
+            <guid>expqztky</guid>
+            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out Maxime’s zealously painted army.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_staffbt-jul24-1-feature-udarjy5zof.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside the secret daemon-killing armoury of the Grey Knights]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4rwcqh72/inside-the-secret-daemon-killing-armoury-of-the-grey-knights</link>
@@ -276,17 +289,6 @@
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-06-u3n55iw45a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Hunt for glory in the depths of the Spitewood]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e49o7val/the-big-summer-preview-hunt-for-glory-in-the-depths-of-the-spitewood</link>
-            <guid>e49o7val</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new expansion and 16 returning warbands.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature05-24nammtqfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
