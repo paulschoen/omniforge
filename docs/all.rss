@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Jul 2025 14:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 11:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[MORE Emperor's Children Painting Tricks! | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6eqlnabo/more-emperors-children-painting-tricks-warhammer-40000</link>
+            <guid>6eqlnabo</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learning from the Emperor’s Children, we’ve decided more is definitely best, so today Jake’s showing off some cool tips and tricks that you can use to take your models to the next level!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/unnamed-(12)-u0lc8u4vjx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigmar’s Stormvaults – Can you do better than the Heldenhammer?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bftoxcea/were-the-stormvaults-doomed-to-fail-ahead-of-loremasters-we-have-a-few-thoughts</link>
+            <guid>bFtoXcEa</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build the Stormvault of Sigmar’s dreams with Made-to-Order terrain.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_stormvault-jul25-1-feature-kv2liacjkw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WarCom Team Paints Saturnine – The Traitor Legions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/adg4tubx/warcom-team-paints-saturnine-the-traitor-legions</link>
@@ -268,28 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature09-ehjo2cbapk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – An epic new series from Black Library]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8tc8lyjz/the-big-summer-preview-an-epic-new-series-from-black-library</link>
-            <guid>8tc8lyjz</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warmaster is dead, Terra lies in ruins and the Emperor is silent… what happens next?]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature08-uqfdvvy6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – The Legions descend with a new MkII Assault Squad]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ovghpkqm/the-big-summer-preview-the-legions-descend-with-a-new-mkii-assault-squad</link>
-            <guid>ovghpkqm</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Deliver death from above.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature07-isg2hxucz3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
