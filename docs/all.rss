@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Jul 2025 13:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 14:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Take the Dropsite Massacre into your own hands with a free mission and three battle reports]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x0zklar7/take-the-dropsite-massacre-into-your-own-hands-with-a-free-mission-and-three-battle-reports</link>
+            <guid>x0zklar7</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your first taste of the Journals Tactica.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_battlereports-jul17-1-feature-oa0iyqgqo9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grey Knights Showcase – A classic army returns to welcome the new Codex]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cifmg4ve/grey-knights-showcase-a-classic-army-returns-to-welcome-the-new-codex</link>
@@ -50,7 +60,7 @@
             <link>https://www.warhammer-community.com/en-gb/articles/bftoxcea/were-the-stormvaults-doomed-to-fail-ahead-of-loremasters-we-have-a-few-thoughts</link>
             <guid>bFtoXcEa</guid>
             <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build the Stormvault of Sigmar’s dreams with Made-to-Order terrain.]]></description>
+            <description><![CDATA[Build the Stormvault of Sigmar’s dreams with Made to Order terrain.]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category domain="stormcast-eternals">Stormcast Eternals</category>
             <category>articles</category>
@@ -273,19 +283,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature10-ofz8pgys2l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Leagues of Votann REVEALED – Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zcn8er27/new-leagues-of-votann-revealed-warhammer-40000</link>
-            <guid>zcn8er27</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fresh miniatures and more on the way for the Leagues of Votann, as revealed at the Big Summer Warhammer Preview.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/leagues-of-votann_thumbnail-1_v3-wunznevqt5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
