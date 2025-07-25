@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Jul 2025 12:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 13:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grey Knights Showcase – A classic army returns to welcome the new Codex]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cifmg4ve/grey-knights-showcase-a-classic-army-returns-to-welcome-the-new-codex</link>
+            <guid>cifmg4ve</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jason’s Grey Knights are back in the building.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_staffgkarmy-jul25-1-feature-zbttxfxovr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Horus Heresy downloads – Talons of the Emperor and errata]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vjcrg9dz/horus-heresy-downloads-talons-of-the-emperor-and-errata</link>
@@ -273,18 +286,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/leagues-of-votann_thumbnail-1_v3-wunznevqt5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Wear Lieutenant Titus’ helmet]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2flkfg4j/the-big-summer-preview-wear-lieutenant-titus-helmet</link>
-            <guid>2flkfg4j</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first officially licensed, wearable Space Marine helmet is here.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature11-jcj2qgcvbl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
