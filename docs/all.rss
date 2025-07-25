@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Jul 2025 11:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 12:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Horus Heresy downloads – Talons of the Emperor and errata]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vjcrg9dz/horus-heresy-downloads-talons-of-the-emperor-and-errata</link>
+            <guid>vjcrg9dz</guid>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new edition drops tomorrow.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_download-jul25-1-feature-fa9jvbcjfv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MORE Emperor's Children Painting Tricks! | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/6eqlnabo/more-emperors-children-painting-tricks-warhammer-40000</link>
@@ -274,23 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature11-jcj2qgcvbl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Champions of the First Founding]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding</link>
-            <guid>meznaevz</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Space Marine characters and Combat Patrols incoming.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="white-scars">White Scars</category>
-            <category domain="iron-hands">Iron Hands</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature09-ehjo2cbapk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
