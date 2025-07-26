@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Jul 2025 14:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 17:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Black Templars and Grey Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nhdjkukq/saturday-pre-orders-black-templars-and-grey-knights</link>
+            <guid>nhdjkukq</guid>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jul26-1-feature-ajby7niva8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Take the Dropsite Massacre into your own hands with a free mission and three battle reports]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/x0zklar7/take-the-dropsite-massacre-into-your-own-hands-with-a-free-mission-and-three-battle-reports</link>
@@ -272,17 +286,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/helsmiths_thumbnail_v4-swikcjjgqk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Deathwatch Kill Teams descend into the Tomb World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9lpgtcwy/the-big-summer-preview-deathwatch-kill-teams-descend-into-the-tomb-world</link>
-            <guid>9lpgtcwy</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season of Kill Team expansions starts here.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature10-ofz8pgys2l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
