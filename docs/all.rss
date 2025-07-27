@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 26 Jul 2025 17:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 17:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Reinforce your Horus Heresy army with standalone Saturnine kits]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hju6d4tm/sunday-preview-reinforce-your-horus-heresy-army-with-standalone-saturnine-kits</link>
+            <guid>hju6d4tm</guid>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bolster your forces as the Heresy hots up.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul27-1-feature-rjtnfhtbsw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Black Templars and Grey Knights]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nhdjkukq/saturday-pre-orders-black-templars-and-grey-knights</link>
@@ -274,18 +288,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/kill-team-tomb-world_thumbnail_-anezfpx76g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Praise Hashut! The Helsmiths of Hashut Arrive in the Mortal Realms | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gs20p79w/praise-hashut-the-helsmiths-of-hashut-arrive-in-the-mortal-realms-warhammer-age-of-sigmar</link>
-            <guid>gs20p79w</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A brand new faction is coming to the Mortal Realms, as revealed at the Big Summer Warhammer Preview. All hail the Helsmiths of Hashut!]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/helsmiths_thumbnail_v4-swikcjjgqk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
