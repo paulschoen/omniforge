@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 28 Jul 2025 12:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 13:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Honour the Imperium with a free miniature of the month and an Imperial Laurel coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lgq7erwk/honour-the-imperium-with-a-free-miniature-of-the-month-and-an-imperial-laurel-coin</link>
+            <guid>lgq7erwk</guid>
+            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-jul28-1-feature-jfb5v3q2iy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 515 – Inner mysteries of the Adeptus Astartes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/22vzual6/white-dwarf-515-inner-mysteries-of-the-adeptus-astartes</link>
@@ -271,19 +282,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul20-1-feature-qk5j78iqaz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Maximise carnage and profit]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lo879vwu/saturday-pre-orders-maximise-carnage-and-profit</link>
-            <guid>lo879vwu</guid>
-            <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jul19-1-feature-8ykpeiwjzt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
