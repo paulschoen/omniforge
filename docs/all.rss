@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 27 Jul 2025 17:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 12:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 515 – Inner mysteries of the Adeptus Astartes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/22vzual6/white-dwarf-515-inner-mysteries-of-the-adeptus-astartes</link>
+            <guid>22vzual6</guid>
+            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build a chapter, play a new game mode, and more.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd515-july28-1-feature-gme0oo7t8k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Reinforce your Horus Heresy army with standalone Saturnine kits]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hju6d4tm/sunday-preview-reinforce-your-horus-heresy-army-with-standalone-saturnine-kits</link>
@@ -274,20 +284,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jul19-1-feature-8ykpeiwjzt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Necrons vs Deathwatch in NEW Kill Team Box | Warhammer 40,000: Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lt6r98de/necrons-vs-deathwatch-in-new-kill-team-box-warhammer-40000-kill-team</link>
-            <guid>lt6r98de</guid>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Kill Team: Tomb World boxed set announced, featuring kill teams for Necrons and Deathwatch!]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="deathwatch">Deathwatch</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/kill-team-tomb-world_thumbnail_-anezfpx76g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
