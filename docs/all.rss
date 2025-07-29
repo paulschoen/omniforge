@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 28 Jul 2025 14:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 11:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 29th of July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cnoxaf3h/the-rumour-engine-29th-of-july</link>
+            <guid>cnoxaf3h</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul29-1-feature-ykhopxnf8j.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pack your biggest fly swatter – It’s an Ashwing Helamite summer on Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o3xukuqz/pack-your-biggest-fly-swatter-its-an-ashwing-helamite-summer-on-necromunda</link>
@@ -269,17 +279,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_warcomloyalists-jul15-1-feature-wbjpywo1on.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Templars – Forget Oaths of Moment, swear a Templar Vow today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3nvcmema/black-templars-forget-oaths-of-moment-swear-a-templar-vow-today</link>
-            <guid>3nvcmema</guid>
-            <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How the new Army Rule works in Codex Supplement: Black Templars.]]></description>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_btrules-jul21-1-feature-cnvbbo7cpw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
