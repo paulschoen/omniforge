@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 29 Jul 2025 12:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 13:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painters vs Saturnine – The Loyalists]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/svvemgte/community-painters-vs-saturnine-the-loyalists</link>
+            <guid>svvemgte</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Space Marines of Saturnine painted by community veterans.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_inflloyal-jul29-1-feature-marywhuzwj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touchline Tactics – How to play Norse in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/izw68lgb/touchline-tactics-how-to-play-norse-in-blood-bowl</link>
@@ -266,17 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jul22-1-feature-lqybgv0jaz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global Warhammer store celebration – Mark huge milestones with Captain Centos]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pmlj6ozw/global-warhammer-store-celebration-mark-huge-milestones-with-captain-centos</link>
-            <guid>pmlj6ozw</guid>
-            <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out how and when you can join in at your local Warhammer store.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/500storeanniversary2025-jul21-1-feature-frtevxyp2h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
