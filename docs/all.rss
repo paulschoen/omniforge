@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Jul 2025 12:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 13:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painters vs Saturnine – The Traitors]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/snez1z2r/community-painters-vs-saturnine-the-traitors</link>
+            <guid>snez1z2r</guid>
+            <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The dastardly Traitors of Isstvan V painted by community veterans.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_inflheretic-jul31-1-feature-fuykyenoyf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV This Week: Master the Mortal Realms with movement tips]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nvyb0t6s/warhammer-tv-this-week-master-the-mortal-realms-with-movement-tips</link>
@@ -268,17 +280,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_diorama-july15-1-feature-kmitgxlsij.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grey Knights – Moving and shaking with the Knights of Titan]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ntzalchg/grey-knights-moving-and-shaking-with-the-knights-of-titan</link>
-            <guid>ntzalchg</guid>
-            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Deep Strike is only the beginning.]]></description>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_greyknightdetachments-jul22-1-feature-1tfmmxzs34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
