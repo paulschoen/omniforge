@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 31 Jul 2025 14:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 13:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturnine Terminator construction advice – How to get the most out of your new Tactical Dreadnought Armour]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dpjkoxo7/saturnine-terminator-construction-advice-how-to-get-the-most-out-of-your-new-tactical-dreadnought-armour</link>
+            <guid>dpjkoxo7</guid>
+            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Miniature designers tell us their tips for maximum posability.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_saturnineadvancedtips-aug01-1-feature-texzy3vffy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Age of Darkness Showcase – Rich’s regal Imperial Knights pitch in with the Night Lords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5fbciqmn/age-of-darkness-showcase-richs-regal-imperial-knights-pitch-in-with-the-night-lords</link>
@@ -269,17 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jul23-1-feature-lixk6yakg1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Silver is Awesome | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/yh78vktc/painting-silver-is-awesome-warhammer</link>
-            <guid>yh78vktc</guid>
-            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Painting silver is awesome! It’s a great colour and a perfect choice for any army scheme, not just weapons and accessories! Try adding spot colours or creating coloured metallics – and it’s super easy to use! Tune in and see Ollie talk about one of his favourite colours to paint.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01013---why-you-should-paint-silver-acq0ph61md.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
