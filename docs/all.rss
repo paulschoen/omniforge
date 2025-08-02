@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 01 Aug 2025 13:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 17:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Saturnine reinforcements hit the Dropsite]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gsxmrv2w/saturday-pre-orders-saturnine-reinforcements-hit-the-dropsite</link>
+            <guid>gsxmrv2w</guid>
+            <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-aug2-1-feature-ozjmhcw3ft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturnine Terminator construction advice – How to get the most out of your new Tactical Dreadnought Armour]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dpjkoxo7/saturnine-terminator-construction-advice-how-to-get-the-most-out-of-your-new-tactical-dreadnought-armour</link>
@@ -270,16 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_btzealots-jul23-1-feature-bp8jjvvvcs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week: Asymmetric battles and huge painting projects]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e49kx93e/warhammer-tv-this-week-asymmetric-battles-and-huge-painting-projects</link>
-            <guid>e49kx93e</guid>
-            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus a deep dive on the Idoneth Deepkin.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jul23-1-feature-lixk6yakg1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
