@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 02 Aug 2025 17:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Aug 2025 17:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Protect the yields]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uwsdjvro/sunday-preview-protect-the-yields</link>
+            <guid>uwsdjvro</guid>
+            <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Leagues of Votann are back with a vengeance.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug3-1-feature-ami8vjlgha.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Saturnine reinforcements hit the Dropsite]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gsxmrv2w/saturday-pre-orders-saturnine-reinforcements-hit-the-dropsite</link>
@@ -273,17 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_gkweapons-jul24-1-feature-17gdkxxwmg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are the Black Templars really the most zealous warriors in the galaxy?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gvxp1p3a/are-the-black-templars-really-the-most-zealous-warriors-in-the-galaxy</link>
-            <guid>gvxp1p3a</guid>
-            <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can anyone beat them for sheer unadulterated rage?]]></description>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_btzealots-jul23-1-feature-bp8jjvvvcs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
