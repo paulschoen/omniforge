@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 Aug 2025 12:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 13:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Maximise your yields with the new Leagues of Votann army rule]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/id57ps8z/maximise-your-yields-with-the-new-leagues-of-votann-army-rule</link>
+            <guid>id57ps8z</guid>
+            <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take what’s yours, and defend it to the death.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lovrules-aug04-1-feature-jhrnomt4wt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle-earth™ Strategy Battle Game – King Helm and the first Middle-earth Journal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/k7ges93g/middle-earthtm-strategy-battle-game-king-helm-and-the-first-middle-earth-journal</link>
@@ -275,19 +286,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_warcomtraitors-jul16-1-feature-bogdu6dmv1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Templars painted by a hand that designed them? The Emperor approves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/expqztky/black-templars-painted-by-a-hand-that-designed-them-the-emperor-approves</link>
-            <guid>expqztky</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out Maxime’s zealously painted army.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_staffbt-jul24-1-feature-udarjy5zof.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
