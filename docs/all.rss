@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 03 Aug 2025 17:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 12:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Middle-earth™ Strategy Battle Game – King Helm and the first Middle-earth Journal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k7ges93g/middle-earthtm-strategy-battle-game-king-helm-and-the-first-middle-earth-journal</link>
+            <guid>k7ges93g</guid>
+            <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A fierce new personage joins the fight.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_helm-aug4-1-feature-vlcqxsnwc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Protect the yields]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uwsdjvro/sunday-preview-protect-the-yields</link>
@@ -277,17 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_staffbt-jul24-1-feature-udarjy5zof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside the secret daemon-killing armoury of the Grey Knights]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4rwcqh72/inside-the-secret-daemon-killing-armoury-of-the-grey-knights</link>
-            <guid>4rwcqh72</guid>
-            <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What does the new Nemesis flail do?]]></description>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_gkweapons-jul24-1-feature-17gdkxxwmg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
