@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sun, 03 Aug 2025 21:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 17:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[BIG Warhammer 40K Release Week - Leagues of Votann, Salamanders and More!]]></title>
+            <link>https://www.youtube.com/watch?v=Qj-iQDZpqkU</link>
+            <guid>yt:video:Qj-iQDZpqkU</guid>
+            <pubDate>Sun, 03 Aug 2025 18:47:09 GMT</pubDate>
+            <description><![CDATA[The video discusses the upcoming major releases for Warhammer 40K featuring the Leagues of Votan and Salamanders, including new characters, kits, and pre-order details, with discounts available for those interested in expanding their collections.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 New Releases in Warhammer 40K: Leagues of Votan and Salamanders</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>Upcoming Releases:</strong> Leagues of Votan and Salamanders are set for major releases, including new characters and kits.</li>
+  <li>📅 <strong>Release Dates:</strong> Pre-orders start on August 9, with full sales on August 23.</li>
+  <li>⚔️ <strong>Votan Release Wave:</strong> Includes a codex, combat patrol, and several new models such as Iron Steel Jacks and Earth Shaker batteries.</li>
+  <li>🛡️ <strong>Salamander Releases:</strong> Features Vulcan Stan and a combat patrol set, plus unique Salamander-themed dice.</li>
+  <li>📦 <strong>Pre-order Discounts:</strong> Several retailers offer discounts, with savings up to 21% in some regions.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📈 <strong>Points in Combat Patrol:</strong> The Salamander combat patrol offers about 500 points of models, providing good value at a 30% discount.</li>
+  <li>💰 <strong>Pricing:</strong> Vulcan Stan priced at £28/$45; the combat patrol at £100/$170.</li>
+  <li>🛠️ <strong>Leagues of Votan Units:</strong> Expected to have 21 data sheets and five detachments in the new codex.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>Question 1:</strong> How might the new mechanics for the Leagues of Votan affect gameplay strategies?</li>
+  <li>🤔 <strong>Question 2:</strong> What impact will the release of Vulcan Stan have on Salamander army compositions?</li>
+  <li>🤔 <strong>Question 3:</strong> With pre-orders and discounts available, how can players best take advantage of these new releases?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MASSIVE Warhammer Lore Change? The Terminus Decree and the Emperor's Resurrection]]></title>
             <link>https://www.youtube.com/watch?v=fgqJdm0F71w</link>
@@ -9861,35 +9894,34 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BIG Warhammer 40K Release Week - Leagues of Votann, Salamanders and More!]]></title>
-            <link>https://www.youtube.com/watch?v=Qj-iQDZpqkU</link>
-            <guid>yt:video:Qj-iQDZpqkU</guid>
-            <pubDate>Sun, 03 Aug 2025 18:47:09 GMT</pubDate>
-            <description><![CDATA[The video discusses the upcoming major releases for Warhammer 40K featuring the Leagues of Votan and Salamanders, including new characters, kits, and pre-order details, with discounts available for those interested in expanding their collections.]]></description>
+            <title><![CDATA[First Rules Reveals for Codex Leagues of Votann - New Core Rule, Detachments and More!]]></title>
+            <link>https://www.youtube.com/watch?v=0KAkBCXhXFg</link>
+            <guid>yt:video:0KAkBCXhXFg</guid>
+            <pubDate>Mon, 04 Aug 2025 15:55:04 GMT</pubDate>
+            <description><![CDATA[The video discusses the reveals from the Leagues of Votan 10th Edition Codex, highlighting a new "Prioritized Efficiency" army rule, a 144-page codex with 21 data sheets and 5 detachments, pre-order and release dates, and the introduction of a yield points system for gameplay strategy.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 New Releases in Warhammer 40K: Leagues of Votan and Salamanders</h2>
+<h2>📢 Leagues of Votan 10th Edition Codex Reveals</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>Upcoming Releases:</strong> Leagues of Votan and Salamanders are set for major releases, including new characters and kits.</li>
-  <li>📅 <strong>Release Dates:</strong> Pre-orders start on August 9, with full sales on August 23.</li>
-  <li>⚔️ <strong>Votan Release Wave:</strong> Includes a codex, combat patrol, and several new models such as Iron Steel Jacks and Earth Shaker batteries.</li>
-  <li>🛡️ <strong>Salamander Releases:</strong> Features Vulcan Stan and a combat patrol set, plus unique Salamander-themed dice.</li>
-  <li>📦 <strong>Pre-order Discounts:</strong> Several retailers offer discounts, with savings up to 21% in some regions.</li>
+    <li>🔥 <strong>New Army Rule:</strong> The "Prioritized Efficiency" rule replaces the previous judgment token mechanic, shifting focus from grudges to acquisition.</li>
+    <li>📚 <strong>Codex Details:</strong> The new codex consists of 144 pages featuring 21 data sheets and 5 detachments.</li>
+    <li>🗓️ <strong>Release Dates:</strong> New models available for pre-order on August 9th and full sale on August 23rd.</li>
+    <li>🔑 <strong>Yield Points System:</strong> Players can earn yield points based on objective control, affecting strategic advantages during gameplay.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>📈 <strong>Points in Combat Patrol:</strong> The Salamander combat patrol offers about 500 points of models, providing good value at a 30% discount.</li>
-  <li>💰 <strong>Pricing:</strong> Vulcan Stan priced at £28/$45; the combat patrol at £100/$170.</li>
-  <li>🛠️ <strong>Leagues of Votan Units:</strong> Expected to have 21 data sheets and five detachments in the new codex.</li>
+    <li>📖 <strong>Codex Length:</strong> 144 pages.</li>
+    <li>📊 <strong>Data Sheets:</strong> 21 total data sheets included in the new codex.</li>
+    <li>⚖️ <strong>Yield Points:</strong> Up to 4 yield points can be scored per command phase by controlling objectives.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>Question 1:</strong> How might the new mechanics for the Leagues of Votan affect gameplay strategies?</li>
-  <li>🤔 <strong>Question 2:</strong> What impact will the release of Vulcan Stan have on Salamander army compositions?</li>
-  <li>🤔 <strong>Question 3:</strong> With pre-orders and discounts available, how can players best take advantage of these new releases?</li>
+    <li>🤔 <strong>How will the new 'Prioritized Efficiency' rule impact gameplay compared to the previous judgment tokens?</strong></li>
+    <li>🤔 <strong>What strategies will players develop to maximize yield points during matches?</strong></li>
+    <li>🤔 <strong>Which of the five new detachments do you think will have the most significant impact on competitive play?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
