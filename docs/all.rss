@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 Aug 2025 13:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 14:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Vulkan He’stan: Forgefather of the Salamanders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/h8ovonju/vulkan-hestan-forgefather-of-the-salamanders</link>
+            <guid>h8ovonju</guid>
+            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who is the taciturn master of the Chapter?]]></description>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_hestanlore-aug05-1-feature-m3pou0vwdz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Leagues of Votann reinforcements bring epic firepower and the greatest, shortest Tyranid-killer alive]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/idzum7dy/leagues-of-votann-reinforcements-bring-epic-firepower-and-the-greatest-shortest-tyranid-killer-alive</link>
@@ -271,17 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_staffgkarmy-jul25-1-feature-zbttxfxovr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horus Heresy downloads – Talons of the Emperor and errata]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vjcrg9dz/horus-heresy-downloads-talons-of-the-emperor-and-errata</link>
-            <guid>vjcrg9dz</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new edition drops tomorrow.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_download-jul25-1-feature-fa9jvbcjfv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
