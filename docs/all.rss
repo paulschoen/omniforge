@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 Aug 2025 14:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 17:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -159,6 +159,16 @@
             <enclosure url="https://assets.warhammer-community.com/wh--30jul-1-feature-vgafaavzk7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Warhammer World website is down for maintenance]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vjrfg4wv/warhammer-world-website-is-down-for-maintenance</link>
+            <guid>vjrfg4wv</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the opening hours here]]></description>
+            <category domain="announcements">Announcements</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1754410631-z3j64puwoj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Behind the scenes on the Isstvan V Dropsite Massacre diorama]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fejghlpg/behind-the-scenes-on-the-isstvan-v-dropsite-massacre-diorama</link>
             <guid>fejghlpg</guid>
@@ -270,19 +280,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_battlereports-jul17-1-feature-oa0iyqgqo9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grey Knights Showcase – A classic army returns to welcome the new Codex]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cifmg4ve/grey-knights-showcase-a-classic-army-returns-to-welcome-the-new-codex</link>
-            <guid>cifmg4ve</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jason’s Grey Knights are back in the building.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_staffgkarmy-jul25-1-feature-zbttxfxovr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
