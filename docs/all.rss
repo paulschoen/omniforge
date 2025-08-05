@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 Aug 2025 14:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 12:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 5th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cpae6ma0/the-rumour-engine-5th-of-august</link>
+            <guid>cpae6ma0</guid>
+            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-aug5-1-feature-wu8xeuxcfm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team Approved Ops 2025 – Snatch the initiative and secure new objectives]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mhstieyb/kill-team-approved-ops-2025-snatch-the-initiative-and-secure-new-objectives</link>
@@ -273,17 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/unnamed-(12)-u0lc8u4vjx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar’s Stormvaults – Can you do better than the Heldenhammer?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bftoxcea/were-the-stormvaults-doomed-to-fail-ahead-of-loremasters-we-have-a-few-thoughts</link>
-            <guid>bFtoXcEa</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build the Stormvault of Sigmar’s dreams with Made to Order terrain.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_stormvault-jul25-1-feature-kv2liacjkw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
