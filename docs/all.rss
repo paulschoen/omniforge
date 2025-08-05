@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 Aug 2025 12:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 13:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Leagues of Votann reinforcements bring epic firepower and the greatest, shortest Tyranid-killer alive]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/idzum7dy/leagues-of-votann-reinforcements-bring-epic-firepower-and-the-greatest-shortest-tyranid-killer-alive</link>
+            <guid>idzum7dy</guid>
+            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[See rules for Buri Aegnirssen and more new units.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_votannnewunits-aug05-1-feature-q6zpeimtfm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 5th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cpae6ma0/the-rumour-engine-5th-of-august</link>
@@ -271,18 +282,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_download-jul25-1-feature-fa9jvbcjfv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MORE Emperor's Children Painting Tricks! | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6eqlnabo/more-emperors-children-painting-tricks-warhammer-40000</link>
-            <guid>6eqlnabo</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learning from the Emperor’s Children, we’ve decided more is definitely best, so today Jake’s showing off some cool tips and tricks that you can use to take your models to the next level!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/unnamed-(12)-u0lc8u4vjx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
