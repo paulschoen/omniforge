@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Tue, 05 Aug 2025 00:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 16:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[The BIG 40K Centrepiece Giveaway - Channel Update for August]]></title>
+            <link>https://www.youtube.com/watch?v=pXjOnW9kUqM</link>
+            <guid>yt:video:pXjOnW9kUqM</guid>
+            <pubDate>Mon, 04 Aug 2025 23:40:05 GMT</pubDate>
+            <description><![CDATA[The video provides an update on the creator's channel, discussing their recent voice loss, upcoming content plans including a new League of Votan Codex, giveaway announcements for August and September, and the implementation of a new Google form for entries to enhance community engagement and combat scammers.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Channel Update: Giveaways and Video Plans</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🎤 <strong>Voice Loss:</strong> The creator experienced a significant voice loss, resulting in the longest period without a video since the channel's inception 6 years ago.</li>
+  <li>📅 <strong>Video Highlights:</strong> Discussed recent video topics including faction performance and best-looking miniatures.</li>
+  <li>🆕 <strong>Upcoming Content:</strong> Anticipates covering new League of Votan Codex and other upcoming releases.</li>
+  <li>🏆 <strong>Giveaway Winners:</strong> Announced winners for the August giveaway, including Jacob Sanders and Brendan Rios.</li>
+  <li>🎁 <strong>September Giveaway:</strong> A larger giveaway with 12 winners for a Warhammer 40k centerpiece miniature.</li>
+  <li>📈 <strong>New Entry Format:</strong> Implemented a Google form for giveaway entries to combat scammers and improve submission process.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>🗓️ <strong>6 Years:</strong> Duration of the channel's existence, marking the longest gap without a video.</li>
+  <li>🏆 <strong>12 Winners:</strong> Total number of winners for the September giveaway, a significant increase from previous months.</li>
+  <li>👥 <strong>3,700 Entries:</strong> Number of people who successfully submitted entries for the giveaway, indicating strong engagement.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How does the format of giveaways impact community engagement and participation?</strong></li>
+  <li>🤔 <strong>What strategies can content creators use to maintain consistency in video uploads during personal challenges?</strong></li>
+  <li>🤔 <strong>How do changes in game dynamics (like faction performance) influence community discussions and content creation?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[First Rules Reveals for Codex Leagues of Votann - New Core Rule, Detachments and More!]]></title>
             <link>https://www.youtube.com/watch?v=0KAkBCXhXFg</link>
@@ -9926,36 +9960,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The BIG 40K Centrepiece Giveaway - Channel Update for August]]></title>
-            <link>https://www.youtube.com/watch?v=pXjOnW9kUqM</link>
-            <guid>yt:video:pXjOnW9kUqM</guid>
-            <pubDate>Mon, 04 Aug 2025 23:40:05 GMT</pubDate>
-            <description><![CDATA[The video provides an update on the creator's channel, discussing their recent voice loss, upcoming content plans including a new League of Votan Codex, giveaway announcements for August and September, and the implementation of a new Google form for entries to enhance community engagement and combat scammers.]]></description>
+            <title><![CDATA[Big Rules Reveals for New 40K Units - What Do the New Leagues of Votann Models Do in Game?]]></title>
+            <link>https://www.youtube.com/watch?v=AW3hBkTwouc</link>
+            <guid>yt:video:AW3hBkTwouc</guid>
+            <pubDate>Tue, 05 Aug 2025 15:41:13 GMT</pubDate>
+            <description><![CDATA[The video previews new units for Warhammer 40K's Leagues of Votan, highlighting characters like Mr. Buri Agnes with strong melee capabilities, the versatile Archinist Evaluator, resilient Iron Steel Jacks, powerful Cathonian Earth Shakers artillery, and tactical Capricus Vehicles, while posing questions about their potential impact on gameplay strategies and the meta-game.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Channel Update: Giveaways and Video Plans</h2>
+<h2>📢 Leagues of Votan Preview: New Units Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🎤 <strong>Voice Loss:</strong> The creator experienced a significant voice loss, resulting in the longest period without a video since the channel's inception 6 years ago.</li>
-  <li>📅 <strong>Video Highlights:</strong> Discussed recent video topics including faction performance and best-looking miniatures.</li>
-  <li>🆕 <strong>Upcoming Content:</strong> Anticipates covering new League of Votan Codex and other upcoming releases.</li>
-  <li>🏆 <strong>Giveaway Winners:</strong> Announced winners for the August giveaway, including Jacob Sanders and Brendan Rios.</li>
-  <li>🎁 <strong>September Giveaway:</strong> A larger giveaway with 12 winners for a Warhammer 40k centerpiece miniature.</li>
-  <li>📈 <strong>New Entry Format:</strong> Implemented a Google form for giveaway entries to combat scammers and improve submission process.</li>
+  <li>🔥 <strong>Mr. Buri Agnes:</strong> A formidable melee character with 5 attacks at <strong>Strength 12</strong>, <strong>AP3</strong>, and <strong>Damage 3</strong>. Revives on a 2+ after being taken down.</li>
+  <li>⚔️ <strong>Archinist Evaluator:</strong> Features a versatile gun with three firing modes, including a powerful overcharge that can deal <strong>Strength 8, AP3, Damage 3</strong> at 24 inches range.</li>
+  <li>🛡️ <strong>Iron Steel Jacks:</strong> Tough units with a <strong>2+</strong> save and varying melee and ranged capabilities; can be fielded in units of up to 36.</li>
+  <li>🎯 <strong>Cathonian Earth Shakers:</strong> Artillery units with two ammo types, capable of delivering significant damage to both infantry and vehicles.</li>
+  <li>🚚 <strong>Capricus Vehicles:</strong> Transport options for infantry with autocannons, designed for tactical deployment on the battlefield.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>🗓️ <strong>6 Years:</strong> Duration of the channel's existence, marking the longest gap without a video.</li>
-  <li>🏆 <strong>12 Winners:</strong> Total number of winners for the September giveaway, a significant increase from previous months.</li>
-  <li>👥 <strong>3,700 Entries:</strong> Number of people who successfully submitted entries for the giveaway, indicating strong engagement.</li>
+  <li>💪 <strong>5 Attacks:</strong> Mr. Buri Agnes can make 5 attacks with a high strength profile.</li>
+  <li>🔄 <strong>2+</strong> Revive on Death: Mr. Buri Agnes can return to the battlefield after being incapacitated with a 2+ roll.</li>
+  <li>📏 <strong>24-inch Range:</strong> The Archinist Evaluator's overcharged profile allows for a 24-inch shooting range.</li>
+  <li>⚖️ <strong>2+</strong> Save: The Iron Steel Jacks possess a formidable 2+ armor save, indicating high resilience.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>How does the format of giveaways impact community engagement and participation?</strong></li>
-  <li>🤔 <strong>What strategies can content creators use to maintain consistency in video uploads during personal challenges?</strong></li>
-  <li>🤔 <strong>How do changes in game dynamics (like faction performance) influence community discussions and content creation?</strong></li>
+  <li>🤔 <strong>How will the new units impact the meta-game in Warhammer 40K?</strong></li>
+  <li>🔍 <strong>What strategies can players employ to maximize the effectiveness of Mr. Buri Agnes and the Archinist Evaluator?</strong></li>
+  <li>⚔️ <strong>Could the introduction of these new units shift the balance between melee and ranged combat in the game?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
