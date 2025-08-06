@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 Aug 2025 12:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 13:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A Wolf Priest, a Triarch Praetorian and a fallen Night Lord take the lead in new Black Library books]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wy5pnpai/a-wolf-priest-a-triarch-praetorian-and-a-fallen-night-lord-take-the-lead-in-new-black-library-books</link>
+            <guid>wy5pnpai</guid>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three sensational new Warhammer stories.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_upcomingfiction-aug06-1-feature-l2abdr5ja3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch the thrilling final episode of Kill Lupercal now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/breyjidk/watch-the-thrilling-final-episode-of-kill-lupercal-now</link>
@@ -28,6 +41,7 @@
             <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The lord of the Iron Warriors enters the fray.]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_perturabo-aug08-1-feature-elt8pzg0mf.jpg" length="0" type="image/jpg"/>
         </item>
@@ -264,20 +278,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd515-july28-1-feature-gme0oo7t8k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Reinforce your Horus Heresy army with standalone Saturnine kits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hju6d4tm/sunday-preview-reinforce-your-horus-heresy-army-with-standalone-saturnine-kits</link>
-            <guid>hju6d4tm</guid>
-            <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bolster your forces as the Heresy hots up.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul27-1-feature-rjtnfhtbsw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
