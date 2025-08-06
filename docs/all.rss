@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 Aug 2025 17:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 10:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Perturabo joins the Horus Heresy figure range from JOYTOY]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/aw06vhor/perturabo-joins-the-horus-heresy-figure-range-from-joytoy</link>
+            <guid>aw06vhor</guid>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The lord of the Iron Warriors enters the fray.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/joytoy_perturabo-aug08-1-feature-elt8pzg0mf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vulkan He’stan: Forgefather of the Salamanders]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/h8ovonju/vulkan-hestan-forgefather-of-the-salamanders</link>
@@ -270,16 +280,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jul26-1-feature-ajby7niva8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take the Dropsite Massacre into your own hands with a free mission and three battle reports]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x0zklar7/take-the-dropsite-massacre-into-your-own-hands-with-a-free-mission-and-three-battle-reports</link>
-            <guid>x0zklar7</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your first taste of the Journals Tactica.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_battlereports-jul17-1-feature-oa0iyqgqo9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
