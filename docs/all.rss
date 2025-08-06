@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 Aug 2025 13:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 14:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[History of Warhammer Age of Sigmar – The Realmgate Wars]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/atkb4bu7/history-of-warhammer-age-of-sigmar-the-realmgate-wars</link>
+            <guid>atkb4bu7</guid>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rediscover the ploy that launched a universe.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostagia1-aug06-1-feature-ui9sbkuxuw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Wolf Priest, a Triarch Praetorian and a fallen Night Lord take the lead in new Black Library books]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wy5pnpai/a-wolf-priest-a-triarch-praetorian-and-a-fallen-night-lord-take-the-lead-in-new-black-library-books</link>
@@ -268,16 +278,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-jul28-1-feature-jfb5v3q2iy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 515 – Inner mysteries of the Adeptus Astartes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/22vzual6/white-dwarf-515-inner-mysteries-of-the-adeptus-astartes</link>
-            <guid>22vzual6</guid>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build a chapter, play a new game mode, and more.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd515-july28-1-feature-gme0oo7t8k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
