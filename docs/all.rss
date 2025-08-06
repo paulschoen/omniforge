@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 Aug 2025 10:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 12:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Watch the thrilling final episode of Kill Lupercal now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/breyjidk/watch-the-thrilling-final-episode-of-kill-lupercal-now</link>
+            <guid>breyjidk</guid>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Only on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="animations">Animations</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wh-_killlupercale3-aug06-1-feature-xalpgv4toc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Perturabo joins the Horus Heresy figure range from JOYTOY]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/aw06vhor/perturabo-joins-the-horus-heresy-figure-range-from-joytoy</link>
@@ -266,20 +278,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jul27-1-feature-rjtnfhtbsw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Black Templars and Grey Knights]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nhdjkukq/saturday-pre-orders-black-templars-and-grey-knights</link>
-            <guid>nhdjkukq</guid>
-            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jul26-1-feature-ajby7niva8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
