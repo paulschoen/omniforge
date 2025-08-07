@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 Aug 2025 14:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 15:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Anatomy of an Oathband – How Gräf01 organises the Leagues of Votann]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/766zpeqi/anatomy-of-an-oathband-how-graf01-organises-the-leagues-of-votann</link>
+            <guid>766zpeqi</guid>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is Gräf01, and how does it work?]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lovorg-aug07-1-feature-hyvl3sgtfd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Codex, new lore – Understanding the Leagues of Votann]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/crvgbjec/new-codex-new-lore-understanding-the-leagues-of-votann</link>
@@ -269,16 +280,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_inflloyal-jul29-1-feature-marywhuzwj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to play Norse in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/izw68lgb/touchline-tactics-how-to-play-norse-in-blood-bowl</link>
-            <guid>izw68lgb</guid>
-            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s all about those Beer Boars…]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_norse-jul29-1-feature-zvglqinlte.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
