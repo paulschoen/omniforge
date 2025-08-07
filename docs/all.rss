@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 Aug 2025 14:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 12:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Middle-earth™ FAQ – Designer’s commentary on the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jasyy6qx/middle-earthtm-faq-designers-commentary-on-the-new-edition</link>
+            <guid>jasyy6qx</guid>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download rules clarifications and errata.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_faq-aug7-1-feature-qejxisgwub.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[History of Warhammer Age of Sigmar – The Realmgate Wars]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/atkb4bu7/history-of-warhammer-age-of-sigmar-the-realmgate-wars</link>
@@ -267,17 +278,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_helamites-jul28-1-feature-tkodk95hsr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honour the Imperium with a free miniature of the month and an Imperial Laurel coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lgq7erwk/honour-the-imperium-with-a-free-miniature-of-the-month-and-an-imperial-laurel-coin</link>
-            <guid>lgq7erwk</guid>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Visit your local Warhammer store this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-jul28-1-feature-jfb5v3q2iy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
