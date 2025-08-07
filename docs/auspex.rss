@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 06 Aug 2025 15:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Prices Revealed, Points Updates, Bats Stop GW and More - 40K News Round Up!]]></title>
+            <link>https://www.youtube.com/watch?v=OP2xhcCvto0</link>
+            <guid>yt:video:OP2xhcCvto0</guid>
+            <pubDate>Wed, 06 Aug 2025 14:31:29 GMT</pubDate>
+            <description><![CDATA[The video discusses recent updates in Warhammer 40K, including point adjustments for Black Templars and Grey Knights, a delay in Games Workshop's expansion due to environmental concerns, and significant financial growth with a 17.5% increase in revenue and a 33% rise in profits.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40K News Roundup and Financial Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Points Released:</strong> Updated points for Black Templars and Grey Knights, effective prior to their codex release.</li>
+    <li>🔍 <strong>Balance Updates:</strong> Balance data slate updated to August 2025; no major changes for current strong or weak armies.</li>
+    <li>⚔️ <strong>Key Unit Changes:</strong> Notable price adjustments for various units; Grey Knight Dreadnought decreased to 140 points.</li>
+    <li>🚧 <strong>Games Workshop Expansion Delayed:</strong> Construction halted due to finding a protected bat species on-site.</li>
+    <li>💼 <strong>Financial Growth:</strong> Games Workshop's revenue rose from £525 million to £617 million; profits increased from £203 million to £270 million.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Revenue Growth:</strong> 17.5% increase in revenue year-over-year.</li>
+    <li>💰 <strong>Profit Increase:</strong> 33% growth in profits from the previous year.</li>
+    <li>📉 <strong>Stock Performance:</strong> Share price up approximately 57% in the last 12 months, indicating strong market confidence.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the new points adjustments impact competitive play in upcoming tournaments?</strong></li>
+    <li>💭 <strong>What long-term effects might the protected bat species have on Games Workshop's expansion plans?</strong></li>
+    <li>🧐 <strong>With the recent financial growth, should Games Workshop consider reducing prices to enhance customer loyalty?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big Rules Reveals for New 40K Units - What Do the New Leagues of Votann Models Do in Game?]]></title>
             <link>https://www.youtube.com/watch?v=AW3hBkTwouc</link>
@@ -9994,35 +10027,39 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Prices Revealed, Points Updates, Bats Stop GW and More - 40K News Round Up!]]></title>
-            <link>https://www.youtube.com/watch?v=OP2xhcCvto0</link>
-            <guid>yt:video:OP2xhcCvto0</guid>
-            <pubDate>Wed, 06 Aug 2025 14:31:29 GMT</pubDate>
-            <description><![CDATA[The video discusses recent updates in Warhammer 40K, including point adjustments for Black Templars and Grey Knights, a delay in Games Workshop's expansion due to environmental concerns, and significant financial growth with a 17.5% increase in revenue and a 33% rise in profits.]]></description>
+            <title><![CDATA[Vulkan He'stan in Warhammer 40K - How Strong is the Salamanders Forgefather in Game?]]></title>
+            <link>https://www.youtube.com/watch?v=GdEinsNQuH8</link>
+            <guid>yt:video:GdEinsNQuH8</guid>
+            <pubDate>Thu, 07 Aug 2025 09:00:27 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of Vulcan Hest, the forge father of the Salamanders in Warhammer 40k, detailing his lore, new model features, abilities that enhance gameplay, and strategic considerations for players utilizing him in their armies.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40K News Roundup and Financial Insights</h2>
+<h2>📢 Overview of Vulcan Hest and His Rules in Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Points Released:</strong> Updated points for Black Templars and Grey Knights, effective prior to their codex release.</li>
-    <li>🔍 <strong>Balance Updates:</strong> Balance data slate updated to August 2025; no major changes for current strong or weak armies.</li>
-    <li>⚔️ <strong>Key Unit Changes:</strong> Notable price adjustments for various units; Grey Knight Dreadnought decreased to 140 points.</li>
-    <li>🚧 <strong>Games Workshop Expansion Delayed:</strong> Construction halted due to finding a protected bat species on-site.</li>
-    <li>💼 <strong>Financial Growth:</strong> Games Workshop's revenue rose from £525 million to £617 million; profits increased from £203 million to £270 million.</li>
+  <li>🔥 <strong>Character Introduction:</strong> Vulcan Hest is the forge father of the Salamanders, focused on recovering relics and embodying the chapter's values.</li>
+  <li>📜 <strong>Lore Highlights:</strong> Vulcan has uncovered five relics, and he is believed to be alive, continuing his quest for the remaining artifacts.</li>
+  <li>🛡️ <strong>Model Update:</strong> Vulcan received a new Primaris resculpt, maintaining his classic features and now includes a head swap option.</li>
+  <li>💰 <strong>Cost:</strong> The new model is expected to retail for £28 and $45, with discounts available through affiliate links.</li>
+  <li>⚔️ <strong>Data Sheet Insights:</strong> Vulcan costs 100 points to field and is compatible with Salamander units, enhancing their damage output.</li>
+  <li>🔥 <strong>Special Abilities:</strong> His ability "Forge Father" boosts melters and flamers, allowing rerolls for wound rolls against a nominated target.</li>
+  <li>🎯 <strong>Objective Claiming:</strong> Vulcan's "Seeker of Lost Relics" ability grants him OC10 on a nominated objective, making him a strong contender for midboard control.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Revenue Growth:</strong> 17.5% increase in revenue year-over-year.</li>
-    <li>💰 <strong>Profit Increase:</strong> 33% growth in profits from the previous year.</li>
-    <li>📉 <strong>Stock Performance:</strong> Share price up approximately 57% in the last 12 months, indicating strong market confidence.</li>
+  <li>📈 <strong>Model Cost:</strong> £28 / $45 for the new Vulcan model.</li>
+  <li>🛡️ <strong>HP and Defensive Stats:</strong> Vulcan has 5 wounds, a 2+ save, and a 4+ invulnerable save, making him tougher than standard Space Marine captains.</li>
+  <li>🔥 <strong>Damage Potential:</strong> His gauntlet can deliver D6 + 3 shots at strength 6, with the potential for 4-9 hits against lighter infantry.</li>
+  <li>📊 <strong>Buffing Efficiency:</strong> With Vulcan's ability, Inferno Squad can potentially achieve around 35 hits in optimal scenarios.</li>
+  <li>📉 <strong>Tournament Win Rate:</strong> Space Marines currently have a win rate of approximately 44% in competitive play.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the new points adjustments impact competitive play in upcoming tournaments?</strong></li>
-    <li>💭 <strong>What long-term effects might the protected bat species have on Games Workshop's expansion plans?</strong></li>
-    <li>🧐 <strong>With the recent financial growth, should Games Workshop consider reducing prices to enhance customer loyalty?</strong></li>
+  <li>🤔 <strong>How can players best utilize Vulcan's buffing abilities to maximize damage output in their Salamanders army?</strong></li>
+  <li>💭 <strong>What strategies can be employed to ensure Vulcan maintains his objective-holding potential during a game?</strong></li>
+  <li>🔍 <strong>In what ways does Vulcan's lore impact player engagement and narrative-building within Warhammer 40k?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
