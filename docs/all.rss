@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 Aug 2025 13:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 14:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Codex, new lore – Understanding the Leagues of Votann]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/crvgbjec/new-codex-new-lore-understanding-the-leagues-of-votann</link>
+            <guid>crvgbjec</guid>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s new in the next Leagues of Votann Codex?]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lovlore-aug07-1-feature-eu4gihejjl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting a Grey Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-grey-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -268,16 +279,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_norse-jul29-1-feature-zvglqinlte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 29th of July]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cnoxaf3h/the-rumour-engine-29th-of-july</link>
-            <guid>cnoxaf3h</guid>
-            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jul29-1-feature-ykhopxnf8j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
