@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 Aug 2025 12:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 13:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting a Grey Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-grey-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>w7eootuv</guid>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the daemon-hunting knights of Titan.]]></description>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_gkfaction-1-feature-mwyhhrgzsb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle-earth™ FAQ – Designer’s commentary on the new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jasyy6qx/middle-earthtm-faq-designers-commentary-on-the-new-edition</link>
@@ -267,17 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jul29-1-feature-ykhopxnf8j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pack your biggest fly swatter – It’s an Ashwing Helamite summer on Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o3xukuqz/pack-your-biggest-fly-swatter-its-an-ashwing-helamite-summer-on-necromunda</link>
-            <guid>o3xukuqz</guid>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New bug buddies for the Ash Waste Nomads.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_helamites-jul28-1-feature-tkodk95hsr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
