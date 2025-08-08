@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 Aug 2025 12:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 13:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Lore of the Ironkin – Are these robotic citizens truly regarded as equals?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hj7fodsl/lore-of-the-ironkin-are-these-robotic-citizens-truly-regarded-as-equals</link>
+            <guid>hj7fodsl</guid>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What are the Ironkin, and where do they come from?]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ironkinlore-aug08-1-feature-5jxvspxdbu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – The Drake and the Hydra]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cmbobw15/heroes-of-the-first-founding-the-drake-and-the-hydra</link>
@@ -269,17 +280,6 @@
             <category domain="announcements">Announcements</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1754410631-z3j64puwoj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Behind the scenes on the Isstvan V Dropsite Massacre diorama]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fejghlpg/behind-the-scenes-on-the-isstvan-v-dropsite-massacre-diorama</link>
-            <guid>fejghlpg</guid>
-            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your first look at how the team built the exhibition.]]></description>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_makingofdisplay-jul29-1-feature-copy-7tusj2ftrw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
