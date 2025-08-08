@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 Aug 2025 14:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 15:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painted Leagues of Votann miniatures stake a claim on our attention]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2fmpvjnw/community-painted-leagues-of-votann-miniatures-stake-a-claim-on-our-attention</link>
+            <guid>2fmpvjnw</guid>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspiration from around the community.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_-lovinfluencers-aug08-1-feature-gaqzhasii9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Celebrate 10 Years of Warhammer Age of Sigmar and win some Helsmiths of Hashut]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gqauflsb/celebrate-10-years-of-warhammer-age-of-sigmar-and-win-some-helsmiths-of-hashut</link>
@@ -271,16 +284,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_inflheretic-jul31-1-feature-fuykyenoyf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV This Week: Master the Mortal Realms with movement tips]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nvyb0t6s/warhammer-tv-this-week-master-the-mortal-realms-with-movement-tips</link>
-            <guid>nvyb0t6s</guid>
-            <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus albino Seraphon and Lasgun history.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh--30jul-1-feature-vgafaavzk7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
