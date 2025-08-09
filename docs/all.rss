@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 Aug 2025 15:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 17:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – It’s Kin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/azss6wms/saturday-pre-orders-its-kin</link>
+            <guid>azss6wms</guid>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-aug9-1-feature-ycksadopn4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community painted Leagues of Votann miniatures stake a claim on our attention]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2fmpvjnw/community-painted-leagues-of-votann-miniatures-stake-a-claim-on-our-attention</link>
@@ -31,7 +45,7 @@
             <category domain="downloads">Downloads</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nostagia2-aug08-1-feature-n0yfj3xnlx.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostagia2-aug08-1-feature-xjydz8ic83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lore of the Ironkin – Are these robotic citizens truly regarded as equals?]]></title>
@@ -272,18 +286,6 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-jul31-1-feature-tffiiudxyy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community painters vs Saturnine – The Traitors]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/snez1z2r/community-painters-vs-saturnine-the-traitors</link>
-            <guid>snez1z2r</guid>
-            <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The dastardly Traitors of Isstvan V painted by community veterans.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_inflheretic-jul31-1-feature-fuykyenoyf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
