@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 11 Aug 2025 12:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 13:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Let the abhorrants impart their powerful delusions upon you with new rules for the Flesh-eater Courts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ahtkbnq6/let-the-abhorrants-impart-their-powerful-delusions-upon-you-with-new-rules-for-the-flesh-eater-courts</link>
+            <guid>ahtkbnq6</guid>
+            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reality shifts at the whims of the mania.]]></description>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_fecrules-aug11-1-feature-2u78rc7soa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fréaláf Hildeson and Olwyn arrive in Middle-earth™ Strategy Battle Game]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jdaeerrz/frealaf-hildeson-and-olwyn-arrive-in-middle-earthtm-strategy-battle-game</link>
@@ -277,17 +288,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-aug2-1-feature-ozjmhcw3ft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturnine Terminator construction advice – How to get the most out of your new Tactical Dreadnought Armour]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dpjkoxo7/saturnine-terminator-construction-advice-how-to-get-the-most-out-of-your-new-tactical-dreadnought-armour</link>
-            <guid>dpjkoxo7</guid>
-            <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Miniature designers tell us their tips for maximum posability.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_saturnineadvancedtips-aug01-1-feature-texzy3vffy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
