@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 10 Aug 2025 17:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 12:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fréaláf Hildeson and Olwyn arrive in Middle-earth™ Strategy Battle Game]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jdaeerrz/frealaf-hildeson-and-olwyn-arrive-in-middle-earthtm-strategy-battle-game</link>
+            <guid>jdaeerrz</guid>
+            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two new heroes of The Lord of the Rings: The War of the Rohirrim™]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_rohanheroes-aug11-1-feature-ejkc8mdwsb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Ghouls and gheists]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rqs5cgwb/sunday-preview-ghouls-and-gheists</link>
@@ -277,18 +288,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_saturnineadvancedtips-aug01-1-feature-texzy3vffy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Age of Darkness Showcase – Rich’s regal Imperial Knights pitch in with the Night Lords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5fbciqmn/age-of-darkness-showcase-richs-regal-imperial-knights-pitch-in-with-the-night-lords</link>
-            <guid>5fbciqmn</guid>
-            <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Towering Knights, resplendent in purple.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_richdknights-jul31-1-feature-bzdonzl5iv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
