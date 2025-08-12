@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 12 Aug 2025 12:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 13:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scare the wits out of your foes and open up a phantasmal pharmacy with Battletome: Nighthaunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hsrvwzdi/scare-the-wits-out-of-your-foes-and-open-up-a-phantasmal-pharmacy-with-battletome-nighthaunt</link>
+            <guid>hsrvwzdi</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A spectral procession of new rules.]]></description>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nighthauntrules-aug12-1-feature-0qrnzsbuxf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 12th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tshkekxz/the-rumour-engine-12th-of-august</link>
@@ -269,21 +280,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_helm-aug4-1-feature-vlcqxsnwc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Protect the yields]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uwsdjvro/sunday-preview-protect-the-yields</link>
-            <guid>uwsdjvro</guid>
-            <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Leagues of Votann are back with a vengeance.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug3-1-feature-ami8vjlgha.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
