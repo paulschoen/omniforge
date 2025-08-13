@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 Aug 2025 14:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 15:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Find out which three Black Library books are getting the Special Edition treatment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nr6jarwz/find-out-which-three-black-library-books-are-getting-the-special-edition-treatment</link>
+            <guid>nr6jarwz</guid>
+            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Assassins, Corsairs, and Saints.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_specialeds-aug13-1-feature-5i3pulupun.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[History of Warhammer Age of Sigmar – Soul Wars and Broken Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/q0sjynja/history-of-warhammer-age-of-sigmar-soul-wars-and-broken-realms</link>
@@ -268,16 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-aug5-1-feature-wu8xeuxcfm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Approved Ops 2025 – Snatch the initiative and secure new objectives]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mhstieyb/kill-team-approved-ops-2025-snatch-the-initiative-and-secure-new-objectives</link>
-            <guid>mhstieyb</guid>
-            <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New missions and mechanics are on the way.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_approvedops2025-aug4-1-feature-pnchs5j3e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
