@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 12 Aug 2025 13:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 12:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week: A Horus Heresy double bill and four free episodes to whet your appetite]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tqnnoh8g/warhammer-tv-this-week-a-horus-heresy-double-bill-and-four-free-episodes-to-whet-your-appetite</link>
+            <guid>tqnnoh8g</guid>
+            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tune in to see what you’re missing out on.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-aug13-1-feature-qwpir77ihl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scare the wits out of your foes and open up a phantasmal pharmacy with Battletome: Nighthaunt]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hsrvwzdi/scare-the-wits-out-of-your-foes-and-open-up-a-phantasmal-pharmacy-with-battletome-nighthaunt</link>
@@ -269,17 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lovrules-aug04-1-feature-jhrnomt4wt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ Strategy Battle Game – King Helm and the first Middle-earth Journal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k7ges93g/middle-earthtm-strategy-battle-game-king-helm-and-the-first-middle-earth-journal</link>
-            <guid>k7ges93g</guid>
-            <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A fierce new personage joins the fight.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_helm-aug4-1-feature-vlcqxsnwc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
