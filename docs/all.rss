@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 Aug 2025 12:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 14:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[History of Warhammer Age of Sigmar – Soul Wars and Broken Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/q0sjynja/history-of-warhammer-age-of-sigmar-soul-wars-and-broken-realms</link>
+            <guid>q0sjynja</guid>
+            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Battles and betrayals rock the Mortal Realms in its second era.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostagia2-aug13-1-feature-h1ohyptyng.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week: A Horus Heresy double bill and four free episodes to whet your appetite]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tqnnoh8g/warhammer-tv-this-week-a-horus-heresy-double-bill-and-four-free-episodes-to-whet-your-appetite</link>
@@ -268,17 +278,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_approvedops2025-aug4-1-feature-pnchs5j3e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maximise your yields with the new Leagues of Votann army rule]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/id57ps8z/maximise-your-yields-with-the-new-leagues-of-votann-army-rule</link>
-            <guid>id57ps8z</guid>
-            <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take what’s yours, and defend it to the death.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lovrules-aug04-1-feature-jhrnomt4wt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
