@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 Aug 2025 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 12:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Spearheads of Death – What’s new for the Nighthaunt and Flesh-eater Courts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a0hewjkc/spearheads-of-death-whats-new-for-the-nighthaunt-and-flesh-eater-courts</link>
+            <guid>a0hewjkc</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We examine the two new Spearheads on pre-order shortly.]]></description>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_deathspearheads-aug14-1-feature-0uydmnacsi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Find out which three Black Library books are getting the Special Edition treatment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nr6jarwz/find-out-which-three-black-library-books-are-getting-the-special-edition-treatment</link>
@@ -268,16 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_votannnewunits-aug05-1-feature-q6zpeimtfm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 5th of August]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cpae6ma0/the-rumour-engine-5th-of-august</link>
-            <guid>cpae6ma0</guid>
-            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-aug5-1-feature-wu8xeuxcfm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
