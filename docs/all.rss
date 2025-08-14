@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 Aug 2025 17:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 21:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The C’tan Shard of the Nightbringer rises from its tomb]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ivigo0zm/the-ctan-shard-of-the-nightbringer-rises-from-its-tomb</link>
+            <guid>ivigo0zm</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Brand new model for the Star God]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature-1755191627-ikoslfoqvs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Interview with design director of Dawn of War: Definitive Edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ju2lidts/interview-with-design-director-of-dawn-of-war-definitive-edition</link>
@@ -271,17 +283,6 @@
             <category domain="animations">Animations</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wh-_killlupercale3-aug06-1-feature-xalpgv4toc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perturabo joins the Horus Heresy figure range from JOYTOY]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/aw06vhor/perturabo-joins-the-horus-heresy-figure-range-from-joytoy</link>
-            <guid>aw06vhor</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The lord of the Iron Warriors enters the fray.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_perturabo-aug08-1-feature-elt8pzg0mf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
