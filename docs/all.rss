@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 Aug 2025 12:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 13:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Knightly bannermen join a riotous bacchanal in the Flesh-eater Courts’ Armies and Regiments of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nudwrxbe/knightly-bannermen-join-a-riotous-bacchanal-in-the-flesh-eater-courts-armies-and-regiments-of-renown</link>
+            <guid>nudwrxbe</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Revel and ride for New Summercourt!]]></description>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_flesheaterror-aug14-1-feature-tctrj6so07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spearheads of Death – What’s new for the Nighthaunt and Flesh-eater Courts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/a0hewjkc/spearheads-of-death-whats-new-for-the-nighthaunt-and-flesh-eater-courts</link>
@@ -270,17 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_hestanlore-aug05-1-feature-m3pou0vwdz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leagues of Votann reinforcements bring epic firepower and the greatest, shortest Tyranid-killer alive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/idzum7dy/leagues-of-votann-reinforcements-bring-epic-firepower-and-the-greatest-shortest-tyranid-killer-alive</link>
-            <guid>idzum7dy</guid>
-            <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[See rules for Buri Aegnirssen and more new units.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_votannnewunits-aug05-1-feature-q6zpeimtfm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
