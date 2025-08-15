@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 Aug 2025 21:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 12:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – The Aspirant’s Tale]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xufnvdpx/chronicles-of-ruin-the-aspirants-tale</link>
+            <guid>xufnvdpx</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In which we learn of the Virtue of the Sacred Feast.]]></description>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_fecfiction-aug15-1-feature-cmaezshjfw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adepta Sororitas battle Chaos Space Marines over a long-forgotten tomb in Kill Team: Shadowhunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zrjpzrms/adepta-sororitas-battle-chaos-space-marines-over-a-long-forgotten-tomb-in-kill-team-shadowhunt</link>
+            <guid>zrjpzrms</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Kill Team release arrives from the future!]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature-1755256582-zl8ebaxksb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The C’tan Shard of the Nightbringer rises from its tomb]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ivigo0zm/the-ctan-shard-of-the-nightbringer-rises-from-its-tomb</link>
@@ -258,31 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_nostagia1-aug06-1-feature-ui9sbkuxuw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Wolf Priest, a Triarch Praetorian and a fallen Night Lord take the lead in new Black Library books]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wy5pnpai/a-wolf-priest-a-triarch-praetorian-and-a-fallen-night-lord-take-the-lead-in-new-black-library-books</link>
-            <guid>wy5pnpai</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three sensational new Warhammer stories.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_upcomingfiction-aug06-1-feature-l2abdr5ja3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch the thrilling final episode of Kill Lupercal now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/breyjidk/watch-the-thrilling-final-episode-of-kill-lupercal-now</link>
-            <guid>breyjidk</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Only on Warhammer TV.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="animations">Animations</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh-_killlupercale3-aug06-1-feature-xalpgv4toc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
