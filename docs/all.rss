@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 Aug 2025 13:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 14:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ride roughshod over your foes and summon Nagash from the ether with new Nighthaunt Armies of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqnmt55k/ride-roughshod-over-your-foes-and-summon-nagash-from-the-ether-with-new-nighthaunt-armies-of-renown</link>
+            <guid>wqnmt55k</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Share the frights with Regiments of Renown.]]></description>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nighthauntror-aug15-1-feature-ukx7ecysyh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What if Revenant Draconith joined the other Mortarchs of Death? Warhammer Community breaks out the bits box]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5qrpauyk/what-if-revenant-draconith-joined-the-other-mortarchs-of-death-warhammer-community-breaks-out-the-bits-box</link>
@@ -273,17 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_gkfaction-1-feature-mwyhhrgzsb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ FAQ – Designer’s commentary on the new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jasyy6qx/middle-earthtm-faq-designers-commentary-on-the-new-edition</link>
-            <guid>jasyy6qx</guid>
-            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download rules clarifications and errata.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_faq-aug7-1-feature-qejxisgwub.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
