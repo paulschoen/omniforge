@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 Aug 2025 14:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 15:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chief Undead Officers – Who’s the best Mortarch to work for in the Mortal Realms?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jwtdzjis/chief-undead-officers-whos-the-best-mortarch-to-work-for-in-the-mortal-realms</link>
+            <guid>jwtdzjis</guid>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Workplace reviews of Nagash’s four main divisions.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_worstbosses-aug15-1-feature-glmuy9t7am.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ride roughshod over your foes and summon Nagash from the ether with new Nighthaunt Armies of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqnmt55k/ride-roughshod-over-your-foes-and-summon-nagash-from-the-ether-with-new-nighthaunt-armies-of-renown</link>
@@ -273,17 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lovlore-aug07-1-feature-eu4gihejjl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Grey Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-grey-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>w7eootuv</guid>
-            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the daemon-hunting knights of Titan.]]></description>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_gkfaction-1-feature-mwyhhrgzsb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
