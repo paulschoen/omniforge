@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 Aug 2025 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 17:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Cannibal courts and restless spirits]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/h10nf8mw/saturday-pre-orders-cannibal-courts-and-restless-spirits</link>
+            <guid>h10nf8mw</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Death awaits in the Age of Sigmar.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-aug16-1-feature-wdgxvsdhsw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chief Undead Officers – Who’s the best Mortarch to work for in the Mortal Realms?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jwtdzjis/chief-undead-officers-whos-the-best-mortarch-to-work-for-in-the-mortal-realms</link>
@@ -276,17 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lovorg-aug07-1-feature-hyvl3sgtfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Codex, new lore – Understanding the Leagues of Votann]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/crvgbjec/new-codex-new-lore-understanding-the-leagues-of-votann</link>
-            <guid>crvgbjec</guid>
-            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s new in the next Leagues of Votann Codex?]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lovlore-aug07-1-feature-eu4gihejjl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
