@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 16 Aug 2025 17:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 17:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Miao Ying raises a storm in the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ceirqemh/sunday-preview-miao-ying-raises-a-storm-in-the-old-world</link>
+            <guid>ceirqemh</guid>
+            <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus new units for Legions Imperialis.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug17-1-feature-zdf6ts7lg4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Cannibal courts and restless spirits]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/h10nf8mw/saturday-pre-orders-cannibal-courts-and-restless-spirits</link>
@@ -277,17 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_hestanstory-aug08-1-feature-lvsetglxyx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anatomy of an Oathband – How Gräf01 organises the Leagues of Votann]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/766zpeqi/anatomy-of-an-oathband-how-graf01-organises-the-leagues-of-votann</link>
-            <guid>766zpeqi</guid>
-            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What is Gräf01, and how does it work?]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lovorg-aug07-1-feature-hyvl3sgtfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
