@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 Aug 2025 12:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 13:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Begin your conquest of the Age of Darkness with new Combat Forces]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2yehwjta/begin-your-conquest-of-the-age-of-darkness-with-new-combat-forces</link>
+            <guid>2yehwjta</guid>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Easy ways to start your Warhammer: The Horus Heresy collection.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_combatforces-aug18-1-feature-3ipaqjqrpi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Legions Imperialis designer’s notes – How the Liber Strategia shakes up the whole game]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kamqgjvb/legions-imperialis-designers-notes-how-the-liber-strategia-shakes-up-the-whole-game</link>
@@ -278,17 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_nostagia2-aug08-1-feature-xjydz8ic83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore of the Ironkin – Are these robotic citizens truly regarded as equals?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hj7fodsl/lore-of-the-ironkin-are-these-robotic-citizens-truly-regarded-as-equals</link>
-            <guid>hj7fodsl</guid>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What are the Ironkin, and where do they come from?]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ironkinlore-aug08-1-feature-5jxvspxdbu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
