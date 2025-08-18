@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sun, 17 Aug 2025 00:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 00:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[New Warhammer 40K Mini-Expansion - Play Space Marine 2 on the Tabletop]]></title>
+            <link>https://www.youtube.com/watch?v=2X_rtWI4E3U</link>
+            <guid>yt:video:2X_rtWI4E3U</guid>
+            <pubDate>Sat, 16 Aug 2025 21:39:06 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Warhammer 40k: Space Marine Operations expansion, highlighting a compact game mode for three space marines battling tyrannids, innovative mechanics like armor regeneration and grid-based movement, and the ability to play solo or cooperatively, with future expansions anticipated in White Dwarf 515.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k: Space Marine Operations Expansion Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>New Game Mode:</strong> Introduces a compact game mode for three space marines against tyrannids, inspired by Space Marine 2.</li>
+  <li>🎲 <strong>Mechanics:</strong> Features armor markers, regenerating through executions, and a grid-based movement system.</li>
+  <li>📖 <strong>Core Rules:</strong> Found in White Dwarf 515, aims for future expansions with new scenarios and factions.</li>
+  <li>🛡️ <strong>Game Format:</strong> Played with three space marines on a boarding actions terrain, facing waves of tyrannids.</li>
+  <li>🆚 <strong>Co-op Play:</strong> Can be played solo or cooperatively, managing three characters and their abilities.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>🔢 <strong>Revive Points:</strong> Players can have between 1 to 4 revive points based on difficulty, affecting how many downed marines can be revived.</li>
+  <li>⚔️ <strong>Movement Rolls:</strong> Each space marine has a movement characteristic of 2 or 3 squares per turn.</li>
+  <li>🧱 <strong>Armor Segments:</strong> Each marine starts with a specific number of armor segments, regenerating one per turn if not downed.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>What strategies can players adopt to effectively engage with the tyrannid hordes?</strong></li>
+  <li>🎯 <strong>How does the new game mode enhance the overall Warhammer 40k experience?</strong></li>
+  <li>🛠️ <strong>What additional factions or scenarios would you like to see in future expansions?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[GW Addresses the Leaks, Tournament Drama, Grey Knight Lore gets Wilder + Event Restricts Top Armies]]></title>
             <link>https://www.youtube.com/watch?v=4nloBqJQk10</link>
@@ -10465,35 +10498,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[New Warhammer 40K Mini-Expansion - Play Space Marine 2 on the Tabletop]]></title>
-            <link>https://www.youtube.com/watch?v=2X_rtWI4E3U</link>
-            <guid>yt:video:2X_rtWI4E3U</guid>
-            <pubDate>Sat, 16 Aug 2025 21:39:06 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Warhammer 40k: Space Marine Operations expansion, highlighting a compact game mode for three space marines battling tyrannids, innovative mechanics like armor regeneration and grid-based movement, and the ability to play solo or cooperatively, with future expansions anticipated in White Dwarf 515.]]></description>
+            <title><![CDATA[How to Start a Grey Knights Army in Warhammer 40K - Beginner Guide to Start Collecting]]></title>
+            <link>https://www.youtube.com/watch?v=K7GS6u4dKfU</link>
+            <guid>yt:video:K7GS6u4dKfU</guid>
+            <pubDate>Sun, 17 Aug 2025 23:06:42 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the Grey Knights, an elite chapter of Space Marines specializing in psychic warfare against demons, discussing their combat style, rich lore, current miniature range, challenges faced, and tips for army building, while also highlighting important numerical insights and questions for players to consider.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k: Space Marine Operations Expansion Overview</h2>
+<h2>📢 Starting an Army of Elite Psychic Demon Hunting Space Marines: Grey Knights Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>New Game Mode:</strong> Introduces a compact game mode for three space marines against tyrannids, inspired by Space Marine 2.</li>
-  <li>🎲 <strong>Mechanics:</strong> Features armor markers, regenerating through executions, and a grid-based movement system.</li>
-  <li>📖 <strong>Core Rules:</strong> Found in White Dwarf 515, aims for future expansions with new scenarios and factions.</li>
-  <li>🛡️ <strong>Game Format:</strong> Played with three space marines on a boarding actions terrain, facing waves of tyrannids.</li>
-  <li>🆚 <strong>Co-op Play:</strong> Can be played solo or cooperatively, managing three characters and their abilities.</li>
+    <li>🔥 <strong>Who are the Grey Knights?</strong> Elite Space Marines operating as the secret 666th chapter, founded to combat chaos with psychic powers.</li>
+    <li>⚔️ <strong>Combat Style:</strong> Known for their psychic might, teleportation tactics, and elite infantry that excels against demons.</li>
+    <li>📖 <strong>Rich Lore:</strong> Includes dramatic stories, such as purging entire populations and their connection to the Emperor and Malcador.</li>
+    <li>🛠️ <strong>Current Miniature Range:</strong> Older models compared to other factions; many kits are from the 5th edition, showing scale creep against newer models.</li>
+    <li>📉 <strong>Challenges:</strong> Facing a range refresh, low character roster, and mixed community sentiment, leading to fewer new players starting the faction.</li>
+    <li>💡 <strong>Army Building Tips:</strong> Recommendations on planning an army, including unit types, paint schemes, and potential character conversions.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>🔢 <strong>Revive Points:</strong> Players can have between 1 to 4 revive points based on difficulty, affecting how many downed marines can be revived.</li>
-  <li>⚔️ <strong>Movement Rolls:</strong> Each space marine has a movement characteristic of 2 or 3 squares per turn.</li>
-  <li>🧱 <strong>Armor Segments:</strong> Each marine starts with a specific number of armor segments, regenerating one per turn if not downed.</li>
+    <li>📈 <strong>Combat Patrol Value:</strong> The current Grey Knights Combat Patrol is valued at around 680 points, equating to approximately 4 points per dollar spent.</li>
+    <li>⏳ <strong>Range Refresh Timeline:</strong> Expected to take between 18 months to 3.5 years for a major update, causing concern for current players.</li>
+    <li>💵 <strong>Cost Efficiency:</strong> Grey Knights are among the cheapest factions to collect due to point value in troop boxes.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>What strategies can players adopt to effectively engage with the tyrannid hordes?</strong></li>
-  <li>🎯 <strong>How does the new game mode enhance the overall Warhammer 40k experience?</strong></li>
-  <li>🛠️ <strong>What additional factions or scenarios would you like to see in future expansions?</strong></li>
+    <li>🤔 <strong>What unique strategies can you develop to maximize the use of psychic abilities in gameplay?</strong></li>
+    <li>🛡️ <strong>How can the lore of the Grey Knights influence your painting and modeling decisions?</strong></li>
+    <li>🧩 <strong>What character conversions could enhance your Grey Knights army's uniqueness on the tabletop?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
