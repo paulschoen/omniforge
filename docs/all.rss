@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 17 Aug 2025 17:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 12:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Legions Imperialis designer’s notes – How the Liber Strategia shakes up the whole game]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kamqgjvb/legions-imperialis-designers-notes-how-the-liber-strategia-shakes-up-the-whole-game</link>
+            <guid>kamqgjvb</guid>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s a crucial new supplement for fans of a more epic scale.]]></description>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/li_liberstrategia-aug18-1-feature-dwlbxvqfpp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Miao Ying raises a storm in the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ceirqemh/sunday-preview-miao-ying-raises-a-storm-in-the-old-world</link>
@@ -279,18 +289,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ironkinlore-aug08-1-feature-5jxvspxdbu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – The Drake and the Hydra]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cmbobw15/heroes-of-the-first-founding-the-drake-and-the-hydra</link>
-            <guid>cmbobw15</guid>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New short fiction on the Salamanders.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_hestanstory-aug08-1-feature-lvsetglxyx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
