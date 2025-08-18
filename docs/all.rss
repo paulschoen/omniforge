@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 Aug 2025 13:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 14:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Reinforce your shelves – Classic Emperor’s Children, Aeldari, and Space Wolves are going Made to Order]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9fkzbnbc/reinforce-your-shelves-classic-emperors-children-aeldari-and-space-wolves-are-going-made-to-order</link>
+            <guid>9fkzbnbc</guid>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Old favourites are returning for a brief time.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_mto-aug18-1-feature-b9zijqca82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Begin your conquest of the Age of Darkness with new Combat Forces]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2yehwjta/begin-your-conquest-of-the-age-of-darkness-with-new-combat-forces</link>
@@ -277,17 +290,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_-lovinfluencers-aug08-1-feature-gaqzhasii9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate 10 Years of Warhammer Age of Sigmar and win some Helsmiths of Hashut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gqauflsb/celebrate-10-years-of-warhammer-age-of-sigmar-and-win-some-helsmiths-of-hashut</link>
-            <guid>gqauflsb</guid>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Play a game, report on it, and enter a competition.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nostagia2-aug08-1-feature-xjydz8ic83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
