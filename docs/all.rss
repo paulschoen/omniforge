@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 Aug 2025 12:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 13:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – What prompts the stoic Miao Ying to travel to the Old World?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/harhjltg/old-world-almanack-what-prompts-the-stoic-miao-ying-to-travel-to-the-old-world</link>
+            <guid>harhjltg</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The armies of Grand Cathay are unheard of in the Old World.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_cathaydragonlore-aug19-1-feature-cc3p2rcloj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 19th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august</link>
@@ -273,20 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug10-1-feature-zsrfwxqnsn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – It’s Kin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/azss6wms/saturday-pre-orders-its-kin</link>
-            <guid>azss6wms</guid>
-            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-aug9-1-feature-ycksadopn4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
