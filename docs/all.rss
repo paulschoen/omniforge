@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 Aug 2025 13:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 21:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l8pdgqps/warhammer-40000-dawn-of-war-iv</link>
+            <guid>l8pdgqps</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What else is there to say?]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dow_trailer-aug19-1-feature-oczdtmibp4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – What prompts the stoic Miao Ying to travel to the Old World?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/harhjltg/old-world-almanack-what-prompts-the-stoic-miao-ying-to-travel-to-the-old-world</link>
@@ -271,19 +282,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_rohanheroes-aug11-1-feature-ejkc8mdwsb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Ghouls and gheists]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rqs5cgwb/sunday-preview-ghouls-and-gheists</link>
-            <guid>rqs5cgwb</guid>
-            <pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The forces of Death amass for next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug10-1-feature-zsrfwxqnsn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
