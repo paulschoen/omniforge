@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 Aug 2025 14:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 12:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 19th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august</link>
+            <guid>ajkpd36j</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-aug19-1-feature-3esdyysrpz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reinforce your shelves – Classic Emperor’s Children, Aeldari, and Space Wolves are going Made to Order]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9fkzbnbc/reinforce-your-shelves-classic-emperors-children-aeldari-and-space-wolves-are-going-made-to-order</link>
@@ -277,19 +287,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-aug9-1-feature-ycksadopn4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community painted Leagues of Votann miniatures stake a claim on our attention]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2fmpvjnw/community-painted-leagues-of-votann-miniatures-stake-a-claim-on-our-attention</link>
-            <guid>2fmpvjnw</guid>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Inspiration from around the community.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_-lovinfluencers-aug08-1-feature-gaqzhasii9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
