@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 Aug 2025 21:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 10:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 balance update – Knights and Death Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pundog9r/warhammer-40000-balance-update-knights-and-death-guard</link>
+            <guid>pundog9r</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A small rules update.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_minibalancedataslate-aug20-1-feature-im8n7saxrn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salamanders heroes lead a fantastic and pyroclastic Combat Patrol and free Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zza9h3tg/salamanders-heroes-lead-a-fantastic-and-pyroclastic-combat-patrol-and-free-detachment</link>
+            <guid>zza9h3tg</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vulkan He’stan and Adrax Agatone bring the heat.]]></description>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_salrules-aug20-1-feature-pwthxrdnc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dawn of War IV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l8pdgqps/warhammer-40000-dawn-of-war-iv</link>
@@ -260,28 +285,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-aug12-1-feature-hp7fdzi62o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let the abhorrants impart their powerful delusions upon you with new rules for the Flesh-eater Courts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ahtkbnq6/let-the-abhorrants-impart-their-powerful-delusions-upon-you-with-new-rules-for-the-flesh-eater-courts</link>
-            <guid>ahtkbnq6</guid>
-            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reality shifts at the whims of the mania.]]></description>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_fecrules-aug11-1-feature-2u78rc7soa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fréaláf Hildeson and Olwyn arrive in Middle-earth™ Strategy Battle Game]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jdaeerrz/frealaf-hildeson-and-olwyn-arrive-in-middle-earthtm-strategy-battle-game</link>
-            <guid>jdaeerrz</guid>
-            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Two new heroes of The Lord of the Rings: The War of the Rohirrim™]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_rohanheroes-aug11-1-feature-ejkc8mdwsb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
