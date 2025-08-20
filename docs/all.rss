@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 20 Aug 2025 12:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 15:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[History of Warhammer Age of Sigmar – The Era of the Beast and the Dawnbringer Crusades]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qbtsnnzj/history-of-warhammer-age-of-sigmar-the-era-of-the-beast-and-the-dawnbringer-crusades</link>
+            <guid>qbtsnnzj</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The focus shifts to Ghur while plans are made in the dark.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia3-aug20-1-feature-ibusrgjbno.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sigmar’s Toll – Watch the teaser for the latest Warhammer animation]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lkuibigz/sigmars-toll-watch-the-teaser-for-the-latest-warhammer-animation</link>
@@ -276,17 +286,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-aug13-1-feature-qwpir77ihl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scare the wits out of your foes and open up a phantasmal pharmacy with Battletome: Nighthaunt]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hsrvwzdi/scare-the-wits-out-of-your-foes-and-open-up-a-phantasmal-pharmacy-with-battletome-nighthaunt</link>
-            <guid>hsrvwzdi</guid>
-            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A spectral procession of new rules.]]></description>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nighthauntrules-aug12-1-feature-0qrnzsbuxf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
