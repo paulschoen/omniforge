@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 21 Aug 2025 14:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 15:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Dawn of the Storm Dragon designer’s notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m9oewqqh/old-world-almanack-dawn-of-the-storm-dragon-designers-notes</link>
+            <guid>m9oewqqh</guid>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming in the latest softback supplement?]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_stormdragonsnotes-aug21-1-feature-ei4ol4cjtz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designers’ Notes – How we made the Gundabad™ Catapult Troll]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4bf3qmed/designers-notes-how-we-made-the-gundabadtm-catapult-troll</link>
@@ -276,19 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_flesheaterror-aug14-1-feature-tctrj6so07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spearheads of Death – What’s new for the Nighthaunt and Flesh-eater Courts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/a0hewjkc/spearheads-of-death-whats-new-for-the-nighthaunt-and-flesh-eater-courts</link>
-            <guid>a0hewjkc</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We examine the two new Spearheads on pre-order shortly.]]></description>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_deathspearheads-aug14-1-feature-0uydmnacsi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
