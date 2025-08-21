@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 21 Aug 2025 13:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 14:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designers’ Notes – How we made the Gundabad™ Catapult Troll]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4bf3qmed/designers-notes-how-we-made-the-gundabadtm-catapult-troll</link>
+            <guid>4bf3qmed</guid>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The latest monster joins Middle-earth™.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_catapulttroll-aug21-1-feature-ofm2behafr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Dropsite Massacre – A new perspective in the latest Black Library novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/raonxeh6/the-dropsite-massacre-a-new-perspective-in-the-latest-black-library-novel</link>
@@ -278,16 +289,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_deathspearheads-aug14-1-feature-0uydmnacsi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find out which three Black Library books are getting the Special Edition treatment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nr6jarwz/find-out-which-three-black-library-books-are-getting-the-special-edition-treatment</link>
-            <guid>nr6jarwz</guid>
-            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Assassins, Corsairs, and Saints.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_specialeds-aug13-1-feature-5i3pulupun.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
