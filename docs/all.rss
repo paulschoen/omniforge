@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 22 Aug 2025 13:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 14:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Forged in flame – One painter’s journey with the Salamanders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fmyokoz2/forged-in-flame-one-painters-journey-with-the-salamanders</link>
+            <guid>fmyokoz2</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A massive force from the boys in green.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_mikesal-aug22-1-feature-cvkdtrkgkq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – Blood Offering]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gc1qdapa/chronicles-of-ruin-blood-offering</link>
@@ -274,18 +287,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature-1755256582-zl8ebaxksb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The C’tan Shard of the Nightbringer rises from its tomb]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ivigo0zm/the-ctan-shard-of-the-nightbringer-rises-from-its-tomb</link>
-            <guid>ivigo0zm</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Brand new model for the Star God]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature-1755191627-ikoslfoqvs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
