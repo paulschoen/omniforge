@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 22 Aug 2025 11:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 13:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Blood Offering]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gc1qdapa/chronicles-of-ruin-blood-offering</link>
+            <guid>gc1qdapa</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wherein ‘Old Bones’ gets his due.]]></description>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nhfiction-aug22-1-feature-mharzikk70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Legions of the Mechanicum – Four fancy Forge World forces]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7qdvbegj/legions-of-the-mechanicum-four-fancy-forge-world-forces</link>
@@ -274,19 +286,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature-1755191627-ikoslfoqvs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interview with design director of Dawn of War: Definitive Edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ju2lidts/interview-with-design-director-of-dawn-of-war-definitive-edition</link>
-            <guid>ju2lidts</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[One of the most popular Warhammer 40,000 video games ever]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dawnofwar-aug14-1-feature-syjmmmsixg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
