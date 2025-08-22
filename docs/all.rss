@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 21 Aug 2025 15:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 11:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Legions of the Mechanicum – Four fancy Forge World forces]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7qdvbegj/legions-of-the-mechanicum-four-fancy-forge-world-forces</link>
+            <guid>7qdvbegj</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Legions Imperialis armies from members of the Warhammer Studio.]]></description>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/li_sdsmechanicum-aug22-1-feature-7i4oaclmpc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Dawn of the Storm Dragon designer’s notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m9oewqqh/old-world-almanack-dawn-of-the-storm-dragon-designers-notes</link>
@@ -277,17 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dawnofwar-aug14-1-feature-syjmmmsixg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Knightly bannermen join a riotous bacchanal in the Flesh-eater Courts’ Armies and Regiments of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nudwrxbe/knightly-bannermen-join-a-riotous-bacchanal-in-the-flesh-eater-courts-armies-and-regiments-of-renown</link>
-            <guid>nudwrxbe</guid>
-            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Revel and ride for New Summercourt!]]></description>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_flesheaterror-aug14-1-feature-tctrj6so07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
