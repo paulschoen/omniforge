@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 23 Aug 2025 17:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 17:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Dare you enter the Tomb World?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g9yodfir/sunday-preview-dare-you-enter-the-tomb-world</link>
+            <guid>g9yodfir</guid>
+            <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug24-1-feature-eexkslh87b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The Storm Dragon descends]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ceirqemh/saturday-pre-orders-the-storm-dragon-descends</link>
@@ -276,18 +290,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_deathdraconiths-aug15-1-feature-mrzktiqdrx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Aspirant’s Tale]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xufnvdpx/chronicles-of-ruin-the-aspirants-tale</link>
-            <guid>xufnvdpx</guid>
-            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In which we learn of the Virtue of the Sacred Feast.]]></description>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_fecfiction-aug15-1-feature-cmaezshjfw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
