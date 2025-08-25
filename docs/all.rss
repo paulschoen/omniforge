@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 Aug 2025 10:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 13:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The new Deathwatch kill team is packed with specialists and shoulder pads]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ernhblyw/the-new-deathwatch-kill-team-is-packed-with-specialists-and-shoulder-pads</link>
+            <guid>ernhblyw</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the new kit.]]></description>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_dwkitfocus-aug25-1-feature-23tke9ryjt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pick from two amazing diorama miniatures by subscribing to Warhammer+ this year]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8epcgs0h/pick-from-two-amazing-diorama-miniatures-by-subscribing-to-warhammer-this-year</link>
@@ -272,16 +284,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_combatforces-aug18-1-feature-3ipaqjqrpi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legions Imperialis designer’s notes – How the Liber Strategia shakes up the whole game]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kamqgjvb/legions-imperialis-designers-notes-how-the-liber-strategia-shakes-up-the-whole-game</link>
-            <guid>kamqgjvb</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s a crucial new supplement for fans of a more epic scale.]]></description>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/li_liberstrategia-aug18-1-feature-dwlbxvqfpp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
