@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 Aug 2025 09:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 10:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -19,6 +19,16 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus_newyear-aug25-1-feature-nakjbqkmk1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Join Warhammer's Ultimate Subscription Service – Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lafyh5on/join-warhammers-ultimate-subscription-service-warhammer</link>
+            <guid>lafyh5on</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New shows, new miniatures, new benefits! We’re kicking off a new year on Warhammer+ with a look-ahead at what’s in store for subscribers.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01782-wh--renewal-4kqmzpx5nu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sunday Preview – Dare you enter the Tomb World?]]></title>
@@ -188,6 +198,17 @@
             <enclosure url="https://assets.warhammer-community.com/40k_salrules-aug20-1-feature-pwthxrdnc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV Official Announce Trailer | Gamescom Opening Night 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ytjhkh85/warhammer-40000-dawn-of-war-iv-official-announce-trailer-gamescom-opening-night-2025</link>
+            <guid>ytjhkh85</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[At last, back to war! Warhammer 40,000: Dawn of War IV officially revealed during Gamescom Opening Night Live 2025!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dow4_thumbnail_cgi_template_v4_1920x1080-djqgkjynwr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Warhammer 40,000: Dawn of War IV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l8pdgqps/warhammer-40000-dawn-of-war-iv</link>
             <guid>l8pdgqps</guid>
@@ -261,32 +282,6 @@
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/li_liberstrategia-aug18-1-feature-dwlbxvqfpp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Miao Ying raises a storm in the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ceirqemh/sunday-preview-miao-ying-raises-a-storm-in-the-old-world</link>
-            <guid>ceirqemh</guid>
-            <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus new units for Legions Imperialis.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug17-1-feature-zdf6ts7lg4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Cannibal courts and restless spirits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/h10nf8mw/saturday-pre-orders-cannibal-courts-and-restless-spirits</link>
-            <guid>h10nf8mw</guid>
-            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Death awaits in the Age of Sigmar.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-aug16-1-feature-wdgxvsdhsw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
