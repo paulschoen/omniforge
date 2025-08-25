@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 24 Aug 2025 17:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 09:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pick from two amazing diorama miniatures by subscribing to Warhammer+ this year]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8epcgs0h/pick-from-two-amazing-diorama-miniatures-by-subscribing-to-warhammer-this-year</link>
+            <guid>8epcgs0h</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More Warhammer+ incoming.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus_newyear-aug25-1-feature-nakjbqkmk1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Dare you enter the Tomb World?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g9yodfir/sunday-preview-dare-you-enter-the-tomb-world</link>
@@ -128,6 +139,18 @@
             <enclosure url="https://assets.warhammer-community.com/aos_nostalgia3-aug20-1-feature-ibusrgjbno.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sigmar's Toll: Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lt5cuxdv/sigmars-toll-official-trailer-warhammer-warhammer-age-of-sigmar</link>
+            <guid>lt5cuxdv</guid>
+            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Mortal Realms are reeling in the wake of the Gnaw – the Skaven’s invasion of Aqshy. Can visions from Sigmar himself lead his faithful to a reprieve? Find out in this new original Warhammer animation]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01748_teaser-thumbnail-1-copy-qnrzrwvkah.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Sigmar’s Toll – Watch the teaser for the latest Warhammer animation]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lkuibigz/sigmars-toll-watch-the-teaser-for-the-latest-warhammer-animation</link>
             <guid>lkuibigz</guid>
@@ -185,6 +208,16 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathaydragonlore-aug19-1-feature-cc3p2rcloj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Ways to Paint PLASMA Effects | Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zpdq4lpk/3-ways-to-paint-plasma-effects-warhammer-the-horus-heresy</link>
+            <guid>zpdq4lpk</guid>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We have a triple whammy today as Dan shows you how to paint plasma effects on the plasma bombards wielded by the mighty Saturnine Terminators – but you don’t have to stop there. These tips will work for all of your plasma weapons, letting you overcharge your painting skills.]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-plasma5-hyyjwsxcbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 19th of August]]></title>
@@ -254,42 +287,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-aug16-1-feature-wdgxvsdhsw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chief Undead Officers – Who’s the best Mortarch to work for in the Mortal Realms?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jwtdzjis/chief-undead-officers-whos-the-best-mortarch-to-work-for-in-the-mortal-realms</link>
-            <guid>jwtdzjis</guid>
-            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Workplace reviews of Nagash’s four main divisions.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_worstbosses-aug15-1-feature-glmuy9t7am.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride roughshod over your foes and summon Nagash from the ether with new Nighthaunt Armies of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqnmt55k/ride-roughshod-over-your-foes-and-summon-nagash-from-the-ether-with-new-nighthaunt-armies-of-renown</link>
-            <guid>wqnmt55k</guid>
-            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Share the frights with Regiments of Renown.]]></description>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nighthauntror-aug15-1-feature-ukx7ecysyh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What if Revenant Draconith joined the other Mortarchs of Death? Warhammer Community breaks out the bits box]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5qrpauyk/what-if-revenant-draconith-joined-the-other-mortarchs-of-death-warhammer-community-breaks-out-the-bits-box</link>
-            <guid>5qrpauyk</guid>
-            <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Customising our undead dragons.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_deathdraconiths-aug15-1-feature-mrzktiqdrx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
