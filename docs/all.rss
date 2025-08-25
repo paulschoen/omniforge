@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 Aug 2025 13:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 14:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team Communicatus – The Warhammer Community team paint the Deathwatch]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vftonolg/kill-team-communicatus-the-warhammer-community-team-paint-the-deathwatch</link>
+            <guid>vftonolg</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It takes a village…]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_teamdeathwatch-aug25-1-feature-5lbaq4dqlq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The new Deathwatch kill team is packed with specialists and shoulder pads]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ernhblyw/the-new-deathwatch-kill-team-is-packed-with-specialists-and-shoulder-pads</link>
@@ -274,16 +286,6 @@
             <category domain="space-wolves">Space Wolves</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_mto-aug18-1-feature-b9zijqca82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Begin your conquest of the Age of Darkness with new Combat Forces]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2yehwjta/begin-your-conquest-of-the-age-of-darkness-with-new-combat-forces</link>
-            <guid>2yehwjta</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Easy ways to start your Warhammer: The Horus Heresy collection.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_combatforces-aug18-1-feature-3ipaqjqrpi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
