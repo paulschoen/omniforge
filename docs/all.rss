@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 Aug 2025 12:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 13:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Touchline Tactics – How to counter common plays]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/buo482id/touchline-tactics-how-to-counter-common-plays</link>
+            <guid>buo482id</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More tactical advice to turn green coaches into seasoned veterans.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_tacticcounters-aug26-1-feature-03kza0uldi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 26th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qniabdog/the-rumour-engine-26th-of-august</link>
@@ -274,17 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dow_trailer-aug19-1-feature-oczdtmibp4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – What prompts the stoic Miao Ying to travel to the Old World?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/harhjltg/old-world-almanack-what-prompts-the-stoic-miao-ying-to-travel-to-the-old-world</link>
-            <guid>harhjltg</guid>
-            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The armies of Grand Cathay are unheard of in the Old World.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_cathaydragonlore-aug19-1-feature-cc3p2rcloj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
