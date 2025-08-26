@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 Aug 2025 14:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 10:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A massive Warcry update paves the way for the Helsmiths of Hashut]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r8cdyjiv/a-massive-warcry-update-paves-the-way-for-the-helsmiths-of-hashut</link>
+            <guid>r8cdyjiv</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Points, errata, and new fighters.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warcry">Warcry</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wc_rulesupdate-aug22-1-feature-agorgdwrhq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team Communicatus – The Warhammer Community team paint the Deathwatch]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vftonolg/kill-team-communicatus-the-warhammer-community-team-paint-the-deathwatch</link>
@@ -273,19 +284,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-aug19-1-feature-3esdyysrpz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reinforce your shelves – Classic Emperor’s Children, Aeldari, and Space Wolves are going Made to Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9fkzbnbc/reinforce-your-shelves-classic-emperors-children-aeldari-and-space-wolves-are-going-made-to-order</link>
-            <guid>9fkzbnbc</guid>
-            <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Old favourites are returning for a brief time.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_mto-aug18-1-feature-b9zijqca82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
