@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 Aug 2025 10:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 11:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Weathering Extra Small Mastodons | Warhammer: The Horus Heresy – Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zkhvvenu/weathering-extra-small-mastodons-warhammer-the-horus-heresy-legions-imperialis</link>
+            <guid>zkhvvenu</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Weathering is a great way to enhance your miniatures and works for even the smallest of vehicles. Follow Dan as he tackles how to add battle damage to the tiniest of tanks, with techniques that can also be used on any miniature in your collection!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01202---legions-imperialis---mastodons-thumbnail-0vonei1lhk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A massive Warcry update paves the way for the Helsmiths of Hashut]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r8cdyjiv/a-massive-warcry-update-paves-the-way-for-the-helsmiths-of-hashut</link>
@@ -274,16 +285,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-plasma5-hyyjwsxcbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 19th of August]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august</link>
-            <guid>ajkpd36j</guid>
-            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-aug19-1-feature-3esdyysrpz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
