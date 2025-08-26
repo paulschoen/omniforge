@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 Aug 2025 11:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 12:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 26th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qniabdog/the-rumour-engine-26th-of-august</link>
+            <guid>qniabdog</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-aug26-1-feature-2oagmzfaq7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weathering Extra Small Mastodons | Warhammer: The Horus Heresy – Legions Imperialis]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/zkhvvenu/weathering-extra-small-mastodons-warhammer-the-horus-heresy-legions-imperialis</link>
@@ -275,16 +285,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_cathaydragonlore-aug19-1-feature-cc3p2rcloj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Ways to Paint PLASMA Effects | Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zpdq4lpk/3-ways-to-paint-plasma-effects-warhammer-the-horus-heresy</link>
-            <guid>zpdq4lpk</guid>
-            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We have a triple whammy today as Dan shows you how to paint plasma effects on the plasma bombards wielded by the mighty Saturnine Terminators – but you don’t have to stop there. These tips will work for all of your plasma weapons, letting you overcharge your painting skills.]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-plasma5-hyyjwsxcbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
