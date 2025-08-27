@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 27 Aug 2025 13:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 14:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Killzone Tomb World – Dare you enter the Necrons’ domain?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r3fnsbz1/killzone-tomb-world-dare-you-enter-the-necrons-domain</link>
+            <guid>r3fnsbz1</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[An awakening tomb complex is no place for the faint of heart.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="necrons">Necrons</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_twkillzone-aug27-1-feature-rndvkliq5z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[History of Warhammer Age of Sigmar – The Hour of Ruin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5rbh6wc0/history-of-warhammer-age-of-sigmar-the-hour-of-ruin</link>
@@ -270,17 +281,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sigmarstoll_trailer-aug20-1-feature-lwbzo685ua.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 balance update – Knights and Death Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pundog9r/warhammer-40000-balance-update-knights-and-death-guard</link>
-            <guid>pundog9r</guid>
-            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A small rules update.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_minibalancedataslate-aug20-1-feature-im8n7saxrn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
