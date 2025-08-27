@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 27 Aug 2025 14:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 15:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV Autumn Season 2025 Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/idxtd6vy/warhammer-tv-autumn-season-2025-trailer</link>
+            <guid>idxtd6vy</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season of Warhammer TV's on the way! Get the lowdown at WarhammerPlus.com.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus2025-thumb-3zh729qy99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Killzone Tomb World – Dare you enter the Necrons’ domain?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r3fnsbz1/killzone-tomb-world-dare-you-enter-the-necrons-domain</link>
@@ -269,18 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01748_teaser-thumbnail-1-copy-qnrzrwvkah.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar’s Toll – Watch the teaser for the latest Warhammer animation]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lkuibigz/sigmars-toll-watch-the-teaser-for-the-latest-warhammer-animation</link>
-            <guid>lkuibigz</guid>
-            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The all-new Age of Sigmar animation coming to Warhammer+ soon.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_trailer-aug20-1-feature-lwbzo685ua.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
