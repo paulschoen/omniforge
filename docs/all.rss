@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 Aug 2025 15:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 13:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[History of Warhammer Age of Sigmar – The Hour of Ruin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5rbh6wc0/history-of-warhammer-age-of-sigmar-the-hour-of-ruin</link>
+            <guid>5rbh6wc0</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We arrive at the present in our retrospective.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia4-aug27-1-feature-adrqlaqxiq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Master of Rites Ferren Areios revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j7xzluuv/master-of-rites-ferren-areios-revealed</link>
@@ -31,6 +41,16 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_tacticcounters-aug26-1-feature-03kza0uldi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer: Vermintide 2 - Feast of Grimnir | Release Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/l4svwa1t/warhammer-vermintide-2-feast-of-grimnir-release-trailer</link>
+            <guid>l4svwa1t</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Feast of Grimnir is a brand new, limited time, annually recurring event. This year’s event begins August 26 and will last until September 14. For the duration of the event, the new event level, ‘The Feast of Grimnir’, will be accessible via the Weekly Event Game Mode. Play the level to complete event specific Okri’s quests and unlock rewards!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/fog_yt_thumbnail_release-cbrdhr21ml.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 26th of August]]></title>
@@ -261,31 +281,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_minibalancedataslate-aug20-1-feature-im8n7saxrn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salamanders heroes lead a fantastic and pyroclastic Combat Patrol and free Detachment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zza9h3tg/salamanders-heroes-lead-a-fantastic-and-pyroclastic-combat-patrol-and-free-detachment</link>
-            <guid>zza9h3tg</guid>
-            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Vulkan He’stan and Adrax Agatone bring the heat.]]></description>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="downloads">Downloads</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="combat-patrol">Combat Patrol</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_salrules-aug20-1-feature-pwthxrdnc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV Official Announce Trailer | Gamescom Opening Night 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ytjhkh85/warhammer-40000-dawn-of-war-iv-official-announce-trailer-gamescom-opening-night-2025</link>
-            <guid>ytjhkh85</guid>
-            <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[At last, back to war! Warhammer 40,000: Dawn of War IV officially revealed during Gamescom Opening Night Live 2025!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dow4_thumbnail_cgi_template_v4_1920x1080-djqgkjynwr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
