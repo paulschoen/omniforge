@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 28 Aug 2025 12:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 13:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Imperialis Militia – Download this free PDF army list]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z9ikifym/imperialis-militia-download-this-free-pdf-army-list</link>
+            <guid>z9ikifym</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The army for kitbashers returns to the Age of Darkness.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_militia-aug28-1-feature-tnah9pnx9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The last Warhammer World events of 2025 end the year with a bang]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8yrfast4/the-last-warhammer-world-events-of-2025-end-the-year-with-a-bang</link>
@@ -270,16 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lovfaction-1-feature-nzfzuezq8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[History of Warhammer Age of Sigmar – The Era of the Beast and the Dawnbringer Crusades]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qbtsnnzj/history-of-warhammer-age-of-sigmar-the-era-of-the-beast-and-the-dawnbringer-crusades</link>
-            <guid>qbtsnnzj</guid>
-            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The focus shifts to Ghur while plans are made in the dark.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia3-aug20-1-feature-ibusrgjbno.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
