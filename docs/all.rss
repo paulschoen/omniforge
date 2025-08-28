@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 28 Aug 2025 13:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 14:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New weapons, new missions, new class – The Year Two roadmap for Space Marine 2 is here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mvqf6igw/new-weapons-new-missions-new-class-the-year-two-roadmap-for-space-marine-2-is-here</link>
+            <guid>mvqf6igw</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s plenty more to come from Lieutenant Titus.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update-aug28-1-feature-7vc84kaaku.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imperialis Militia – Download this free PDF army list]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z9ikifym/imperialis-militia-download-this-free-pdf-army-list</link>
@@ -270,17 +282,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_dropsite-aug21-1-feature-bju2cudy2m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Leagues of Votann army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-leagues-of-votann-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>w7eootuv</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the resilient pioneers of the galactic core.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lovfaction-1-feature-nzfzuezq8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
