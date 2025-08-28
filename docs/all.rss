@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 27 Aug 2025 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 12:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The last Warhammer World events of 2025 end the year with a bang]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8yrfast4/the-last-warhammer-world-events-of-2025-end-the-year-with-a-bang</link>
+            <guid>8yrfast4</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the resilient pioneers of the galactic core.]]></description>
+            <category domain="events">Events</category>
+            <category domain="nova-open">NOVA Open</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-aug28-1-feature-co9nho2frb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV Autumn Season 2025 Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/idxtd6vy/warhammer-tv-autumn-season-2025-trailer</link>
@@ -268,18 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_nostalgia3-aug20-1-feature-ibusrgjbno.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar's Toll: Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lt5cuxdv/sigmars-toll-official-trailer-warhammer-warhammer-age-of-sigmar</link>
-            <guid>lt5cuxdv</guid>
-            <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Mortal Realms are reeling in the wake of the Gnaw – the Skaven’s invasion of Aqshy. Can visions from Sigmar himself lead his faithful to a reprieve? Find out in this new original Warhammer animation]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01748_teaser-thumbnail-1-copy-qnrzrwvkah.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
