@@ -4,13 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 29 Aug 2025 12:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 15:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Tomb World – How the new season stacks up according to Kill Team experts Squad Games]]></title>
+            <title><![CDATA[Perils of a tomb world – Close quarters Kill Team explained for novitiate commanders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jfyibpce/perils-of-a-tomb-world-close-quarters-kill-team-explained-for-novitiate-commanders</link>
+            <guid>jfyibpce</guid>
+            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to fight in cramped corridors and tunnels]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_closequarters-aug29-1-feature-yndzqkp5aw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tomb World – How the new season stacks up according to Kill Team expert]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lyczjxkf/tomb-world-how-the-new-season-stacks-up-according-to-kill-team-experts-squad-games</link>
             <guid>lyczjxkf</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
@@ -273,16 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_nhfiction-aug22-1-feature-mharzikk70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legions of the Mechanicum – Four fancy Forge World forces]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7qdvbegj/legions-of-the-mechanicum-four-fancy-forge-world-forces</link>
-            <guid>7qdvbegj</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Legions Imperialis armies from members of the Warhammer Studio.]]></description>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/li_sdsmechanicum-aug22-1-feature-7i4oaclmpc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
