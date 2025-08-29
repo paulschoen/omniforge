@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 28 Aug 2025 14:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 09:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -43,6 +43,28 @@
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-aug28-1-feature-co9nho2frb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 - Year 2 Roadmap Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fa3ojitm/warhammer-40000-space-marine-2-year-2-roadmap-trailer</link>
+            <guid>fa3ojitm</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to reveal their Year 2 plans for their multi-million seller Warhammer 40,000: Space Marine 2, starting with the release of the game’s Anniversary Update on September 4.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_year-2-trailere_thumbnail_1920x1080_v1-(1)-zjwmdaib8z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dark Heresy in a Nutshell | Warhammer 40,000: Dark Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s1vydia0/dark-heresy-in-a-nutshell-warhammer-40000-dark-heresy</link>
+            <guid>s1vydia0</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dive into the very essence of Warhammer 40,000: Dark Heresy — learn more about our future title with the video that we've managed to get from the closed archives!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/_en_1920x1080_dh-wyfgkjuvlp.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Warhammer TV Autumn Season 2025 Trailer]]></title>
@@ -260,28 +282,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_stormdragonsnotes-aug21-1-feature-ei4ol4cjtz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ Notes – How we made the Gundabad™ Catapult Troll]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4bf3qmed/designers-notes-how-we-made-the-gundabadtm-catapult-troll</link>
-            <guid>4bf3qmed</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest monster joins Middle-earth™.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_catapulttroll-aug21-1-feature-ofm2behafr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dropsite Massacre – A new perspective in the latest Black Library novel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/raonxeh6/the-dropsite-massacre-a-new-perspective-in-the-latest-black-library-novel</link>
-            <guid>raonxeh6</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A crucial tale retold.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_dropsite-aug21-1-feature-bju2cudy2m.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
