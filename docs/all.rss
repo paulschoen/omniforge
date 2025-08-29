@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 29 Aug 2025 09:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 12:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tomb World – How the new season stacks up according to Kill Team experts Squad Games]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lyczjxkf/tomb-world-how-the-new-season-stacks-up-according-to-kill-team-experts-squad-games</link>
+            <guid>lyczjxkf</guid>
+            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Expert opinion from the YouTubers.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="necrons">Necrons</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_tombexpert-aug26-1-feature-uaqgylspl7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New weapons, new missions, new class – The Year Two roadmap for Space Marine 2 is here]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mvqf6igw/new-weapons-new-missions-new-class-the-year-two-roadmap-for-space-marine-2-is-here</link>
@@ -270,18 +283,6 @@
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/li_sdsmechanicum-aug22-1-feature-7i4oaclmpc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Dawn of the Storm Dragon designer’s notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m9oewqqh/old-world-almanack-dawn-of-the-storm-dragon-designers-notes</link>
-            <guid>m9oewqqh</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming in the latest softback supplement?]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_stormdragonsnotes-aug21-1-feature-ei4ol4cjtz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
