@@ -4,11 +4,27 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 30 Aug 2025 17:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Aug 2025 17:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Knights, ravens, and robots]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b2ijmqp4/sunday-preview-knights-ravens-and-robots</link>
+            <guid>b2ijmqp4</guid>
+            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug31-1-feature-ooidca4vbs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The tomb world wakes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g9yodfir/saturday-pre-orders-the-tomb-world-wakes</link>
@@ -271,19 +287,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-aug23-1-feature-gzadyf0x3q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forged in flame – One painter’s journey with the Salamanders]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fmyokoz2/forged-in-flame-one-painters-journey-with-the-salamanders</link>
-            <guid>fmyokoz2</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A massive force from the boys in green.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_mikesal-aug22-1-feature-cvkdtrkgkq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
