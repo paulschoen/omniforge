@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Sep 2025 13:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Good news, sports fans – a new edition of Blood Bowl is coming!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/52ithq8u/good-news-sports-fans-a-new-edition-of-blood-bowl-is-coming</link>
+            <guid>52ithq8u</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the video to learn more and prepare for fresh madcap antics in your quest for gridiron glory.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_thumnail-xzjopw178h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blood Bowl returns for a new season of mayhem]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gikf8db9/blood-bowl-returns-for-a-new-season-of-mayhem</link>
+            <guid>gikf8db9</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The beautiful game gets even better.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_reveal-sep01-1-feature-k0fw7y7dqq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Embrace the skies with a free Kharadron miniature of the month and Realm of Light coin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/za7sjl8s/embrace-the-skies-with-a-free-kharadron-miniature-of-the-month-and-realm-of-light-coin</link>
@@ -259,27 +282,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_dwkitfocus-aug25-1-feature-23tke9ryjt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pick from two amazing diorama miniatures by subscribing to Warhammer+ this year]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8epcgs0h/pick-from-two-amazing-diorama-miniatures-by-subscribing-to-warhammer-this-year</link>
-            <guid>8epcgs0h</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More Warhammer+ incoming.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus_newyear-aug25-1-feature-nakjbqkmk1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join Warhammer's Ultimate Subscription Service – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lafyh5on/join-warhammers-ultimate-subscription-service-warhammer</link>
-            <guid>lafyh5on</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New shows, new miniatures, new benefits! We’re kicking off a new year on Warhammer+ with a look-ahead at what’s in store for subscribers.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01782-wh--renewal-4kqmzpx5nu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
