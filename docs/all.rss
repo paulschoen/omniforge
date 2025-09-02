@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Sep 2025 10:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 12:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 2nd of September]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bjt7alwf/the-rumour-engine-2nd-of-september</link>
+            <guid>bjt7alwf</guid>
+            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-sep2-1-feature-6ym6xwcmj8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Batch Painting Tips with Jade Warriors | Warhammer: The Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/anygmban/batch-painting-tips-with-jade-warriors-warhammer-the-old-world</link>
@@ -269,18 +279,6 @@
             <category domain="warcry">Warcry</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wc_rulesupdate-aug22-1-feature-agorgdwrhq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Communicatus – The Warhammer Community team paint the Deathwatch]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vftonolg/kill-team-communicatus-the-warhammer-community-team-paint-the-deathwatch</link>
-            <guid>vftonolg</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It takes a village…]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="deathwatch">Deathwatch</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_teamdeathwatch-aug25-1-feature-5lbaq4dqlq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
