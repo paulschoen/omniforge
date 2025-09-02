@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Sep 2025 12:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 13:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Imperial Knights Detachments – Quest forever to defend the heartland]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m4d5c76b/imperial-knights-detachments-quest-forever-to-defend-the-heartland</link>
+            <guid>m4d5c76b</guid>
+            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imperial Knights Detachments – Quest forever to defend the heartland]]></description>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_imperialknightdetachments-sep02-1-feature-je3ej1k9ts.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 2nd of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bjt7alwf/the-rumour-engine-2nd-of-september</link>
@@ -268,17 +279,6 @@
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01202---legions-imperialis---mastodons-thumbnail-0vonei1lhk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A massive Warcry update paves the way for the Helsmiths of Hashut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r8cdyjiv/a-massive-warcry-update-paves-the-way-for-the-helsmiths-of-hashut</link>
-            <guid>r8cdyjiv</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Points, errata, and new fighters.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warcry">Warcry</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wc_rulesupdate-aug22-1-feature-agorgdwrhq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
