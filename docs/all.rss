@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Sep 2025 12:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 13:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Let us speak of Hashut, the Father of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r1q1vbov/let-us-speak-of-hashut-the-father-of-darkness</link>
+            <guid>r1q1vbov</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The one true ancestor god?]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whoishashut-sep3-1-feature-c7wdnjyno1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV this week – A Tale of Four Gamers kicks off a new journey through the Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2htbuihx/warhammer-tv-this-week-a-tale-of-four-gamers-kicks-off-a-new-journey-through-the-horus-heresy</link>
@@ -272,16 +283,6 @@
             <category domain="ultramarines">Ultramarines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature-1756219323-vh05bvtrtk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Touchline Tactics – How to counter common plays]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/buo482id/touchline-tactics-how-to-counter-common-plays</link>
-            <guid>buo482id</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More tactical advice to turn green coaches into seasoned veterans.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_tacticcounters-aug26-1-feature-03kza0uldi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
