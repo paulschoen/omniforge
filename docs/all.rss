@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Sep 2025 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 12:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV this week – A Tale of Four Gamers kicks off a new journey through the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2htbuihx/warhammer-tv-this-week-a-tale-of-four-gamers-kicks-off-a-new-journey-through-the-horus-heresy</link>
+            <guid>2htbuihx</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus an interview with ’Eavy Metal master Damien and a closer look at Saturnine tech.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-sep3-1-feature-45tgpqn7ok.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The gigantic JOYTOY Imperial Knight visits Warhammer World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cszyuvzz/the-gigantic-joytoy-imperial-knight-visits-warhammer-world</link>
@@ -272,16 +282,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_tacticcounters-aug26-1-feature-03kza0uldi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: Vermintide 2 - Feast of Grimnir | Release Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/l4svwa1t/warhammer-vermintide-2-feast-of-grimnir-release-trailer</link>
-            <guid>l4svwa1t</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Feast of Grimnir is a brand new, limited time, annually recurring event. This year’s event begins August 26 and will last until September 14. For the duration of the event, the new event level, ‘The Feast of Grimnir’, will be accessible via the Weekly Event Game Mode. Play the level to complete event specific Okri’s quests and unlock rewards!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/fog_yt_thumbnail_release-cbrdhr21ml.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
