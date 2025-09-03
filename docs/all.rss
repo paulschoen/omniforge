@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Sep 2025 14:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 15:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The future of Age of Sigmar – Can you work out what’s coming next?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next</link>
+            <guid>bse9qadn</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Four teasers for what’s on the way.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia5-sep3-1-feature-i8kyhh11nb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Darnath Lysander: Captain of the First Company]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ysq9tys7/darnath-lysander-captain-of-the-first-company</link>
@@ -272,16 +282,6 @@
             <category domain="necrons">Necrons</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_twkillzone-aug27-1-feature-rndvkliq5z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[History of Warhammer Age of Sigmar – The Hour of Ruin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5rbh6wc0/history-of-warhammer-age-of-sigmar-the-hour-of-ruin</link>
-            <guid>5rbh6wc0</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We arrive at the present in our retrospective.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia4-aug27-1-feature-adrqlaqxiq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
