@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Sep 2025 13:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 14:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Darnath Lysander: Captain of the First Company]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ysq9tys7/darnath-lysander-captain-of-the-first-company</link>
+            <guid>ysq9tys7</guid>
+            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who is this embodiment of Rogal Dorn?]]></description>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lysanderlore-sep03-1-feature-rrwxnzsgyo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Let us speak of Hashut, the Father of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r1q1vbov/let-us-speak-of-hashut-the-father-of-darkness</link>
@@ -270,19 +282,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_nostalgia4-aug27-1-feature-adrqlaqxiq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master of Rites Ferren Areios revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j7xzluuv/master-of-rites-ferren-areios-revealed</link>
-            <guid>j7xzluuv</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Black Library hero makes the leap from book to the tabletop]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature-1756219323-vh05bvtrtk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
