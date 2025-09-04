@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Sep 2025 12:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 13:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Imperial Knights on Crusade – Develop your pilots and upgrade their Knight]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r11vulxz/imperial-knights-on-crusade-develop-your-pilots-and-upgrade-their-knight</link>
+            <guid>r11vulxz</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Level up in a narrative Crusade campaign.]]></description>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_imperialknightcrusade-sep04-1-feature-lsmuzrbjn3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Who are the Helsmiths of Hashut?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cdfuejhk/who-are-the-helsmiths-of-hashut</link>
@@ -270,17 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_year-2-trailere_thumbnail_1920x1080_v1-(1)-zjwmdaib8z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dark Heresy in a Nutshell | Warhammer 40,000: Dark Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s1vydia0/dark-heresy-in-a-nutshell-warhammer-40000-dark-heresy</link>
-            <guid>s1vydia0</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dive into the very essence of Warhammer 40,000: Dark Heresy — learn more about our future title with the video that we've managed to get from the closed archives!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/_en_1920x1080_dh-wyfgkjuvlp.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
