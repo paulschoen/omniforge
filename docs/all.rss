@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Sep 2025 13:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – Wrath Enshadowed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uessvkli/heroes-of-the-first-founding-wrath-enshadowed</link>
+            <guid>uessvkli</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Aethon Shaan strikes from the shadows.]]></description>
+            <category domain="raven-guard">Raven Guard</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_shaanstory-sep04-1-feature-hw2mwkdb2q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imperial Knights on Crusade – Develop your pilots and upgrade their Knight]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r11vulxz/imperial-knights-on-crusade-develop-your-pilots-and-upgrade-their-knight</link>
@@ -270,17 +283,6 @@
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-aug28-1-feature-co9nho2frb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 - Year 2 Roadmap Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fa3ojitm/warhammer-40000-space-marine-2-year-2-roadmap-trailer</link>
-            <guid>fa3ojitm</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to reveal their Year 2 plans for their multi-million seller Warhammer 40,000: Space Marine 2, starting with the release of the game’s Anniversary Update on September 4.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_year-2-trailere_thumbnail_1920x1080_v1-(1)-zjwmdaib8z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
