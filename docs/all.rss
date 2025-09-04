@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Sep 2025 10:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 12:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Who are the Helsmiths of Hashut?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cdfuejhk/who-are-the-helsmiths-of-hashut</link>
+            <guid>cdfuejhk</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The infernal origins of the Zharrdron.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithslore-sep03-1-feature-0i9q8cpykt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Daemons of the Ruinstorm – Download the free PDF army list]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5cqf0kgx/daemons-of-the-ruinstorm-download-the-free-pdf-army-list</link>
@@ -271,17 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/_en_1920x1080_dh-wyfgkjuvlp.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Autumn Season 2025 Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/idxtd6vy/warhammer-tv-autumn-season-2025-trailer</link>
-            <guid>idxtd6vy</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season of Warhammer TV's on the way! Get the lowdown at WarhammerPlus.com.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="animations">Animations</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus2025-thumb-3zh729qy99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
