@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Sep 2025 15:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 17:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -222,6 +222,16 @@
             <enclosure url="https://assets.warhammer-community.com/wd516-sep01-1-feature-phvfuj5jmk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kill Team: Approved Ops Card Pack for pre-order this weekend]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ftsnpjp1/kill-team-approved-ops-card-pack-for-pre-order-this-weekend</link>
+            <guid>ftsnpjp1</guid>
+            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Generate fair and fun matches to use in casual and competitive games]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
+        </item>
+        <item>
             <title><![CDATA[Sunday Preview – Knights, ravens, and robots]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/b2ijmqp4/sunday-preview-knights-ravens-and-robots</link>
             <guid>b2ijmqp4</guid>
@@ -272,18 +282,6 @@
             <category domain="necrons">Necrons</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_tombexpert-aug26-1-feature-uaqgylspl7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New weapons, new missions, new class – The Year Two roadmap for Space Marine 2 is here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mvqf6igw/new-weapons-new-missions-new-class-the-year-two-roadmap-for-space-marine-2-is-here</link>
-            <guid>mvqf6igw</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s plenty more to come from Lieutenant Titus.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-aug28-1-feature-7vc84kaaku.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
