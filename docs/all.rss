@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Sep 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 15:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 Anniversary Update Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/vrdkpkrz/warhammer-40000-space-marine-2-anniversary-update-trailer</link>
+            <guid>vrdkpkrz</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s Anniversary Update brings two new game modes, new maps for the Operations and Eternal War modes, weapons, enemies and more!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_patch-10_thumbnail_1920x1080_v9-xypwac4png.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 celebrates one year with its biggest update yet]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gyfk7xmx/warhammer-40000-space-marine-2-celebrates-one-year-with-its-biggest-update-yet</link>
+            <guid>gyfk7xmx</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Patch 10 is bursting with good stuff.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_patch10-sep04-1-feature-e8tbpbdsdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – Wrath Enshadowed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uessvkli/heroes-of-the-first-founding-wrath-enshadowed</link>
@@ -260,29 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_update-aug28-1-feature-7vc84kaaku.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imperialis Militia – Download this free PDF army list]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9ikifym/imperialis-militia-download-this-free-pdf-army-list</link>
-            <guid>z9ikifym</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The army for kitbashers returns to the Age of Darkness.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_militia-aug28-1-feature-tnah9pnx9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The last Warhammer World events of 2025 end the year with a bang]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8yrfast4/the-last-warhammer-world-events-of-2025-end-the-year-with-a-bang</link>
-            <guid>8yrfast4</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the resilient pioneers of the galactic core.]]></description>
-            <category domain="events">Events</category>
-            <category domain="nova-open">NOVA Open</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-aug28-1-feature-co9nho2frb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
