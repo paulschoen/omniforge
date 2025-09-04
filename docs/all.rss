@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Sep 2025 15:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 10:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Daemons of the Ruinstorm – Download the free PDF army list]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5cqf0kgx/daemons-of-the-ruinstorm-download-the-free-pdf-army-list</link>
+            <guid>5cqf0kgx</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Things are about to get weird…]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_daemonsruinstorm-sep04-1-feature-6ap9bjr0zp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The future of Age of Sigmar – Can you work out what’s coming next?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next</link>
@@ -271,17 +282,6 @@
             <category domain="animations">Animations</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/whplus2025-thumb-3zh729qy99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Killzone Tomb World – Dare you enter the Necrons’ domain?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r3fnsbz1/killzone-tomb-world-dare-you-enter-the-necrons-domain</link>
-            <guid>r3fnsbz1</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[An awakening tomb complex is no place for the faint of heart.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="necrons">Necrons</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_twkillzone-aug27-1-feature-rndvkliq5z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
