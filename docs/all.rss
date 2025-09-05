@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Sep 2025 14:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 15:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Raven Guard showcase – Aethon Shaan steps up to lead his Chapter]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zjmflbbk/raven-guard-showcase-aethon-shaan-steps-up-to-lead-his-chapter</link>
+            <guid>zjmflbbk</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A fearsome, snowy battleforce.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_joelrg-sep05-1-feature-powumygmtx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – Dorn’s Avenger]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/srpprcce/heroes-of-the-first-founding-dorns-avenger</link>
@@ -270,19 +283,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug31-1-feature-ooidca4vbs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – The tomb world wakes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g9yodfir/saturday-pre-orders-the-tomb-world-wakes</link>
-            <guid>g9yodfir</guid>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-aug30-1-feature-7s1fexgnap.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
