@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Sep 2025 13:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 14:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – Dorn’s Avenger]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/srpprcce/heroes-of-the-first-founding-dorns-avenger</link>
+            <guid>srpprcce</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Darnath Lysander strides into action in a new piece of short fiction.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lysanderstory-sep05-1-feature-3zsew7t3bv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Helsmiths of Hashut harness the power of caged daemons for a boost on the battlefield]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bbon9z5v/the-helsmiths-of-hashut-harness-the-power-of-caged-daemons-for-a-boost-on-the-battlefield</link>
@@ -271,16 +283,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-aug30-1-feature-7s1fexgnap.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perils of a tomb world – Close quarters Kill Team explained for novitiate commanders]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jfyibpce/perils-of-a-tomb-world-close-quarters-kill-team-explained-for-novitiate-commanders</link>
-            <guid>jfyibpce</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to fight in cramped corridors and tunnels]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_closequarters-aug29-1-feature-yndzqkp5aw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
