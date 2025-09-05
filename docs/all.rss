@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Sep 2025 12:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 13:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Helsmiths of Hashut harness the power of caged daemons for a boost on the battlefield]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bbon9z5v/the-helsmiths-of-hashut-harness-the-power-of-caged-daemons-for-a-boost-on-the-battlefield</link>
+            <guid>bbon9z5v</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Conquer in the name of Hashut.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsrules-sep05-1-feature-3ntn74dulv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Masters of the First Founding – Painting Vulkan He’stan and Aethon Shaan]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kopkvkjx/masters-of-the-first-founding-painting-vulkan-hestan-and-aethon-shaan</link>
@@ -271,19 +281,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_closequarters-aug29-1-feature-yndzqkp5aw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomb World – How the new season stacks up according to Kill Team expert]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lyczjxkf/tomb-world-how-the-new-season-stacks-up-according-to-kill-team-expert</link>
-            <guid>lyczjxkf</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Expert opinion from the YouTubers.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="deathwatch">Deathwatch</category>
-            <category domain="necrons">Necrons</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_tombexpert-aug26-1-feature-uaqgylspl7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
