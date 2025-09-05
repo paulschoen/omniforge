@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Sep 2025 09:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 12:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Masters of the First Founding – Painting Vulkan He’stan and Aethon Shaan]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kopkvkjx/masters-of-the-first-founding-painting-vulkan-hestan-and-aethon-shaan</link>
+            <guid>kopkvkjx</guid>
+            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two new characters join our collections.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_teamfirstfounding-sep05-1-feature-7cuw2sgueh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Space Marine 2 Anniversary Update Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/vrdkpkrz/warhammer-40000-space-marine-2-anniversary-update-trailer</link>
@@ -272,18 +284,6 @@
             <category domain="necrons">Necrons</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_tombexpert-aug26-1-feature-uaqgylspl7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New weapons, new missions, new class – The Year Two roadmap for Space Marine 2 is here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mvqf6igw/new-weapons-new-missions-new-class-the-year-two-roadmap-for-space-marine-2-is-here</link>
-            <guid>mvqf6igw</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s plenty more to come from Lieutenant Titus.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-aug28-1-feature-7vc84kaaku.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
