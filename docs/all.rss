@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Sep 2025 16:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 17:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Imperial Knights and Space Marines head out]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/izblkdqh/saturday-pre-orders-imperial-knights-and-space-marines-head-out</link>
+            <guid>izblkdqh</guid>
+            <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-sep06-1-feature-hymlyvnrfd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The new Warhammer+ subscriber miniatures painted by the team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/36jhdpqf/the-new-warhammer-subscriber-miniatures-painted-by-the-team</link>
@@ -269,16 +282,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-sep01-1-feature-icood9rrrt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 516 – Celebrate 10 years of the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ipwsiqyg/white-dwarf-516-celebrate-10-years-of-the-mortal-realms</link>
-            <guid>ipwsiqyg</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s going on in the next issue?]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd516-sep01-1-feature-phvfuj5jmk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
