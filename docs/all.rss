@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 07 Sep 2025 17:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 11:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Helsmith WAR DESPOT of Hashut | Warhammer Age Of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rtuhquw1/the-helsmith-war-despot-of-hashut-warhammer-age-of-sigmar</link>
+            <guid>rtuhquw1</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[War Despots demand the best, and that’s what’s in store in this video. Join Dan as he paints darkened metals and glowing weapons on this Helsmiths of Hashut miniature, based on the Forge Anathema colour scheme.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01212---helsmiths--war-despot-br--in-main-scheme-thumbnail-bexjafr03c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Helsmiths of Hashut and Necromunda Enforcers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hdrpv0rg/sunday-preview-helsmiths-of-hashut-and-necromunda-enforcers</link>
@@ -274,17 +285,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/bb_thumnail-xzjopw178h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood Bowl returns for a new season of mayhem]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gikf8db9/blood-bowl-returns-for-a-new-season-of-mayhem</link>
-            <guid>gikf8db9</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The beautiful game gets even better.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_reveal-sep01-1-feature-k0fw7y7dqq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
