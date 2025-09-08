@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 08 Sep 2025 11:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 13:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut Designer Interviews – Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/5lvd1ld6/helsmiths-of-hashut-designer-interviews-warhammer-age-of-sigmar</link>
+            <guid>5lvd1ld6</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out all about the fiery Helsmiths of Hashut in this interview with the designers who made them.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01820-helsmiths-of-hashut---bringing-a-faction-to-life---thumbnail---v2-ck2cmhagzz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pour scorn on the foes of Hashut with Daemonsmiths, Bull Centaurs, and Ashen Elders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3kfvbkog/pour-scorn-on-the-foes-of-hashut-with-daemonsmiths-bull-centaurs-and-ashen-elders</link>
+            <guid>3kfvbkog</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules for the Helsmiths’ most devout warriors.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsrules2-sep08-1-feature-c4bhorr3s3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Helsmith WAR DESPOT of Hashut | Warhammer Age Of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/rtuhquw1/the-helsmith-war-despot-of-hashut-warhammer-age-of-sigmar</link>
@@ -262,29 +283,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-sep2-1-feature-6ym6xwcmj8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Batch Painting Tips with Jade Warriors | Warhammer: The Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/anygmban/batch-painting-tips-with-jade-warriors-warhammer-the-old-world</link>
-            <guid>anygmban</guid>
-            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dan paints up five Jade Warriors of Grand Cathay, sharing tips on the art of batch painting along the way!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv011207-thumbnail-kisztigolh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Good news, sports fans – a new edition of Blood Bowl is coming!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/52ithq8u/good-news-sports-fans-a-new-edition-of-blood-bowl-is-coming</link>
-            <guid>52ithq8u</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the video to learn more and prepare for fresh madcap antics in your quest for gridiron glory.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_thumnail-xzjopw178h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
