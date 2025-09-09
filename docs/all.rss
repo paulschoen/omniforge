@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Sep 2025 11:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 12:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bastions of Law designer’s notes – Upholding the Pax Helmawr]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hsvh7ixo/bastions-of-law-designers-notes-upholding-the-pax-helmawr</link>
+            <guid>hsvh7ixo</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The police just got more brutal.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_enforcernotes-sep09-1-feature-yhe0wycjku.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 9th of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-9th-of-september</link>
@@ -272,18 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_ikadventures-sep02-1-feature-ejulooltws.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aethon Shaan: Master of Shadows]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8wocrwoc/aethon-shaan-master-of-shadows</link>
-            <guid>8wocrwoc</guid>
-            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who is the new Chapter Master of the Raven Guard?]]></description>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_shaanlore-sep02-1-feature-m1a8rqos01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
