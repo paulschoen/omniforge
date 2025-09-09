@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Sep 2025 12:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 13:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Helsmiths of Hashut: Forged in fire, built for victory]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l9lrl7je/the-helsmiths-of-hashut-forged-in-fire-built-for-victory</link>
+            <guid>l9lrl7je</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s Anthony Magro from AoS Coach to explain more about his favourite parts of the new battletome.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsinfluencer-sep09-1-feature-nlj7gxmkqh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bastions of Law designer’s notes – Upholding the Pax Helmawr]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hsvh7ixo/bastions-of-law-designers-notes-upholding-the-pax-helmawr</link>
@@ -270,18 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-sep3-1-feature-45tgpqn7ok.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The gigantic JOYTOY Imperial Knight visits Warhammer World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cszyuvzz/the-gigantic-joytoy-imperial-knight-visits-warhammer-world</link>
-            <guid>cszyuvzz</guid>
-            <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow our Knight through Warhammer HQ and enter a prize draw to win one.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_ikadventures-sep02-1-feature-ejulooltws.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
