@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Sep 2025 13:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut round table – The desolate dawn of these dark duardin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bwkmlmwq/helsmiths-of-hashut-round-table-the-desolate-dawn-of-these-dark-duardin</link>
+            <guid>bwkmlmwq</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Part one of our Helsmiths interview.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable1-sep09-1-feature-keya8gui6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Helsmiths of Hashut: Forged in fire, built for victory]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l9lrl7je/the-helsmiths-of-hashut-forged-in-fire-built-for-victory</link>
@@ -270,16 +281,6 @@
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whoishashut-sep3-1-feature-c7wdnjyno1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV this week – A Tale of Four Gamers kicks off a new journey through the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2htbuihx/warhammer-tv-this-week-a-tale-of-four-gamers-kicks-off-a-new-journey-through-the-horus-heresy</link>
-            <guid>2htbuihx</guid>
-            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus an interview with ’Eavy Metal master Damien and a closer look at Saturnine tech.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-sep3-1-feature-45tgpqn7ok.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
