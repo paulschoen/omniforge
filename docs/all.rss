@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Sep 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 10:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How To Paint Aethon Shaan of the Raven Guard | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kf31zuep/how-to-paint-aethon-shaan-of-the-raven-guard-warhammer-40000</link>
+            <guid>kf31zuep</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[As the Chapter Master of the Raven Guard, Aethon Shaan is one of the most deadly and stealthy of the brothers he commands. Emma is going to show you how to paint him in this video, which can also be used as a guide for painting the rest of your Raven Guard army!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01206---aethon-shaan-br--thumbnail-iy0pufowym.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helsmiths of Hashut round table – The desolate dawn of these dark duardin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bwkmlmwq/helsmiths-of-hashut-round-table-the-desolate-dawn-of-these-dark-duardin</link>
@@ -270,17 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lysanderlore-sep03-1-feature-rrwxnzsgyo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let us speak of Hashut, the Father of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r1q1vbov/let-us-speak-of-hashut-the-father-of-darkness</link>
-            <guid>r1q1vbov</guid>
-            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The one true ancestor god?]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whoishashut-sep3-1-feature-c7wdnjyno1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
