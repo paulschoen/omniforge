@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Sep 2025 12:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 13:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut round table – The infernal artifice of the new miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lu865rsb/helsmiths-of-hashut-round-table-the-infernal-artifice-of-the-new-miniatures</link>
+            <guid>lu865rsb</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Part two of our Helsmiths interview.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable2-sep10-1-feature-bvav1yai2l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Claim Your Warhammer+ Miniature | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/8c4s03n0/how-to-claim-your-warhammer-miniature-warhammer</link>
@@ -273,16 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_imperialknightcrusade-sep04-1-feature-lsmuzrbjn3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who are the Helsmiths of Hashut?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cdfuejhk/who-are-the-helsmiths-of-hashut</link>
-            <guid>cdfuejhk</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The infernal origins of the Zharrdron.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithslore-sep03-1-feature-0i9q8cpykt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
