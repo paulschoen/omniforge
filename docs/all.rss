@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Sep 2025 10:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Sep 2025 12:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Claim Your Warhammer+ Miniature | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8c4s03n0/how-to-claim-your-warhammer-miniature-warhammer</link>
+            <guid>8c4s03n0</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Still need to claim your FREE Warhammer+ miniature? Watch our foolproof guide to securing one of the awesome Year 4 exclusives – Inquisitor Ostromandeus or Marshal Ashfield and Squire Udo. You can even buy the other one so you don’t have to choose between them!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01783_mini-redemption-thumbnail-v2-gwuakpybhw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigmar's Toll: Episode 1 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/drgwf20n/sigmars-toll-episode-1-official-trailer-warhammer-warhammer-age-of-sigmar</link>
+            <guid>drgwf20n</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the aftermath of the Skaven’s incursion into Aqshy, life is bleak in the embattled city of Embergard. Can Sigmar’s visions help Knight-Questor Leodus provide a reprieve for his faithful? Watch the trailer for Episode 1 of Sigmar’s Toll now]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01750_trailer-thumbnail-1-copy-qzygnkidji.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigmar’s Toll: Watch Episode One of this all-new animated series]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8wouckef/sigmars-toll-watch-episode-one-of-this-all-new-animated-series</link>
+            <guid>8wouckef</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The latest tale hits Warhammer TV.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep1-sep10-1-feature-bywyn2kfzk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How To Paint Aethon Shaan of the Raven Guard | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/kf31zuep/how-to-paint-aethon-shaan-of-the-raven-guard-warhammer-40000</link>
@@ -249,39 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithslore-sep03-1-feature-0i9q8cpykt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daemons of the Ruinstorm – Download the free PDF army list]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5cqf0kgx/daemons-of-the-ruinstorm-download-the-free-pdf-army-list</link>
-            <guid>5cqf0kgx</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Things are about to get weird…]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_daemonsruinstorm-sep04-1-feature-6ap9bjr0zp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The future of Age of Sigmar – Can you work out what’s coming next?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next</link>
-            <guid>bse9qadn</guid>
-            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Four teasers for what’s on the way.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_nostalgia5-sep3-1-feature-i8kyhh11nb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Darnath Lysander: Captain of the First Company]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ysq9tys7/darnath-lysander-captain-of-the-first-company</link>
-            <guid>ysq9tys7</guid>
-            <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who is this embodiment of Rogal Dorn?]]></description>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lysanderlore-sep03-1-feature-rrwxnzsgyo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
