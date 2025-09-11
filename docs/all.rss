@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Sep 2025 13:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 12:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[12 simple kitbashes that show why the Munitorum Armoured Container is the best in the business]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cguaxcmw/12-simple-kitbashes-that-show-why-the-munitorum-armoured-container-is-the-best-in-the-business</link>
+            <guid>cguaxcmw</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Creative container conversions.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_munitorumcontainers-sep11-1-feature-vgvraqyikj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helsmiths of Hashut round table – The infernal artifice of the new miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lu865rsb/helsmiths-of-hashut-round-table-the-infernal-artifice-of-the-new-miniatures</link>
@@ -16,6 +27,7 @@
             <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Part two of our Helsmiths interview.]]></description>
             <category domain="interviews">Interviews</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable2-sep10-1-feature-bvav1yai2l.jpg" length="0" type="image/jpg"/>
@@ -73,6 +85,7 @@
             <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Part one of our Helsmiths interview.]]></description>
             <category domain="interviews">Interviews</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable1-sep09-1-feature-keya8gui6f.jpg" length="0" type="image/jpg"/>
@@ -83,6 +96,7 @@
             <guid>l9lrl7je</guid>
             <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Here’s Anthony Magro from AoS Coach to explain more about his favourite parts of the new battletome.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsinfluencer-sep09-1-feature-nlj7gxmkqh.jpg" length="0" type="image/jpg"/>
@@ -221,6 +235,7 @@
             <guid>bbon9z5v</guid>
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Conquer in the name of Hashut.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsrules-sep05-1-feature-3ntn74dulv.jpg" length="0" type="image/jpg"/>
@@ -273,17 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_shaanstory-sep04-1-feature-hw2mwkdb2q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imperial Knights on Crusade – Develop your pilots and upgrade their Knight]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r11vulxz/imperial-knights-on-crusade-develop-your-pilots-and-upgrade-their-knight</link>
-            <guid>r11vulxz</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Level up in a narrative Crusade campaign.]]></description>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_imperialknightcrusade-sep04-1-feature-lsmuzrbjn3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
