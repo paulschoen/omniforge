@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Sep 2025 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 13:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut round table – Deep lore and ’Eavy Metal painting]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3jgzdu40/helsmiths-of-hashut-round-table-deep-lore-and-eavy-metal-painting</link>
+            <guid>3jgzdu40</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Part three of our interview series with the Warhammer Studio.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable3-sep11-1-feature-aediv2jv9j.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12 simple kitbashes that show why the Munitorum Armoured Container is the best in the business]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cguaxcmw/12-simple-kitbashes-that-show-why-the-munitorum-armoured-container-is-the-best-in-the-business</link>
@@ -275,19 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_patch10-sep04-1-feature-e8tbpbdsdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – Wrath Enshadowed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uessvkli/heroes-of-the-first-founding-wrath-enshadowed</link>
-            <guid>uessvkli</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Aethon Shaan strikes from the shadows.]]></description>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_shaanstory-sep04-1-feature-hw2mwkdb2q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
