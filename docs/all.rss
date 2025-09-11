@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Sep 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 15:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Events are coming to more countries than ever this year]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6zojqykb/warhammer-events-are-coming-to-more-countries-than-ever-this-year</link>
+            <guid>6zojqykb</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are official events scheduled around the globe.]]></description>
+            <category domain="events">Events</category>
+            <category domain="las-vegas-open">Las Vegas Open</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldwideevent-sep11-1-feature-urxfp1qcag.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting a Black Templars army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mvsgigdm/starting-a-black-templars-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -275,18 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_teamfirstfounding-sep05-1-feature-7cuw2sgueh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 Anniversary Update Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/vrdkpkrz/warhammer-40000-space-marine-2-anniversary-update-trailer</link>
-            <guid>vrdkpkrz</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today’s Anniversary Update brings two new game modes, new maps for the Operations and Eternal War modes, weapons, enemies and more!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_patch-10_thumbnail_1920x1080_v9-xypwac4png.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
