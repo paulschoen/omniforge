@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Sep 2025 13:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting a Black Templars army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mvsgigdm/starting-a-black-templars-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>mvsgigdm</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the most zealous of the Adeptus Astartes]]></description>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_btfaction-1-feature-j953e1ncja.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helsmiths of Hashut round table – Deep lore and ’Eavy Metal painting]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3jgzdu40/helsmiths-of-hashut-round-table-deep-lore-and-eavy-metal-painting</link>
@@ -275,18 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_patch-10_thumbnail_1920x1080_v9-xypwac4png.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 celebrates one year with its biggest update yet]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gyfk7xmx/warhammer-40000-space-marine-2-celebrates-one-year-with-its-biggest-update-yet</link>
-            <guid>gyfk7xmx</guid>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Patch 10 is bursting with good stuff.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_patch10-sep04-1-feature-e8tbpbdsdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
