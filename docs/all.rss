@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Sep 2025 11:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 12:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Forged in Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ylhfookl/chronicles-of-ruin-forged-in-darkness</link>
+            <guid>ylhfookl</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A beleaguered Runesmith makes a pact…]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helfiction-sep12-1-feature-4buwninh4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – The clock is ticking for submissions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nrr9zk5a/armies-on-parade-2025-the-clock-is-ticking-for-submissions</link>
@@ -279,18 +291,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_joelrg-sep05-1-feature-powumygmtx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – Dorn’s Avenger]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/srpprcce/heroes-of-the-first-founding-dorns-avenger</link>
-            <guid>srpprcce</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Darnath Lysander strides into action in a new piece of short fiction.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lysanderstory-sep05-1-feature-3zsew7t3bv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
