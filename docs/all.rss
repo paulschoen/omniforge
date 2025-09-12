@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Sep 2025 17:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 11:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies on Parade 2025 – The clock is ticking for submissions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nrr9zk5a/armies-on-parade-2025-the-clock-is-ticking-for-submissions</link>
+            <guid>nrr9zk5a</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check in with your progress.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aop_progress3-sep12-1-feature-xaug1szbvr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blood Bowl 3 | Season 10 Trailer - Vampires]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qxht3ipw/blood-bowl-3-season-10-trailer-vampires</link>
@@ -279,17 +291,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_lysanderstory-sep05-1-feature-3zsew7t3bv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Helsmiths of Hashut harness the power of caged daemons for a boost on the battlefield]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bbon9z5v/the-helsmiths-of-hashut-harness-the-power-of-caged-daemons-for-a-boost-on-the-battlefield</link>
-            <guid>bbon9z5v</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Conquer in the name of Hashut.]]></description>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsrules-sep05-1-feature-3ntn74dulv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
