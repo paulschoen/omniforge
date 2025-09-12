@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Sep 2025 12:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 13:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut round table – Forging the rules of ruination]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/avlkg8zv/helsmiths-of-hashut-round-table-forging-the-rules-of-ruination</link>
+            <guid>avlkg8zv</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The final instalment of our exhaustive Helsmiths interview.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable4-sep12-1-feature-7rqv7scqf1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – Forged in Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ylhfookl/chronicles-of-ruin-forged-in-darkness</link>
@@ -278,19 +290,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wh-_minis-sep05-1-feature-uaoohwuh2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Raven Guard showcase – Aethon Shaan steps up to lead his Chapter]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zjmflbbk/raven-guard-showcase-aethon-shaan-steps-up-to-lead-his-chapter</link>
-            <guid>zjmflbbk</guid>
-            <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A fearsome, snowy battleforce.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_joelrg-sep05-1-feature-powumygmtx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
