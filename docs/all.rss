@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Sep 2025 14:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 18:07:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Balance Dataslate arrives a little early]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/htklvbct/warhammer-40000-balance-dataslate-arrives-a-little-early</link>
+            <guid>htklvbct</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Latest update for your games]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/app-leak-feature-sgx95dvw4i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helsmiths of Hashut brought to life by the wider Warhammer Community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3hodlpa1/helsmiths-of-hashut-brought-to-life-by-the-wider-warhammer-community</link>
@@ -277,19 +288,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep7-1-feature-frpvu1q3dx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Imperial Knights and Space Marines head out]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/izblkdqh/saturday-pre-orders-imperial-knights-and-space-marines-head-out</link>
-            <guid>izblkdqh</guid>
-            <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-sep06-1-feature-hymlyvnrfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
