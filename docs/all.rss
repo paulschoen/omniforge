@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Sep 2025 18:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 17:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Chaos and Order in the worlds of Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mwuucuqd/saturday-pre-orders-chaos-and-order-in-the-worlds-of-warhammer</link>
+            <guid>mwuucuqd</guid>
+            <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pre-order your Helsmiths and Enforcers today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-sep13-1-feature-abnzvybmk3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Balance Dataslate arrives a little early]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/htklvbct/warhammer-40000-balance-dataslate-arrives-a-little-early</link>
@@ -274,20 +288,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01212---helsmiths--war-despot-br--in-main-scheme-thumbnail-bexjafr03c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Helsmiths of Hashut and Necromunda Enforcers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hdrpv0rg/sunday-preview-helsmiths-of-hashut-and-necromunda-enforcers</link>
-            <guid>hdrpv0rg</guid>
-            <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your first look at next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep7-1-feature-frpvu1q3dx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
