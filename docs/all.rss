@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 13 Sep 2025 17:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 17:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – (Super) heavy metal in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qnxe95ul/sunday-preview-super-heavy-metal-in-the-age-of-darkness</link>
+            <guid>qnxe95ul</guid>
+            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Space Marine super-heavy is coming next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep14-1-feature-qxirnvxdyf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Chaos and Order in the worlds of Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mwuucuqd/saturday-pre-orders-chaos-and-order-in-the-worlds-of-warhammer</link>
@@ -277,17 +291,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsrules2-sep08-1-feature-c4bhorr3s3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Helsmith WAR DESPOT of Hashut | Warhammer Age Of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rtuhquw1/the-helsmith-war-despot-of-hashut-warhammer-age-of-sigmar</link>
-            <guid>rtuhquw1</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[War Despots demand the best, and that’s what’s in store in this video. Join Dan as he paints darkened metals and glowing weapons on this Helsmiths of Hashut miniature, based on the Forge Anathema colour scheme.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01212---helsmiths--war-despot-br--in-main-scheme-thumbnail-bexjafr03c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
