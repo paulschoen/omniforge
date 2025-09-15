@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 15 Sep 2025 12:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 13:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Day brings a new commemorative Chaos champion and a Space Marine Captain]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ivmvh69w/warhammer-day-brings-a-new-commemorative-chaos-champion-and-a-space-marine-captain</link>
+            <guid>ivmvh69w</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Day comes around again.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whday_mini-sep15-1-feature-uxvzh5f9xl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helsmiths of Hashut Alternative Schemes | Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/nsndt8fk/helsmiths-of-hashut-alternative-schemes-warhammer-age-of-sigmar</link>
@@ -287,16 +299,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_enforcernotes-sep09-1-feature-yhe0wycjku.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 9th of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-9th-of-september</link>
-            <guid>csha7g2v</guid>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-sep9-1-feature-uadf2xunyv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
