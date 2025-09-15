@@ -4,11 +4,43 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Mon, 15 Sep 2025 03:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 18:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[BIG Warhammer 40K Reveals - New Space Marine Honour Guard, Cato Sicarius + Marneus Calgar]]></title>
+            <link>https://www.youtube.com/watch?v=wzAJ0UN12lQ</link>
+            <guid>yt:video:wzAJ0UN12lQ</guid>
+            <pubDate>Mon, 15 Sep 2025 01:36:17 GMT</pubDate>
+            <description><![CDATA[The video discusses the recent unveiling of three new Ultramarines models by Games Workshop—Captain Sicarius, Victrix Honor Guard, and Manius Kalgar—set for release in late 2025, featuring updated designs and gameplay enhancements, while also addressing their expected pricing and potential impact on player strategies.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Latest Ultramarines Model Reveals and Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Models Unveiled:</strong> Games Workshop revealed three new Ultramarines models: Captain Sicarius, Victrix Honor Guard, and Manius Kalgar.</li>
+    <li>📅 <strong>Release Timeline:</strong> The models are expected in the latter half of 2025, coinciding with a larger focus on Space Marine kits.</li>
+    <li>🎨 <strong>Model Details:</strong> Captain Sicarius is noted for its updated design, featuring a new helm and a more dynamic pose.</li>
+    <li>🔍 <strong>Game Impact:</strong> The new models will likely receive data sheets, enhancing gameplay strategies for Ultramarines.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Expected Pricing:</strong> Captain Sicarius is estimated to be priced around £28-35 or $45, potentially increasing post-price rise.</li>
+    <li>📦 <strong>Model Count:</strong> The Victrix Honor Guard set will include three models, with options for customization.</li>
+    <li>📈 <strong>Release Frequency:</strong> Games Workshop has released one character miniature for each of the five first founding chapters in the recent cycle.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do the new Ultramarines models compare to their previous iterations in terms of gameplay and aesthetics?</li>
+    <li>🤔 <strong>Question 2:</strong> What potential strategies could players develop with the new Captain Sicarius and his abilities?</li>
+    <li>🤔 <strong>Question 3:</strong> Will the focus on Ultramarines influence the upcoming releases for other chapters in the Warhammer 40k universe?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[WARHAMMER 40K MODEL LEAK - New Marneus Calgar in Terminator Armour!]]></title>
             <link>https://www.youtube.com/watch?v=tc3rAoCcIys</link>
@@ -11968,34 +12000,40 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BIG Warhammer 40K Reveals - New Space Marine Honour Guard, Cato Sicarius + Marneus Calgar]]></title>
-            <link>https://www.youtube.com/watch?v=wzAJ0UN12lQ</link>
-            <guid>yt:video:wzAJ0UN12lQ</guid>
-            <pubDate>Mon, 15 Sep 2025 01:36:17 GMT</pubDate>
-            <description><![CDATA[The video discusses the recent unveiling of three new Ultramarines models by Games Workshop—Captain Sicarius, Victrix Honor Guard, and Manius Kalgar—set for release in late 2025, featuring updated designs and gameplay enhancements, while also addressing their expected pricing and potential impact on player strategies.]]></description>
+            <title><![CDATA[Biggest WINNERS and LOSERS from the Balance Update? Every 40K Army Discussed]]></title>
+            <link>https://www.youtube.com/watch?v=JKPyrsuqXiQ</link>
+            <guid>yt:video:JKPyrsuqXiQ</guid>
+            <pubDate>Mon, 15 Sep 2025 17:00:25 GMT</pubDate>
+            <description><![CDATA[The September balance update for Warhammer 40K implemented significant points and rules changes across various factions, resulting in nerfs for the Adeptus Astartes and Thousand Sons, boosts for Orks and Adeptus Mechanicus, and adjustments for Imperial Knights and Astra Militarum, ultimately reshaping the competitive landscape of the game.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Latest Ultramarines Model Reveals and Insights</h2>
+<h2>📢 Warhammer 40K September Balance Update Summary</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Models Unveiled:</strong> Games Workshop revealed three new Ultramarines models: Captain Sicarius, Victrix Honor Guard, and Manius Kalgar.</li>
-    <li>📅 <strong>Release Timeline:</strong> The models are expected in the latter half of 2025, coinciding with a larger focus on Space Marine kits.</li>
-    <li>🎨 <strong>Model Details:</strong> Captain Sicarius is noted for its updated design, featuring a new helm and a more dynamic pose.</li>
-    <li>🔍 <strong>Game Impact:</strong> The new models will likely receive data sheets, enhancing gameplay strategies for Ultramarines.</li>
+    <li>🔥 <strong>Major Changes:</strong> The September balance update introduced significant points changes and rules adjustments across various factions in Warhammer 40K.</li>
+    <li>⚔️ <strong>Adeptus Astartes:</strong> Experienced nerfs with low tournament win rates at 44%, only achieving 5 victories. Key units like Blade Guard Veterans and Rebutt Gillaman were affected.</li>
+    <li>🏰 <strong>Astra Militarum:</strong> Maintained a 47% win rate with 9 tournament victories, benefiting from points reductions on key units.</li>
+    <li>🤖 <strong>Adeptus Mechanicus:</strong> Received beneficial rules changes, notably for Bellisarius Cawl, likely improving their overall performance.</li>
+    <li>🏆 <strong>Imperial Knights:</strong> Had their points adjusted, leading to a win rate drop to 53%. The balance changes aimed to prevent a dominant knight meta.</li>
+    <li>🔮 <strong>Thousand Sons:</strong> Faced harsh nerfs, with many key units increasing in points, potentially affecting their competitive standing.</li>
+    <li>🛡️ <strong>Dark Angels:</strong> Slight buffs with key units becoming more viable, but overall performance remains in the mid-tier range.</li>
+    <li>👾 <strong>Orks:</strong> Gained significant boosts with multiple points reductions, potentially elevating them from a low tier to a mid-tier faction.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>💰 <strong>Expected Pricing:</strong> Captain Sicarius is estimated to be priced around £28-35 or $45, potentially increasing post-price rise.</li>
-    <li>📦 <strong>Model Count:</strong> The Victrix Honor Guard set will include three models, with options for customization.</li>
-    <li>📈 <strong>Release Frequency:</strong> Games Workshop has released one character miniature for each of the five first founding chapters in the recent cycle.</li>
+    <li>📈 <strong>Win Rate of Space Marines:</strong> 44% with only 5 tournament victories.</li>
+    <li>🏆 <strong>Astra Militarum Success:</strong> 47% win rate and 9 tournament victories.</li>
+    <li>💰 <strong>Thousand Sons Points Increases:</strong> Most of their strong units increased in cost, impacting their competitive viability significantly.</li>
+    <li>📉 <strong>Imperial Knights Win Rate:</strong> Dropped to 53% post-code update.</li>
+    <li>💪 <strong>Orks Tournament Victories:</strong> Previously 3 victories, expected to improve with recent buffs.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do the new Ultramarines models compare to their previous iterations in terms of gameplay and aesthetics?</li>
-    <li>🤔 <strong>Question 2:</strong> What potential strategies could players develop with the new Captain Sicarius and his abilities?</li>
-    <li>🤔 <strong>Question 3:</strong> Will the focus on Ultramarines influence the upcoming releases for other chapters in the Warhammer 40k universe?</li>
+    <li>🤔 <strong>How will the recent balance changes affect faction popularity in upcoming tournaments?</strong></li>
+    <li>🧐 <strong>Which faction do you believe will rise to the top as a result of these changes?</strong></li>
+    <li>💡 <strong>What strategies can players adopt to optimize their army compositions with the new balance adjustments?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
