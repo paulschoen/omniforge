@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Sep 2025 12:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 13:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Stand with Yarrick and the Astra Militarum in a new lineup of Black Library releases]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fhawuywo/stand-with-yarrick-and-the-astra-militarum-in-a-new-lineup-of-black-library-releases</link>
+            <guid>fhawuywo</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic stories and new novels coming to a trench line near you.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_astramil-sep16-1-feature-1fwhs9pngl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 16th of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-16th-of-september</link>
@@ -287,18 +300,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01206---aethon-shaan-br--thumbnail-iy0pufowym.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut round table – The desolate dawn of these dark duardin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bwkmlmwq/helsmiths-of-hashut-round-table-the-desolate-dawn-of-these-dark-duardin</link>
-            <guid>bwkmlmwq</guid>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Part one of our Helsmiths interview.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable1-sep09-1-feature-keya8gui6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
