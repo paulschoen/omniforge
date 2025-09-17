@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Sep 2025 12:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 13:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[From Spearhead to bigger battles – The Hobby Collab’s journey through Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/czejixw8/from-spearhead-to-bigger-battles-the-hobby-collabs-journey-through-age-of-sigmar</link>
+            <guid>czejixw8</guid>
+            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Building oak trees from acorns.]]></description>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_inflspearhead-sep17-1-feature-d9d2cc47uu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV: Talking Helsmiths of Hashut on How We Roll]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xypmdvmm/warhammer-tv-talking-helsmiths-of-hashut-on-how-we-roll</link>
@@ -18,6 +30,19 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-sep17-1-feature-bsexgbakoo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How To Paint Darnath Lysander of the Imperial Fists | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tcaikn3l/how-to-paint-darnath-lysander-of-the-imperial-fists-warhammer-40000</link>
+            <guid>tcaikn3l</guid>
+            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Raising high his storm shield, Rampart, as he swings the Fist of Dorn, this epic hero wades through his foes like a warship smashing through stormy seas. Tune in to this paint guide to learn everything you need to know about painting Chapter Master Darnath Lysander!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01289---darnath-lysander-thumbnail-qzyp6cwfk7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Warhammer 40,000 balance dataslate – Developers’ commentary]]></title>
@@ -275,28 +300,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable2-sep10-1-feature-bvav1yai2l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Claim Your Warhammer+ Miniature | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/8c4s03n0/how-to-claim-your-warhammer-miniature-warhammer</link>
-            <guid>8c4s03n0</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Still need to claim your FREE Warhammer+ miniature? Watch our foolproof guide to securing one of the awesome Year 4 exclusives – Inquisitor Ostromandeus or Marshal Ashfield and Squire Udo. You can even buy the other one so you don’t have to choose between them!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01783_mini-redemption-thumbnail-v2-gwuakpybhw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar's Toll: Episode 1 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/drgwf20n/sigmars-toll-episode-1-official-trailer-warhammer-warhammer-age-of-sigmar</link>
-            <guid>drgwf20n</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In the aftermath of the Skaven’s incursion into Aqshy, life is bleak in the embattled city of Embergard. Can Sigmar’s visions help Knight-Questor Leodus provide a reprieve for his faithful? Watch the trailer for Episode 1 of Sigmar’s Toll now]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01750_trailer-thumbnail-1-copy-qzygnkidji.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
