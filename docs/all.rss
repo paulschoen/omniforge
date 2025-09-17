@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Sep 2025 13:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 10:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How To Paint Darnath Lysander of the Imperial Fists | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tcaikn3l/how-to-paint-darnath-lysander-of-the-imperial-fists-warhammer-40000</link>
+            <guid>tcaikn3l</guid>
+            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Raising high his storm shield, Rampart, as he swings the Fist of Dorn, this epic hero wades through his foes like a warship smashing through stormy seas. Tune in to this paint guide to learn everything you need to know about painting Chapter Master Darnath Lysander!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01289---darnath-lysander-thumbnail-qzyp6cwfk7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Warhammer 40,000 balance dataslate – Developers’ commentary]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/enrrjrvl/the-warhammer-40000-balance-dataslate-developers-commentary</link>
+            <guid>enrrjrvl</guid>
+            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unpacking the latest balance changes.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dataslatecommentary-sept17-1-feature-wn6bfljmbt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stand with Yarrick and the Astra Militarum in a new lineup of Black Library releases]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fhawuywo/stand-with-yarrick-and-the-astra-militarum-in-a-new-lineup-of-black-library-releases</link>
@@ -276,30 +300,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01750_trailer-thumbnail-1-copy-qzygnkidji.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar’s Toll: Watch Episode One of this all-new animated series]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8wouckef/sigmars-toll-watch-episode-one-of-this-all-new-animated-series</link>
-            <guid>8wouckef</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest tale hits Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep1-sep10-1-feature-bywyn2kfzk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How To Paint Aethon Shaan of the Raven Guard | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kf31zuep/how-to-paint-aethon-shaan-of-the-raven-guard-warhammer-40000</link>
-            <guid>kf31zuep</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[As the Chapter Master of the Raven Guard, Aethon Shaan is one of the most deadly and stealthy of the brothers he commands. Emma is going to show you how to paint him in this video, which can also be used as a guide for painting the rest of your Raven Guard army!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01206---aethon-shaan-br--thumbnail-iy0pufowym.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
