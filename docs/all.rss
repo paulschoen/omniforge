@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Sep 2025 11:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 12:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV: Talking Helsmiths of Hashut on How We Roll]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xypmdvmm/warhammer-tv-talking-helsmiths-of-hashut-on-how-we-roll</link>
+            <guid>xypmdvmm</guid>
+            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Age of Sigmar players won’t want to miss this.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-sep17-1-feature-bsexgbakoo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer 40,000 balance dataslate – Developers’ commentary]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/enrrjrvl/the-warhammer-40000-balance-dataslate-developers-commentary</link>
@@ -287,18 +297,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01750_trailer-thumbnail-1-copy-qzygnkidji.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar’s Toll: Watch Episode One of this all-new animated series]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8wouckef/sigmars-toll-watch-episode-one-of-this-all-new-animated-series</link>
-            <guid>8wouckef</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest tale hits Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep1-sep10-1-feature-bywyn2kfzk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
