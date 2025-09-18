@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Sep 2025 12:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting an Imperial Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kk5fujft/starting-an-imperial-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>kk5fujft</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play a Noble house of towering war machines.]]></description>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_knightsfaction-1-feature-neuijyvg8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The War of the Rohirrim™ – Designer’s notes on the new Middle-earth journal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rtumjmw9/the-war-of-the-rohirrimtm-designers-notes-on-the-new-middle-earth-journal</link>
@@ -288,17 +299,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable3-sep11-1-feature-aediv2jv9j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12 simple kitbashes that show why the Munitorum Armoured Container is the best in the business]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cguaxcmw/12-simple-kitbashes-that-show-why-the-munitorum-armoured-container-is-the-best-in-the-business</link>
-            <guid>cguaxcmw</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Creative container conversions.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_munitorumcontainers-sep11-1-feature-vgvraqyikj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
