@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Sep 2025 13:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 12:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The War of the Rohirrim™ – Designer’s notes on the new Middle-earth journal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rtumjmw9/the-war-of-the-rohirrimtm-designers-notes-on-the-new-middle-earth-journal</link>
+            <guid>rtumjmw9</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight your way through the events of the film.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_rohirrimjournal-sep18-1-feature-tpjsbiraf7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[From Spearhead to bigger battles – The Hobby Collab’s journey through Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/czejixw8/from-spearhead-to-bigger-battles-the-hobby-collabs-journey-through-age-of-sigmar</link>
@@ -288,18 +299,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_munitorumcontainers-sep11-1-feature-vgvraqyikj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut round table – The infernal artifice of the new miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lu865rsb/helsmiths-of-hashut-round-table-the-infernal-artifice-of-the-new-miniatures</link>
-            <guid>lu865rsb</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Part two of our Helsmiths interview.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable2-sep10-1-feature-bvav1yai2l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
