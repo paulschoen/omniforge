@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Sep 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 15:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Choose these units to transform a Combat Force into a full Horus Heresy army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wybg4hwc/choose-these-units-to-transform-a-combat-force-into-a-full-horus-heresy-army</link>
+            <guid>wybg4hwc</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What should you buy next?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_combatpatrolnext-sep19-1-feature-w2z3yubvtb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Assault Marines take flight – Four units in four Legions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oxvipx7n/assault-marines-take-flight-four-units-in-four-legions</link>
@@ -27,7 +37,7 @@
             <guid>af8hxvxy</guid>
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Death comes in a mask, but which will you wear?]]></description>
-            <category domain="model-reveal">Model Reveal</category>
+            <category domain="combat-patrol">Combat Patrol</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_newcombatpats-sep19-1-feature-j31ez4tygw.jpg" length="0" type="image/jpg"/>
@@ -286,18 +296,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/bb3_s10_vampires_thumbnail-xsatinqtwa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Events are coming to more countries than ever this year]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6zojqykb/warhammer-events-are-coming-to-more-countries-than-ever-this-year</link>
-            <guid>6zojqykb</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There are official events scheduled around the globe.]]></description>
-            <category domain="events">Events</category>
-            <category domain="las-vegas-open">Las Vegas Open</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/worldwideevent-sep11-1-feature-ukgkhjsim7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
