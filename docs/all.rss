@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Sep 2025 13:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Assault Marines take flight – Four units in four Legions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oxvipx7n/assault-marines-take-flight-four-units-in-four-legions</link>
+            <guid>oxvipx7n</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[MkII marines ready to jet into combat.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_sdsassaultmarines-sep19-1-feature-apoctuwvrd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Two masked Combat Patrols deploy for the Harlequins and Death Korps of Krieg]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/af8hxvxy/two-masked-combat-patrols-deploy-for-the-harlequins-and-death-korps-of-krieg</link>
@@ -286,18 +298,6 @@ The Vampires have arrived—elegant, merciless, and thirsting for victory! Comma
             <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/worldwideevent-sep11-1-feature-ukgkhjsim7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting a Black Templars army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mvsgigdm/starting-a-black-templars-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>mvsgigdm</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play the most zealous of the Adeptus Astartes]]></description>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_btfaction-1-feature-j953e1ncja.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
