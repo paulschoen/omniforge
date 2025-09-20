@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Sep 2025 15:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 17:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Reinforcements for the Legiones Astartes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d23ic8k8/saturday-pre-orders-reinforcements-for-the-legiones-astartes</link>
+            <guid>d23ic8k8</guid>
+            <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-sep20-1-feature-mzxhhl2gxi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Choose these units to transform a Combat Force into a full Horus Heresy army]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wybg4hwc/choose-these-units-to-transform-a-combat-force-into-a-full-horus-heresy-army</link>
@@ -281,21 +294,6 @@ Marneus Calgar returns in his most heroic miniature, accompanied by Captain Cato
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aop_progress3-sep12-1-feature-xaug1szbvr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood Bowl 3 | Season 10 Trailer - Vampires]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qxht3ipw/blood-bowl-3-season-10-trailer-vampires</link>
-            <guid>qxht3ipw</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Season 10 is now LIVE in Blood Bowl 3! 
-
-The Vampires have arrived—elegant, merciless, and thirsting for victory! Command their thralls, dominate the pitch, and strike fear into every opponent in the latest season.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/bb3_s10_vampires_thumbnail-xsatinqtwa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
