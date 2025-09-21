@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 20 Sep 2025 17:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 17:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The Drukhari sharpen their blades in anticipation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wdmije41/sunday-preview-the-drukhari-sharpen-their-blades-in-anticipation</link>
+            <guid>wdmije41</guid>
+            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s available for pre-order next week.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep21-1-feature-xq4xsfuke4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Reinforcements for the Legiones Astartes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d23ic8k8/saturday-pre-orders-reinforcements-for-the-legiones-astartes</link>
@@ -282,18 +295,6 @@ Marneus Calgar returns in his most heroic miniature, accompanied by Captain Cato
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helfiction-sep12-1-feature-4buwninh4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies on Parade 2025 – The clock is ticking for submissions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nrr9zk5a/armies-on-parade-2025-the-clock-is-ticking-for-submissions</link>
-            <guid>nrr9zk5a</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check in with your progress.]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aop_progress3-sep12-1-feature-xaug1szbvr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
