@@ -4,22 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Sep 2025 13:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 14:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Space Marines Battleforce: Crux Terminatus | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/8qk1dih4/space-marines-battleforce-crux-terminatus-warhammer-40000</link>
-            <guid>8qk1dih4</guid>
+            <title><![CDATA[Pain and panic are potent pick-me-ups for the devious Drukhari]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/awlk4xlr/pain-and-panic-are-potent-pick-me-ups-for-the-devious-drukhari</link>
+            <guid>awlk4xlr</guid>
             <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Introduce your foes to the Emperor’s vengeance with a thunder hammer to the face. Meet the Space Marine Assault Terminators – your ultimate melee masters.]]></description>
-            <category domain="space-marines">Space Marines</category>
+            <description><![CDATA[Conjure power from pain.]]></description>
+            <category domain="drukhari">Drukhari</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01830_thumbnail---v2-ttidldng8p.jpg" length="0" type="image/jpg"/>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_drukharidetachments-sep22-1-feature-waagqgfwkk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Assault Terminators are an unstoppable force and an immovable object in one indomitable package]]></title>
