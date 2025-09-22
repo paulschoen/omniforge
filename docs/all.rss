@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Sep 2025 12:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 13:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marines Battleforce: Crux Terminatus | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8qk1dih4/space-marines-battleforce-crux-terminatus-warhammer-40000</link>
+            <guid>8qk1dih4</guid>
+            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduce your foes to the Emperor’s vengeance with a thunder hammer to the face. Meet the Space Marine Assault Terminators – your ultimate melee masters.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01830_thumbnail---v2-ttidldng8p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Assault Terminators are an unstoppable force and an immovable object in one indomitable package]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wr9feecy/assault-terminators-are-an-unstoppable-force-and-an-immovable-object-in-one-indomitable-package</link>
+            <guid>wr9feecy</guid>
+            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s a new Terminator Ancient too.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_cruxtermi-sep22-1-feature-5xvaxnax17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Meet the Lords of War venturing to the Warhammer 40,000 Grand Narrative this week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mkh26zdt/meet-the-lords-of-war-venturing-to-the-warhammer-40000-grand-narrative-this-week</link>
@@ -271,30 +294,6 @@ Marneus Calgar returns in his most heroic miniature, accompanied by Captain Cato
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/app-leak-feature-sgx95dvw4i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut brought to life by the wider Warhammer Community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3hodlpa1/helsmiths-of-hashut-brought-to-life-by-the-wider-warhammer-community</link>
-            <guid>3hodlpa1</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The many colours of the Zharrdron.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_inflhelsmiths-sep12-1-feature-uhqcjrn5b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut round table – Forging the rules of ruination]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/avlkg8zv/helsmiths-of-hashut-round-table-forging-the-rules-of-ruination</link>
-            <guid>avlkg8zv</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The final instalment of our exhaustive Helsmiths interview.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsroundtable4-sep12-1-feature-7rqv7scqf1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
