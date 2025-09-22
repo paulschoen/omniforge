@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Sep 2025 14:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 15:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kick off a Legions Imperialis army or expand an existing one with new Combat Forces]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wk14quiq/kick-off-a-legions-imperialis-army-or-expand-an-existing-one-with-new-combat-forces</link>
+            <guid>wk14quiq</guid>
+            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three boxes to bolster your Epic Scale army.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/-li_combatforces-sept22-1-feature-qmbat4wp3x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pain and panic are potent pick-me-ups for the devious Drukhari]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/awlk4xlr/pain-and-panic-are-potent-pick-me-ups-for-the-devious-drukhari</link>
@@ -282,17 +293,6 @@ Marneus Calgar returns in his most heroic miniature, accompanied by Captain Cato
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-sep13-1-feature-abnzvybmk3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Balance Dataslate arrives a little early]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/htklvbct/warhammer-40000-balance-dataslate-arrives-a-little-early</link>
-            <guid>htklvbct</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Latest update for your games]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/app-leak-feature-sgx95dvw4i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
