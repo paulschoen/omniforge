@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Sep 2025 10:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 12:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 23rd of September]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cruam1em/the-rumour-engine-23rd-of-september</link>
+            <guid>cruam1em</guid>
+            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-sep23-1-feature-bodmsoynax.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Darktide - Bound by Duty | Update Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/dhjdzgwr/warhammer-40000-darktide-bound-by-duty-update-trailer</link>
@@ -18,6 +28,8 @@
 Enter the Theatre of Rectitude to further test your skill and resolve. 
 
 The free update also brings new weapons, a new enemy, talent reworks, class balancing, a new live event and more!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dt-q3-release-thumb-(1)-itzjyrhdnj.png" length="0" type="image/png"/>
         </item>
@@ -277,20 +289,6 @@ Marneus Calgar returns in his most heroic miniature, accompanied by Captain Cato
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_umkits-sep14-1-feature-yf9bgrtgun.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – (Super) heavy metal in the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qnxe95ul/sunday-preview-super-heavy-metal-in-the-age-of-darkness</link>
-            <guid>qnxe95ul</guid>
-            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Space Marine super-heavy is coming next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep14-1-feature-qxirnvxdyf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
