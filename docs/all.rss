@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Sep 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 10:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – A new Battlescroll brings balance ahead of the World Championships of Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xwmiiwgj/warhammer-age-of-sigmar-a-new-battlescroll-brings-balance-ahead-of-the-world-championships-of-warhammer</link>
+            <guid>xwmiiwgj</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Minor rules tweaks and points adjustments inside.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-sep24-1-feature-inavfe4rs1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We celebrate a whole year of Space Marine 2 with four weeks of epic prizes to be won]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/b76zbqhw/we-celebrate-a-whole-year-of-space-marine-2-with-four-weeks-of-epic-prizes-to-be-won</link>
@@ -273,18 +284,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whday_mini-sep15-1-feature-uxvzh5f9xl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut Alternative Schemes | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nsndt8fk/helsmiths-of-hashut-alternative-schemes-warhammer-age-of-sigmar</link>
-            <guid>nsndt8fk</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In the Helsmiths of Hashut battletome, there are three other shards of Hashut’s domain that are showcased. There’s the truly unique Ur-Zorn, the fiery Zharr Vyxa, and, finally, the dark and twisted Muspelzharr. Tune into this video to see Ollie show you how to paint each of them!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01211---helsmiths---alt-army-schemes-thumbnail-xyewye3ol2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
