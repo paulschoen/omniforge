@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 25 Sep 2025 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 13:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Conquer your own corner of Commorragh with Codex: Drukhari Crusade rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mx9puail/conquer-your-own-corner-of-commorragh-with-codex-drukhari-crusade-rules</link>
+            <guid>mx9puail</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch out for your rivals – they’re deadly.]]></description>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_drukharicrusaderules-sep25-1-feature-vkezjd3ioo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The first Warhammer World events of 2026 are a Doubles bonanza]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/of4u9pgo/the-first-warhammer-world-events-of-2026-are-a-doubles-bonanza</link>
@@ -273,19 +284,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-sep17-1-feature-bsexgbakoo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How To Paint Darnath Lysander of the Imperial Fists | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tcaikn3l/how-to-paint-darnath-lysander-of-the-imperial-fists-warhammer-40000</link>
-            <guid>tcaikn3l</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Raising high his storm shield, Rampart, as he swings the Fist of Dorn, this epic hero wades through his foes like a warship smashing through stormy seas. Tune in to this paint guide to learn everything you need to know about painting Chapter Master Darnath Lysander!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01289---darnath-lysander-thumbnail-qzyp6cwfk7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
