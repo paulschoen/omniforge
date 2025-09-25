@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 25 Sep 2025 10:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 12:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The first Warhammer World events of 2026 are a Doubles bonanza]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/of4u9pgo/the-first-warhammer-world-events-of-2026-are-a-doubles-bonanza</link>
+            <guid>of4u9pgo</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Team up with your bestie and conquer the worlds of Warhammer.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-sep25-1-feature-4iaphfnwqw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Inductii rules send desperate reinforcements straight to the war front]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gmmt8jvf/new-inductii-rules-send-desperate-reinforcements-straight-to-the-war-front</link>
@@ -275,17 +286,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01289---darnath-lysander-thumbnail-qzyp6cwfk7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer 40,000 balance dataslate – Developers’ commentary]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/enrrjrvl/the-warhammer-40000-balance-dataslate-developers-commentary</link>
-            <guid>enrrjrvl</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unpacking the latest balance changes.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_dataslatecommentary-sept17-1-feature-wn6bfljmbt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
