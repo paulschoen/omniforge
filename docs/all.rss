@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 24 Sep 2025 14:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 10:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Inductii rules send desperate reinforcements straight to the war front]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gmmt8jvf/new-inductii-rules-send-desperate-reinforcements-straight-to-the-war-front</link>
+            <guid>gmmt8jvf</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fresh recruits for the Horus Heresy meat grinder.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_inductiidownloads-sep25-1-feature-1h168cw3mp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[From Spearhead to bigger battles – Part two of The Hobby Collab’s journey]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eiogua2t/from-spearhead-to-bigger-battles-part-two-of-the-hobby-collabs-journey</link>
@@ -275,19 +286,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_dataslatecommentary-sept17-1-feature-wn6bfljmbt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand with Yarrick and the Astra Militarum in a new lineup of Black Library releases]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fhawuywo/stand-with-yarrick-and-the-astra-militarum-in-a-new-lineup-of-black-library-releases</link>
-            <guid>fhawuywo</guid>
-            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic stories and new novels coming to a trench line near you.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_astramil-sep16-1-feature-1fwhs9pngl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
