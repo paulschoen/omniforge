@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Sep 2025 09:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 11:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[9 Wickedly Sinister Drukhari Kabals | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bjublqh4/9-wickedly-sinister-drukhari-kabals-warhammer-40000</link>
+            <guid>bjublqh4</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ready to bring your Drukhari to life with some killer colour schemes? In this video, Dan will be covering nine distinct Kabal paint schemes to help you style your army with deadly flair.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="drukhari">Drukhari</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01291---drukhari-kabal-schemes-thumbnail-69uqnyr63c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Webway shatters over Mordian – Grand Narrative 2025 at Warhammer World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/thbzpflu/the-webway-shatters-over-mordian-grand-narrative-2025-at-warhammer-world</link>
@@ -274,18 +285,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_rohirrimjournal-sep18-1-feature-tpjsbiraf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Spearhead to bigger battles – The Hobby Collab’s journey through Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/czejixw8/from-spearhead-to-bigger-battles-the-hobby-collabs-journey-through-age-of-sigmar</link>
-            <guid>czejixw8</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Building oak trees from acorns.]]></description>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_inflspearhead-sep17-1-feature-d9d2cc47uu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
