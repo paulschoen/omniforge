@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Sep 2025 13:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Fangs of Malys strike in this superb community showcase]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l5mmi799/the-fangs-of-malys-strike-in-this-superb-community-showcase</link>
+            <guid>l5mmi799</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Kabal of the Poisoned Tongue painted by their biggest fan]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_drukhariinfluencer-sep26-1-feature-l5wyhonwyl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imperial Fists Showcase – Darcy presents his vibrant sons of Dorn]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bdbhjhw2/imperial-fists-showcase-darcy-presents-his-vibrant-sons-of-dorn</link>
@@ -277,17 +290,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_newcombatpats-sep19-1-feature-j31ez4tygw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Starting an Imperial Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kk5fujft/starting-an-imperial-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
-            <guid>kk5fujft</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to paint and play a Noble house of towering war machines.]]></description>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_knightsfaction-1-feature-neuijyvg8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
