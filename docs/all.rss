@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Sep 2025 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 17:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Lock your doors, the Drukhari are coming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dsuxn3oq/saturday-pre-orders-lock-your-doors-the-drukhari-are-coming</link>
+            <guid>dsuxn3oq</guid>
+            <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s new pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-sep27-1-feature-qp2k0wztsl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Fangs of Malys strike in this superb community showcase]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l5mmi799/the-fangs-of-malys-strike-in-this-superb-community-showcase</link>
@@ -279,17 +291,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_sdsassaultmarines-sep19-1-feature-apoctuwvrd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two masked Combat Patrols deploy for the Harlequins and Death Korps of Krieg]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/af8hxvxy/two-masked-combat-patrols-deploy-for-the-harlequins-and-death-korps-of-krieg</link>
-            <guid>af8hxvxy</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Death comes in a mask, but which will you wear?]]></description>
-            <category domain="combat-patrol">Combat Patrol</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_newcombatpats-sep19-1-feature-j31ez4tygw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
