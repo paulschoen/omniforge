@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 28 Sep 2025 17:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 18:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Return to Kronus in a new Dawn of War IV trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ef2pfh4v/return-to-kronus-in-a-new-dawn-of-war-iv-trailer</link>
+            <guid>ef2pfh4v</guid>
+            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the first full trailer of in-game footage.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dow4_gameplay-sept28-1-feature-zc3xzzi5ke.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Enter the Spitewood in Warhammer Underworlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zca2thl2/sunday-preview-enter-the-spitewood-in-warhammer-underworlds</link>
@@ -286,16 +297,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-sep20-1-feature-mzxhhl2gxi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Choose these units to transform a Combat Force into a full Horus Heresy army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wybg4hwc/choose-these-units-to-transform-a-combat-force-into-a-full-horus-heresy-army</link>
-            <guid>wybg4hwc</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What should you buy next?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_combatpatrolnext-sep19-1-feature-w2z3yubvtb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
