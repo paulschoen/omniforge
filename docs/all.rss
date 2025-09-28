@@ -4,11 +4,28 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 27 Sep 2025 17:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 17:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Enter the Spitewood in Warhammer Underworlds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zca2thl2/sunday-preview-enter-the-spitewood-in-warhammer-underworlds</link>
+            <guid>zca2thl2</guid>
+            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything coming to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep28-1-feature-yevxlab6xg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Lock your doors, the Drukhari are coming]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dsuxn3oq/saturday-pre-orders-lock-your-doors-the-drukhari-are-coming</link>
@@ -279,18 +296,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_combatpatrolnext-sep19-1-feature-w2z3yubvtb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Assault Marines take flight – Four units in four Legions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oxvipx7n/assault-marines-take-flight-four-units-in-four-legions</link>
-            <guid>oxvipx7n</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[MkII marines ready to jet into combat.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_sdsassaultmarines-sep19-1-feature-apoctuwvrd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
