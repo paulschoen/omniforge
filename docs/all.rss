@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Sep 2025 12:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 13:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 517 – Settle in for a sensational scenery showcase]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uzffuuff/white-dwarf-517-settle-in-for-a-sensational-scenery-showcase</link>
+            <guid>uzffuuff</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out a preview of October’s issue.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd517-sep29-1-feature-lr27vylvcv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rustle up a free Ratling miniature of the month and a Warhammer Day coin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fl5nfu95/rustle-up-a-free-ratling-miniature-of-the-month-and-a-warhammer-day-coin</link>
@@ -283,18 +293,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_cruxtermi-sep22-1-feature-5xvaxnax17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Lords of War venturing to the Warhammer 40,000 Grand Narrative this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mkh26zdt/meet-the-lords-of-war-venturing-to-the-warhammer-40000-grand-narrative-this-week</link>
-            <guid>mkh26zdt</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who will you be serving in the upcoming narrative spectacular?]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grandnarrativeuk_lordsofwar-sep19-1-feature-boqx3qxdoa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
