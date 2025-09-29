@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Sep 2025 14:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 15:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[March for Macragge with new Ultramarines upgrades and a versatile Combat Patrol]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wpnaftda/march-for-macragge-with-new-ultramarines-upgrades-and-a-versatile-combat-patrol</link>
+            <guid>wpnaftda</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Look your best for the Indomitus Crusade.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_umreveals-sep29-1-feature-jtvpr7wd17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – Submissions are open]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vhhgidbe/armies-on-parade-2025-submissions-are-open</link>
@@ -281,17 +295,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/-li_combatforces-sept22-1-feature-qmbat4wp3x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pain and panic are potent pick-me-ups for the devious Drukhari]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/awlk4xlr/pain-and-panic-are-potent-pick-me-ups-for-the-devious-drukhari</link>
-            <guid>awlk4xlr</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Conjure power from pain.]]></description>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_drukharidetachments-sep22-1-feature-waagqgfwkk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
