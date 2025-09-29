@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Mon, 29 Sep 2025 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 09:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40K Weekly Win Rates – Admech Rise to the Top?]]></title>
+            <link>https://www.youtube.com/watch?v=RgPwqaLnZFQ</link>
+            <guid>yt:video:RgPwqaLnZFQ</guid>
+            <pubDate>Mon, 29 Sep 2025 03:16:42 GMT</pubDate>
+            <description><![CDATA[The video analyzes the performance of Warhammer 40k armies after balance updates, highlighting that World Eaters dominate participation, Death Guard and Adeptus Mechanicus excel with a 61% win rate, while Tyranids and Thousand Sons struggle, and it raises questions about the future viability of underperforming factions.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Army Performance Analysis</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Overall Performance:</strong> Overview of army performance post-balance updates, with significant data from the London Grand Tournament.</li>
+    <li>⚔️ <strong>Most Played Faction:</strong> World Eaters currently lead in participation, followed by Space Marines and Death Guard.</li>
+    <li>📊 <strong>Faction Win Rates:</strong> Death Guard and Adeptus Mechanicus at the top with 61% win rates; notable drop for Tyranids and Thousand Sons.</li>
+    <li>🏆 <strong>Undefeated Lists:</strong> Eight players went undefeated at the tournament, showcasing the strength of Adeptus Mechanicus and Chaos Knights.</li>
+    <li>📉 <strong>Low Participation:</strong> Imperial Agents, Death Watch, and Genestealer Cults are among the least played factions.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>61% Win Rate:</strong> Death Guard and Adeptus Mechanicus achieved this win rate, indicating strong performance despite low player numbers.</li>
+    <li>📉 <strong>43% Win Rate:</strong> Both Tyranids and Thousand Sons are struggling at the bottom of the meta.</li>
+    <li>🪙 <strong>8 Undefeated Players:</strong> Eight players finished their first five games without a loss at the London Grand Tournament.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do recent balance updates impact the long-term viability of underperforming factions like Tyranids?</strong></li>
+    <li>🤔 <strong>What strategies can players use to improve win rates with currently low-performing factions?</strong></li>
+    <li>🤔 <strong>How might the results from the London Grand Tournament influence future army compositions in competitive play?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Land Raiders just got BUFFED - How Strong are They for the Space Marines Now?]]></title>
             <link>https://www.youtube.com/watch?v=ymD31LqXi98</link>
@@ -12715,35 +12748,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Warhammer 40K Weekly Win Rates – Admech Rise to the Top?]]></title>
-            <link>https://www.youtube.com/watch?v=RgPwqaLnZFQ</link>
-            <guid>yt:video:RgPwqaLnZFQ</guid>
-            <pubDate>Mon, 29 Sep 2025 03:16:42 GMT</pubDate>
-            <description><![CDATA[The video analyzes the performance of Warhammer 40k armies after balance updates, highlighting that World Eaters dominate participation, Death Guard and Adeptus Mechanicus excel with a 61% win rate, while Tyranids and Thousand Sons struggle, and it raises questions about the future viability of underperforming factions.]]></description>
+            <title><![CDATA[Tips and Tricks for the CHARGE PHASE in Warhammer 40K]]></title>
+            <link>https://www.youtube.com/watch?v=oDztSExxzn0</link>
+            <guid>yt:video:oDztSExxzn0</guid>
+            <pubDate>Mon, 29 Sep 2025 08:00:55 GMT</pubDate>
+            <description><![CDATA[The video provides essential tips for the charge phase in Warhammer 40k, highlighting key strategies such as charge declaration rules, the importance of rolling for charge distance, command point management, and tactical movement to optimize engagement and control enemy units.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k Army Performance Analysis</h2>
+<h2>📢 Tips for the Charge Phase in Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Overall Performance:</strong> Overview of army performance post-balance updates, with significant data from the London Grand Tournament.</li>
-    <li>⚔️ <strong>Most Played Faction:</strong> World Eaters currently lead in participation, followed by Space Marines and Death Guard.</li>
-    <li>📊 <strong>Faction Win Rates:</strong> Death Guard and Adeptus Mechanicus at the top with 61% win rates; notable drop for Tyranids and Thousand Sons.</li>
-    <li>🏆 <strong>Undefeated Lists:</strong> Eight players went undefeated at the tournament, showcasing the strength of Adeptus Mechanicus and Chaos Knights.</li>
-    <li>📉 <strong>Low Participation:</strong> Imperial Agents, Death Watch, and Genestealer Cults are among the least played factions.</li>
+  <li>🔥 <strong>Charge Declaration:</strong> Players must declare a charge within 12 inches of an enemy unit and end within engagement range (1 inch horizontally, 5 inches vertically).</li>
+  <li>🎲 <strong>Rolling for Charge:</strong> Roll 2d6 for the charge; a result of 7 or less is statistically likely, but chances drop for higher rolls.</li>
+  <li>💡 <strong>Command Point Strategy:</strong> Saving a command point for a reroll can be crucial if the charge is vital.</li>
+  <li>🔫 <strong>Shooting vs. Charging:</strong> Consider skipping shooting to potentially make a longer charge distance.</li>
+  <li>📏 <strong>Model Movement:</strong> Move models into base contact when possible, but prioritize strategic positioning, such as stringing out for objectives.</li>
+  <li>🔒 <strong>Wrapping and Trapping:</strong> Consider wrapping enemy models during consolidation for tactical advantages.</li>
+  <li>⚔️ <strong>Charge Purpose:</strong> Not all charges need to deal heavy damage; tying up enemies can provide significant benefits.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>61% Win Rate:</strong> Death Guard and Adeptus Mechanicus achieved this win rate, indicating strong performance despite low player numbers.</li>
-    <li>📉 <strong>43% Win Rate:</strong> Both Tyranids and Thousand Sons are struggling at the bottom of the meta.</li>
-    <li>🪙 <strong>8 Undefeated Players:</strong> Eight players finished their first five games without a loss at the London Grand Tournament.</li>
+  <li>📉 <strong>Charge Distance:</strong> A charge must be declared within 12 inches, with engagement range requirements of 1 inch horizontally and 5 inches vertically.</li>
+  <li>🎲 <strong>Rolling Probability:</strong> A 2d6 roll with a target of 7 or less is statistically likely, emphasizing risk management on higher rolls.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How do recent balance updates impact the long-term viability of underperforming factions like Tyranids?</strong></li>
-    <li>🤔 <strong>What strategies can players use to improve win rates with currently low-performing factions?</strong></li>
-    <li>🤔 <strong>How might the results from the London Grand Tournament influence future army compositions in competitive play?</strong></li>
+  <li>🤔 <strong>How can understanding engagement ranges alter your strategy in a game?</strong></li>
+  <li>🤔 <strong>What are the benefits of tying up enemy units instead of going for damage in Warhammer 40k?</strong></li>
+  <li>🤔 <strong>How might different factions in Warhammer 40k influence charge strategies?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>

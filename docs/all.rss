@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 28 Sep 2025 18:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 09:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV – "Back to War" In-Engine Trailer | PC Gaming Show Tokyo Direct]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ds5dsvfc/warhammer-40000-dawn-of-war-iv-back-to-war-in-engine-trailer-pc-gaming-show-tokyo-direct</link>
+            <guid>ds5dsvfc</guid>
+            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s your official look into the next evolution of the iconic real-time strategy franchise with Warhammer 40,000: Dawn of War IV!
+First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been captured entirely from in-engine gameplay.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-artboard2mb_4k-diyeuyujcw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Return to Kronus in a new Dawn of War IV trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ef2pfh4v/return-to-kronus-in-a-new-dawn-of-war-iv-trailer</link>
@@ -284,19 +296,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="sunday-preview">Sunday preview</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-sep21-1-feature-xq4xsfuke4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Reinforcements for the Legiones Astartes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d23ic8k8/saturday-pre-orders-reinforcements-for-the-legiones-astartes</link>
-            <guid>d23ic8k8</guid>
-            <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-sep20-1-feature-mzxhhl2gxi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
