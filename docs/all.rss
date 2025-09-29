@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Sep 2025 13:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 14:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies on Parade 2025 – Submissions are open]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vhhgidbe/armies-on-parade-2025-submissions-are-open</link>
+            <guid>vhhgidbe</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Add those finishing touches and snap your photos.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aop_update-sept29-1-feature-bltfgljw3t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 517 – Settle in for a sensational scenery showcase]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uzffuuff/white-dwarf-517-settle-in-for-a-sensational-scenery-showcase</link>
@@ -281,18 +292,6 @@ The free update also brings new weapons, a new enemy, talent reworks, class bala
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_drukharidetachments-sep22-1-feature-waagqgfwkk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Assault Terminators are an unstoppable force and an immovable object in one indomitable package]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wr9feecy/assault-terminators-are-an-unstoppable-force-and-an-immovable-object-in-one-indomitable-package</link>
-            <guid>wr9feecy</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s a new Terminator Ancient too.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_cruxtermi-sep22-1-feature-5xvaxnax17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
