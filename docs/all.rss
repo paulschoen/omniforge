@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Sep 2025 13:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 14:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -20,6 +20,17 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_compweek2-sep30-1-feature-in1lkjrpxf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Weapon Barrel Damage | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/whxoqupc/how-to-paint-weapon-barrel-damage-warhammer-40000</link>
+            <guid>whxoqupc</guid>
+            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the grim darkness of the far future, there is only war! Few weapons go a long time without firing salvos into the enemy, and there’re some awesome ways of showing that through painting. Tune in to see Ollie paint three different gun barrel effects that you can add to your minis to make them look truly battle scarred.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01209---gun-barrel-damage-and-blast-effect-pev-thumbnail-15cjsmcoze.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 30th of September]]></title>
@@ -282,16 +293,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ladymalyslore-sep23-1-feature-fygmmukt2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 23rd of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cruam1em/the-rumour-engine-23rd-of-september</link>
-            <guid>cruam1em</guid>
-            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-sep23-1-feature-bodmsoynax.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
