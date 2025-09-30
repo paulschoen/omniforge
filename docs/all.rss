@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Sep 2025 14:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 15:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kurnoth’s Heralds embrace the fury of the hunt in Warhammer Underworlds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f2ufbwap/kurnoths-heralds-embrace-the-fury-of-the-hunt-in-warhammer-underworlds</link>
+            <guid>f2ufbwap</guid>
+            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s how the sentinels of the Spitewood play.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_swkurnothi-sep30-1-feature-q6vvqrh17v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our Space Marine 2 competition continues with a new stack of epic prizes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ohd6xub5/our-space-marine-2-competition-continues-with-a-new-stack-of-epic-prizes</link>
@@ -282,17 +292,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_compweek1-sep23-1-feature-8g1qoe2yii.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So… who exactly is Lady Malys, again?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5xxyhu35/so-who-exactly-is-lady-malys-again</link>
-            <guid>5xxyhu35</guid>
-            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[And why is she known as the Mazeweaver?]]></description>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ladymalyslore-sep23-1-feature-fygmmukt2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
