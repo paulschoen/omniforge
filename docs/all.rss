@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Sep 2025 12:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 13:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Our Space Marine 2 competition continues with a new stack of epic prizes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ohd6xub5/our-space-marine-2-competition-continues-with-a-new-stack-of-epic-prizes</link>
+            <guid>ohd6xub5</guid>
+            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s this week’s prize pool.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_compweek2-sep30-1-feature-in1lkjrpxf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 30th of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/v2vvudd7/the-rumour-engine-30th-of-september</link>
@@ -280,20 +292,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-sep23-1-feature-bodmsoynax.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide - Bound by Duty | Update Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dhjdzgwr/warhammer-40000-darktide-bound-by-duty-update-trailer</link>
-            <guid>dhjdzgwr</guid>
-            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bound by Duty, Darktide’s new update is coming tomorrow September 23! 
-Enter the Theatre of Rectitude to further test your skill and resolve. 
-
-The free update also brings new weapons, a new enemy, talent reworks, class balancing, a new live event and more!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dt-q3-release-thumb-(1)-itzjyrhdnj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
