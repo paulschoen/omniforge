@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Oct 2025 14:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Designer’s commentary for The War of Settra’s Fury]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z9imvutz/old-world-almanack-designers-commentary-for-the-war-of-settras-fury</link>
+            <guid>z9imvutz</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what awaits in this new Arcane Journal.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_settrasfury-oct1-1-feature-yvwdwg8sfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Empower your weapons and burn everything down with the Blood of the Bull]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fgzjmyov/empower-your-weapons-and-burn-everything-down-with-the-blood-of-the-bull</link>
@@ -277,18 +289,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01751_trailer-thumbnail-1-copy-lndkdmm7bi.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Who are these macabre Stormcast in Sigmar’s Toll, Episode 2?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0xnbxetp/who-are-these-macabre-stormcast-in-sigmars-toll-episode-2</link>
-            <guid>0xnbxetp</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A guide to the characters of the Ruination Chamber in today’s new Warhammer Animation.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep2-sep24-1-feature-eat9eegqky.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
