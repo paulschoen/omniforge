@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Sep 2025 15:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 12:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Stepping up to 2,000 points in Tale of Four Gamers on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/toepjjgk/stepping-up-to-2000-points-in-tale-of-four-gamers-on-warhammer-tv</link>
+            <guid>toepjjgk</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what you can watch this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-oct01-1-feature-reyjub8rbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kurnoth’s Heralds embrace the fury of the hunt in Warhammer Underworlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f2ufbwap/kurnoths-heralds-embrace-the-fury-of-the-hunt-in-warhammer-underworlds</link>
@@ -280,18 +290,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-sep24-1-feature-inavfe4rs1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We celebrate a whole year of Space Marine 2 with four weeks of epic prizes to be won]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b76zbqhw/we-celebrate-a-whole-year-of-space-marine-2-with-four-weeks-of-epic-prizes-to-be-won</link>
-            <guid>b76zbqhw</guid>
-            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A different prize pool each week.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_compweek1-sep23-1-feature-8g1qoe2yii.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
