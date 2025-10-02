@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Oct 2025 12:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 13:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Unite to wipe out foes or defend your home turf with two new Rivals decks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m9dm0fk4/unite-to-wipe-out-foes-or-defend-your-home-turf-with-two-new-rivals-decks</link>
+            <guid>m9dm0fk4</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We shuffle through the new cards on offer.]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw-swnewdecks-oct02-1-feature-zccf1cy4fs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Character Encyclopedia - release trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/srmrtwn4/warhammer-40000-character-encyclopedia-release-trailer</link>
+            <guid>srmrtwn4</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The history of this grimdark universe is dotted with legendary heroes and despicable villains – which is which depends on your point of view – and this book provides details on a whole rogues gallery of them. It also comes with a Captain Titus miniature, in blue plastic. The Warhammer 40,000 Character Encyclopedia is out now!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-40kce-80srp2pvxr.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Words of War – The Miniature Book of Space Marine Quotes - release trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wxrr3uyz/warhammer-40000-words-of-war-the-miniature-book-of-space-marine-quotes-release-trailer</link>
+            <guid>wxrr3uyz</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover what it is to be an Angel of Death in their own words, accompanied by dynamic photography of their miniatures. Warhammer 40,000: Words of War - the Miniature Book of Space Marine Quotes is out now!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-wow-vvhdtysm8u.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Two new DK Warhammer books are available now, and a third is coming very soon!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mpjsrjxr/two-new-dk-warhammer-books-are-available-now-and-a-third-is-coming-very-soon</link>
@@ -253,39 +287,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grandnarrativeuk_intro-sep26-1-feature-mwv4b9sirr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Conquer your own corner of Commorragh with Codex: Drukhari Crusade rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mx9puail/conquer-your-own-corner-of-commorragh-with-codex-drukhari-crusade-rules</link>
-            <guid>mx9puail</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch out for your rivals – they’re deadly.]]></description>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_drukharicrusaderules-sep25-1-feature-vkezjd3ioo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The first Warhammer World events of 2026 are a Doubles bonanza]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/of4u9pgo/the-first-warhammer-world-events-of-2026-are-a-doubles-bonanza</link>
-            <guid>of4u9pgo</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Team up with your bestie and conquer the worlds of Warhammer.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-sep25-1-feature-4iaphfnwqw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Inductii rules send desperate reinforcements straight to the war front]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gmmt8jvf/new-inductii-rules-send-desperate-reinforcements-straight-to-the-war-front</link>
-            <guid>gmmt8jvf</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fresh recruits for the Horus Heresy meat grinder.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_inductiidownloads-sep25-1-feature-1h168cw3mp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
