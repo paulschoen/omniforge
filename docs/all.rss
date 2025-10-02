@@ -4,19 +4,28 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Oct 2025 13:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Starting a Drukhari army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fiqetk3h/starting-a-drukhari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
+            <guid>fiqetk3h</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to paint and play the vicious raiders from beyond realspace.]]></description>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_drukharifaction-1-feature-fmfc8tget8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unite to wipe out foes or defend your home turf with two new Rivals decks]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m9dm0fk4/unite-to-wipe-out-foes-or-defend-your-home-turf-with-two-new-rivals-decks</link>
             <guid>m9dm0fk4</guid>
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[We shuffle through the new cards on offer.]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="space-wolves">Space Wolves</category>
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw-swnewdecks-oct02-1-feature-zccf1cy4fs.jpg" length="0" type="image/jpg"/>
@@ -275,18 +284,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="drukhari">Drukhari</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01291---drukhari-kabal-schemes-thumbnail-69uqnyr63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Webway shatters over Mordian – Grand Narrative 2025 at Warhammer World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/thbzpflu/the-webway-shatters-over-mordian-grand-narrative-2025-at-warhammer-world</link>
-            <guid>thbzpflu</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The year’s greatest Warhammer narrative event begins.]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grandnarrativeuk_intro-sep26-1-feature-mwv4b9sirr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
