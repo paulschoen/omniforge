@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Oct 2025 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 11:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 tactica – the Movement Phase]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wrrt241d/warhammer-40000-tactica-the-movement-phase</link>
+            <guid>wrrt241d</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Make the best of your movement.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wdtactica1-oct02-1-feature-w3qi1sv7zz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Designer’s commentary for The War of Settra’s Fury]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z9imvutz/old-world-almanack-designers-commentary-for-the-war-of-settras-fury</link>
@@ -276,19 +287,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_inflspearhead-sep24-1-feature-qxkzgmmcx4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar's Toll: Episode 2 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hptitw5f/sigmars-toll-episode-2-official-trailer-warhammer-age-of-sigmar</link>
-            <guid>hptitw5f</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The second episode of Sigmar’s Toll is live now! Plus, learn how to claim your FREE Warhammer+ subscriber miniature with our handy guide.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01751_trailer-thumbnail-1-copy-lndkdmm7bi.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
