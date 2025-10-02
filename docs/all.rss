@@ -4,19 +4,30 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Oct 2025 11:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 12:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Two new DK Warhammer books are available now, and a third is coming very soon!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mpjsrjxr/two-new-dk-warhammer-books-are-available-now-and-a-third-is-coming-very-soon</link>
+            <guid>mpjsrjxr</guid>
+            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Buy or pre-order these new Warhammer books today.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dk_books-oct02-1-feature-fvehp0wff5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 tactica – the Movement Phase]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wrrt241d/warhammer-40000-tactica-the-movement-phase</link>
             <guid>wrrt241d</guid>
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Make the best of your movement.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wdtactica1-oct02-1-feature-w3qi1sv7zz.jpg" length="0" type="image/jpg"/>
         </item>
@@ -275,18 +286,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_inductiidownloads-sep25-1-feature-1h168cw3mp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Spearhead to bigger battles – Part two of The Hobby Collab’s journey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eiogua2t/from-spearhead-to-bigger-battles-part-two-of-the-hobby-collabs-journey</link>
-            <guid>eiogua2t</guid>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[From humble beginnings.]]></description>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_inflspearhead-sep24-1-feature-qxkzgmmcx4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
