@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Oct 2025 11:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 12:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar Miniature of the Decade – Help choose the greatest of all time]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1u6vl6af/warhammer-age-of-sigmar-miniature-of-the-decade-help-choose-the-greatest-of-all-time</link>
+            <guid>1u6vl6af</guid>
+            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Only one miniature can win – and you get to decide.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_miniotdecade-oct03-1-feature-qhwwbwn5p1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Space Marines]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/k8mp5dme/warhammer-art-through-the-years-space-marines</link>
@@ -269,20 +279,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_drukhariinfluencer-sep26-1-feature-l5wyhonwyl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imperial Fists Showcase – Darcy presents his vibrant sons of Dorn]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bdbhjhw2/imperial-fists-showcase-darcy-presents-his-vibrant-sons-of-dorn</link>
-            <guid>bdbhjhw2</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A display of Inwit’s finest warriors.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_darcyimpfist-sep26-1-feature-ahtdnlo2qi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
