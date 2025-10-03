@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Oct 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 11:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Space Marines]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k8mp5dme/warhammer-art-through-the-years-space-marines</link>
+            <guid>k8mp5dme</guid>
+            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Putting the “art” in Adeptus Astartes]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art_spacemarines-oct03-1-feature-5zqpu34pao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Starting a Drukhari army in Warhammer 40,000 – Everything you need to know, from painting to lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fiqetk3h/starting-a-drukhari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore</link>
@@ -273,17 +283,6 @@ First revealed during PC Gaming Show: Tokyo Direct, this new trailer has been ca
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_darcyimpfist-sep26-1-feature-ahtdnlo2qi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 Wickedly Sinister Drukhari Kabals | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bjublqh4/9-wickedly-sinister-drukhari-kabals-warhammer-40000</link>
-            <guid>bjublqh4</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ready to bring your Drukhari to life with some killer colour schemes? In this video, Dan will be covering nine distinct Kabal paint schemes to help you style your army with deadly flair.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="drukhari">Drukhari</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01291---drukhari-kabal-schemes-thumbnail-69uqnyr63c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
