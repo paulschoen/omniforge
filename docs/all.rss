@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 05 Oct 2025 17:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 12:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Customise your Space Marines with a set of fifty new heads and helmets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rcgz9jbn/customise-your-space-marines-with-a-set-of-fifty-new-heads-and-helmets</link>
+            <guid>rcgz9jbn</guid>
+            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Add some character to the Adeptus Astartes.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k-smheadsreveal-oct06-1-feature-hn079mfyek.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – A tale of three Captains]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftpj7noz/sunday-preview-a-tale-of-three-captains</link>
@@ -270,17 +282,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd517-sep29-1-feature-lr27vylvcv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rustle up a free Ratling miniature of the month and a Warhammer Day coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fl5nfu95/rustle-up-a-free-ratling-miniature-of-the-month-and-a-warhammer-day-coin</link>
-            <guid>fl5nfu95</guid>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are next month’s free coin and mini.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-sep29-1-feature-ihlie206cz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
