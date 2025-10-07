@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 07 Oct 2025 12:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 13:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Caanok Var, Iron Captain of Clan Avernii]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vehi78kr/caanok-var-iron-captain-of-clan-avernii</link>
+            <guid>vehi78kr</guid>
+            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How much of this steely warrior is even flesh anymore?]]></description>
+            <category domain="iron-hands">Iron Hands</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_caanokvarlore-oct07-1-feature-dsf2g4rr5w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How To Paint Necron Armour | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/gxsgb9h1/how-to-paint-necron-armour-warhammer-40000</link>
@@ -269,18 +280,6 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_swkurnothi-sep30-1-feature-q6vvqrh17v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Space Marine 2 competition continues with a new stack of epic prizes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ohd6xub5/our-space-marine-2-competition-continues-with-a-new-stack-of-epic-prizes</link>
-            <guid>ohd6xub5</guid>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s this week’s prize pool.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_compweek2-sep30-1-feature-in1lkjrpxf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
