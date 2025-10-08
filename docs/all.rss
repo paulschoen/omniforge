@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Oct 2025 13:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 15:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Win awesome art for your walls in this Warhammer Day competition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/umavdshw/win-awesome-art-for-your-walls-in-this-warhammer-day-competition</link>
+            <guid>umavdshw</guid>
+            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Win two prints by signing up to My Warhammer.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whdaycomp-oct08-1-feature-cynpdrkj2r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Suboden Khan, Master of the First Brotherhood]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/62vfzrh4/suboden-khan-master-of-the-first-brotherhood</link>
@@ -274,17 +285,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-wow-vvhdtysm8u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two new DK Warhammer books are available now, and a third is coming very soon!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mpjsrjxr/two-new-dk-warhammer-books-are-available-now-and-a-third-is-coming-very-soon</link>
-            <guid>mpjsrjxr</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Buy or pre-order these new Warhammer books today.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dk_books-oct02-1-feature-fvehp0wff5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
