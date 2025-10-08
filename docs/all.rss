@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Oct 2025 10:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 12:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sigmar's Toll: Episode 3 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ulhyaelx/sigmars-toll-episode-3-official-trailer-warhammer-warhammer-age-of-sigmar</link>
+            <guid>ulhyaelx</guid>
+            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01752_ep-3-thumbnail-16x9-wmipfafnam.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Skaven Rise! Stream every episode of Sigmar’s Toll right now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wurua6wn/the-skaven-rise-stream-every-episode-of-sigmars-toll-right-now</link>
+            <guid>wurua6wn</guid>
+            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The third and final instalment of this action-packed Warhammer Age of Sigmar animation has landed on Warhammer TV.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep3-oct8-1-feature-aw4lgf2cyo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Your downloadable Warhammer 40,000 faction rules are changing – find out how]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9767rbsk/your-downloadable-warhammer-40000-faction-rules-are-changing-find-out-how</link>
@@ -261,28 +283,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wdtactica1-oct02-1-feature-w3qi1sv7zz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Designer’s commentary for The War of Settra’s Fury]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9imvutz/old-world-almanack-designers-commentary-for-the-war-of-settras-fury</link>
-            <guid>z9imvutz</guid>
-            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what awaits in this new Arcane Journal.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_settrasfury-oct1-1-feature-yvwdwg8sfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Empower your weapons and burn everything down with the Blood of the Bull]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fgzjmyov/empower-your-weapons-and-burn-everything-down-with-the-blood-of-the-bull</link>
-            <guid>fgzjmyov</guid>
-            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chaos Duardin don’t play fair in Warhammer Underworlds]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_swbloodofthebull-oct01-1-feature-e6z1itmsxe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
