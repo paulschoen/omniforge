@@ -4,16 +4,29 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Oct 2025 12:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 13:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
+            <title><![CDATA[Suboden Khan, Master of the First Brotherhood]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/62vfzrh4/suboden-khan-master-of-the-first-brotherhood</link>
+            <guid>62vfzrh4</guid>
+            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ride with the first spear of the White Scars.]]></description>
+            <category domain="white-scars">White Scars</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_subodenkhanlore-oct08-1-feature_alt-fklx2xyiyw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sigmar's Toll: Episode 3 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ulhyaelx/sigmars-toll-episode-3-official-trailer-warhammer-warhammer-age-of-sigmar</link>
             <guid>ulhyaelx</guid>
             <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this action-packed trailer for the third instalment of Sigmar's Toll now, and enjoy the full episode over on Warhammer TV]]></description>
             <category domain="videos">Videos</category>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
@@ -272,17 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dk_books-oct02-1-feature-fvehp0wff5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 tactica – the Movement Phase]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wrrt241d/warhammer-40000-tactica-the-movement-phase</link>
-            <guid>wrrt241d</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Make the best of your movement.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wdtactica1-oct02-1-feature-w3qi1sv7zz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
