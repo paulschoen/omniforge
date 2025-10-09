@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Oct 2025 10:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 12:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 tactica – the Shooting phase, Part 1]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dw11jlqv/warhammer-40000-tactica-the-shooting-phase-part-1</link>
+            <guid>dw11jlqv</guid>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tips for shooting better, from the annals of White Dwarf.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd_tactica2-oct09-1-feature-djcrta4idp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon at SPIEL Essen 2025 | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/y4sg4gkz/golden-demon-at-spiel-essen-2025-warhammer</link>
+            <guid>y4sg4gkz</guid>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn all about Golden Demon, Warhammer’s ultimate painting competition! This year, Golden Demon is coming to @SPIELMesse in Essen. Visit the Warhammer booth from October 23-26 2025, and experience the fair with us.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01786_golden-demon-spiel-amends_thumbnail_v2-uwnto4efhr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Back with the Blackshields – Create your own independent warbands in Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/w5my9gyy/back-with-the-blackshields-create-your-own-independent-warbands-in-warhammer-the-horus-heresy</link>
@@ -265,27 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_drukharifaction-1-feature-fmfc8tget8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unite to wipe out foes or defend your home turf with two new Rivals decks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m9dm0fk4/unite-to-wipe-out-foes-or-defend-your-home-turf-with-two-new-rivals-decks</link>
-            <guid>m9dm0fk4</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We shuffle through the new cards on offer.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw-swnewdecks-oct02-1-feature-zccf1cy4fs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Character Encyclopedia - release trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/srmrtwn4/warhammer-40000-character-encyclopedia-release-trailer</link>
-            <guid>srmrtwn4</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The history of this grimdark universe is dotted with legendary heroes and despicable villains – which is which depends on your point of view – and this book provides details on a whole rogues gallery of them. It also comes with a Captain Titus miniature, in blue plastic. The Warhammer 40,000 Character Encyclopedia is out now!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-40kce-80srp2pvxr.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
