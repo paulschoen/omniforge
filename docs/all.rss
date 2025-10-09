@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Oct 2025 13:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 14:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rust x Warhammer 40,000 – Survive in style with wargear inspired by the Death Korps of Krieg]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ownkeqd4/rust-x-warhammer-40000-survive-in-style-with-wargear-inspired-by-the-death-korps-of-krieg</link>
+            <guid>ownkeqd4</guid>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your gas mask – it’s time to deploy.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rust_dlc-oct09-1-feature-s7cvdr5oh2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – Cold Iron]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qstbd918/heroes-of-the-first-founding-cold-iron</link>
@@ -278,17 +291,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_miniotdecade-oct03-1-feature-qhwwbwn5p1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k8mp5dme/warhammer-art-through-the-years-space-marines</link>
-            <guid>k8mp5dme</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Putting the “art” in Adeptus Astartes]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art_spacemarines-oct03-1-feature-5zqpu34pao.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
