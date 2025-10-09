@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Oct 2025 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 10:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Back with the Blackshields – Create your own independent warbands in Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w5my9gyy/back-with-the-blackshields-create-your-own-independent-warbands-in-warhammer-the-horus-heresy</link>
+            <guid>w5my9gyy</guid>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Newly updated rules are ready to download.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackshields-oct09-1-feature-mcx0zkgmlx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Win awesome art for your walls in this Warhammer Day competition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/umavdshw/win-awesome-art-for-your-walls-in-this-warhammer-day-competition</link>
@@ -240,6 +251,7 @@
             <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Putting the “art” in Adeptus Astartes]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art_spacemarines-oct03-1-feature-5zqpu34pao.jpg" length="0" type="image/jpg"/>
         </item>
@@ -274,17 +286,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-40kce-80srp2pvxr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Words of War – The Miniature Book of Space Marine Quotes - release trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wxrr3uyz/warhammer-40000-words-of-war-the-miniature-book-of-space-marine-quotes-release-trailer</link>
-            <guid>wxrr3uyz</guid>
-            <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover what it is to be an Angel of Death in their own words, accompanied by dynamic photography of their miniatures. Warhammer 40,000: Words of War - the Miniature Book of Space Marine Quotes is out now!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-wow-vvhdtysm8u.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
