@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Oct 2025 11:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 12:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes rush to defend Rohan™ in this gorgeous Army of Edoras™ collection]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rro07ial/heroes-rush-to-defend-rohantm-in-this-gorgeous-army-of-edorastm-collection</link>
+            <guid>rro07ial</guid>
+            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Helm™, Haleth™, Háma™, and Héra™ stand tall.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_jaysrohan-oct10-1-feature-ydlaklhwo2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Aeldari]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z6j2kcfy/warhammer-art-through-the-years-aeldari</link>
@@ -281,16 +293,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01789-kill-team-dead-silence---thumbnail-16x9---v2-znmyuakt6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Day is coming soon – Find out what rewards you can earn in store]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g05rxpgk/warhammer-day-is-coming-soon-find-out-what-rewards-you-can-earn-in-store</link>
-            <guid>g05rxpgk</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Snap up sweet swag for spending.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whdaydeets-oct03-1-feature-q2l2rxtyso.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
