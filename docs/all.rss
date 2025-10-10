@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Oct 2025 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 13:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – The End of the Hunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z6pqu45h/heroes-of-the-first-founding-the-end-of-the-hunt</link>
+            <guid>z6pqu45h</guid>
+            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Suboden Khan butchers Orks in a new short story]]></description>
+            <category domain="white-scars">White Scars</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_khanstory-oct10-1-feature-snc6jnvuuw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes rush to defend Rohan™ in this gorgeous Army of Edoras™ collection]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rro07ial/heroes-rush-to-defend-rohantm-in-this-gorgeous-army-of-edorastm-collection</link>
@@ -279,20 +292,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gw_preorders-jul29-1-feature-7a5of19oqv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Wolves vs T'au Empire in Kill Team: Dead Silence | Warhammer 40,000: Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/2ebht9b3/kill-team-dead-silence</link>
-            <guid>2ebht9b3</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Predatory instinct meets stealth technology as operatives of the Space Wolves and T'au Empire clash in Kill Team: Dead Silence.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01789-kill-team-dead-silence---thumbnail-16x9---v2-znmyuakt6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
