@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Oct 2025 16:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 17:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Three new Combat Patrols inbound]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vbojdl9z/saturday-pre-orders-three-new-combat-patrols-inbound</link>
+            <guid>vbojdl9z</guid>
+            <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here is everything available to pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-oct11-1-feature-oxupfyhiwu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Author Interview – John French | Black Library]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/author-interview-john-french-black-library</link>
@@ -275,18 +289,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_battleforces-oct06-1-feature-utx7j95vrw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Customise your Space Marines with a set of fifty new heads and helmets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rcgz9jbn/customise-your-space-marines-with-a-set-of-fifty-new-heads-and-helmets</link>
-            <guid>rcgz9jbn</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Add some character to the Adeptus Astartes.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k-smheadsreveal-oct06-1-feature-hn079mfyek.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
