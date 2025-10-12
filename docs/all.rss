@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 11 Oct 2025 17:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 17:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Daemonsmiths conjure up Helsmiths of Hashut reinforcements]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gfojfzrt/sunday-preview-daemonsmiths-conjure-up-helsmiths-of-hashut-reinforcements</link>
+            <guid>gfojfzrt</guid>
+            <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct12-1-feature-y2z53jy6gk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Three new Combat Patrols inbound]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vbojdl9z/saturday-pre-orders-three-new-combat-patrols-inbound</link>
@@ -278,17 +291,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_battleforces-sep06-1-feature-8qydkq2r4x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muster mighty forces with seven new Warhammer 40,000 Battleforce boxes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tqw4l4sz/muster-mighty-forces-with-seven-new-warhammer-40000-battleforce-boxes</link>
-            <guid>tqw4l4sz</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Battleforce boxes for Imperium, Chaos, and xenos armies.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_battleforces-oct06-1-feature-utx7j95vrw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
