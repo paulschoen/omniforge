@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 12 Oct 2025 17:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 10:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Painting the Darkened Metallics & Green Daemonic Fire of the Dominator Engines | Warhammer Age Of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/9bn3exkw/painting-the-darkened-metallics-green-daemonic-fire-of-the-dominator-engines-warhammer-age-of-sigmar</link>
+            <guid>9bn3exkw</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Dominator Engines bellow forth from their masters' forges, filled with daemonic energies and clad in the toughest plate armour. Can Dan tackle this bull and show you how to paint such a beast in all its glory? Stay tuned to find out!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01213---helsmith---dominator-engine-thumbnail-adsabk3rtl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Daemonsmiths conjure up Helsmiths of Hashut reinforcements]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gfojfzrt/sunday-preview-daemonsmiths-conjure-up-helsmiths-of-hashut-reinforcements</link>
@@ -280,17 +292,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-cagplbytld.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amass a new army with four Age of Sigmar Battleforce Boxes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x02hi8xs/amass-a-new-army-with-four-age-of-sigmar-battleforce-boxes</link>
-            <guid>x02hi8xs</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[One box for each Grand Alliance.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_battleforces-sep06-1-feature-8qydkq2r4x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
