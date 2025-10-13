@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Oct 2025 12:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 13:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Who is Urak Taar, the First Daemonsmith, and just how old is he?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7nghweru/who-is-urak-taar-the-first-daemonsmith-and-just-how-old-is-he</link>
+            <guid>7nghweru</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Taking a closer look at the Zharrdron’s most infamous leader.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_uraktaarlore-oct14-1-feature-qpm4rszaqm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Witness the evolution of a collection with one hobbyist’s TWO Drukhari armies]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bgbwxdst/witness-the-evolution-of-a-collection-with-one-hobbyists-two-drukhari-armies</link>
@@ -285,16 +297,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/necron-thumbnail-3-3vknrppafo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 7th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hcuepgdr/the-rumour-engine-7th-of-october</link>
-            <guid>hcuepgdr</guid>
-            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct7-1-feature-qbdykvx39u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
