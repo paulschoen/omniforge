@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Oct 2025 13:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 14:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Wreck the halls – Da Red Gobbo is back with a festive robotic contraption]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fndevuxa/wreck-the-halls-da-red-gobbo-is-back-with-a-festive-robotic-contraption</link>
+            <guid>fndevuxa</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new Christmas miniature revealed.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tinboyreveal-oct13-1-feature-ohbp04t0e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Who is Urak Taar, the First Daemonsmith, and just how old is he?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7nghweru/who-is-urak-taar-the-first-daemonsmith-and-just-how-old-is-he</link>
@@ -284,19 +297,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_caanokvarlore-oct07-1-feature-dsf2g4rr5w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How To Paint Necron Armour | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gxsgb9h1/how-to-paint-necron-armour-warhammer-40000</link>
-            <guid>gxsgb9h1</guid>
-            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Necron armour adorns Lychguard shields and any Canoptek creation. It looks awesome and is super fun to paint. Tune in to this paint guide to see how it’s done!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/necron-thumbnail-3-3vknrppafo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
