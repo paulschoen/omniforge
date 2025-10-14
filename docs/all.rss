@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Oct 2025 14:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 12:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 14th of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gb78bybt/the-rumour-engine-14th-of-october</link>
+            <guid>gb78bybt</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct14-1-feature-dllxqnqqus.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wreck the halls – Da Red Gobbo is back with a festive robotic contraption]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fndevuxa/wreck-the-halls-da-red-gobbo-is-back-with-a-festive-robotic-contraption</link>
@@ -286,17 +296,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_compweek3-oct07-1-feature-ptvmczf7vv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caanok Var, Iron Captain of Clan Avernii]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vehi78kr/caanok-var-iron-captain-of-clan-avernii</link>
-            <guid>vehi78kr</guid>
-            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How much of this steely warrior is even flesh anymore?]]></description>
-            <category domain="iron-hands">Iron Hands</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_caanokvarlore-oct07-1-feature-dsf2g4rr5w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
