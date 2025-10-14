@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Oct 2025 12:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 13:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Forge your very own tyrannical Helsmiths of Hashut hero on the Anvil of Apotheosis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ffk6wfda/forge-your-very-own-tyrannical-helsmiths-of-hashut-hero-on-the-anvil-of-apotheosis</link>
+            <guid>ffk6wfda</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow the Path to Glory.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithp2g-oct16-1-feature-u5vmozp41i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 14th of October]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gb78bybt/the-rumour-engine-14th-of-october</link>
@@ -284,18 +295,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/0k_datasheetconsolidation-oct08-1-feature-xaxc2ddain.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find out what you can win in week three of our Space Marine 2 competition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/svufbppc/find-out-what-you-can-win-in-week-three-of-our-space-marine-2-competition</link>
-            <guid>svufbppc</guid>
-            <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s this week’s prize pool.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_compweek3-oct07-1-feature-ptvmczf7vv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
