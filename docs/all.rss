@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Oct 2025 13:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 15:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Warhammer Quest heroes – Enhance!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rtcag66b/new-warhammer-quest-heroes-enhance</link>
+            <guid>rtcag66b</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Select your adventurer for Warhammer Quest: Darkwater]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-ohkxdekica.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Find out what you can win in week four of our Space Marine 2 competition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tduiow0t/find-out-what-you-can-win-in-week-four-of-our-space-marine-2-competition</link>
+            <guid>tduiow0t</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s this week’s prize pool.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_compweek4-oct14-1-feature-cm3kc92uc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forge your very own tyrannical Helsmiths of Hashut hero on the Anvil of Apotheosis]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ffk6wfda/forge-your-very-own-tyrannical-helsmiths-of-hashut-hero-on-the-anvil-of-apotheosis</link>
@@ -272,29 +295,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01752_ep-3-thumbnail-16x9-wmipfafnam.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Skaven Rise! Stream every episode of Sigmar’s Toll right now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wurua6wn/the-skaven-rise-stream-every-episode-of-sigmars-toll-right-now</link>
-            <guid>wurua6wn</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The third and final instalment of this action-packed Warhammer Age of Sigmar animation has landed on Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sigmarstoll_ep3-oct8-1-feature-aw4lgf2cyo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your downloadable Warhammer 40,000 faction rules are changing – find out how]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9767rbsk/your-downloadable-warhammer-40000-faction-rules-are-changing-find-out-how</link>
-            <guid>9767rbsk</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your faction’s updated rules – now in one place.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/0k_datasheetconsolidation-oct08-1-feature-xaxc2ddain.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
