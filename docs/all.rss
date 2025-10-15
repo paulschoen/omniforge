@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Oct 2025 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 12:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Behind the scenes on Chapter Approved 2025-26 on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a4dqwouy/behind-the-scenes-on-chapter-approved-2025-26-on-warhammer-tv</link>
+            <guid>a4dqwouy</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new shows to watch this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-oct15-1-feature-ni0sgbk5lg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Warhammer Quest heroes – Enhance!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rtcag66b/new-warhammer-quest-heroes-enhance</link>
@@ -284,17 +294,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_subodenkhanlore-oct08-1-feature_alt-fklx2xyiyw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigmar's Toll: Episode 3 Official Trailer – Warhammer+ | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ulhyaelx/sigmars-toll-episode-3-official-trailer-warhammer-warhammer-age-of-sigmar</link>
-            <guid>ulhyaelx</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this action-packed trailer for the third instalment of Sigmar's Toll now, and enjoy the full episode over on Warhammer TV]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01752_ep-3-thumbnail-16x9-wmipfafnam.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
