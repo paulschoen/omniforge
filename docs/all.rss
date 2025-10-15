@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Oct 2025 12:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 13:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Belisarius Cawl attempts to bridge the Great Rift in a new Black Library book]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qbrdkglz/belisarius-cawl-attempts-to-bridge-the-great-rift-in-a-new-black-library-book</link>
+            <guid>qbrdkglz</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can the Archmagos achieve the impossible?]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_archmagos-oct15-1-feature-9cjdvxdmed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Behind the scenes on Chapter Approved 2025-26 on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/a4dqwouy/behind-the-scenes-on-chapter-approved-2025-26-on-warhammer-tv</link>
@@ -282,18 +292,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whdaycomp-oct08-1-feature-cynpdrkj2r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suboden Khan, Master of the First Brotherhood]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/62vfzrh4/suboden-khan-master-of-the-first-brotherhood</link>
-            <guid>62vfzrh4</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ride with the first spear of the White Scars.]]></description>
-            <category domain="white-scars">White Scars</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_subodenkhanlore-oct08-1-feature_alt-fklx2xyiyw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
