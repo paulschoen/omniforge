@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Oct 2025 14:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Manticore Knight ventures into Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qv1a8pje/the-manticore-knight-ventures-into-warhammer-quest-darkwater</link>
+            <guid>qv1a8pje</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold the winner of our miniature reveal poll]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-okezgscczk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Splash a little Zharrdron handiwork into your Chaos armies with two Regiments of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqpsylac/splash-a-little-zharrdron-handiwork-into-your-chaos-armies-with-two-regiments-of-renown</link>
@@ -281,17 +291,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01786_golden-demon-spiel-amends_thumbnail_v2-uwnto4efhr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Back with the Blackshields – Create your own independent warbands in Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w5my9gyy/back-with-the-blackshields-create-your-own-independent-warbands-in-warhammer-the-horus-heresy</link>
-            <guid>w5my9gyy</guid>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Newly updated rules are ready to download.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackshields-oct09-1-feature-mcx0zkgmlx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
