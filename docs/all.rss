@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Oct 2025 13:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 14:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Splash a little Zharrdron handiwork into your Chaos armies with two Regiments of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqpsylac/splash-a-little-zharrdron-handiwork-into-your-chaos-armies-with-two-regiments-of-renown</link>
+            <guid>wqpsylac</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A handful of Helsmiths for your army.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsror-oct15-1-feature-6puw4wfp5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Belisarius Cawl attempts to bridge the Great Rift in a new Black Library book]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qbrdkglz/belisarius-cawl-attempts-to-bridge-the-great-rift-in-a-new-black-library-book</link>
@@ -281,17 +292,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackshields-oct09-1-feature-mcx0zkgmlx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Win awesome art for your walls in this Warhammer Day competition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/umavdshw/win-awesome-art-for-your-walls-in-this-warhammer-day-competition</link>
-            <guid>umavdshw</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Win two prints by signing up to My Warhammer.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whdaycomp-oct08-1-feature-cynpdrkj2r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
