@@ -4,11 +4,43 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 15 Oct 2025 17:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 03:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[One BIG Warhammer 40K Power Move - Use this Stratagem! #warhammer40k]]></title>
+            <link>https://www.youtube.com/watch?v=657H192j1_0</link>
+            <guid>yt:video:657H192j1_0</guid>
+            <pubDate>Wed, 15 Oct 2025 17:00:08 GMT</pubDate>
+            <description><![CDATA[The video discusses strategies for melee engagement in Warhammer 40k, highlighting the benefits of Rapid Ingress for tactical positioning, the importance of terrain for unit survivability, and the effectiveness of combining various tactics to enhance offensive capabilities.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Mastering the 40k Strategium: The Power of Melee Engagement</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>Rapid Ingress:</strong> This command allows melee units to arrive from reserves during the enemy's turn, providing a tactical advantage.</li>
+  <li>⚔️ <strong>First Strike Advantage:</strong> By deploying units effectively, players can initiate combat before the enemy, capitalizing on the high damage output of melee units.</li>
+  <li>🏞️ <strong>Terrain Utilization:</strong> Positioning melee units behind terrain can shield them from enemy fire, enhancing their survivability upon arrival.</li>
+  <li>🌀 <strong>Unusual Formations:</strong> Players can use their knowledge of enemy movements to position their units strategically for maximum impact.</li>
+  <li>💥 <strong>Combo Tactics:</strong> Combining Rapid Ingress with other abilities like Heroic Intervention can create devastating attacks against opponents.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📉 <strong>Charge Range:</strong> Units positioned between 9 and 12 inches away can achieve a short charge, ensuring they strike first in melee combat.</li>
+  <li>🔄 <strong>Command Points:</strong> Utilizing the Rapid Ingress costs only 1 command point, making it a low-cost, high-reward strategy.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>How can terrain influence your overall strategy in melee engagements?</strong></li>
+  <li>🤔 <strong>What other command strategies can be combined with Rapid Ingress for an effective offensive?</strong></li>
+  <li>🤔 <strong>How does the knowledge of enemy movements change your deployment strategy?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Top Ten Weakest Armies in Warhammer 40K by Win Rate - What's Struggling Right Now?]]></title>
             <link>https://www.youtube.com/watch?v=uff9MZ8Amck</link>
@@ -13610,34 +13642,40 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[One BIG Warhammer 40K Power Move - Use this Stratagem! #warhammer40k]]></title>
-            <link>https://www.youtube.com/watch?v=657H192j1_0</link>
-            <guid>yt:video:657H192j1_0</guid>
-            <pubDate>Wed, 15 Oct 2025 17:00:08 GMT</pubDate>
-            <description><![CDATA[The video discusses strategies for melee engagement in Warhammer 40k, highlighting the benefits of Rapid Ingress for tactical positioning, the importance of terrain for unit survivability, and the effectiveness of combining various tactics to enhance offensive capabilities.]]></description>
+            <title><![CDATA[What Models Should EVERY 40K Army Get for 11th Edition?]]></title>
+            <link>https://www.youtube.com/watch?v=MXTiDC1Wm3w</link>
+            <guid>yt:video:MXTiDC1Wm3w</guid>
+            <pubDate>Thu, 16 Oct 2025 03:00:19 GMT</pubDate>
+            <description><![CDATA[The video discusses the anticipated releases for Warhammer 40k's 11th edition, expected in June 2026, highlighting potential updates for various factions, including significant changes for Space Marines and Chaos factions, while also posing questions to engage the community on desired updates and model balance.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Mastering the 40k Strategium: The Power of Melee Engagement</h2>
+<h2>📢 Upcoming Warhammer 40k Miniatures Releases for 11th Edition</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>Rapid Ingress:</strong> This command allows melee units to arrive from reserves during the enemy's turn, providing a tactical advantage.</li>
-  <li>⚔️ <strong>First Strike Advantage:</strong> By deploying units effectively, players can initiate combat before the enemy, capitalizing on the high damage output of melee units.</li>
-  <li>🏞️ <strong>Terrain Utilization:</strong> Positioning melee units behind terrain can shield them from enemy fire, enhancing their survivability upon arrival.</li>
-  <li>🌀 <strong>Unusual Formations:</strong> Players can use their knowledge of enemy movements to position their units strategically for maximum impact.</li>
-  <li>💥 <strong>Combo Tactics:</strong> Combining Rapid Ingress with other abilities like Heroic Intervention can create devastating attacks against opponents.</li>
+    <li>🔥 <strong>Release Schedule:</strong> Anticipated drop for 11th edition around <strong>June 2026</strong>, with around <strong>8 months</strong> left for 10th edition releases.</li>
+    <li>⚙️ <strong>Model Demand:</strong> Discussion on which factions are likely to receive new models based on Games Workshop's release cycles.</li>
+    <li>🚀 <strong>Space Marines:</strong> Expected to receive significant updates, including possible resculpts of Firstborn kits and new characters.</li>
+    <li>🔫 <strong>Astra Militarum:</strong> May see updates for core infantry squads and potential new regiments.</li>
+    <li>⚔️ <strong>Adeptus Mechanicus:</strong> Limited updates expected; potential for new character models or classes of robots.</li>
+    <li>👩‍✈️ <strong>Adeptus Sororitas:</strong> Recent releases suggest less likelihood for major updates, though minor character additions are possible.</li>
+    <li>👑 <strong>Adeptus Custodes:</strong> Awaiting updates alongside Horus Heresy releases; potential for new characters and kits.</li>
+    <li>🛡️ <strong>Imperial Knights:</strong> Likely to receive one major release, possibly a new knight variant.</li>
+    <li>💀 <strong>Chaos Factions:</strong> Expecting various updates, particularly for Chaos Space Marines and their associated characters.</li>
+    <li>🌌 <strong>Xenos Factions:</strong> Eldari and Tyranids likely to see more minor updates; potential for new kits and character releases.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>📉 <strong>Charge Range:</strong> Units positioned between 9 and 12 inches away can achieve a short charge, ensuring they strike first in melee combat.</li>
-  <li>🔄 <strong>Command Points:</strong> Utilizing the Rapid Ingress costs only 1 command point, making it a low-cost, high-reward strategy.</li>
+    <li>📅 <strong>June 2026:</strong> Estimated release date for Warhammer 40k 11th edition.</li>
+    <li>🕒 <strong>8 Months:</strong> Time remaining for new releases in the current 10th edition.</li>
+    <li>🔄 <strong>Major Updates:</strong> Expected across multiple factions, including potential resculpts and new character models.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>How can terrain influence your overall strategy in melee engagements?</strong></li>
-  <li>🤔 <strong>What other command strategies can be combined with Rapid Ingress for an effective offensive?</strong></li>
-  <li>🤔 <strong>How does the knowledge of enemy movements change your deployment strategy?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> Which faction do you think needs the most attention in the upcoming releases, and why?</li>
+    <li>🤔 <strong>Question 2:</strong> How do you feel about the balance between new releases and updates for existing models in Warhammer 40k?</li>
+    <li>🤔 <strong>Question 3:</strong> What specific models or characters would you like to see added or updated in 11th edition?</li>
 </ul>
 ]]></content:encoded>
         </item>
