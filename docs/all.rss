@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Oct 2025 13:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[World Championships of Warhammer Balance Updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gdf3xzwi/world-championships-of-warhammer-balance-updates</link>
+            <guid>gdf3xzwi</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A quick look at updates sent to players ahead of Atlanta]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_wcwbalanceupdate-oct17-1-feature-i2osdudeyd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Chaos Space Marines]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nyot9y3m/warhammer-art-through-the-years-chaos-space-marines</link>
@@ -273,18 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_khanstory-oct10-1-feature-snc6jnvuuw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes rush to defend Rohan™ in this gorgeous Army of Edoras™ collection]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rro07ial/heroes-rush-to-defend-rohantm-in-this-gorgeous-army-of-edorastm-collection</link>
-            <guid>rro07ial</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Helm™, Haleth™, Háma™, and Héra™ stand tall.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_jaysrohan-oct10-1-feature-ydlaklhwo2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
