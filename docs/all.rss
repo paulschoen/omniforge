@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Oct 2025 17:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 12:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Compatibility Matrix – Combine your kits to make countless units in the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nie3ma9d/the-compatibility-matrix-combine-your-kits-to-make-countless-units-in-the-horus-heresy</link>
+            <guid>nie3ma9d</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cross-compatible kits are the cornerstone of the Age of Darkness.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_upgradecomp-oct16-1-feature-nzwrrbbcvu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Total War: WARHAMMER III - Tides of Torment Announce Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/caccvtya/total-war-warhammer-iii-tides-of-torment-announce-trailer</link>
@@ -275,18 +285,6 @@
             <category domain="aeldari">Aeldari</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art2_aeldari-oct10-1-feature-uzsiyfgnm3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rust x Warhammer 40,000 - Coming Soon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/aiwynmyl/rust-x-warhammer-40000-coming-soon</link>
-            <guid>aiwynmyl</guid>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rust is getting cosmetics inspired by the Death Korps of Krieg, bringing their grim, war-forged resolve to the island.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/rust-x-warhammer---16x9-dy7dpotcvm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
