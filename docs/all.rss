@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Oct 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Community team pledge themselves to Hashut by painting some Zharrdron]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uwghdhhv/the-warhammer-community-team-pledge-themselves-to-hashut-by-painting-some-zharrdron</link>
+            <guid>uwghdhhv</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inspiration for your own ziggurat war hosts.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_paintinghelsmiths-oct17-1-feature-qzwzeovmqv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[World Championships of Warhammer Balance Updates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gdf3xzwi/world-championships-of-warhammer-balance-updates</link>
@@ -208,7 +221,7 @@
             <enclosure url="https://assets.warhammer-community.com/40k_emsdrukhari-oct13-1-feature-h9zbrk1emq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Painting the Darkened Metallics & Green Daemonic Fire of the Dominator Engines | Warhammer Age Of Sigmar]]></title>
+            <title><![CDATA[How to Paint Dominator Engines Dark Bronze and Green | Helsmiths of Hashut | Warhammer Age Of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/9bn3exkw/painting-the-darkened-metallics-green-daemonic-fire-of-the-dominator-engines-warhammer-age-of-sigmar</link>
             <guid>9bn3exkw</guid>
             <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
@@ -270,19 +283,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_dropsiteinterview-oct10-1-feature-2n9jpjbwwd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – The End of the Hunt]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z6pqu45h/heroes-of-the-first-founding-the-end-of-the-hunt</link>
-            <guid>z6pqu45h</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Suboden Khan butchers Orks in a new short story]]></description>
-            <category domain="white-scars">White Scars</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_khanstory-oct10-1-feature-snc6jnvuuw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
