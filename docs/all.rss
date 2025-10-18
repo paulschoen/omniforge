@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Oct 2025 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 17:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The Helsmiths of Hashut are here to desolate the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9lhgq3ff/saturday-pre-orders-the-helsmiths-of-hashut-are-here-to-desolate-the-mortal-realms</link>
+            <guid>9lhgq3ff</guid>
+            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your weekly pre-orders round-up.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-oct18-1-feature-oo5etmnp38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community team pledge themselves to Hashut by painting some Zharrdron]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uwghdhhv/the-warhammer-community-team-pledge-themselves-to-hashut-by-painting-some-zharrdron</link>
@@ -270,19 +282,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01655_bl-john-french-interview_dropsite-massacre_thumbnail_v2-7ox7ox8haq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John French tells us more about writing the Dropsite Massacre]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ifsqf3xo/john-french-tells-us-more-about-writing-the-dropsite-massacre</link>
-            <guid>ifsqf3xo</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out more about this iconic betrayal.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="videos">Videos</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_dropsiteinterview-oct10-1-feature-2n9jpjbwwd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
