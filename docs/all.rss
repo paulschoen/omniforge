@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 18 Oct 2025 17:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 17:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Ultramarines, Terminators, and Da Red Gobbo]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hlcnosds/sunday-preview-ultramarines-terminators-and-da-red-gobbo</link>
+            <guid>hlcnosds</guid>
+            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="warhamer-plus">Warhamer Plus</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct19-1-feature-vrbcnlfjm5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The Helsmiths of Hashut are here to desolate the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9lhgq3ff/saturday-pre-orders-the-helsmiths-of-hashut-are-here-to-desolate-the-mortal-realms</link>
@@ -270,18 +283,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-oct11-1-feature-oxupfyhiwu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Author Interview – John French | Black Library]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/author-interview-john-french-black-library</link>
-            <guid>96bcc6c4-6d2d-4a68-aee9-54b9d6367d6e</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out more about what went into the writing of Dropsite Massacre through this exclusive interview with the author]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01655_bl-john-french-interview_dropsite-massacre_thumbnail_v2-7ox7ox8haq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
