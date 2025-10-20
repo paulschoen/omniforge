@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 19 Oct 2025 17:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 11:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enter the Spitewood with a new Warhammer Underworlds Organised Play pack]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jruf1ntp/enter-the-spitewood-with-a-new-warhammer-underworlds-organised-play-pack</link>
+            <guid>jruf1ntp</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Play games and win prizes.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_op-oct20-1-feature-fkibg9ud4t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Ultramarines, Terminators, and Da Red Gobbo]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hlcnosds/sunday-preview-ultramarines-terminators-and-da-red-gobbo</link>
@@ -269,20 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct12-1-feature-y2z53jy6gk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Three new Combat Patrols inbound]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vbojdl9z/saturday-pre-orders-three-new-combat-patrols-inbound</link>
-            <guid>vbojdl9z</guid>
-            <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here is everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-oct11-1-feature-oxupfyhiwu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
