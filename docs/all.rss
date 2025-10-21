@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Oct 2025 12:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 13:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tokens, skills and roster changes – what’s new in Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/euo6nxbn/tokens-skills-and-roster-changes-whats-new-in-blood-bowl</link>
+            <guid>euo6nxbn</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s great in the latest edition]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_newrules-oct21-1-feature-vvemlrhn0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 21st of October]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nzocwosw/the-rumour-engine-21st-of-october</link>
@@ -261,18 +272,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tinboyreveal-oct13-1-feature-ohbp04t0e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who is Urak Taar, the First Daemonsmith, and just how old is he?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7nghweru/who-is-urak-taar-the-first-daemonsmith-and-just-how-old-is-he</link>
-            <guid>7nghweru</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Taking a closer look at the Zharrdron’s most infamous leader.]]></description>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_uraktaarlore-oct14-1-feature-qpm4rszaqm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
