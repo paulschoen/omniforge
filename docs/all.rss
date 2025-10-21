@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 20 Oct 2025 13:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 12:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 21st of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nzocwosw/the-rumour-engine-21st-of-october</link>
+            <guid>nzocwosw</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct21-1-feature-hvlvmswnnq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bring Chaos to the Old World with a horde of rampaging Marauders]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jaa76ljd/bring-chaos-to-the-old-world-with-a-horde-of-rampaging-marauders</link>
@@ -27,7 +37,6 @@
             <description><![CDATA[Who is the master of Macragge?]]></description>
             <category domain="ultramarines">Ultramarines</category>
             <category domain="space-marines">Space Marines</category>
-            <category domain="fiction">Fiction</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_calgarlore-oct20-1-feature-vopigfaatz.jpg" length="0" type="image/jpg"/>
@@ -264,19 +273,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_uraktaarlore-oct14-1-feature-qpm4rszaqm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Witness the evolution of a collection with one hobbyist’s TWO Drukhari armies]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bgbwxdst/witness-the-evolution-of-a-collection-with-one-hobbyists-two-drukhari-armies</link>
-            <guid>bgbwxdst</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Colourful and copper-clad raiders from Commorragh.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_emsdrukhari-oct13-1-feature-h9zbrk1emq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
