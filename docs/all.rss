@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Oct 2025 15:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 16:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grizzled duardin explorer Drolf Ironhead sets out for Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9tnvytgp/grizzled-duardin-explorer-drolf-ironhead-sets-out-for-warhammer-quest-darkwater</link>
+            <guid>9tnvytgp</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Another hero revealed]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-l4i0mwmtd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes and traitors adorn the pages of the upcoming illustrated edition of Eisenhorn: Hereticus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8pavqfof/heroes-and-traitors-adorn-the-pages-of-the-upcoming-illustrated-edition-of-eisenhorn-hereticus</link>
@@ -260,17 +271,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_compweek4-oct14-1-feature-cm3kc92uc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forge your very own tyrannical Helsmiths of Hashut hero on the Anvil of Apotheosis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ffk6wfda/forge-your-very-own-tyrannical-helsmiths-of-hashut-hero-on-the-anvil-of-apotheosis</link>
-            <guid>ffk6wfda</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow the Path to Glory.]]></description>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithp2g-oct16-1-feature-u5vmozp41i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
