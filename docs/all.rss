@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Oct 2025 13:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 14:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cato Sicarius, Captain of the Victrix Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/izca8z4l/cato-sicarius-captain-of-the-victrix-guard</link>
+            <guid>izca8z4l</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who is the master swordsman of the Ultramarines?]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_sicariuslore-oct21-1-feature-w9wc20femc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tokens, skills and roster changes – what’s new in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/euo6nxbn/tokens-skills-and-roster-changes-whats-new-in-blood-bowl</link>
@@ -259,19 +271,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-oct14-1-feature-dllxqnqqus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wreck the halls – Da Red Gobbo is back with a festive robotic contraption]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fndevuxa/wreck-the-halls-da-red-gobbo-is-back-with-a-festive-robotic-contraption</link>
-            <guid>fndevuxa</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new Christmas miniature revealed.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tinboyreveal-oct13-1-feature-ohbp04t0e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
