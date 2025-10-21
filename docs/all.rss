@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Oct 2025 14:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 15:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes and traitors adorn the pages of the upcoming illustrated edition of Eisenhorn: Hereticus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8pavqfof/heroes-and-traitors-adorn-the-pages-of-the-upcoming-illustrated-edition-of-eisenhorn-hereticus</link>
+            <guid>8pavqfof</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The final book in the trilogy gets an annotated treatment.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_hereticus-oct21-1-feature-kozqrmibic.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cato Sicarius, Captain of the Victrix Guard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/izca8z4l/cato-sicarius-captain-of-the-victrix-guard</link>
@@ -261,16 +271,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithp2g-oct16-1-feature-u5vmozp41i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 14th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gb78bybt/the-rumour-engine-14th-of-october</link>
-            <guid>gb78bybt</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct14-1-feature-dllxqnqqus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
