@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Oct 2025 13:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 14:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – The Burden of Command]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/thronqxy/heroes-of-the-first-founding-the-burden-of-command</link>
+            <guid>thronqxy</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Marneus Calgar masterminds a sector-wide war.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_calgarstory-oct22-1-feature-rmscle27fx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gallantry and gleaming armour abound as the Bretonnians hit the gridiron]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/axbbe1m8/gallantry-and-gleaming-armour-abound-as-the-bretonnians-hit-the-gridiron</link>
@@ -262,16 +275,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_helsmithsror-oct15-1-feature-6puw4wfp5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belisarius Cawl attempts to bridge the Great Rift in a new Black Library book]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qbrdkglz/belisarius-cawl-attempts-to-bridge-the-great-rift-in-a-new-black-library-book</link>
-            <guid>qbrdkglz</guid>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can the Archmagos achieve the impossible?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_archmagos-oct15-1-feature-9cjdvxdmed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
