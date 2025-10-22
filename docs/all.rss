@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Oct 2025 16:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 11:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Scars and Iron Hands join the fight with new rules and Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uzyrghbo/white-scars-and-iron-hands-join-the-fight-with-new-rules-and-detachments</link>
+            <guid>uzyrghbo</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring Suboden Khan and Caanok Var to your battlefield.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="white-scars">White Scars</category>
+            <category domain="iron-hands">Iron Hands</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_scarshandskits-oct22-1-feature-wpj11f8glg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grizzled duardin explorer Drolf Ironhead sets out for Warhammer Quest: Darkwater]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9tnvytgp/grizzled-duardin-explorer-drolf-ironhead-sets-out-for-warhammer-quest-darkwater</link>
@@ -259,18 +273,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-ohkxdekica.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find out what you can win in week four of our Space Marine 2 competition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tduiow0t/find-out-what-you-can-win-in-week-four-of-our-space-marine-2-competition</link>
-            <guid>tduiow0t</guid>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s this week’s prize pool.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_compweek4-oct14-1-feature-cm3kc92uc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
