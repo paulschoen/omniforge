@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Oct 2025 14:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 15:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon at SPIEL Essen is nearly here – Join us to reminisce on three years of Slayer Sword winners!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dn0putuf/golden-demon-at-spiel-essen-is-nearly-here-join-us-to-reminisce-on-three-years-of-slayer-sword-winners</link>
+            <guid>dn0putuf</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Excitement is at fever pitch!]]></description>
+            <category domain="events">Events</category>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/goldendemon_incoming-oct20-1-feature-gufsvmqjmk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – The Burden of Command]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/thronqxy/heroes-of-the-first-founding-the-burden-of-command</link>
@@ -109,6 +121,19 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-oct21-1-feature-hvlvmswnnq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Character Encyclopedia – Quick Fire Questions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/olbe4baz/warhammer-40000-character-encyclopedia-quick-fire-questions</link>
+            <guid>olbe4baz</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wade Pryce, author of the Warhammer 40,000 Character Encyclopedia, answers some quickfire questions about this new book. 
+
+Learn more about this canonical overview of all your favourite characters from the 41st Millennium, published by our friends at DK Books]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammer-(2025-book)_youtube_cover_quickfire_questions-qw89vp1mvu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bring Chaos to the Old World with a horde of rampaging Marauders]]></title>
@@ -254,27 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ua_trailers_spacehulk_halloween2025_thumbnail-final-mk30dy1wd3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Manticore Knight ventures into Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qv1a8pje/the-manticore-knight-ventures-into-warhammer-quest-darkwater</link>
-            <guid>qv1a8pje</guid>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the winner of our miniature reveal poll]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-okezgscczk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Splash a little Zharrdron handiwork into your Chaos armies with two Regiments of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqpsylac/splash-a-little-zharrdron-handiwork-into-your-chaos-armies-with-two-regiments-of-renown</link>
-            <guid>wqpsylac</guid>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A handful of Helsmiths for your army.]]></description>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_helsmithsror-oct15-1-feature-6puw4wfp5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
