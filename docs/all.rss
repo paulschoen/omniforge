@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Oct 2025 10:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 11:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -132,19 +132,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-oct21-1-feature-hvlvmswnnq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Character Encyclopedia – Quick Fire Questions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/olbe4baz/warhammer-40000-character-encyclopedia-quick-fire-questions</link>
-            <guid>olbe4baz</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wade Pryce, author of the Warhammer 40,000 Character Encyclopedia, answers some quickfire questions about this new book. 
-
-Learn more about this canonical overview of all your favourite characters from the 41st Millennium, published by our friends at DK Books]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer-(2025-book)_youtube_cover_quickfire_questions-qw89vp1mvu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bring Chaos to the Old World with a horde of rampaging Marauders]]></title>
@@ -279,6 +266,17 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/myfirstmodel-oct15-1-feature-etgubb6bsc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Tacticus — The Space Hulk Events Trailer!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/gziiwqr5/warhammer-40000-tacticus-the-space-hulk-events-trailer</link>
+            <guid>gziiwqr5</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enter the haunted corridors of the Space Hulk in Tacticus' Halloween update! Face endless waves of Genestealers and Tyranids in Survival Mode, and join the Sororitas and Black Templars against the Death Guard in a new Campaign event!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ua_trailers_spacehulk_halloween2025_thumbnail-final-mk30dy1wd3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
