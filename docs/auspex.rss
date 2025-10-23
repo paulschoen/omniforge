@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 22 Oct 2025 15:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Big Warhammer 40K Rules Update - Necrons, Space Marines, Drukhari, Deathwatch and More]]></title>
+            <link>https://www.youtube.com/watch?v=RRAijhWpFGY</link>
+            <guid>yt:video:RRAijhWpFGY</guid>
+            <pubDate>Wed, 22 Oct 2025 14:26:26 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of recent Warhammer 40k rules updates, highlighting changes for Death Watch and Necrons, a new movement rule limiting unit actions, the introduction of new data sheets for White Scars and Iron Hands, and new combat patrol rules, while also addressing discrepancies between app and download availability.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Rules Update Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Death Watch and Necron Updates:</strong> New rules for Death Watch kill teams and updates for Necrons, including a new character, the Geommancer.</li>
+    <li>⚙️ <strong>Movement Rule Change:</strong> Units can now only make one normal move per phase, impacting multiple factions.</li>
+    <li>📦 <strong>New Data Sheets:</strong> Full data sheets and points for White Scars and Iron Hands are now available.</li>
+    <li>💡 <strong>Combat Patrol Rules:</strong> New combat patrol rules introduced for White Scars, Iron Hands, and Harlequins.</li>
+    <li>🛠️ <strong>App vs Downloads Discrepancies:</strong> Confusion arose due to updates being available exclusively on the app while missing from the downloads page.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Points Cost:</strong> Death Watch new units cost 100 points for five models or 200 points for ten models.</li>
+    <li>⚔️ <strong>Geommancer Stats:</strong> The Geommancer character is priced at 75 points with four wounds and a four plus save.</li>
+    <li>👥 <strong>Kopt Macro Sites:</strong> Cost 85 points for five models, each with only one wound and toughness three.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the new movement rule affect strategies for different factions in competitive play?</strong></li>
+    <li>🧐 <strong>What implications do the changes for the Death Watch and Necrons have on their overall gameplay viability?</strong></li>
+    <li>💭 <strong>How can players adapt their army compositions to leverage the new combat patrol rules effectively?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Best Leader for Every Warhammer 40K Faction? HQs, Characters and Commanders for each Faction]]></title>
             <link>https://www.youtube.com/watch?v=xIYmf2eG-dI</link>
@@ -14048,35 +14081,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Big Warhammer 40K Rules Update - Necrons, Space Marines, Drukhari, Deathwatch and More]]></title>
-            <link>https://www.youtube.com/watch?v=RRAijhWpFGY</link>
-            <guid>yt:video:RRAijhWpFGY</guid>
-            <pubDate>Wed, 22 Oct 2025 14:26:26 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of recent Warhammer 40k rules updates, highlighting changes for Death Watch and Necrons, a new movement rule limiting unit actions, the introduction of new data sheets for White Scars and Iron Hands, and new combat patrol rules, while also addressing discrepancies between app and download availability.]]></description>
+            <title><![CDATA[How Strong are the Primaris Deathwatch - Datasheet Review]]></title>
+            <link>https://www.youtube.com/watch?v=jP2VBFVG_HE</link>
+            <guid>yt:video:jP2VBFVG_HE</guid>
+            <pubDate>Thu, 23 Oct 2025 00:30:38 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Primaris Death Watch data sheets, highlighting the introduction of updated models with specific profiles and wargear options, the costs for squad configurations, and discussing their competitive gameplay flexibility compared to older models.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k Rules Update Overview</h2>
+<h2>📢 New Primaris Death Watch Data Sheets Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Death Watch and Necron Updates:</strong> New rules for Death Watch kill teams and updates for Necrons, including a new character, the Geommancer.</li>
-    <li>⚙️ <strong>Movement Rule Change:</strong> Units can now only make one normal move per phase, impacting multiple factions.</li>
-    <li>📦 <strong>New Data Sheets:</strong> Full data sheets and points for White Scars and Iron Hands are now available.</li>
-    <li>💡 <strong>Combat Patrol Rules:</strong> New combat patrol rules introduced for White Scars, Iron Hands, and Harlequins.</li>
-    <li>🛠️ <strong>App vs Downloads Discrepancies:</strong> Confusion arose due to updates being available exclusively on the app while missing from the downloads page.</li>
+    <li>🔥 <strong>Death Watch Overview:</strong> The Death Watch is a special order of space marines, deployed in small, elite kill teams against alien threats.</li>
+    <li>⚔️ <strong>New Primaris Models:</strong> Introduction of new Primaris Death Watch veterans with updated profiles and wargear options.</li>
+    <li>📊 <strong>Competitive Play:</strong> The new data sheets allow for flexible gameplay, though they may be less flexible than prior models.</li>
+    <li>📦 <strong>Model Kit Details:</strong> The new kits feature multi-build options for each model, retaining unique gear but limiting overall flexibility.</li>
+    <li>💰 <strong>Cost Insights:</strong> Costing 100 points for five models or 200 points for ten in both the Death Watch and Imperial Agents factions.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>💰 <strong>Points Cost:</strong> Death Watch new units cost 100 points for five models or 200 points for ten models.</li>
-    <li>⚔️ <strong>Geommancer Stats:</strong> The Geommancer character is priced at 75 points with four wounds and a four plus save.</li>
-    <li>👥 <strong>Kopt Macro Sites:</strong> Cost 85 points for five models, each with only one wound and toughness three.</li>
+    <li>📈 <strong>Point Cost:</strong> 100 points for a squad of five or 200 points for ten models.</li>
+    <li>📉 <strong>Strength and Damage:</strong> Various weapon profiles offer strengths ranging from 5 to 10 with damage ranging from 1 to 3.</li>
+    <li>💪 <strong>Wounds:</strong> Gravis models provide 3 wounds, allowing them to absorb more damage compared to standard models.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the new movement rule affect strategies for different factions in competitive play?</strong></li>
-    <li>🧐 <strong>What implications do the changes for the Death Watch and Necrons have on their overall gameplay viability?</strong></li>
-    <li>💭 <strong>How can players adapt their army compositions to leverage the new combat patrol rules effectively?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> How do the new Primaris Death Watch models compare to older models in terms of gameplay effectiveness?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players adopt to maximize the effectiveness of the new kill team compositions?</li>
+    <li>🤔 <strong>Question 3:</strong> Are the limitations of the new data sheets justified by the added benefits they bring to the Death Watch faction?</li>
 </ul>
 ]]></content:encoded>
         </item>
