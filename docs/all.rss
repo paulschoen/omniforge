@@ -4,11 +4,92 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Oct 2025 15:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 17:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Speed Freeks DEFFKOPTA Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/warhammer-40000-speed-freeks-deffkopta-trailer</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The exciting new Deffkopta blazes through the skies in the latest free update to Warhammer 40,000: Speed Freeks on Steam. As the first flying vehicle to be added to the game, the Deffkopta is speedy, agile and packs a punch with its rokkits, bombs and slicing melee ability.
+
+Head over to the game's Steam page to get a closer look - but not too close, or you might get sliced n diced!]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sf_deffkoptaupdatethumb-ozbginhh0x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar | Wētā Workshop Neave Blacktalon, The God-King's Assassin, 1:6 Scale Statue]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/warhammer-age-of-sigmar-weta-workshop-neave-blacktalon-the-god-kings-assassin-16-scale-statue</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Every detail tells the story of Sigmar’s chosen assassin: the splintered war platform beneath her feet, the Orruk helm crushed into the dirt, the storm-forged fury carved into every line of her form.
+
+This dynamic pose was brought to life by our passionate artists, drawing on decades of experience in worldbuilding and character design, distilling Neave’s relentless spirit into collectible form. From the delicate arc of her braided hair in motion, to the painstaking textures of battered iron and bloodied blades, each element has been sculpted, refined, and painted with the same obsessive attention to detail that has come to define our craft.
+
+A hero of the Mortal Realms rendered in full 1:6 scale, Neave Blacktalon, The God-King’s Assassin is a divine example of crafting myth into matter, and fury into form.
+
+Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh_neave_master_v5_17_1920--1080_ytthumbnail-gxq28af0w3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rust - Warhammer 40,000 Pack - Launch Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/warhammer-40000-pack-launch-trailer</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rust now has cosmetics inspired by the Death Korps of Krieg, bringing their grim, war-forged resolve to the island.]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/rust-x-warhammer---16x9-ilyfagxear.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1.5 Update Review! | Warhammer 40,000: Rogue Trader]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/15-update-review-warhammer-40000-rogue-trader</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Happy Warhammer Day! The long-awaited Update 1.5 is available today!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail_update_1-0ox8wt6uw0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrate Warhammer Day 2025 with new action figures, statues, video game reveals and promotions, and more]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/drhxkfhd/celebrate-warhammer-day-2025-with-new-action-figures-statues-video-game-reveals-and-promotions-and-more</link>
+            <guid>drhxkfhd</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s loads to see from our Officially Licensed partners.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whday_licensing-oct23-1-feature-6zo6siuydp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alpha Release Date Trailer | Warhammer 40,000: Dark Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/alpha-release-date-trailer-warhammer-40000-dark-heresy</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the Alpha Release Date Trailer for Warhammer 40,000: Dark Heresy — party-based, story-driven cRPG from Owlcat Games. As an acolyte of the Inquisition, lead investigations, uncover vast conspiracies, master tactical combat, and make decisive choices in service of the God-Emperor. The Alpha launches on December 16 on PC (Steam)]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dh_alpha_teaser_trailer_v1_1920x1080-use-90vfekh9nh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrating 10 Years of Tide | Anniversary Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/celebrating-10-years-of-tide-anniversary-trailer</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[To mark a full decade since the launch of our beloved Tide series, we're unveiling a special anniversary roadmap detailing the content that's waiting right around the corner for both Vermintide 2 and Darktide — including the reveal date for Darktide’s next class.]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/10ytide_yt_thumbnail-(1)-427qpcm949.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 tactica – four reasons to charge]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zys7pswe/warhammer-40000-tactica-four-reasons-to-charge</link>
@@ -201,85 +282,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_calgarlore-oct20-1-feature-vopigfaatz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enter the Spitewood with a new Warhammer Underworlds Organised Play pack]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jruf1ntp/enter-the-spitewood-with-a-new-warhammer-underworlds-organised-play-pack</link>
-            <guid>jruf1ntp</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Play games and win prizes.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_op-oct20-1-feature-fkibg9ud4t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Ultramarines, Terminators, and Da Red Gobbo]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hlcnosds/sunday-preview-ultramarines-terminators-and-da-red-gobbo</link>
-            <guid>hlcnosds</guid>
-            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="warhamer-plus">Warhamer Plus</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct19-1-feature-vrbcnlfjm5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – The Helsmiths of Hashut are here to desolate the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9lhgq3ff/saturday-pre-orders-the-helsmiths-of-hashut-are-here-to-desolate-the-mortal-realms</link>
-            <guid>9lhgq3ff</guid>
-            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your weekly pre-orders round-up.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-oct18-1-feature-oo5etmnp38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community team pledge themselves to Hashut by painting some Zharrdron]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uwghdhhv/the-warhammer-community-team-pledge-themselves-to-hashut-by-painting-some-zharrdron</link>
-            <guid>uwghdhhv</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Inspiration for your own ziggurat war hosts.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_paintinghelsmiths-oct17-1-feature-qzwzeovmqv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships of Warhammer Balance Updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gdf3xzwi/world-championships-of-warhammer-balance-updates</link>
-            <guid>gdf3xzwi</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A quick look at updates sent to players ahead of Atlanta]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_wcwbalanceupdate-oct17-1-feature-i2osdudeyd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Chaos Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nyot9y3m/warhammer-art-through-the-years-chaos-space-marines</link>
-            <guid>nyot9y3m</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sinister art to corrupt the mind and soul.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art3_csm-oct17-1-feature-fvntb79kmt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Compatibility Matrix – Combine your kits to make countless units in the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nie3ma9d/the-compatibility-matrix-combine-your-kits-to-make-countless-units-in-the-horus-heresy</link>
-            <guid>nie3ma9d</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cross-compatible kits are the cornerstone of the Age of Darkness.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_upgradecomp-oct16-1-feature-nzwrrbbcvu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
