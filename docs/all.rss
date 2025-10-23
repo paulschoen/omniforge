@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Oct 2025 14:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 15:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 tactica – four reasons to charge]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zys7pswe/warhammer-40000-tactica-four-reasons-to-charge</link>
+            <guid>zys7pswe</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to get stuck into combat.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd_tactica4-oct23-1-feature-oavtaopjzl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community team earns veteran status by painting loads of Terminators]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mzr77kui/the-warhammer-community-team-earns-veteran-status-by-painting-loads-of-terminators</link>
@@ -269,17 +280,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_upgradecomp-oct16-1-feature-nzwrrbbcvu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: WARHAMMER III - Tides of Torment Announce Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/caccvtya/total-war-warhammer-iii-tides-of-torment-announce-trailer</link>
-            <guid>caccvtya</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tides of Torment are coming in, and the waves will wash up to our shores a terrifying trio of Legendary Lords: Aislinn, Dechala, and Sayl on December 4th!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/youtube_thumbnail-16x9-nreh6fsmvc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
