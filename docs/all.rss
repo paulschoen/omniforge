@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Oct 2025 17:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 21:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Character Reveal Trailer | Warhammer 40,000: Boltgun 2]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/new-character-reveal-trailer-arhammer-40000-boltgun-2</link>
+            <guid>s4sh0fvc</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pledge your allegiance to the Imperial faith and storm into combat as Sister of Battle Nyra Veyrath in Warhammer 40,000: Boltgun 2! 
+You’ll be able to choose between two playable characters in the sequel for Warhammer 40,000: Boltgun, each offering their own unique abilities, weapons, and play style! 
+Warhammer 40,000 Boltgun 2 is coming to PC, PS5 & Xbox Series X|S in 2026.]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/1920-x-1080-lqm5zdlubo.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Speed Freeks DEFFKOPTA Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/warhammer-40000-speed-freeks-deffkopta-trailer</link>
@@ -270,18 +282,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-si27asmym8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marneus Augustus Calgar, Chapter Master of the Ultramarines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/il71updr/marneus-augustus-calgar-chapter-master-of-the-ultramarines</link>
-            <guid>il71updr</guid>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who is the master of Macragge?]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_calgarlore-oct20-1-feature-vopigfaatz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
