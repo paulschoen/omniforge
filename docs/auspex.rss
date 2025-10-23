@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 23 Oct 2025 03:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 18:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[How Strong are the Primaris Deathwatch - Datasheet Review]]></title>
+            <link>https://www.youtube.com/watch?v=jP2VBFVG_HE</link>
+            <guid>yt:video:jP2VBFVG_HE</guid>
+            <pubDate>Thu, 23 Oct 2025 00:30:38 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Primaris Death Watch data sheets, highlighting the introduction of updated models with specific profiles and wargear options, the costs for squad configurations, and discussing their competitive gameplay flexibility compared to older models.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 New Primaris Death Watch Data Sheets Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Death Watch Overview:</strong> The Death Watch is a special order of space marines, deployed in small, elite kill teams against alien threats.</li>
+    <li>⚔️ <strong>New Primaris Models:</strong> Introduction of new Primaris Death Watch veterans with updated profiles and wargear options.</li>
+    <li>📊 <strong>Competitive Play:</strong> The new data sheets allow for flexible gameplay, though they may be less flexible than prior models.</li>
+    <li>📦 <strong>Model Kit Details:</strong> The new kits feature multi-build options for each model, retaining unique gear but limiting overall flexibility.</li>
+    <li>💰 <strong>Cost Insights:</strong> Costing 100 points for five models or 200 points for ten in both the Death Watch and Imperial Agents factions.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Point Cost:</strong> 100 points for a squad of five or 200 points for ten models.</li>
+    <li>📉 <strong>Strength and Damage:</strong> Various weapon profiles offer strengths ranging from 5 to 10 with damage ranging from 1 to 3.</li>
+    <li>💪 <strong>Wounds:</strong> Gravis models provide 3 wounds, allowing them to absorb more damage compared to standard models.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do the new Primaris Death Watch models compare to older models in terms of gameplay effectiveness?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can players adopt to maximize the effectiveness of the new kill team compositions?</li>
+    <li>🤔 <strong>Question 3:</strong> Are the limitations of the new data sheets justified by the added benefits they bring to the Death Watch faction?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big Warhammer 40K Rules Update - Necrons, Space Marines, Drukhari, Deathwatch and More]]></title>
             <link>https://www.youtube.com/watch?v=RRAijhWpFGY</link>
@@ -14081,35 +14114,39 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How Strong are the Primaris Deathwatch - Datasheet Review]]></title>
-            <link>https://www.youtube.com/watch?v=jP2VBFVG_HE</link>
-            <guid>yt:video:jP2VBFVG_HE</guid>
-            <pubDate>Thu, 23 Oct 2025 00:30:38 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Primaris Death Watch data sheets, highlighting the introduction of updated models with specific profiles and wargear options, the costs for squad configurations, and discussing their competitive gameplay flexibility compared to older models.]]></description>
+            <title><![CDATA[How to Start a Warhammer 40K Army from Each Christmas Battleforce Box - One Idea for Each]]></title>
+            <link>https://www.youtube.com/watch?v=TdvP08c1vVg</link>
+            <guid>yt:video:TdvP08c1vVg</guid>
+            <pubDate>Thu, 23 Oct 2025 17:31:11 GMT</pubDate>
+            <description><![CDATA[The video discusses the 2025 Christmas Battle Force box sets for Warhammer 40k, highlighting their value for new collectors, gameplay insights, and expansion options, while providing ratings and point values for different army configurations.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 New Primaris Death Watch Data Sheets Overview</h2>
+<h2>📢 Starting an Army with the 2025 Christmas Battle Force Box Sets</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Death Watch Overview:</strong> The Death Watch is a special order of space marines, deployed in small, elite kill teams against alien threats.</li>
-    <li>⚔️ <strong>New Primaris Models:</strong> Introduction of new Primaris Death Watch veterans with updated profiles and wargear options.</li>
-    <li>📊 <strong>Competitive Play:</strong> The new data sheets allow for flexible gameplay, though they may be less flexible than prior models.</li>
-    <li>📦 <strong>Model Kit Details:</strong> The new kits feature multi-build options for each model, retaining unique gear but limiting overall flexibility.</li>
-    <li>💰 <strong>Cost Insights:</strong> Costing 100 points for five models or 200 points for ten in both the Death Watch and Imperial Agents factions.</li>
+    <li>🔥 <strong>Overview of Battle Force Box Sets:</strong> Discusses the potential of using 2025 Christmas Battle Force box sets to start new Warhammer 40k armies.</li>
+    <li>🎁 <strong>Value Proposition:</strong> These sets offer discounts and feature popular miniatures, making them great for new collectors.</li>
+    <li>📦 <strong>Astro Militarium Creek Siege Platoon:</strong> Contains command squad, artillery teams, and infantry squads. Rated 3.3/5 but has low point value (450 points).</li>
+    <li>⚔️ <strong>Gameplay Insights:</strong> Units like infantry and artillery are useful, but overall performance is considered mid-tier.</li>
+    <li>🚀 <strong>Expansion Options:</strong> Suggestions for expanding into a balanced Astro Militarium army, including tanks and infantry.</li>
+    <li>🔄 <strong>Chaos Space Marines Hell Forge Warband:</strong> Contains various units including a Lord Discordant, rated 3.7/5 with 800 points total.</li>
+    <li>👥 <strong>Core Space Marines Iron Halo Strike Force:</strong> The most popular set, rated 3.6/5 with 800 points. Offers a variety of strong units.</li>
+    <li>💡 <strong>Leagues of Votan Cathonian Prospects:</strong> Contains a mix of units, rated 3.2/5 with 540 points. Good for expanding the collection.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Point Cost:</strong> 100 points for a squad of five or 200 points for ten models.</li>
-    <li>📉 <strong>Strength and Damage:</strong> Various weapon profiles offer strengths ranging from 5 to 10 with damage ranging from 1 to 3.</li>
-    <li>💪 <strong>Wounds:</strong> Gravis models provide 3 wounds, allowing them to absorb more damage compared to standard models.</li>
+    <li>📉 <strong>Astro Militarium Box Value:</strong> 450 points in the box, rated 3.3/5.</li>
+    <li>📈 <strong>Chaos Space Marines Box Value:</strong> 800 points total, rated 3.7/5, indicating a solid selection for a chaos army.</li>
+    <li>💰 <strong>Iron Halo Box Set Price:</strong> Approximately $400, with over 800 points in the set, making it a notable investment for new players.</li>
+    <li>📦 <strong>Leagues of Votan Box Value:</strong> 540 points, rated 3.2/5, representing mid-tier value among sets.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do the new Primaris Death Watch models compare to older models in terms of gameplay effectiveness?</li>
-    <li>🤔 <strong>Question 2:</strong> What strategies can players adopt to maximize the effectiveness of the new kill team compositions?</li>
-    <li>🤔 <strong>Question 3:</strong> Are the limitations of the new data sheets justified by the added benefits they bring to the Death Watch faction?</li>
+    <li>🤔 <strong>Question 1:</strong> How do the new box sets compare in value and gameplay potential to previous years' offerings?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can new players adopt when expanding from these box sets to build competitive armies?</li>
+    <li>🤔 <strong>Question 3:</strong> How might changes in future editions of Warhammer 40k affect the utility of the units found in these box sets?</li>
 </ul>
 ]]></content:encoded>
         </item>
