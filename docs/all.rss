@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 11:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 12:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – A Meeting of Blades]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ab4balwb/heroes-of-the-first-founding-a-meeting-of-blades</link>
+            <guid>ab4balwb</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cato Sicarius crosses swords with deadly xenos.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_sicariusstory-oct24-1-feature-nc5nuzrc8s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ultramarines Rules Reveal – Datasheet previews for the new Marneus Calgar, Cato Sicarius, and Victrix Honour Guard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/isqbppri/ultramarines-rules-reveal-datasheet-previews-for-the-new-marneus-calgar-cato-sicarius-and-victrix-honour-guard</link>
@@ -285,17 +298,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_sicariuslore-oct21-1-feature-w9wc20femc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokens, skills and roster changes – what’s new in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/euo6nxbn/tokens-skills-and-roster-changes-whats-new-in-blood-bowl</link>
-            <guid>euo6nxbn</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s great in the latest edition]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_newrules-oct21-1-feature-vvemlrhn0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
