@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 13:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Nick adds new Ultramarines to his vast collection to get us excited for the sons of Guilliman]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gbc4nf2s/nick-adds-new-ultramarines-to-his-vast-collection-to-get-us-excited-for-the-sons-of-guilliman</link>
+            <guid>gbc4nf2s</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heroes and veterans amassed.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_nickultras-oct24-1-feature-rp6jhkhwcp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Astra Militarum]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z9z7kzct/warhammer-art-through-the-years-astra-militarum</link>
@@ -287,16 +300,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-l4i0mwmtd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes and traitors adorn the pages of the upcoming illustrated edition of Eisenhorn: Hereticus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8pavqfof/heroes-and-traitors-adorn-the-pages-of-the-upcoming-illustrated-edition-of-eisenhorn-hereticus</link>
-            <guid>8pavqfof</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The final book in the trilogy gets an annotated treatment.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_hereticus-oct21-1-feature-kozqrmibic.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
