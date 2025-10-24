@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 12:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 13:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Astra Militarum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z9z7kzct/warhammer-art-through-the-years-astra-militarum</link>
+            <guid>z9z7kzct</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Hammer of the Emperor, looking their best.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art4_am-oct24-1-feature-yzcsnijtbn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – A Meeting of Blades]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ab4balwb/heroes-of-the-first-founding-a-meeting-of-blades</link>
@@ -286,18 +297,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_hereticus-oct21-1-feature-kozqrmibic.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cato Sicarius, Captain of the Victrix Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/izca8z4l/cato-sicarius-captain-of-the-victrix-guard</link>
-            <guid>izca8z4l</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who is the master swordsman of the Ultramarines?]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_sicariuslore-oct21-1-feature-w9wc20femc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
