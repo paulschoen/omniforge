@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 10:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 11:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ultramarines Rules Reveal – Datasheet previews for the new Marneus Calgar, Cato Sicarius, and Victrix Honour Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/isqbppri/ultramarines-rules-reveal-datasheet-previews-for-the-new-marneus-calgar-cato-sicarius-and-victrix-honour-guard</link>
+            <guid>isqbppri</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Preview the new Ultramarines rules.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ultrarules-oct24-1-feature-psfgvtgr4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Learn to Paint: Da Red Gobbo’s Tinboy | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/y98felu7/learn-to-paint-da-red-gobbos-tinboy-warhammer-40000</link>
@@ -284,16 +296,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_newrules-oct21-1-feature-vvemlrhn0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 21st of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nzocwosw/the-rumour-engine-21st-of-october</link>
-            <guid>nzocwosw</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct21-1-feature-hvlvmswnnq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
