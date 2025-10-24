@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 15:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Adrian Tchaikovsky Interview – Writing the Seraphon in Starseer’s Ruin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/htmsx5mm/adrian-tchaikovsky-interview-writing-the-seraphon-in-starseers-ruin</link>
+            <guid>htmsx5mm</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What went into writing his new novel?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_starseersruin-oct29-1-feature-wlgp7cdsvh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nick adds new Ultramarines to his vast collection to get us excited for the sons of Guilliman]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gbc4nf2s/nick-adds-new-ultramarines-to-his-vast-collection-to-get-us-excited-for-the-sons-of-guilliman</link>
@@ -289,17 +302,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_scarshandskits-oct22-1-feature-wpj11f8glg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grizzled duardin explorer Drolf Ironhead sets out for Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9tnvytgp/grizzled-duardin-explorer-drolf-ironhead-sets-out-for-warhammer-quest-darkwater</link>
-            <guid>9tnvytgp</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Another hero revealed]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-l4i0mwmtd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
