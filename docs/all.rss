@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Oct 2025 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 16:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar Miniature of the Decade – The winners]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rush3hdf/warhammer-age-of-sigmar-miniature-of-the-decade-the-winners</link>
+            <guid>rush3hdf</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who took the top spot?]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_miniotdecadereveal-oct25-1-feature-y9zzypmiw2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adrian Tchaikovsky Interview – Writing the Seraphon in Starseer’s Ruin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/htmsx5mm/adrian-tchaikovsky-interview-writing-the-seraphon-in-starseers-ruin</link>
@@ -288,20 +298,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-oct22-1-feature-lrwf4lfxjn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Scars and Iron Hands join the fight with new rules and Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uzyrghbo/white-scars-and-iron-hands-join-the-fight-with-new-rules-and-detachments</link>
-            <guid>uzyrghbo</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring Suboden Khan and Caanok Var to your battlefield.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="white-scars">White Scars</category>
-            <category domain="iron-hands">Iron Hands</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_scarshandskits-oct22-1-feature-wpj11f8glg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
