@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 25 Oct 2025 16:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 17:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-Orders – March for Macragge with Terminators and more]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jo6cw5ww/saturday-pre-orders-march-for-macragge-with-terminators-and-more</link>
+            <guid>jo6cw5ww</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-oct25-1-feature-bxbksgfoft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar Miniature of the Decade – The winners]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rush3hdf/warhammer-age-of-sigmar-miniature-of-the-decade-the-winners</link>
@@ -288,16 +300,6 @@ Learn more about this canonical overview of all your favourite characters from t
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_bretonnia-oct22-1-feature-gxxyhrsbkl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Relive ancient rivalries and retro colour schemes in this week’s Warhammer TV episodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jszurtes/relive-ancient-rivalries-and-retro-colour-schemes-in-this-weeks-warhammer-tv-episodes</link>
-            <guid>jszurtes</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what you can watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-oct22-1-feature-lrwf4lfxjn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
