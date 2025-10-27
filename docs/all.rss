@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Oct 2025 11:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 12:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Painting Three Styles of Camo | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lojcywxl/painting-three-styles-of-camo-warhammer-40000</link>
+            <guid>lojcywxl</guid>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the far future, it’s still handy to stay hidden where possible – and camo is one way to sneak your way to victory. Dan has three different approaches to paint camo in this video, so you can keep your troops out of their enemy’s eyeline.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01208---camo-cloaks-pev-thumbnail-n0skjimyir.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The Third Season of Blood Bowl is underway]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/prxigetv/sunday-preview-the-third-season-of-blood-bowl-is-underway</link>
@@ -289,17 +300,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_tombkings-oct23-1-feature-ntcemlldab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rebuilding the Shattered Legions – Survivors band together and fight back in Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xbtm4kh4/rebuilding-the-shattered-legions-survivors-band-together-and-fight-back-in-warhammer-the-horus-heresy</link>
-            <guid>xbtm4kh4</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the updated rules now.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_shatteredlegions-oct23-1-feature-c9tojr9vvc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
