@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Oct 2025 12:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 15:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bren Tylis, the Renegade Saint charges in to Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qxcpcnsd/bren-tylis-the-renegade-saint-charges-in-to-warhammer-quest-darkwater</link>
+            <guid>qxcpcnsd</guid>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Another new hero revealed]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-offhetybmv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Painting Three Styles of Camo | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/lojcywxl/painting-three-styles-of-camo-warhammer-40000</link>
@@ -290,16 +301,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_paintedterminators-oct23-1-feature-bsnljcsg3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Tomb Kings dust off their Blitzers and Big Guys as they return to Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rwplhmn6/the-tomb-kings-dust-off-their-blitzers-and-big-guys-as-they-return-to-blood-bowl</link>
-            <guid>rwplhmn6</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Back from the dead and ready to play ball.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_tombkings-oct23-1-feature-ntcemlldab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
