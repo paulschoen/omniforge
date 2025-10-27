@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Oct 2025 15:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 16:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Announcing the World Championships of Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4ckj6wud/announcing-the-world-championships-of-warhammer-preview-live-2025</link>
+            <guid>4ckj6wud</guid>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prepare yourself for a host of reveals.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps_incoming-oct27-1-feature-bynglsyd3m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bren Tylis, the Renegade Saint charges in to Warhammer Quest: Darkwater]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qxcpcnsd/bren-tylis-the-renegade-saint-charges-in-to-warhammer-quest-darkwater</link>
@@ -288,19 +299,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd_tactica4-oct23-1-feature-oavtaopjzl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community team earns veteran status by painting loads of Terminators]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mzr77kui/the-warhammer-community-team-earns-veteran-status-by-painting-loads-of-terminators</link>
-            <guid>mzr77kui</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ceramite-clad goodness.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_paintedterminators-oct23-1-feature-bsnljcsg3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
