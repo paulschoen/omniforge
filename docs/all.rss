@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 26 Oct 2025 18:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 11:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -56,6 +56,28 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_miniotdecadereveal-oct25-1-feature-y9zzypmiw2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Total War: Warhammer with Creative Assembly | Deep Strike | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/gywjopmn/total-war-warhammer-with-creative-assembly-deep-strike-warhammer</link>
+            <guid>gywjopmn</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this episode, the Deep Strike team is joined by folks from Creative Assembly, the developers of the hugely popular Total War: Warhammer video game series. They discuss Warhammer's fantasy setting and its impact on the studio's creative process.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/free-deep-strike-h&b-6-lm9qjd74r0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Titans in Warhammer 40,000 and the Horus Heresy | Loremasters | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ckeudroj/titans-in-warhammer-40000-and-the-horus-heresy-loremasters-warhammer</link>
+            <guid>ckeudroj</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Titans are colossal engines of war that tower over the battlefield, capable of unleashing destruction on an incredible scale. Learn more about these mighty God-Engines, their bloody history, and the different types of Titan that the Imperium has...]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/free-loremasters-6-r9siqkvqku.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Adrian Tchaikovsky Interview – Writing the Seraphon in Starseer’s Ruin]]></title>
@@ -278,31 +300,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_shatteredlegions-oct23-1-feature-c9tojr9vvc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Character Encyclopedia – Quick Fire Questions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/olbe4baz/warhammer-40000-character-encyclopedia-quick-fire-questions</link>
-            <guid>olbe4baz</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wade Pryce, author of the Warhammer 40,000 Character Encyclopedia, answers some quickfire questions about this new book. 
-
-Learn more about this canonical overview of all your favourite characters from the 41st Millennium, published by our friends at DK Books]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer-(2025-book)_youtube_cover_quickfire_questions-qw89vp1mvu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon at SPIEL Essen is nearly here – Join us to reminisce on three years of Slayer Sword winners!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dn0putuf/golden-demon-at-spiel-essen-is-nearly-here-join-us-to-reminisce-on-three-years-of-slayer-sword-winners</link>
-            <guid>dn0putuf</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Excitement is at fever pitch!]]></description>
-            <category domain="events">Events</category>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/goldendemon_incoming-oct20-1-feature-gufsvmqjmk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
