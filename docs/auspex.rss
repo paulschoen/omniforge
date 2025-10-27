@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Sun, 26 Oct 2025 21:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 09:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Terminator Assault Squad - Unit Review and How Strong in Game?]]></title>
+            <link>https://www.youtube.com/watch?v=H5tPPTxF9Gk</link>
+            <guid>yt:video:H5tPPTxF9Gk</guid>
+            <pubDate>Sun, 26 Oct 2025 19:13:43 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the new Terminator Assault Squad in Warhammer 40k, highlighting their enhanced models, melee capabilities, competitive usage, durability, and strategic release plans, while also discussing their point cost and damage output in gameplay.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Overview of the Terminator Assault Squad in Warhammer 40k</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>New Models:</strong> The Terminator Assault Squad features new models with enhanced designs including options for loadouts like Thunderhammer & Storm Shield or Lightning Claws.</li>
+    <li>⚔️ <strong>Battlefield Role:</strong> These units are known for their melee capabilities and teleportation abilities, making them tactical assets for close combat.</li>
+    <li>📊 <strong>Competitive Usage:</strong> While they are not mainstream, some competitive players utilize them in specific lists, often paired with powerful characters.</li>
+    <li>🛡️ <strong>Durability:</strong> With a stat line of three wounds and a two plus save, they are relatively durable, especially with the hammer loadout providing an extra wound.</li>
+    <li>🆕 <strong>Model Release Strategy:</strong> Games Workshop plans staggered releases for new models, leading to increased demand and potential scarcity.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>💰 <strong>Cost:</strong> The Terminator Assault Squad costs 180 points for 5 models or 360 points for 10 models, making it one of the most points-intensive options in the Space Marine arsenal.</li>
+    <li>🔢 <strong>Damage Output:</strong> Thunder Hammers deal 3 attacks at strength 8, AP-2, and damage 2, while Lightning Claws offer 5 attacks at strength 5 and AP-2, showcasing their varying effectiveness against different targets.</li>
+    <li>⚔️ <strong>Competitive Representation:</strong> Out of 50 competitive lists analyzed, 5 featured some form of Terminators, indicating they are a niche but viable option.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do the new models change the dynamics of competitive play in Warhammer 40k?</li>
+    <li>🤔 <strong>Question 2:</strong> What strategies can be employed to maximize the effectiveness of the Terminator Assault Squad in a game?</li>
+    <li>🤔 <strong>Question 3:</strong> How do the different loadouts (Thunderhammer vs. Lightning Claws) impact gameplay and unit synergy?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Six Strong Necrons Army Lists - What's Winning for the Necrons Right Now?]]></title>
             <link>https://www.youtube.com/watch?v=poWZVwjqeaM</link>
@@ -14285,35 +14318,33 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Terminator Assault Squad - Unit Review and How Strong in Game?]]></title>
-            <link>https://www.youtube.com/watch?v=H5tPPTxF9Gk</link>
-            <guid>yt:video:H5tPPTxF9Gk</guid>
-            <pubDate>Sun, 26 Oct 2025 19:13:43 GMT</pubDate>
-            <description><![CDATA[The video provides an overview of the new Terminator Assault Squad in Warhammer 40k, highlighting their enhanced models, melee capabilities, competitive usage, durability, and strategic release plans, while also discussing their point cost and damage output in gameplay.]]></description>
+            <title><![CDATA[How to Use Transports in Warhammer 40K - Basic Tactics!]]></title>
+            <link>https://www.youtube.com/watch?v=WnpfpxdzYmE</link>
+            <guid>yt:video:WnpfpxdzYmE</guid>
+            <pubDate>Mon, 27 Oct 2025 06:00:26 GMT</pubDate>
+            <description><![CDATA[The video discusses the strategic use of transport vehicles in Warhammer 40k, highlighting their importance for safely moving vulnerable units, enhancing their threat range through disembarkation, and serving as mobile fortifications while raising questions about optimal positioning and protection strategies.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Overview of the Terminator Assault Squad in Warhammer 40k</h2>
+<h2>🚚 Tactics for Using Transport Vehicles in Warhammer 40k</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>New Models:</strong> The Terminator Assault Squad features new models with enhanced designs including options for loadouts like Thunderhammer & Storm Shield or Lightning Claws.</li>
-    <li>⚔️ <strong>Battlefield Role:</strong> These units are known for their melee capabilities and teleportation abilities, making them tactical assets for close combat.</li>
-    <li>📊 <strong>Competitive Usage:</strong> While they are not mainstream, some competitive players utilize them in specific lists, often paired with powerful characters.</li>
-    <li>🛡️ <strong>Durability:</strong> With a stat line of three wounds and a two plus save, they are relatively durable, especially with the hammer loadout providing an extra wound.</li>
-    <li>🆕 <strong>Model Release Strategy:</strong> Games Workshop plans staggered releases for new models, leading to increased demand and potential scarcity.</li>
+    <li>🔑 <strong>Effective Transport Use:</strong> Transport vehicles are crucial for moving squads safely and extending their threat range on the battlefield.</li>
+    <li>⚔️ <strong>Targeting Vulnerable Units:</strong> Slow and fragile units benefit the most from transports, allowing them to engage the enemy effectively.</li>
+    <li>🏰 <strong>Battlefield Bunkers:</strong> Transports act as mobile fortifications, enabling units to disembark safely and shoot or charge the enemy.</li>
+    <li>📏 <strong>Disembarkation Range:</strong> Units can disembark up to 3 inches from a transport, which significantly increases their threat range.</li>
+    <li>🛡️ <strong>Survivability and Utility:</strong> If transports successfully deliver their units and survive, they can become nuisance units by tying up enemies or fulfilling secondary objectives.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>💰 <strong>Cost:</strong> The Terminator Assault Squad costs 180 points for 5 models or 360 points for 10 models, making it one of the most points-intensive options in the Space Marine arsenal.</li>
-    <li>🔢 <strong>Damage Output:</strong> Thunder Hammers deal 3 attacks at strength 8, AP-2, and damage 2, while Lightning Claws offer 5 attacks at strength 5 and AP-2, showcasing their varying effectiveness against different targets.</li>
-    <li>⚔️ <strong>Competitive Representation:</strong> Out of 50 competitive lists analyzed, 5 featured some form of Terminators, indicating they are a niche but viable option.</li>
+    <li>📏 <strong>3 Inches:</strong> The distance units can disembark from transport vehicles, enhancing their reach on the battlefield significantly.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do the new models change the dynamics of competitive play in Warhammer 40k?</li>
-    <li>🤔 <strong>Question 2:</strong> What strategies can be employed to maximize the effectiveness of the Terminator Assault Squad in a game?</li>
-    <li>🤔 <strong>Question 3:</strong> How do the different loadouts (Thunderhammer vs. Lightning Claws) impact gameplay and unit synergy?</li>
+    <li>🤔 <strong>Question 1:</strong> How can you effectively position your transport vehicles to maximize their protective and offensive capabilities?</li>
+    <li>🤔 <strong>Question 2:</strong> Which units in your army would benefit the most from being transported, and why?</li>
+    <li>🤔 <strong>Question 3:</strong> What strategies could be implemented to protect your transport vehicles during critical turns of combat?</li>
 </ul>
 ]]></content:encoded>
         </item>
