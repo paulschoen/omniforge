@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Oct 2025 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 17:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sister of Battle Extended Reveal Trailer | Warhammer 40,000: Boltgun 2]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/pbb6wsol/sister-of-battle-extended-reveal-trailer-warhammer-40000-boltgun-2</link>
+            <guid>pbb6wsol</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer 40,000: Boltgun 2 adds a second playable character! Find out more about the battle-hardened Nyra Veyrath, a veteran Sister of Battle, and her arsenal inthis extended reveal trailer!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/maxresdefault-vpkiyeaoju.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[Slayer Sword Winner's Interview | Golden Demon 2025 | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/wfulhhac/slayer-sword-winners-interview-golden-demon-2025-warhammer</link>
@@ -285,18 +296,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/rust-x-warhammer---16x9-ilyfagxear.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1.5 Update Review! | Warhammer 40,000: Rogue Trader]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/15-update-review-warhammer-40000-rogue-trader</link>
-            <guid>s4sh0fvc</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Happy Warhammer Day! The long-awaited Update 1.5 is available today!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_update_1-0ox8wt6uw0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
