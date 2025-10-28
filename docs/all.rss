@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Oct 2025 13:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Find out what team changes the Warhammer Studio are looking forward to in Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/64evk1wu/find-out-what-team-changes-the-warhammer-studio-are-looking-forward-to-in-blood-bowl</link>
+            <guid>64evk1wu</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new edition means a new league.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_teamupdates-oct28-1-feature-xtx1aycx9n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 28th of October]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fyxrtuji/the-rumour-engine-28th-of-october</link>
@@ -287,17 +299,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dh_alpha_teaser_trailer_v1_1920x1080-use-90vfekh9nh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrating 10 Years of Tide | Anniversary Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/celebrating-10-years-of-tide-anniversary-trailer</link>
-            <guid>s4sh0fvc</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[To mark a full decade since the launch of our beloved Tide series, we're unveiling a special anniversary roadmap detailing the content that's waiting right around the corner for both Vermintide 2 and Darktide — including the reveal date for Darktide’s next class.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/10ytide_yt_thumbnail-(1)-427qpcm949.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
