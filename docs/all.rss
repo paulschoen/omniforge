@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Oct 2025 16:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 13:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 28th of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fyxrtuji/the-rumour-engine-28th-of-october</link>
+            <guid>fyxrtuji</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct28-1-feature-zwmdbugbij.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Announcing the World Championships of Warhammer Preview Live! 2025]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4ckj6wud/announcing-the-world-championships-of-warhammer-preview-live-2025</link>
@@ -288,17 +298,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/10ytide_yt_thumbnail-(1)-427qpcm949.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 tactica – four reasons to charge]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zys7pswe/warhammer-40000-tactica-four-reasons-to-charge</link>
-            <guid>zys7pswe</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to get stuck into combat.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd_tactica4-oct23-1-feature-oavtaopjzl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
