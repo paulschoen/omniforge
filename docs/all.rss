@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Oct 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 15:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Slayer Sword Winner's Interview | Golden Demon 2025 | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wfulhhac/slayer-sword-winners-interview-golden-demon-2025-warhammer</link>
+            <guid>wfulhhac</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what went into creating this year's masterful Golden Demon Slayer Sword winning entry with this interview with the victor!]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01840-slayersword-winner-(1)-baspdoggbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Witness the incredible miniature that scored Albert Moreto Font his third Golden Demon Slayer Sword]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3b1nxkpe/witness-the-incredible-miniature-that-scored-albert-moreto-font-his-third-golden-demon-slayer-sword</link>
+            <guid>3b1nxkpe</guid>
+            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the show-stopping entry converted from at least 17 kits.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_slayersword-oct28-1-feature-hzaje1vzql.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Find out what team changes the Warhammer Studio are looking forward to in Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/64evk1wu/find-out-what-team-changes-the-warhammer-studio-are-looking-forward-to-in-blood-bowl</link>
@@ -276,29 +297,6 @@ Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail_update_1-0ox8wt6uw0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Warhammer Day 2025 with new action figures, statues, video game reveals and promotions, and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/drhxkfhd/celebrate-warhammer-day-2025-with-new-action-figures-statues-video-game-reveals-and-promotions-and-more</link>
-            <guid>drhxkfhd</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s loads to see from our Officially Licensed partners.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whday_licensing-oct23-1-feature-6zo6siuydp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alpha Release Date Trailer | Warhammer 40,000: Dark Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/alpha-release-date-trailer-warhammer-40000-dark-heresy</link>
-            <guid>s4sh0fvc</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the Alpha Release Date Trailer for Warhammer 40,000: Dark Heresy — party-based, story-driven cRPG from Owlcat Games. As an acolyte of the Inquisition, lead investigations, uncover vast conspiracies, master tactical combat, and make decisive choices in service of the God-Emperor. The Alpha launches on December 16 on PC (Steam)]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dh_alpha_teaser_trailer_v1_1920x1080-use-90vfekh9nh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
