@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Oct 2025 14:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 16:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Nearly 40 years of fantasy football – Blood Bowl through the ages]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j9dhjczu/nearly-40-years-of-fantasy-football-blood-bowl-through-the-ages</link>
+            <guid>j9dhjczu</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out about every edition of the game]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_nostalgia-oct28-1-feature-llrxcelxme.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What to expect at the World Championships of Warhammer, with the current Age of Sigmar Champion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pr1ypyhs/what-to-expect-at-the-world-championships-of-warhammer-with-the-current-age-of-sigmar-champion</link>
@@ -272,17 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ultrarules-oct24-1-feature-psfgvtgr4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Learn to Paint: Da Red Gobbo’s Tinboy | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/y98felu7/learn-to-paint-da-red-gobbos-tinboy-warhammer-40000</link>
-            <guid>y98felu7</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yep, it’s that time of year again! Grotmas is just around the corner and with it comes a brand new festive miniature. Marching through the snow is Da Red Gobbo’s Tinboy! In this beginner-friendly video, Ollie shows you how to build and paint this awesome mini, using only 10 paints!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01036-how-to-paint-festive-mini-thumbnail-azvqpxepmm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
