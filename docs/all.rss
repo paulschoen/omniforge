@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Oct 2025 11:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 13:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV – We go behind the scenes on Total War: Warhammer III]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dtmuahih/warhammer-tv-we-go-behind-the-scenes-on-total-war-warhammer-iii</link>
+            <guid>dtmuahih</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new shows to watch this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-oct29-1-feature-0uf4d3zloc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team quarterly balance update – Changes inbound for overachievers and struggling teams]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qstegrlb/kill-team-quarterly-balance-update-changes-inbound-for-overachievers-and-struggling-teams</link>
@@ -25,7 +35,7 @@
             <link>https://www.warhammer-community.com/en-gb/videos/pbb6wsol/sister-of-battle-extended-reveal-trailer-warhammer-40000-boltgun-2</link>
             <guid>pbb6wsol</guid>
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer 40,000: Boltgun 2 adds a second playable character! Find out more about the battle-hardened Nyra Veyrath, a veteran Sister of Battle, and her arsenal inthis extended reveal trailer!]]></description>
+            <description><![CDATA[Warhammer 40,000: Boltgun 2 adds a second playable character! Find out more about the battle-hardened Nyra Veyrath, a veteran Sister of Battle, and her arsenal in this extended reveal trailer!]]></description>
             <category domain="video-games">Video Games</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
@@ -277,24 +287,6 @@ Head over to the game's Steam page to get a closer look - but not too close, or 
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sf_deffkoptaupdatethumb-ozbginhh0x.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar | Wētā Workshop Neave Blacktalon, The God-King's Assassin, 1:6 Scale Statue]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s4sh0fvc/warhammer-age-of-sigmar-weta-workshop-neave-blacktalon-the-god-kings-assassin-16-scale-statue</link>
-            <guid>s4sh0fvc</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Every detail tells the story of Sigmar’s chosen assassin: the splintered war platform beneath her feet, the Orruk helm crushed into the dirt, the storm-forged fury carved into every line of her form.
-
-This dynamic pose was brought to life by our passionate artists, drawing on decades of experience in worldbuilding and character design, distilling Neave’s relentless spirit into collectible form. From the delicate arc of her braided hair in motion, to the painstaking textures of battered iron and bloodied blades, each element has been sculpted, refined, and painted with the same obsessive attention to detail that has come to define our craft.
-
-A hero of the Mortal Realms rendered in full 1:6 scale, Neave Blacktalon, The God-King’s Assassin is a divine example of crafting myth into matter, and fury into form.
-
-Pre-order now: https://wetanz.com/neave-blacktalon]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh_neave_master_v5_17_1920--1080_ytthumbnail-gxq28af0w3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
