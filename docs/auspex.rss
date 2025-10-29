@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 29 Oct 2025 00:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 11:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Every Warhammer 40K Army's Tournament Win Statistics - Who's Best in 10th Edition October 2025]]></title>
+            <link>https://www.youtube.com/watch?v=8FcGmlsY76w</link>
+            <guid>yt:video:8FcGmlsY76w</guid>
+            <pubDate>Tue, 28 Oct 2025 20:48:07 GMT</pubDate>
+            <description><![CDATA[The video analyzes the current balance in Warhammer 40k, highlighting that 26 out of 28 factions have competitive win rates between 45% and 55%, with Tau and Eldari as top performers, and emphasizes the importance of player strategy over faction selection in both casual and competitive play.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Faction Performance Analysis</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Game Balance Overview:</strong> The balance in Warhammer 40k is currently strong, with 26 out of 28 factions winning between 45% and 55% of their games.</li>
+    <li>📊 <strong>Tournament Stats:</strong> Recent tournaments, such as the Las Vegas Open, show significant data on army performance, focusing on win rates and player trends.</li>
+    <li>🔍 <strong>Faction Win Rates:</strong> Detailed statistics reveal that the Imperial Guard and Agents are among the lower-performing factions, while top performers include Tau and Eldari.</li>
+    <li>⚔️ <strong>Top Strategies:</strong> Players are encouraged to build optimized lists and command them effectively rather than relying solely on faction selection.</li>
+    <li>💡 <strong>Casual vs Competitive:</strong> Casual win rates differ from tournament stats, indicating the effectiveness of factions may vary based on player optimization.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Overall Win Rates:</strong> 26 out of 28 factions are within a 45% to 55% win rate, marking a competitive balance.</li>
+    <li>🏆 <strong>Top Tournament Performers:</strong> Tau at 53%, Eldari at 54%, Death Watch and Adeptus Sororitas at 55%, and Adeptus Mechanicus leading at 57%.</li>
+    <li>🥇 <strong>Casual Performance:</strong> Eldari and Adeptus Mechanicus are noted as top-performing armies, with Eldari having 54% wins in casual play.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do the balance updates impact your strategy when playing different factions?</strong></li>
+    <li>🔄 <strong>What changes would you like to see in future balance updates to improve faction performance?</strong></li>
+    <li>📈 <strong>Which faction do you believe will dominate the competitive scene in the upcoming tournaments?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[GW Confirms Warhammer 40K Reveal Show Inbound - What Could we Get?]]></title>
             <link>https://www.youtube.com/watch?v=kBr1v-fXLdM</link>
@@ -14382,35 +14415,38 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Every Warhammer 40K Army's Tournament Win Statistics - Who's Best in 10th Edition October 2025]]></title>
-            <link>https://www.youtube.com/watch?v=8FcGmlsY76w</link>
-            <guid>yt:video:8FcGmlsY76w</guid>
-            <pubDate>Tue, 28 Oct 2025 20:48:07 GMT</pubDate>
-            <description><![CDATA[The video analyzes the current balance in Warhammer 40k, highlighting that 26 out of 28 factions have competitive win rates between 45% and 55%, with Tau and Eldari as top performers, and emphasizes the importance of player strategy over faction selection in both casual and competitive play.]]></description>
+            <title><![CDATA[Every Leman Russ Tank Variant in Codex Astra Militarum - Warhammer 40K Shorts #40k]]></title>
+            <link>https://www.youtube.com/watch?v=OzSqtC2yw8Q</link>
+            <guid>yt:video:OzSqtC2yw8Q</guid>
+            <pubDate>Wed, 29 Oct 2025 10:00:46 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of various Lumen Thus tank variants, highlighting their strengths and weaknesses, costs, and strategic considerations for gameplay, including the Battle Tank's reliability, the Vanquish's anti-tank efficiency, and the Tank Commander's versatility despite its high price.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k Faction Performance Analysis</h2>
+<h2>🚀 Overview of Lumen Thus Variants</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Game Balance Overview:</strong> The balance in Warhammer 40k is currently strong, with 26 out of 28 factions winning between 45% and 55% of their games.</li>
-    <li>📊 <strong>Tournament Stats:</strong> Recent tournaments, such as the Las Vegas Open, show significant data on army performance, focusing on win rates and player trends.</li>
-    <li>🔍 <strong>Faction Win Rates:</strong> Detailed statistics reveal that the Imperial Guard and Agents are among the lower-performing factions, while top performers include Tau and Eldari.</li>
-    <li>⚔️ <strong>Top Strategies:</strong> Players are encouraged to build optimized lists and command them effectively rather than relying solely on faction selection.</li>
-    <li>💡 <strong>Casual vs Competitive:</strong> Casual win rates differ from tournament stats, indicating the effectiveness of factions may vary based on player optimization.</li>
+  <li>🔥 <strong>Battle Tank:</strong> A reliable workhorse at 180 points, equipped with a general-purpose cannon, but suffers from low armor penetration (AP).</li>
+  <li>💥 <strong>Vanquish:</strong> Cost-effective anti-tank unit, excels with a powerful shot but relies on a single hit.</li>
+  <li>🔫 <strong>Punisher:</strong> Features a Gatling Cannon with 20 shots at strength 6. Excellent against infantry but not a primary focus for guard units.</li>
+  <li>⚖️ <strong>Eradicator:</strong> Higher cost with underwhelming damage output; offers strong defense when in cover.</li>
+  <li>📉 <strong>Exterminator:</strong> Equipped with twin auto cannons and a debuff for extra AP, ideal for supporting other guard units.</li>
+  <li>💨 <strong>Executioner:</strong> General-purpose plasma damage with lethal hits; however, it has a poor special rule and risks overheating.</li>
+  <li>💰 <strong>Demoler:</strong> Most expensive regular variant; decent damage against heavy units but has a short range.</li>
+  <li>✨ <strong>Tank Commander:</strong> Very costly but versatile with options for any gun, orders, and fire-on-death ability, though often overshadowed.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Overall Win Rates:</strong> 26 out of 28 factions are within a 45% to 55% win rate, marking a competitive balance.</li>
-    <li>🏆 <strong>Top Tournament Performers:</strong> Tau at 53%, Eldari at 54%, Death Watch and Adeptus Sororitas at 55%, and Adeptus Mechanicus leading at 57%.</li>
-    <li>🥇 <strong>Casual Performance:</strong> Eldari and Adeptus Mechanicus are noted as top-performing armies, with Eldari having 54% wins in casual play.</li>
+  <li>💵 <strong>180 Points:</strong> Cost of the Battle Tank, reflecting its balance of firepower and utility.</li>
+  <li>🔢 <strong>20 Shots:</strong> The Punisher's Gatling Cannon capability, showcasing its potential to dominate infantry.</li>
+  <li>💸 <strong>Price Comparison:</strong> The Demoler is noted as the most expensive standard variant, indicating a trade-off between cost and damage.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How do the balance updates impact your strategy when playing different factions?</strong></li>
-    <li>🔄 <strong>What changes would you like to see in future balance updates to improve faction performance?</strong></li>
-    <li>📈 <strong>Which faction do you believe will dominate the competitive scene in the upcoming tournaments?</strong></li>
+  <li>🤔 <strong>Question 1:</strong> How does the balance between cost and effectiveness impact the choice of tank variants in gameplay?</li>
+  <li>🤔 <strong>Question 2:</strong> What strategies can be employed to maximize the strengths of the Eradicator despite its high cost and low output?</li>
+  <li>🤔 <strong>Question 3:</strong> In what scenarios would the Tank Commander be more beneficial than other variants despite its high price?</li>
 </ul>
 ]]></content:encoded>
         </item>
