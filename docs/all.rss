@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 30 Oct 2025 15:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 16:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 1]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1j3w4jth/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-1</link>
+            <guid>1j3w4jth</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Four armies to rule them all.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-oct31-1-feature-tgdyyc3ocf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Warhammer: The Horus Heresy FAQs and Erratas released]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqjq3xrc/new-warhammer-the-horus-heresy-faqs-and-erratas-released</link>
@@ -268,17 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_nickultras-oct24-1-feature-rp6jhkhwcp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Astra Militarum]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9z7kzct/warhammer-art-through-the-years-astra-militarum</link>
-            <guid>z9z7kzct</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Hammer of the Emperor, looking their best.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art4_am-oct24-1-feature-yzcsnijtbn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
