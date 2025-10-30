@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 30 Oct 2025 09:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 21:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Top Ten Strongest Death Guard Units - Most Commonly Played Competitive Datasheets?]]></title>
+            <link>https://www.youtube.com/watch?v=SfQm5s40DyM</link>
+            <guid>yt:video:SfQm5s40DyM</guid>
+            <pubDate>Thu, 30 Oct 2025 07:30:24 GMT</pubDate>
+            <description><![CDATA[The video discusses the top 10 strongest units for the Death Guard faction in Warhammer 40k, highlighting their initial dominance, recent point increases affecting competitiveness, current tournament performance, and strategic unit choices based on analyzed lists.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Top 10 Strongest Units for the Sons of Mortarion in Warhammer 40k</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Overpowered Start:</strong> Death Guard units were dominant after their Codex release, outperforming many factions.</li>
+    <li>⚖️ <strong>Points Increase:</strong> Significant point cost increases for key units occurred about nine weeks ago, impacting their competitive edge.</li>
+    <li>📊 <strong>Tournament Performance:</strong> Post-nerf, tournament win rates hover around 50%, maintaining popularity among players.</li>
+    <li>🏆 <strong>Competitive Lists:</strong> Analysis of 25 top-performing Death Guard lists reveals frequent use of specific units and strategies.</li>
+    <li>🛡️ <strong>Unit Variety:</strong> Different detachments like 'Virulent Victorium' and 'Champions of Contagion' influence unit choices and configurations.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>50% Win Rate:</strong> Death Guard maintains close to a 50% win rate in tournaments post-nerf.</li>
+    <li>📋 <strong>25 Lists Analyzed:</strong> Review based on the performance of 25 competitive Death Guard lists since the last balance update.</li>
+    <li>👥 <strong>3rd Most Played Faction:</strong> Death Guard ranks as the third most played faction in Warhammer 40k currently.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>What strategies can players employ to optimize the use of Death Guard units in competitive play?</strong></li>
+    <li>🔍 <strong>How do the recent point increases affect the overall balance of Warhammer 40k factions?</strong></li>
+    <li>📊 <strong>What are the potential long-term impacts on tournament dynamics if the Death Guard maintain their current win rates?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Big 40K Box Set Leak? 500 Worlds Discount Set and More!]]></title>
             <link>https://www.youtube.com/watch?v=G7FynF0I-bA</link>
@@ -14484,35 +14517,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Top Ten Strongest Death Guard Units - Most Commonly Played Competitive Datasheets?]]></title>
-            <link>https://www.youtube.com/watch?v=SfQm5s40DyM</link>
-            <guid>yt:video:SfQm5s40DyM</guid>
-            <pubDate>Thu, 30 Oct 2025 07:30:24 GMT</pubDate>
-            <description><![CDATA[The video discusses the top 10 strongest units for the Death Guard faction in Warhammer 40k, highlighting their initial dominance, recent point increases affecting competitiveness, current tournament performance, and strategic unit choices based on analyzed lists.]]></description>
+            <title><![CDATA[Why are Scout Squads So Strong for Space Marine Armies?]]></title>
+            <link>https://www.youtube.com/watch?v=U14vVMQOUak</link>
+            <guid>yt:video:U14vVMQOUak</guid>
+            <pubDate>Thu, 30 Oct 2025 19:44:15 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of Space Marine Scout Squads, highlighting their utility as objective-secured units in competitive play, their lore as Neophyte Marines, cost-effectiveness at 70 points for five models, weapon versatility, and strategic advantages such as advanced positioning on the battlefield.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Top 10 Strongest Units for the Sons of Mortarion in Warhammer 40k</h2>
+<h2>📢 Space Marine Scout Squad Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Overpowered Start:</strong> Death Guard units were dominant after their Codex release, outperforming many factions.</li>
-    <li>⚖️ <strong>Points Increase:</strong> Significant point cost increases for key units occurred about nine weeks ago, impacting their competitive edge.</li>
-    <li>📊 <strong>Tournament Performance:</strong> Post-nerf, tournament win rates hover around 50%, maintaining popularity among players.</li>
-    <li>🏆 <strong>Competitive Lists:</strong> Analysis of 25 top-performing Death Guard lists reveals frequent use of specific units and strategies.</li>
-    <li>🛡️ <strong>Unit Variety:</strong> Different detachments like 'Virulent Victorium' and 'Champions of Contagion' influence unit choices and configurations.</li>
+    <li>🔥 <strong>Utility Role:</strong> Space Marine Scout Squads are effective objective-secured units, commonly found in competitive army lists.</li>
+    <li>📊 <strong>Usage Statistics:</strong> Out of 25 top tournament Space Marine army lists, 12 included Scout Squads.</li>
+    <li>📖 <strong>Lore Insight:</strong> Scouts are Neophyte Marines who have yet to earn their power armor and are tasked with reconnaissance.</li>
+    <li>💰 <strong>Cost Consideration:</strong> A squad of five Scouts costs 70 points, making them a relatively cheap option for utility.</li>
+    <li>🔫 <strong>Weapon Options:</strong> Scouts can be equipped with a variety of weapons including bolt guns, shotguns, and sniper rifles for flexibility in combat.</li>
+    <li>🏆 <strong>Strategic Advantage:</strong> Their infiltrator ability allows for advanced positioning on the battlefield, which can block enemy movement and secure objectives.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>50% Win Rate:</strong> Death Guard maintains close to a 50% win rate in tournaments post-nerf.</li>
-    <li>📋 <strong>25 Lists Analyzed:</strong> Review based on the performance of 25 competitive Death Guard lists since the last balance update.</li>
-    <li>👥 <strong>3rd Most Played Faction:</strong> Death Guard ranks as the third most played faction in Warhammer 40k currently.</li>
+    <li>📉 <strong>Points Cost:</strong> 70 points for a squad of 5 Scouts; 140 points for 10.</li>
+    <li>📦 <strong>Box Price:</strong> £82 for a box of 10 models, which is more expensive than standard Space Marine kits.</li>
+    <li>⚔️ <strong>Model Stats:</strong> Each Scout has 2 wounds and a 4+ armor save, with a movement of 6 inches.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>What strategies can players employ to optimize the use of Death Guard units in competitive play?</strong></li>
-    <li>🔍 <strong>How do the recent point increases affect the overall balance of Warhammer 40k factions?</strong></li>
-    <li>📊 <strong>What are the potential long-term impacts on tournament dynamics if the Death Guard maintain their current win rates?</strong></li>
+    <li>🤔 <strong>How do the roles of Scout Squads compare to other infiltrator units in Space Marines?</strong></li>
+    <li>🤔 <strong>What strategies could enhance the effectiveness of Scouts in competitive play?</strong></li>
+    <li>🤔 <strong>How does the pricing of Scout models influence their inclusion in army lists?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
