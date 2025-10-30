@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Oct 2025 16:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 14:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 tactica – Making the most of melee]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/du3vu8c1/warhammer-40000-tactica-making-the-most-of-melee</link>
+            <guid>du3vu8c1</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to ensure your charge ends in glorious victory.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd_tactica5-oct30-1-feature-iavfibrxnz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nearly 40 years of fantasy football – Blood Bowl through the ages]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j9dhjczu/nearly-40-years-of-fantasy-football-blood-bowl-through-the-ages</link>
@@ -270,18 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_sicariusstory-oct24-1-feature-nc5nuzrc8s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultramarines Rules Reveal – Datasheet previews for the new Marneus Calgar, Cato Sicarius, and Victrix Honour Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/isqbppri/ultramarines-rules-reveal-datasheet-previews-for-the-new-marneus-calgar-cato-sicarius-and-victrix-honour-guard</link>
-            <guid>isqbppri</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Preview the new Ultramarines rules.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ultrarules-oct24-1-feature-psfgvtgr4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
