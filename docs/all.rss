@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 16:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 17:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Gear up for the World Championships of Warhammer, and check out Warhammer World events in February]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ecaaf0hm/gear-up-for-the-world-championships-of-warhammer-and-check-out-warhammer-world-events-in-february</link>
+            <guid>ecaaf0hm</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us for a host of fun events.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-oct30-1-feature-lplrypr4ji.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Check out this Halloween Blood Bowl stadium]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6zkgenii/check-out-this-halloween-blood-bowl-stadium</link>
@@ -264,18 +275,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gdeu2024-oct06-1-feature-1761486967-ssixsbbe88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-Orders – March for Macragge with Terminators and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jo6cw5ww/saturday-pre-orders-march-for-macragge-with-terminators-and-more</link>
-            <guid>jo6cw5ww</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-oct25-1-feature-bxbksgfoft.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
