@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 15:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bretonnian and Tomb King Teams painted by one of Warhammer Community’s own]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ryetbgg6/bretonnian-and-tomb-king-teams-painted-by-one-of-warhammer-communitys-own</link>
+            <guid>ryetbgg6</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Joel isn’t painting Raven Guard this time!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_joelsteams-oct31-1-feature-s7lbzuva3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Download Star Player rules in preparation for the new edition of Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/toadzzpx/download-star-player-rules-in-preparation-for-the-new-edition-of-blood-bowl</link>
@@ -264,17 +276,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_miniotdecadereveal-oct25-1-feature-y9zzypmiw2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: Warhammer with Creative Assembly | Deep Strike | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gywjopmn/total-war-warhammer-with-creative-assembly-deep-strike-warhammer</link>
-            <guid>gywjopmn</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In this episode, the Deep Strike team is joined by folks from Creative Assembly, the developers of the hugely popular Total War: Warhammer video game series. They discuss Warhammer's fantasy setting and its impact on the studio's creative process.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/free-deep-strike-h&b-6-lm9qjd74r0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
