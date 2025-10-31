@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 13:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Download Star Player rules in preparation for the new edition of Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/toadzzpx/download-star-player-rules-in-preparation-for-the-new-edition-of-blood-bowl</link>
+            <guid>toadzzpx</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[All your favourites available for free.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_starplayers-oct30-1-feature-4flm0gkmvn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Orks]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mfyhkfkb/warhammer-art-through-the-years-orks</link>
@@ -18,7 +29,7 @@
             <category domain="orks">Orks</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art5_orks-oct31-1-feature-ylgmrfidja.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/art5_orks-oct31-1-feature-rqutskxsy3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Demon at SPIEL 2025 | Warhammer]]></title>
@@ -264,17 +275,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/free-deep-strike-h&b-6-lm9qjd74r0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Titans in Warhammer 40,000 and the Horus Heresy | Loremasters | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ckeudroj/titans-in-warhammer-40000-and-the-horus-heresy-loremasters-warhammer</link>
-            <guid>ckeudroj</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Titans are colossal engines of war that tower over the battlefield, capable of unleashing destruction on an incredible scale. Learn more about these mighty God-Engines, their bloody history, and the different types of Titan that the Imperium has...]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/free-loremasters-6-r9siqkvqku.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
