@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 15:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 16:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Check out this Halloween Blood Bowl stadium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6zkgenii/check-out-this-halloween-blood-bowl-stadium</link>
+            <guid>6zkgenii</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A step by step on building a whole stadium.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_halloweenstadium-oct31-1-feature-q1r9pnhcvb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bretonnian and Tomb King Teams painted by one of Warhammer Community’s own]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ryetbgg6/bretonnian-and-tomb-king-teams-painted-by-one-of-warhammer-communitys-own</link>
@@ -266,16 +276,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-oct25-1-feature-bxbksgfoft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar Miniature of the Decade – The winners]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rush3hdf/warhammer-age-of-sigmar-miniature-of-the-decade-the-winners</link>
-            <guid>rush3hdf</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who took the top spot?]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_miniotdecadereveal-oct25-1-feature-y9zzypmiw2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
