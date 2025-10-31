@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 12:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 13:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Orks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mfyhkfkb/warhammer-art-through-the-years-orks</link>
+            <guid>mfyhkfkb</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The biggest, greenest art around. Waaagh!]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art5_orks-oct31-1-feature-ylgmrfidja.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon at SPIEL 2025 | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/g1rb2sew/golden-demon-at-spiel-2025-warhammer</link>
@@ -264,19 +275,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/free-loremasters-6-r9siqkvqku.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adrian Tchaikovsky Interview – Writing the Seraphon in Starseer’s Ruin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/htmsx5mm/adrian-tchaikovsky-interview-writing-the-seraphon-in-starseers-ruin</link>
-            <guid>htmsx5mm</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What went into writing his new novel?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="seraphon">Seraphon</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_starseersruin-oct29-1-feature-wlgp7cdsvh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
