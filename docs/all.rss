@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 30 Oct 2025 16:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 12:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon at SPIEL 2025 | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/g1rb2sew/golden-demon-at-spiel-2025-warhammer</link>
+            <guid>g1rb2sew</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We had an absolute blast at SPIEL and were blown away by the superb entries submitted for the Golden Demon painting competition.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01841---it's-a-wrap-up-video-for-spiel-2025---thumbnail-16x9-enbvwlwuuz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 1]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1j3w4jth/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-1</link>
@@ -265,19 +277,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_starseersruin-oct29-1-feature-wlgp7cdsvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick adds new Ultramarines to his vast collection to get us excited for the sons of Guilliman]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gbc4nf2s/nick-adds-new-ultramarines-to-his-vast-collection-to-get-us-excited-for-the-sons-of-guilliman</link>
-            <guid>gbc4nf2s</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heroes and veterans amassed.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_nickultras-oct24-1-feature-rp6jhkhwcp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
