@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Oct 2025 17:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 18:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Play ball in a new Season of Blood Bowl]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/glgpuoah/saturday-pre-orders-play-ball-in-a-new-season-of-blood-bowl</link>
+            <guid>glgpuoah</guid>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-nov1-1-feature-ebpyftbcnq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gear up for the World Championships of Warhammer, and check out Warhammer World events in February]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ecaaf0hm/gear-up-for-the-world-championships-of-warhammer-and-check-out-warhammer-world-events-in-february</link>
@@ -263,18 +276,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct26-1-feature-txjhdt4pjv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 winners at Spiel Essen revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n4tadgwz/golden-demon-2025-winners-at-spiel-essen-revealed</link>
-            <guid>n4tadgwz</guid>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The European leg of the ultimate Warhammer painting competition has been held in Germany. Check out the amazing winners, and find out who claimed the Slayer Sword.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gdeu2024-oct06-1-feature-1761486967-ssixsbbe88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
