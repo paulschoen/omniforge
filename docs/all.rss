@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 01 Nov 2025 18:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 18:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Fight in Dead Silence and don’t wake the Necrons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dtvkowlq/sunday-preview-fight-in-dead-silence-and-dont-wake-the-necrons</link>
+            <guid>dtvkowlq</guid>
+            <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug24-1-feature-igkeezam4g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Play ball in a new Season of Blood Bowl]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/glgpuoah/saturday-pre-orders-play-ball-in-a-new-season-of-blood-bowl</link>
@@ -262,20 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01208---camo-cloaks-pev-thumbnail-n0skjimyir.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The Third Season of Blood Bowl is underway]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/prxigetv/sunday-preview-the-third-season-of-blood-bowl-is-underway</link>
-            <guid>prxigetv</guid>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-oct26-1-feature-txjhdt4pjv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
