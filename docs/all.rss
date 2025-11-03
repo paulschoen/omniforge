@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 02 Nov 2025 18:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 13:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf 518 – Discover 50 Years of Games Workshop History]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s4oxwarh/white-dwarf-518-discover-50-years-of-games-workshop-history</link>
+            <guid>s4oxwarh</guid>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what is in November’s issue.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd518-nov03-1-feature-zz2szzzddq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Fight in Dead Silence and don’t wake the Necrons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dtvkowlq/sunday-preview-fight-in-dead-silence-and-dont-wake-the-necrons</link>
@@ -266,17 +276,6 @@
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-offhetybmv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Three Styles of Camo | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lojcywxl/painting-three-styles-of-camo-warhammer-40000</link>
-            <guid>lojcywxl</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In the far future, it’s still handy to stay hidden where possible – and camo is one way to sneak your way to victory. Dan has three different approaches to paint camo in this video, so you can keep your troops out of their enemy’s eyeline.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01208---camo-cloaks-pev-thumbnail-n0skjimyir.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
