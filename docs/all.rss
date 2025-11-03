@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Nov 2025 13:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 14:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pledge yourself to Hashut for a free miniature, and snag a Red Gobbo Coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/31gjh1fb/pledge-yourself-to-hashut-for-a-free-miniature-and-snag-a-red-gobbo-coin</link>
+            <guid>31gjh1fb</guid>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your free miniature and coin this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-oct30-1-feature-uyjaip8vzt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 518 – Discover 50 Years of Games Workshop History]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s4oxwarh/white-dwarf-518-discover-50-years-of-games-workshop-history</link>
@@ -265,17 +276,6 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/worldchamps_incoming-oct27-1-feature-bynglsyd3m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bren Tylis, the Renegade Saint charges in to Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qxcpcnsd/bren-tylis-the-renegade-saint-charges-in-to-warhammer-quest-darkwater</link>
-            <guid>qxcpcnsd</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Another new hero revealed]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-offhetybmv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
