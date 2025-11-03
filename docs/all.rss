@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Nov 2025 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 16:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The World Championships of Warhammer Preview is coming – and you're invited]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/0cesnbgs/the-world-championships-of-warhammer-preview-is-coming-and-youre-invited</link>
+            <guid>0cesnbgs</guid>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01769-preview-invite-world-championships-november-2025---thumbnail-v11-4yusb6pszl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Join us later this week for the World Championships of Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3ew2q4hq/join-us-later-this-week-for-the-world-championships-of-warhammer-preview-live-2025</link>
+            <guid>3ew2q4hq</guid>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The latest reveal roundup is nearly here.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps_thisweek-nov3-1-feature-spiobcxaox.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inara Sion, the Cleansing Blade emerges in Warhammer Quest: Darkwater]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/duiizeuv/inara-sion-the-cleansing-blade-emerges-in-warhammer-quest-darkwater</link>
@@ -254,28 +276,6 @@
             <category domain="golden-demon">Golden Demon</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_slayersword-oct28-1-feature-hzaje1vzql.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find out what team changes the Warhammer Studio are looking forward to in Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/64evk1wu/find-out-what-team-changes-the-warhammer-studio-are-looking-forward-to-in-blood-bowl</link>
-            <guid>64evk1wu</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new edition means a new league.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_teamupdates-oct28-1-feature-xtx1aycx9n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 28th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fyxrtuji/the-rumour-engine-28th-of-october</link>
-            <guid>fyxrtuji</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct28-1-feature-zwmdbugbij.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
