@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Nov 2025 13:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tear through hordes of Tyranids and Skaven in upcoming video game Warhammer Survivors]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dmvj6ri9/tear-through-hordes-of-tyranids-and-skaven-in-upcoming-video-game-warhammer-survivors</link>
+            <guid>dmvj6ri9</guid>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Horde-clearing Warhammer action.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-hqsnatewdq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 4th of November]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yddsa7zh/the-rumour-engine-4th-of-november</link>
@@ -265,17 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/maxresdefault-vpkiyeaoju.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[Slayer Sword Winner's Interview | Golden Demon 2025 | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wfulhhac/slayer-sword-winners-interview-golden-demon-2025-warhammer</link>
-            <guid>wfulhhac</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what went into creating this year's masterful Golden Demon Slayer Sword winning entry with this interview with the victor!]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01840-slayersword-winner-(1)-baspdoggbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
