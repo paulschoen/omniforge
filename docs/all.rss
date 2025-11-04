@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Nov 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 15:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team: Dead Silence – Wolf Scouts command mystical storms to hunt their prey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9id9frjk/kill-team-dead-silence-wolf-scouts-command-mystical-storms-to-hunt-their-prey</link>
+            <guid>9id9frjk</guid>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do the sons of Fenris fight in Kill Team?]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencesw-nov04-1-feature-pv3aa8b9ld.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tear through hordes of Tyranids and Skaven in upcoming video game Warhammer Survivors]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dmvj6ri9/tear-through-hordes-of-tyranids-and-skaven-in-upcoming-video-game-warhammer-survivors</link>
@@ -20,6 +31,18 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-hqsnatewdq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Survivors Announcement | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/iau4yqjs/warhammer-survivors-announcement-warhammer</link>
+            <guid>iau4yqjs</guid>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Auroch Digital has announced Warhammer Survivors, a fast-paced rogue-like survivors game, launching in 2026.  Developed and published by Auroch Digital (Warhammer 40,000: Boltgun) in partnership with poncle (Vampire Survivors) and Warhammer, Warhammer Survivors takes the relentless and charming pixel-vomit gameplay and fuses it with the globally renowned grimdark of the Warhammer universes.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammer-survivors---reveal-trailer---thumbnail---1920x1080-qkj7urcog3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rumour Engine – 4th of November]]></title>
@@ -255,28 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01296---new-marneus-calgar-in-antilochus-armour---thumbnail-rhxnlm07qu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team quarterly balance update – Changes inbound for overachievers and struggling teams]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qstegrlb/kill-team-quarterly-balance-update-changes-inbound-for-overachievers-and-struggling-teams</link>
-            <guid>qstegrlb</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the latest rules updates here.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_update-oct29-1-feature-56raljtf7s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sister of Battle Extended Reveal Trailer | Warhammer 40,000: Boltgun 2]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pbb6wsol/sister-of-battle-extended-reveal-trailer-warhammer-40000-boltgun-2</link>
-            <guid>pbb6wsol</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer 40,000: Boltgun 2 adds a second playable character! Find out more about the battle-hardened Nyra Veyrath, a veteran Sister of Battle, and her arsenal in this extended reveal trailer!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/maxresdefault-vpkiyeaoju.webp" length="0" type="image/webp"/>
         </item>
     </channel>
 </rss>
