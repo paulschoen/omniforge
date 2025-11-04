@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Nov 2025 15:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 16:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Take the firefight into the depths of a tomb world with the new Kill Team Organised Play pack]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iniok8zq/take-the-firefight-into-the-depths-of-a-tomb-world-with-the-new-kill-team-organised-play-pack</link>
+            <guid>iniok8zq</guid>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take part and pick up cool swag.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_organisedplay-nov04-1-feature-9vpdjvl9ph.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team: Dead Silence – Wolf Scouts command mystical storms to hunt their prey]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9id9frjk/kill-team-dead-silence-wolf-scouts-command-mystical-storms-to-hunt-their-prey</link>
@@ -266,18 +277,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-oct29-1-feature-0uf4d3zloc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Marneus Calgar in the Armour of Antilochus | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/enfnxdrm/how-to-paint-marneus-calgar-in-the-armour-of-antilochus-warhammer-40000</link>
-            <guid>enfnxdrm</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Marneus Calgar is a legendary hero who takes every opportunity to strike at the enemies of the Imperium with righteous fury, and what better way to show off this mighty warrior than to paint him! Join Dan as he goes through each step to get Calgar looking his best, ready to take on the Imperium’s foes!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01296---new-marneus-calgar-in-antilochus-armour---thumbnail-rhxnlm07qu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
