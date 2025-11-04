@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Nov 2025 16:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 13:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 4th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yddsa7zh/the-rumour-engine-4th-of-november</link>
+            <guid>yddsa7zh</guid>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov4-1-feature-xfwfvsjr8y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The World Championships of Warhammer Preview is coming – and you're invited]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/0cesnbgs/the-world-championships-of-warhammer-preview-is-coming-and-youre-invited</link>
@@ -266,16 +276,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01840-slayersword-winner-(1)-baspdoggbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Witness the incredible miniature that scored Albert Moreto Font his third Golden Demon Slayer Sword]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3b1nxkpe/witness-the-incredible-miniature-that-scored-albert-moreto-font-his-third-golden-demon-slayer-sword</link>
-            <guid>3b1nxkpe</guid>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the show-stopping entry converted from at least 17 kits.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_slayersword-oct28-1-feature-hzaje1vzql.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
