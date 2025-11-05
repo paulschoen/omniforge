@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Nov 2025 12:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 13:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Check out a free excerpt from The Art of Warhammer Video Games alongside this week’s Warhammer TV shows]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g0deqvnr/check-out-a-free-excerpt-from-the-art-of-warhammer-video-games-alongside-this-weeks-warhammer-tv-shows</link>
+            <guid>g0deqvnr</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s everything you can watch this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-nov5-1-feature-tx05mbhzzz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Celebrate Talisman Day with birthday news, reveals and promotions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rp9haszr/celebrate-talisman-day-with-birthday-news-reveals-and-promotions</link>
@@ -268,17 +278,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_updates-oct30-1-feature-zrwedmgnjz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 tactica – Making the most of melee]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/du3vu8c1/warhammer-40000-tactica-making-the-most-of-melee</link>
-            <guid>du3vu8c1</guid>
-            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to ensure your charge ends in glorious victory.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd_tactica5-oct30-1-feature-iavfibrxnz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
