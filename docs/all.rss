@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Nov 2025 13:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 14:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team Dead Silence – Being visible is old hat, redefine stealth with the T’au Empire’s new XV26 battlesuits]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tbox77lp/kill-team-dead-silence-being-visible-is-old-hat-redefine-stealth-with-the-tau-empires-new-xv26-battlesuits</link>
+            <guid>tbox77lp</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The T’au Empire’s latest advances come to Kill Team.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencetau-nov05-1-feature-wxvxiybobg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Check out a free excerpt from The Art of Warhammer Video Games alongside this week’s Warhammer TV shows]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g0deqvnr/check-out-a-free-excerpt-from-the-art-of-warhammer-video-games-alongside-this-weeks-warhammer-tv-shows</link>
@@ -267,17 +278,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-oct31-1-feature-tgdyyc3ocf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Warhammer: The Horus Heresy FAQs and Erratas released]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqjq3xrc/new-warhammer-the-horus-heresy-faqs-and-erratas-released</link>
-            <guid>wqjq3xrc</guid>
-            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest changes, available now.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_updates-oct30-1-feature-zrwedmgnjz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
