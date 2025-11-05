@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Nov 2025 14:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 15:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The World Championships of Warhammer – according to its Warhammer 40,000 champion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/opdca05v/the-world-championships-of-warhammer-according-to-its-warhammer-40000-champion</link>
+            <guid>opdca05v</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is it like to attend the World Championships?]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="events">Events</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps40kwinner-nov5-1-feature-ngcm3yyngc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team Dead Silence – Being visible is old hat, redefine stealth with the T’au Empire’s new XV26 battlesuits]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tbox77lp/kill-team-dead-silence-being-visible-is-old-hat-redefine-stealth-with-the-tau-empires-new-xv26-battlesuits</link>
@@ -268,16 +281,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01841---it's-a-wrap-up-video-for-spiel-2025---thumbnail-16x9-enbvwlwuuz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 1]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1j3w4jth/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-1</link>
-            <guid>1j3w4jth</guid>
-            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Four armies to rule them all.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-oct31-1-feature-tgdyyc3ocf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
