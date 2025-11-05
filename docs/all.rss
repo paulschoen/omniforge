@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Nov 2025 16:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 11:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut Skin Tones | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6e7galot/helsmiths-of-hashut-skin-tones-warhammer-age-of-sigmar</link>
+            <guid>6e7galot</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Helsmiths of Hashut have lots of awesome skin tones, some even closely resembling stone or rock! Seeing as they’re quite different to the skin tones that we normally see on miniatures, these might throw you off. But if that’s the case, not to worry! Ollie’s here to show you three different Helsmiths of Hashut skin tones, all achievable with just three paints.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-1762267135-hj8ztplmzz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helsmiths of Hashut burst into Warcry alongside a new Matched Play update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hcnpn7ys/helsmiths-of-hashut-burst-into-warcry-alongside-a-new-matched-play-update</link>
+            <guid>hcnpn7ys</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get back into the fray with new rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warcry">Warcry</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warcry_helsmiths-nov05-1-feature-xzbbdlxbft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Take the firefight into the depths of a tomb world with the new Kill Team Organised Play pack]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iniok8zq/take-the-firefight-into-the-depths-of-a-tomb-world-with-the-new-kill-team-organised-play-pack</link>
@@ -255,28 +279,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_nostalgia-oct28-1-feature-llrxcelxme.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What to expect at the World Championships of Warhammer, with the current Age of Sigmar Champion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pr1ypyhs/what-to-expect-at-the-world-championships-of-warhammer-with-the-current-age-of-sigmar-champion</link>
-            <guid>pr1ypyhs</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We sit down for a chat with reigning champion, Denmark’s Casper Torres Karlsmose]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_wcwaoswinner-oct29-1-feature-e5ktz1h53c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV – We go behind the scenes on Total War: Warhammer III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dtmuahih/warhammer-tv-we-go-behind-the-scenes-on-total-war-warhammer-iii</link>
-            <guid>dtmuahih</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three new shows to watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-oct29-1-feature-0uf4d3zloc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
