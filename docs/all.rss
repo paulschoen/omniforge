@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Nov 2025 12:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 14:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -32,6 +32,22 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_zonemortalis-nov06-1-feature-qjgbimtong.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships of Warhammer 2025 LIVE: Latest updates from Atlanta]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iqx6h6mp/world-championships-of-warhammer-live-latest-updates-from-atlanta</link>
+            <guid>iqx6h6mp</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Live coverage from the Warhammer 40,000, Warhammer Age of Sigmar, Kill Team, and Warhammer Underworlds tournaments.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wcwliveblog-nov06-1-feature-smhleclth9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The World Championships of Warhammer – according to its Warhammer 40,000 champion]]></title>
@@ -271,17 +287,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_joelsteams-oct31-1-feature-s7lbzuva3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Download Star Player rules in preparation for the new edition of Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/toadzzpx/download-star-player-rules-in-preparation-for-the-new-edition-of-blood-bowl</link>
-            <guid>toadzzpx</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[All your favourites available for free.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_starplayers-oct30-1-feature-4flm0gkmvn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
