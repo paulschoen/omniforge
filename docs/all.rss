@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Nov 2025 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 11:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Zone Mortalis rules – Fight furious close-range skirmishes in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tipr5oxt/zone-mortalis-rules-fight-furious-close-range-skirmishes-in-the-age-of-darkness</link>
+            <guid>tipr5oxt</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight in tunnels, voidcraft, and ruined cities.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_zonemortalis-nov06-1-feature-qjgbimtong.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The World Championships of Warhammer – according to its Warhammer 40,000 champion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/opdca05v/the-world-championships-of-warhammer-according-to-its-warhammer-40000-champion</link>
@@ -269,18 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art5_orks-oct31-1-feature-rqutskxsy3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon at SPIEL 2025 | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/g1rb2sew/golden-demon-at-spiel-2025-warhammer</link>
-            <guid>g1rb2sew</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We had an absolute blast at SPIEL and were blown away by the superb entries submitted for the Golden Demon painting competition.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01841---it's-a-wrap-up-video-for-spiel-2025---thumbnail-16x9-enbvwlwuuz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
