@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Nov 2025 14:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 15:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Total War: Warhammer III – Tides of Torment coming December 4th | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fwqqt33j/total-war-warhammer-iii-tides-of-torment-coming-december-4th-warhammer</link>
+            <guid>fwqqt33j</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Tides of Torment expansion for Total War: Warhammer III arrives on 4 December, bringing with it new Legendary Lords, and more.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/twwh3_tot_thumbnail-social_16x9_6.11-d1dcta2b6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Master manipulation, excess, and the mighty oceans in a new content pack for Total War: Warhammer III]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ufakayfv/master-manipulation-excess-and-the-mighty-oceans-in-a-new-content-pack-for-total-war-warhammer-iii</link>
+            <guid>ufakayfv</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tides of Torment is coming soon.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/twwh3-tidesoftormenttrailer-oct07-1-feature-vjjgasdnhp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stealth and storms: Kill Team experts talk about key rules in Dead Silence]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mq6myfhy/stealth-and-storms-kill-team-experts-talk-about-key-rules-in-dead-silence</link>
@@ -265,28 +286,6 @@
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-oct30-1-feature-lplrypr4ji.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check out this Halloween Blood Bowl stadium]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6zkgenii/check-out-this-halloween-blood-bowl-stadium</link>
-            <guid>6zkgenii</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A step by step on building a whole stadium.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_halloweenstadium-oct31-1-feature-q1r9pnhcvb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bretonnian and Tomb King Teams painted by one of Warhammer Community’s own]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ryetbgg6/bretonnian-and-tomb-king-teams-painted-by-one-of-warhammer-communitys-own</link>
-            <guid>ryetbgg6</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Joel isn’t painting Raven Guard this time!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_joelsteams-oct31-1-feature-s7lbzuva3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
