@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Nov 2025 11:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 12:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Stealth and storms: Kill Team experts talk about key rules in Dead Silence]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mq6myfhy/stealth-and-storms-kill-team-experts-talk-about-key-rules-in-dead-silence</link>
+            <guid>mq6myfhy</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a brief overview on the two new kill teams.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencerules-nov06-1-feature-btqzjjpvh1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zone Mortalis rules – Fight furious close-range skirmishes in the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tipr5oxt/zone-mortalis-rules-fight-furious-close-range-skirmishes-in-the-age-of-darkness</link>
@@ -269,17 +282,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_starplayers-oct30-1-feature-4flm0gkmvn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Orks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mfyhkfkb/warhammer-art-through-the-years-orks</link>
-            <guid>mfyhkfkb</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The biggest, greenest art around. Waaagh!]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art5_orks-oct31-1-feature-rqutskxsy3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
