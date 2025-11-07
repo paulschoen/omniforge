@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Nov 2025 13:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 14:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Check out these stunning stealthy kill teams painted by the wider Warhammer Community]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ikdok73p/check-out-these-stunning-stealthy-kill-teams-painted-by-the-wider-warhammer-community</link>
+            <guid>ikdok73p</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy this gallery of awesome miniatures.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_deadsilence-nov07-1-feature-mdvpaa5s2n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Thousand Sons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4c9kkhiv/warhammer-art-through-the-years-thousand-sons</link>
@@ -19,6 +30,18 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art6_thousandsons-nov7-1-feature-x5uxkbxzik.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Grand Narrative LIVE – Follow along as we go Into The Webway]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iknt4i0d/warhammer-40000-grand-narrative-live-follow-along-as-we-go-into-the-webway</link>
+            <guid>iknt4i0d</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hundreds have gathered here in Atlanta to take part in the narrative event of the year.]]></description>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gnliveblog-nov06-1-feature-lj2nqikl1h.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Total War: Warhammer III – Tides of Torment coming December 4th | Warhammer]]></title>
@@ -80,6 +103,20 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wcwliveblog-nov06-1-feature-smhleclth9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships of Warhammer 2025 live results table]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/babbpml8/world-championships-of-warhammer-2025-live-results-table</link>
+            <guid>babbpml8</guid>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wcwresults-nov21-1-feature-z1xocgjm72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The World Championships of Warhammer – according to its Warhammer 40,000 champion]]></title>
@@ -248,44 +285,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-oct30-1-feature-uyjaip8vzt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 518 – Discover 50 Years of Games Workshop History]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s4oxwarh/white-dwarf-518-discover-50-years-of-games-workshop-history</link>
-            <guid>s4oxwarh</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what is in November’s issue.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd518-nov03-1-feature-zz2szzzddq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Fight in Dead Silence and don’t wake the Necrons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dtvkowlq/sunday-preview-fight-in-dead-silence-and-dont-wake-the-necrons</link>
-            <guid>dtvkowlq</guid>
-            <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-aug24-1-feature-igkeezam4g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Play ball in a new Season of Blood Bowl]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/glgpuoah/saturday-pre-orders-play-ball-in-a-new-season-of-blood-bowl</link>
-            <guid>glgpuoah</guid>
-            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-nov1-1-feature-ebpyftbcnq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
