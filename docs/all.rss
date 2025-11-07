@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Nov 2025 15:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 13:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Thousand Sons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4c9kkhiv/warhammer-art-through-the-years-thousand-sons</link>
+            <guid>4c9kkhiv</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold the twisting powers of change.]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art6_thousandsons-nov7-1-feature-x5uxkbxzik.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Total War: Warhammer III – Tides of Torment coming December 4th | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fwqqt33j/total-war-warhammer-iii-tides-of-torment-coming-december-4th-warhammer</link>
@@ -275,17 +286,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-nov1-1-feature-ebpyftbcnq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gear up for the World Championships of Warhammer, and check out Warhammer World events in February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ecaaf0hm/gear-up-for-the-world-championships-of-warhammer-and-check-out-warhammer-world-events-in-february</link>
-            <guid>ecaaf0hm</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us for a host of fun events.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-oct30-1-feature-lplrypr4ji.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
