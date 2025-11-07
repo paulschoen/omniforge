@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 06 Nov 2025 16:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 21:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[What's Winning for the Space Marines? Six Competitive Army Lists]]></title>
+            <link>https://www.youtube.com/watch?v=pNYL1u56KTo</link>
+            <guid>yt:video:pNYL1u56KTo</guid>
+            <pubDate>Thu, 06 Nov 2025 15:45:03 GMT</pubDate>
+            <description><![CDATA[The video discusses the competitive performance of Space Marines in tournaments, highlighting their 48% win rate, the success of the Raven Guard and Ultramarines, the diversification of army builds, and the strategic advantages provided by specific characters and featured army lists.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Space Marines Army Lists - Tactical Insights</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Current Space Marine Performance:</strong> Space Marines are performing well with an average win rate of 48% in grand tournaments, showing their competitive edge.</li>
+    <li>💪 <strong>Top Performing Chapters:</strong> Notable success from Raven Guard and Ultramarines, with Raven Guard Shadow M Talon achieving win rates in the high 50s.</li>
+    <li>📈 <strong>Diverse Army Builds:</strong> Recent updates have diversified unit choices beyond traditional Ultramarine builds, enhancing tactical options.</li>
+    <li>🛡️ <strong>Featured Lists:</strong> The video showcases several successful army lists including Salamanders' Firestorm Assault Force and White Scars' Spearpoint Task Force.</li>
+    <li>🔧 <strong>Unit Synergies:</strong> Specific characters like Vulcan Hestan and Adrax Agatone enhance the effectiveness of units, driving strategic advantages in battle.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Win Rate:</strong> Space Marines have an average win rate of <strong>48%</strong> among tournament players.</li>
+    <li>🏆 <strong>Top Performance:</strong> The Raven Guard's Shadow M Talon has win rates in the high <strong>50s</strong>.</li>
+    <li>🎲 <strong>Tournament Success:</strong> Recent lists have achieved <strong>6-0</strong> and <strong>5-0</strong> records in tournaments, indicating strong competitive potential.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How do different chapter traits influence the overall strategy of a Space Marine army?</strong></li>
+    <li>🔍 <strong>What role do specific characters play in enhancing unit effectiveness in competitive play?</strong></li>
+    <li>🧐 <strong>How can the diversity of army builds affect the meta landscape in Warhammer 40k?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[The Armies that 40K Collectors ACTUALLY Want to See Get a Release Wave - By Your Vote!]]></title>
             <link>https://www.youtube.com/watch?v=4WvSIfLvJIQ</link>
@@ -14862,37 +14895,40 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[What's Winning for the Space Marines? Six Competitive Army Lists]]></title>
-            <link>https://www.youtube.com/watch?v=pNYL1u56KTo</link>
-            <guid>yt:video:pNYL1u56KTo</guid>
-            <pubDate>Thu, 06 Nov 2025 15:45:03 GMT</pubDate>
-            <description><![CDATA[The video discusses the competitive performance of Space Marines in tournaments, highlighting their 48% win rate, the success of the Raven Guard and Ultramarines, the diversification of army builds, and the strategic advantages provided by specific characters and featured army lists.]]></description>
+            <title><![CDATA[Every Primarch in Warhammer - Current Status in Warhammer 40K and Chance to Return?]]></title>
+            <link>https://www.youtube.com/watch?v=fCUSOqBbo9k</link>
+            <guid>yt:video:fCUSOqBbo9k</guid>
+            <pubDate>Fri, 07 Nov 2025 18:31:01 GMT</pubDate>
+            <description><![CDATA[The video summarizes the current status of the Warhammer 40k Primarchs, noting that five are active, several are missing or presumed dead, and others are involved in various capacities within the Imperium and beyond.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Space Marines Army Lists - Tactical Insights</h2>
+<h2>📢 Summary of Warhammer 40k Primarchs and Their Current Status</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Current Space Marine Performance:</strong> Space Marines are performing well with an average win rate of 48% in grand tournaments, showing their competitive edge.</li>
-    <li>💪 <strong>Top Performing Chapters:</strong> Notable success from Raven Guard and Ultramarines, with Raven Guard Shadow M Talon achieving win rates in the high 50s.</li>
-    <li>📈 <strong>Diverse Army Builds:</strong> Recent updates have diversified unit choices beyond traditional Ultramarine builds, enhancing tactical options.</li>
-    <li>🛡️ <strong>Featured Lists:</strong> The video showcases several successful army lists including Salamanders' Firestorm Assault Force and White Scars' Spearpoint Task Force.</li>
-    <li>🔧 <strong>Unit Synergies:</strong> Specific characters like Vulcan Hestan and Adrax Agatone enhance the effectiveness of units, driving strategic advantages in battle.</li>
+    <li>🔥 <strong>Dark Angels - Lionel Johnson:</strong> Recently returned from stasis, leading the Dark Angels in the current setting after a long absence.</li>
+    <li>🔥 <strong>Emperor's Children - Fulgrim:</strong> A twisted demon primarch, recently active but not leading significant campaigns. Currently under scrutiny for his performance.</li>
+    <li>🔥 <strong>Iron Warriors - Perturabo:</strong> Present but largely inactive, collaborating with Bashto on various projects.</li>
+    <li>🔥 <strong>White Scars - Jagatai Khan:</strong> Missing after an encounter with Dark Eldar; his fate remains uncertain.</li>
+    <li>🔥 <strong>Space Wolves - Leman Russ:</strong> Missing, possibly searching for the Tree of Life; fans anticipate his return.</li>
+    <li>🔥 <strong>Imperial Fists - Rogal Dorn:</strong> Presumed dead but may be alive; last known to be fighting against Chaos forces.</li>
+    <li>🔥 <strong>Night Lords - Conrad Kurze:</strong> Confirmed dead, executed by an assassin.</li>
+    <li>🔥 <strong>Blood Angels - Sanguinius:</strong> Slain during the Siege of Terra; his return seems unlikely due to narrative significance.</li>
+    <li>🔥 <strong>Iron Hands - Ferrus Manus:</strong> Confirmed dead; his death marked a significant early event in the Horus Heresy.</li>
+    <li>🔥 <strong>World Eaters - Angron:</strong> Active in the current setting, known for his brutal tactics and powerful presence.</li>
+    <li>🔥 <strong>Ultramarines - Roboute Guilliman:</strong> A key leader in the Imperium, actively involved in various campaigns.</li>
+    <li>🔥 <strong>Death Guard - Mortarion:</strong> Active, with significant recent conflicts against Ultramar and other factions.</li>
+    <li>🔥 <strong>Thousand Sons - Magnus the Red:</strong> Active and powerful in psychic warfare, but faced setbacks against Ultramarines.</li>
+    <li>🔥 <strong>Sons of Horus - Horus the Warmaster:</strong> Confirmed dead; pivotal role in the Heresy.</li>
+    <li>🔥 <strong>Word Bearers - Lorgar:</strong> Active as a demon primarch, leading forces in the Imperium Nilus.</li>
+    <li>🔥 <strong>Salamanders - Vulkan:</strong> Missing, believed to be in hiding or exile, his return is highly anticipated.</li>
+    <li>🔥 <strong>Raven Guard - Corvus Corax:</strong> Last seen seeking vengeance against traitors; his current status is uncertain.</li>
+    <li>🔥 <strong>Alpha Legion - Alpharius and Omegon:</strong> Both presumed dead, but their secretive nature leaves room for potential returns.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Win Rate:</strong> Space Marines have an average win rate of <strong>48%</strong> among tournament players.</li>
-    <li>🏆 <strong>Top Performance:</strong> The Raven Guard's Shadow M Talon has win rates in the high <strong>50s</strong>.</li>
-    <li>🎲 <strong>Tournament Success:</strong> Recent lists have achieved <strong>6-0</strong> and <strong>5-0</strong> records in tournaments, indicating strong competitive potential.</li>
-</ul>
-
-<h3>❓ Questions to Consider</h3>
-<ul>
-    <li>🤔 <strong>How do different chapter traits influence the overall strategy of a Space Marine army?</strong></li>
-    <li>🔍 <strong>What role do specific characters play in enhancing unit effectiveness in competitive play?</strong></li>
-    <li>🧐 <strong>How can the diversity of army builds affect the meta landscape in Warhammer 40k?</strong></li>
-</ul>
-]]></content:encoded>
+    <li>⚔️ <strong>Primarchs Active in Warhammer 40k:</strong> 5 (Lionel Johnson, Fulgrim, Angron, Roboute Guilliman, Mortarion).</li>
+    <li>💀 <strong>Primarchs Confirmed Dead:</strong> ]]></content:encoded>
         </item>
     </channel>
 </rss>
