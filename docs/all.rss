@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Nov 2025 14:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 00:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[World Championships Warhammer Preview Live! 2025 – See all of the reveals]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kc6piaf3/world-championships-warhammer-preview-live-2025-see-all-of-the-reveals</link>
+            <guid>kc6piaf3</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything announced at the latest Preview event.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature-00-op1dz6loyf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Check out these stunning stealthy kill teams painted by the wider Warhammer Community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ikdok73p/check-out-these-stunning-stealthy-kill-teams-painted-by-the-wider-warhammer-community</link>
@@ -274,17 +285,6 @@
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-jzxkwoyqtu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pledge yourself to Hashut for a free miniature, and snag a Red Gobbo Coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/31gjh1fb/pledge-yourself-to-hashut-for-a-free-miniature-and-snag-a-red-gobbo-coin</link>
-            <guid>31gjh1fb</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your free miniature and coin this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-oct30-1-feature-uyjaip8vzt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
