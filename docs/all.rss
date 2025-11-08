@@ -4,11 +4,217 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 08 Nov 2025 00:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 03:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: 500 Worlds Announced | World Championships Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ry6iksgm/warhammer-40000-500-worlds-announced-world-championships-warhammer-preview-live-2025</link>
+            <guid>ry6iksgm</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Demetrian Titus: officer, leader, strategist. Once again Captain of the Ultramarines Second Company, Titus faces a new mission with impossible odds – but he's not alone!]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01770_500-worlds_thumbnail_16x9-3nvgythh6r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Armies of Grand Cathay Grow | World Championships Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ssfevxtk/the-armies-of-grand-cathay-grow-world-championships-warhammer-preview-live-2025</link>
+            <guid>ssfevxtk</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Defenders of the Great Bastion arrive to reinforce the armies of Grand Cathay amid a storm of magic and artillery fire – revealed at World Championships Warhammer Preview Live! 2025.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01773_thumbnail-loqwlxvvj7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Upcoming Warhammer TV Animated Show Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6t03brys/v01863-wh-november-preview-reel-1</link>
+            <guid>6t03brys</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow for more Warhammer, more often]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh--sizzle---2---thumbnail-16x9-2l9sctu2gg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Maggotkin of Nurgle Announced | World Championships Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wbzaahuw/maggotkin-of-nurgle-announced-world-championships-warhammer-preview-live-2025</link>
+            <guid>wbzaahuw</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Festus the Leechlord leads a parade of pustulent Maggotkin of Nurgle. Gaze in wonder at their corpulent forms.]]></description>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01772---aos-maggotkin---thumbnail---v2-d9wggwi6wo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Quest: Darkwater Revealed | World Championships Warhammer Preview Live! 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qyrsl9jp/warhammer-quest-darkwater-revealed-world-championships-warhammer-preview-live-2025</link>
+            <guid>qyrsl9jp</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gather your companions and quest together as you fight grim battles in the ruins of the Mortal Realms. Banish Nurgle's rot from the Jade Abbey with an innovative map book, cooperative gameplay for one to four players, and a replayable campaign mode.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01774-wh-quest-darkwater-reveal---thumbnail---v3-gwebfr5gxr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Captain Titus battles Nekrosor Ammentar for the Five Hundred Worlds of Ultramar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fm2tm39s/world-championships-preview-captain-titus-battles-nekrosor-ammentar-for-the-five-hundred-worlds-of-ultramar</link>
+            <guid>fm2tm39s</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The legendary hero returns.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature11-w5u9lnofbi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – New champions get stuck into close-range brawls in Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pinglgrx/world-championships-preview-new-champions-get-stuck-into-close-range-brawls-in-warhammer-40000</link>
+            <guid>pinglgrx</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New characters incoming for the Leagues of Votann, T’au Empire, and Tyranids.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature10-74g6qluicl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Ozostium Aranthus seizes the throne of Hive Primus1]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o1rgb5xp/world-championships-preview-ozostium-aranthus-seizes-the-throne-of-hive-primus</link>
+            <guid>o1rgb5xp</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Aranthian Succession reaches its conclusion.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature09-ejqymbldll.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Defend the Great Bastion with Peasants, Astromancers, and really loud guns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/04ptonsp/world-championships-preview-defend-the-great-bastion-with-peasants-astromancers-and-really-loud-guns</link>
+            <guid>04ptonsp</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The armies of Grand Cathay expand.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature08-8g6p5v9ndq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Experience the greatest hits of the Horus Heresy Saga in a new curated series]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/17oswfuf/world-championships-preview-experience-the-greatest-hits-of-the-horus-heresy-saga-in-a-new-curated-series</link>
+            <guid>17oswfuf</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The journey to the Siege of Terra in just 12 books.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature07-bxuzvlkrtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Rule the Legions Imperialis battlefield with super-heavy tanks and Saturnine Terminators]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/539rbxut/world-championships-preview-rule-the-legions-imperialis-battlefield-with-super-heavy-tanks-and-saturnine-terminators</link>
+            <guid>539rbxut</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heavy Space Marines tear up the Horus Heresy.]]></description>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-06-uj8vzviqlp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Skitarii Battle-Pilgryms pursue treasured technology for the Mechanicum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cwq62g00/world-championships-preview-skitarii-battle-pilgryms-pursue-treasured-technology-for-the-mechanicum</link>
+            <guid>cwq62g00</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Mechanicum units for Warhammer: The Horus Heresy.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature05-tt6z8tjtff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Become a master of siege warfare with new Cataphractii Terminators and Breacher Squads]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gha4mv93/world-championships-preview-become-a-master-of-siege-warfare-with-new-cataphractii-terminators-and-breacher-squads</link>
+            <guid>gha4mv93</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A solid wall of ceramite approaches.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature04-i3cp5mtkw6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Warhammer animation trailer just dropped]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x5el2fkg/new-warhammer-animation-trailer-just-dropped</link>
+            <guid>x5el2fkg</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adepta Sororitas, Aeldari, Chaos, and more coming to your screens soon.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature03-b9zauvu1pw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Embrace a noxious mountain of gifts for the Maggotkin of Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l7slnanx/world-championships-preview-embrace-a-noxious-mountain-of-gifts-for-the-maggotkin-of-nurgle</link>
+            <guid>l7slnanx</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring rot and ruin to the realms.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature02-bd2usbiln5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Championships Preview – Team up with your pals and defend the Everspring in Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater</link>
+            <guid>ntxnwkvq</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[High adventure in the dank ruins of the Jade Abbey.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature01-v0ckwu72m4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[World Championships Warhammer Preview Live! 2025 – See all of the reveals]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kc6piaf3/world-championships-warhammer-preview-live-2025-see-all-of-the-reveals</link>
@@ -98,193 +304,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_zonemortalis-nov06-1-feature-qjgbimtong.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships of Warhammer 2025 LIVE: Latest updates from Atlanta]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iqx6h6mp/world-championships-of-warhammer-live-latest-updates-from-atlanta</link>
-            <guid>iqx6h6mp</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Live coverage from the Warhammer 40,000, Warhammer Age of Sigmar, Kill Team, and Warhammer Underworlds tournaments.]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wcwliveblog-nov06-1-feature-smhleclth9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships of Warhammer 2025 live results table]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/babbpml8/world-championships-of-warhammer-2025-live-results-table</link>
-            <guid>babbpml8</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wcwresults-nov21-1-feature-z1xocgjm72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Championships of Warhammer – according to its Warhammer 40,000 champion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/opdca05v/the-world-championships-of-warhammer-according-to-its-warhammer-40000-champion</link>
-            <guid>opdca05v</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What is it like to attend the World Championships?]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="events">Events</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/worldchamps40kwinner-nov5-1-feature-ngcm3yyngc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Dead Silence – Being visible is old hat, redefine stealth with the T’au Empire’s new XV26 battlesuits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tbox77lp/kill-team-dead-silence-being-visible-is-old-hat-redefine-stealth-with-the-tau-empires-new-xv26-battlesuits</link>
-            <guid>tbox77lp</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The T’au Empire’s latest advances come to Kill Team.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencetau-nov05-1-feature-wxvxiybobg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check out a free excerpt from The Art of Warhammer Video Games alongside this week’s Warhammer TV shows]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g0deqvnr/check-out-a-free-excerpt-from-the-art-of-warhammer-video-games-alongside-this-weeks-warhammer-tv-shows</link>
-            <guid>g0deqvnr</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s everything you can watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-nov5-1-feature-tx05mbhzzz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Talisman Day with birthday news, reveals and promotions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rp9haszr/celebrate-talisman-day-with-birthday-news-reveals-and-promotions</link>
-            <guid>rp9haszr</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s loads of new Officially Licensed news on Talisman on its anniversary!]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/talisman-day-2025-warcom-imagessystem_name-date00-1-feature-gysbdxucml.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut Skin Tones | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6e7galot/helsmiths-of-hashut-skin-tones-warhammer-age-of-sigmar</link>
-            <guid>6e7galot</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Helsmiths of Hashut have lots of awesome skin tones, some even closely resembling stone or rock! Seeing as they’re quite different to the skin tones that we normally see on miniatures, these might throw you off. But if that’s the case, not to worry! Ollie’s here to show you three different Helsmiths of Hashut skin tones, all achievable with just three paints.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-1762267135-hj8ztplmzz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helsmiths of Hashut burst into Warcry alongside a new Matched Play update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hcnpn7ys/helsmiths-of-hashut-burst-into-warcry-alongside-a-new-matched-play-update</link>
-            <guid>hcnpn7ys</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get back into the fray with new rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warcry">Warcry</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/warcry_helsmiths-nov05-1-feature-xzbbdlxbft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take the firefight into the depths of a tomb world with the new Kill Team Organised Play pack]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iniok8zq/take-the-firefight-into-the-depths-of-a-tomb-world-with-the-new-kill-team-organised-play-pack</link>
-            <guid>iniok8zq</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take part and pick up cool swag.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_organisedplay-nov04-1-feature-9vpdjvl9ph.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team: Dead Silence – Wolf Scouts command mystical storms to hunt their prey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9id9frjk/kill-team-dead-silence-wolf-scouts-command-mystical-storms-to-hunt-their-prey</link>
-            <guid>9id9frjk</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How do the sons of Fenris fight in Kill Team?]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencesw-nov04-1-feature-pv3aa8b9ld.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tear through hordes of Tyranids and Skaven in upcoming video game Warhammer Survivors]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dmvj6ri9/tear-through-hordes-of-tyranids-and-skaven-in-upcoming-video-game-warhammer-survivors</link>
-            <guid>dmvj6ri9</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Horde-clearing Warhammer action.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-hqsnatewdq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Survivors Announcement | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/iau4yqjs/warhammer-survivors-announcement-warhammer</link>
-            <guid>iau4yqjs</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Auroch Digital has announced Warhammer Survivors, a fast-paced rogue-like survivors game, launching in 2026.  Developed and published by Auroch Digital (Warhammer 40,000: Boltgun) in partnership with poncle (Vampire Survivors) and Warhammer, Warhammer Survivors takes the relentless and charming pixel-vomit gameplay and fuses it with the globally renowned grimdark of the Warhammer universes.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer-survivors---reveal-trailer---thumbnail---1920x1080-qkj7urcog3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 4th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yddsa7zh/the-rumour-engine-4th-of-november</link>
-            <guid>yddsa7zh</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov4-1-feature-xfwfvsjr8y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Championships of Warhammer Preview is coming – and you're invited]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/0cesnbgs/the-world-championships-of-warhammer-preview-is-coming-and-youre-invited</link>
-            <guid>0cesnbgs</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01769-preview-invite-world-championships-november-2025---thumbnail-v11-4yusb6pszl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join us later this week for the World Championships of Warhammer Preview Live! 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3ew2q4hq/join-us-later-this-week-for-the-world-championships-of-warhammer-preview-live-2025</link>
-            <guid>3ew2q4hq</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest reveal roundup is nearly here.]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/worldchamps_thisweek-nov3-1-feature-spiobcxaox.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inara Sion, the Cleansing Blade emerges in Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/duiizeuv/inara-sion-the-cleansing-blade-emerges-in-warhammer-quest-darkwater</link>
-            <guid>duiizeuv</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The fourth of our heroes revealed]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-jzxkwoyqtu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
