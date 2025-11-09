@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 08 Nov 2025 18:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 18:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Start new armies in a flash with bountiful Battleforce boxes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/igr8gyao/sunday-preview-start-new-armies-in-a-flash-with-bountiful-battleforce-boxes</link>
+            <guid>igr8gyao</guid>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov9-1-feature-d3fw2bujmg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-order – Scouts and Stealth suits sneak into Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8lkeojyq/saturday-pre-order-scouts-and-stealth-suits-sneak-into-kill-team</link>
@@ -115,7 +129,7 @@
             <enclosure url="https://assets.warhammer-community.com/1-feature10-74g6qluicl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Championships Preview – Ozostium Aranthus seizes the throne of Hive Primus1]]></title>
+            <title><![CDATA[World Championships Preview – Ozostium Aranthus seizes the throne of Hive Primus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o1rgb5xp/world-championships-preview-ozostium-aranthus-seizes-the-throne-of-hive-primus</link>
             <guid>o1rgb5xp</guid>
             <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
@@ -294,19 +308,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/twwh3-tidesoftormenttrailer-oct07-1-feature-vjjgasdnhp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stealth and storms: Kill Team experts talk about key rules in Dead Silence]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mq6myfhy/stealth-and-storms-kill-team-experts-talk-about-key-rules-in-dead-silence</link>
-            <guid>mq6myfhy</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a brief overview on the two new kill teams.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_deadsilencerules-nov06-1-feature-btqzjjpvh1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
