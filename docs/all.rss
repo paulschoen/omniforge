@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Nov 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 16:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Under the Christmas Tree]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qkk2mlx0/warhammer-under-the-christmas-tree</link>
+            <guid>qkk2mlx0</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Is that the sweet sound of Warhammer?]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01827-christmas-launch-2025_thumbnail_v3-qwec0e7h1o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Are you ready for an extremely Warhammer Christmas?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lezyhj6p/are-you-ready-for-an-extremely-warhammer-christmas</link>
+            <guid>lezyhj6p</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Start the countdown.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="spearhead">Spearhead</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-4aylxwt2xz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cough up the credits for a gaggle of Hangers-on including a vigilant new Hive Watcher]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vrmuv7xq/cough-up-the-credits-for-a-gaggle-of-hangers-on-including-a-vigilant-new-hive-watcher</link>
@@ -286,29 +309,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_deadsilence-nov07-1-feature-mdvpaa5s2n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Thousand Sons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4c9kkhiv/warhammer-art-through-the-years-thousand-sons</link>
-            <guid>4c9kkhiv</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the twisting powers of change.]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art6_thousandsons-nov7-1-feature-x5uxkbxzik.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Grand Narrative LIVE – Follow along as we go Into The Webway]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iknt4i0d/warhammer-40000-grand-narrative-live-follow-along-as-we-go-into-the-webway</link>
-            <guid>iknt4i0d</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hundreds have gathered here in Atlanta to take part in the narrative event of the year.]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gnliveblog-nov06-1-feature-lj2nqikl1h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
