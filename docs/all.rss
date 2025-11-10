@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Nov 2025 13:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cough up the credits for a gaggle of Hangers-on including a vigilant new Hive Watcher]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vrmuv7xq/cough-up-the-credits-for-a-gaggle-of-hangers-on-including-a-vigilant-new-hive-watcher</link>
+            <guid>vrmuv7xq</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[You don’t earn credits without spending credits.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec-hangersonreveal-nov10-1-feature-epdygg55a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – What is the Jade Abbey?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pm4r36ou/an-adventurers-guide-to-warhammer-quest-darkwater-what-is-the-jade-abbey</link>
@@ -298,16 +309,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gnliveblog-nov06-1-feature-lj2nqikl1h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: Warhammer III – Tides of Torment coming December 4th | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fwqqt33j/total-war-warhammer-iii-tides-of-torment-coming-december-4th-warhammer</link>
-            <guid>fwqqt33j</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Tides of Torment expansion for Total War: Warhammer III arrives on 4 December, bringing with it new Legendary Lords, and more.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/twwh3_tot_thumbnail-social_16x9_6.11-d1dcta2b6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
