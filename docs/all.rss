@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 09 Nov 2025 18:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 13:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – What is the Jade Abbey?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pm4r36ou/an-adventurers-guide-to-warhammer-quest-darkwater-what-is-the-jade-abbey</link>
+            <guid>pm4r36ou</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We pick over the setting of the new Warhammer Quest.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_setting-nov10-1-feature-tpdk8laavg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Start new armies in a flash with bountiful Battleforce boxes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/igr8gyao/sunday-preview-start-new-armies-in-a-flash-with-bountiful-battleforce-boxes</link>
@@ -297,17 +308,6 @@
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/twwh3_tot_thumbnail-social_16x9_6.11-d1dcta2b6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master manipulation, excess, and the mighty oceans in a new content pack for Total War: Warhammer III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ufakayfv/master-manipulation-excess-and-the-mighty-oceans-in-a-new-content-pack-for-total-war-warhammer-iii</link>
-            <guid>ufakayfv</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tides of Torment is coming soon.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/twwh3-tidesoftormenttrailer-oct07-1-feature-vjjgasdnhp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
