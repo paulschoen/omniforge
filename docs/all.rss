@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Nov 2025 15:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 16:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tune in for the Armies on Parade online ceremony later this week]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qh7lvejy/tune-in-for-the-armies-on-parade-online-ceremony-later-this-week</link>
+            <guid>qh7lvejy</guid>
+            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for a fantastic awards show.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aopawards_incoming-nov11-1-feature-8nr9z7vei2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds – How did Titus become Captain of the Second Company (again)?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2uwxtd2k/500-worlds-how-did-titus-become-captain-of-the-second-company-again</link>
@@ -296,19 +306,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature02-bd2usbiln5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Team up with your pals and defend the Everspring in Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater</link>
-            <guid>ntxnwkvq</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[High adventure in the dank ruins of the Jade Abbey.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature01-v0ckwu72m4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
