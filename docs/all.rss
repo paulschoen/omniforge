@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Nov 2025 16:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 13:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 11th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bti8k5tj/the-rumour-engine-11th-of-november</link>
+            <guid>bti8k5tj</guid>
+            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov11-1-feature-2v2lp7za0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Under the Christmas Tree]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qkk2mlx0/warhammer-under-the-christmas-tree</link>
@@ -298,17 +308,6 @@
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature-00-op1dz6loyf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check out these stunning stealthy kill teams painted by the wider Warhammer Community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ikdok73p/check-out-these-stunning-stealthy-kill-teams-painted-by-the-wider-warhammer-community</link>
-            <guid>ikdok73p</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy this gallery of awesome miniatures.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_deadsilence-nov07-1-feature-mdvpaa5s2n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
