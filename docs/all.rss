@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Nov 2025 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 21:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Remember this?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m5xrhsrw/remember-this</link>
+            <guid>m5xrhsrw</guid>
+            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Log in to your My Warhammer account to win!]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/50-year-giveaway-feat-yulvmulyaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tune in for the Armies on Parade online ceremony later this week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qh7lvejy/tune-in-for-the-armies-on-parade-online-ceremony-later-this-week</link>
@@ -292,20 +301,6 @@
             <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature03-b9zauvu1pw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Embrace a noxious mountain of gifts for the Maggotkin of Nurgle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l7slnanx/world-championships-preview-embrace-a-noxious-mountain-of-gifts-for-the-maggotkin-of-nurgle</link>
-            <guid>l7slnanx</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring rot and ruin to the realms.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature02-bd2usbiln5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
