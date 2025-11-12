@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Nov 2025 14:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 15:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Boltgun 2 – Voice acting a Battle Sister with Alanah Pearce]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/znbfzmcs/warhammer-40000-boltgun-2-voice-acting-a-battle-sister-with-alanah-pearce</link>
+            <guid>znbfzmcs</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We interview the voice of Nyra Veyrath.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/boltgun2_interview-nov12-1-feature1-ahryuhku6x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2025 – SPIEL Essen finalists (part one)]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j6eulvoe/golden-demon-2025-spiel-essen-finalists-part-one</link>
@@ -38,6 +51,17 @@
             <description><![CDATA[Log in to your My Warhammer account to win!]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/50-year-giveaway-feat-yulvmulyaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winners Interviews from the World Championships of Warhammer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4epxgyte/winners-interviews-from-the-world-championships-of-warhammer-warhammer</link>
+            <guid>4epxgyte</guid>
+            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what it's like to win, and what it takes to get there, through these interviews with the victors at the recent World Championships of Warhammer.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01843-wcw-wrap-up-ucrewgyhns.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tune in for the Armies on Parade online ceremony later this week]]></title>
@@ -272,31 +296,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature07-bxuzvlkrtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Rule the Legions Imperialis battlefield with super-heavy tanks and Saturnine Terminators]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/539rbxut/world-championships-preview-rule-the-legions-imperialis-battlefield-with-super-heavy-tanks-and-saturnine-terminators</link>
-            <guid>539rbxut</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heavy Space Marines tear up the Horus Heresy.]]></description>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-06-uj8vzviqlp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Skitarii Battle-Pilgryms pursue treasured technology for the Mechanicum]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cwq62g00/world-championships-preview-skitarii-battle-pilgryms-pursue-treasured-technology-for-the-mechanicum</link>
-            <guid>cwq62g00</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Mechanicum units for Warhammer: The Horus Heresy.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature05-tt6z8tjtff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
