@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Nov 2025 15:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 16:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Writing Master of Rites – Black Library Author Interview | Black Library]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/sxeq8aig/writing-master-of-rites-black-library-author-interview-black-library</link>
+            <guid>sxeq8aig</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out more about Ferren Areios, the Ultramarines' 6th Company Captain and Master of Rites, in this Black Library author interview.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01668_bl-rob-young_master-of-rites_thumbnail_v2-dx0kdtyswb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn more about the upcoming novel Master of Rites in this video interview with the author.]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nxdpspjc/learn-more-about-the-upcoming-novel-master-of-rites-in-this-video-interview-with-the-author</link>
+            <guid>nxdpspjc</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Putting the Master of Rites through hell.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_masterofrites-nov12-1-feature-tdcaeu6yqm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Boltgun 2 – Voice acting a Battle Sister with Alanah Pearce]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/znbfzmcs/warhammer-40000-boltgun-2-voice-acting-a-battle-sister-with-alanah-pearce</link>
@@ -51,17 +73,6 @@
             <description><![CDATA[Log in to your My Warhammer account to win!]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/50-year-giveaway-feat-yulvmulyaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winners Interviews from the World Championships of Warhammer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4epxgyte/winners-interviews-from-the-world-championships-of-warhammer-warhammer</link>
-            <guid>4epxgyte</guid>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what it's like to win, and what it takes to get there, through these interviews with the victors at the recent World Championships of Warhammer.]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="interviews">Interviews</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01843-wcw-wrap-up-ucrewgyhns.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tune in for the Armies on Parade online ceremony later this week]]></title>
@@ -284,18 +295,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature08-8g6p5v9ndq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Experience the greatest hits of the Horus Heresy Saga in a new curated series]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/17oswfuf/world-championships-preview-experience-the-greatest-hits-of-the-horus-heresy-saga-in-a-new-curated-series</link>
-            <guid>17oswfuf</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The journey to the Siege of Terra in just 12 books.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature07-bxuzvlkrtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
