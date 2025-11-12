@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Nov 2025 21:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 13:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sign up to Warhammer+ for a chance to win DK Warhammer books and watch three new shows]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5oykpokk/sign-up-to-warhammer-for-a-chance-to-win-dk-warhammer-books-and-watch-three-new-shows</link>
+            <guid>5oykpokk</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s on offer this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-nov12-1-feature-uemuhldkvm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Remember this?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m5xrhsrw/remember-this</link>
@@ -289,18 +299,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature04-i3cp5mtkw6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Warhammer animation trailer just dropped]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x5el2fkg/new-warhammer-animation-trailer-just-dropped</link>
-            <guid>x5el2fkg</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Adepta Sororitas, Aeldari, Chaos, and more coming to your screens soon.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature03-b9zauvu1pw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
