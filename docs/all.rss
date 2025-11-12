@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Nov 2025 13:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 14:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2025 – SPIEL Essen finalists (part one)]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j6eulvoe/golden-demon-2025-spiel-essen-finalists-part-one</link>
+            <guid>j6eulvoe</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our first round of finalists.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-nov12-1-feature-afh6zdrwov.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sign up to Warhammer+ for a chance to win DK Warhammer books and watch three new shows]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5oykpokk/sign-up-to-warhammer-for-a-chance-to-win-dk-warhammer-books-and-watch-three-new-shows</link>
@@ -286,19 +297,6 @@
             <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature05-tt6z8tjtff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Become a master of siege warfare with new Cataphractii Terminators and Breacher Squads]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gha4mv93/world-championships-preview-become-a-master-of-siege-warfare-with-new-cataphractii-terminators-and-breacher-squads</link>
-            <guid>gha4mv93</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A solid wall of ceramite approaches.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature04-i3cp5mtkw6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
