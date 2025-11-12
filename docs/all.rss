@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Nov 2025 16:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 17:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Winners Interviews from the World Championships of Warhammer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4epxgyte/winners-interviews-from-the-world-championships-of-warhammer-warhammer</link>
+            <guid>4epxgyte</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what it's like to win, and what it takes to get there, through these interviews with the victors at the recent World Championships of Warhammer.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01843-wcw-wrap-up-ucrewgyhns.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The new World Champions look back on the World Championships of Warhammer 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pc7zx1lx/the-new-world-champions-look-back-on-the-world-championships-of-warhammer-2025</link>
+            <guid>pc7zx1lx</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Words from the winners]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wcw_lookback-nov12-1-feature-ernjmdye5y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Writing Master of Rites – Black Library Author Interview | Black Library]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/sxeq8aig/writing-master-of-rites-black-library-author-interview-black-library</link>
@@ -269,32 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature10-74g6qluicl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Ozostium Aranthus seizes the throne of Hive Primus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o1rgb5xp/world-championships-preview-ozostium-aranthus-seizes-the-throne-of-hive-primus</link>
-            <guid>o1rgb5xp</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Aranthian Succession reaches its conclusion.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature09-ejqymbldll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – Defend the Great Bastion with Peasants, Astromancers, and really loud guns]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/04ptonsp/world-championships-preview-defend-the-great-bastion-with-peasants-astromancers-and-really-loud-guns</link>
-            <guid>04ptonsp</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The armies of Grand Cathay expand.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature08-8g6p5v9ndq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
