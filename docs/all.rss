@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Nov 2025 14:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 21:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies on Parade 2025 – Discover the winners]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bgnffhic/armies-on-parade-2025-discover-the-winners</link>
+            <guid>bgnffhic</guid>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the awards today.]]></description>
+            <category domain="armies-on-parade">Armies on Parade</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aopawards2025-nov13-1-feature_update-ammjbl9nba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 tactica – Analysing your army lists]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kgaibzwo/warhammer-40000-tactica-analysing-your-army-lists</link>
@@ -271,19 +281,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01772---aos-maggotkin---thumbnail---v2-d9wggwi6wo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Quest: Darkwater Revealed | World Championships Warhammer Preview Live! 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qyrsl9jp/warhammer-quest-darkwater-revealed-world-championships-warhammer-preview-live-2025</link>
-            <guid>qyrsl9jp</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gather your companions and quest together as you fight grim battles in the ruins of the Mortal Realms. Banish Nurgle's rot from the Jade Abbey with an innovative map book, cooperative gameplay for one to four players, and a replayable campaign mode.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01774-wh-quest-darkwater-reveal---thumbnail---v3-gwebfr5gxr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

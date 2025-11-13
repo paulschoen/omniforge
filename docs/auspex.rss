@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Wed, 12 Nov 2025 17:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 21:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[Big Warhammer 40K Rules Update - New Ultramarines Army, New Datasheets and More!]]></title>
+            <link>https://www.youtube.com/watch?v=_B8d5EUc3cg</link>
+            <guid>yt:video:_B8d5EUc3cg</guid>
+            <pubDate>Wed, 12 Nov 2025 16:30:34 GMT</pubDate>
+            <description><![CDATA[The video summarizes updates to Warhammer 40k rules, highlighting new data sheets and points for Ultramarines, Space Wolves, and Tau, the introduction of the Gladius Task Force for Ultramarines, rules corrections, and the addition of the competitive Victory Honor Guard unit.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Warhammer 40k Rules Update Summary</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+  <li>🔥 <strong>New Data Sheets:</strong> Full data sheets and points costs released for Ultramarines, Space Wolves, and Tau.</li>
+  <li>🔄 <strong>Ultramarines Detachment:</strong> Introduction of a new Gladius Task Force with enhanced combat doctrines.</li>
+  <li>⚔️ <strong>Combat Patrol Rule Set:</strong> Featuring Chief Librarian Targaryius for Ultramarines.</li>
+  <li>🛠️ <strong>Rules Corrections:</strong> Minor adjustments to keywords and abilities for various units.</li>
+  <li>📦 <strong>New Units:</strong> Victory Honor Guard introduced, showing strong potential for competitive play.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+  <li>📈 <strong>Points Cost:</strong> Victory Honor Guard costs 130 points for 3 models or 210 points for 6 models.</li>
+  <li>📊 <strong>Strength and Attacks:</strong> Honor Guard can potentially execute 37 attacks at strength 6, AP2, and damage 2.</li>
+  <li>🔢 <strong>Ultramarines Detachment Options:</strong> Up to 3 turns of advance and charge or advance and shoot with mastered doctrines when using Manus Kalgar.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+  <li>🤔 <strong>Question 1:</strong> How will the new Ultramarines units affect the current meta in competitive play?</li>
+  <li>🤔 <strong>Question 2:</strong> What strategies can players use to maximize the effectiveness of the new Gladius Task Force?</li>
+  <li>🤔 <strong>Question 3:</strong> With the changes to Tau stealth suits, how might this impact their overall army composition?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40K Lore Update - Chairon and Acheran's Fate Revealed...]]></title>
             <link>https://www.youtube.com/watch?v=63Pi4tc6qps</link>
@@ -15128,35 +15161,36 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Big Warhammer 40K Rules Update - New Ultramarines Army, New Datasheets and More!]]></title>
-            <link>https://www.youtube.com/watch?v=_B8d5EUc3cg</link>
-            <guid>yt:video:_B8d5EUc3cg</guid>
-            <pubDate>Wed, 12 Nov 2025 16:30:34 GMT</pubDate>
-            <description><![CDATA[The video summarizes updates to Warhammer 40k rules, highlighting new data sheets and points for Ultramarines, Space Wolves, and Tau, the introduction of the Gladius Task Force for Ultramarines, rules corrections, and the addition of the competitive Victory Honor Guard unit.]]></description>
+            <title><![CDATA[Oldest and Newest Miniatures for Every Warhammer 40K Faction!]]></title>
+            <link>https://www.youtube.com/watch?v=FH54N0kLd6Y</link>
+            <guid>yt:video:FH54N0kLd6Y</guid>
+            <pubDate>Thu, 13 Nov 2025 20:52:10 GMT</pubDate>
+            <description><![CDATA[The video explores the evolution of Warhammer 40k miniatures from their origins in 1985 to recent releases in 2025, highlighting significant changes in design, pricing, and the impact of nostalgia on Games Workshop's decisions.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Warhammer 40k Rules Update Summary</h2>
+<h2>📢 Exploring the Evolution of Warhammer 40k Miniatures</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-  <li>🔥 <strong>New Data Sheets:</strong> Full data sheets and points costs released for Ultramarines, Space Wolves, and Tau.</li>
-  <li>🔄 <strong>Ultramarines Detachment:</strong> Introduction of a new Gladius Task Force with enhanced combat doctrines.</li>
-  <li>⚔️ <strong>Combat Patrol Rule Set:</strong> Featuring Chief Librarian Targaryius for Ultramarines.</li>
-  <li>🛠️ <strong>Rules Corrections:</strong> Minor adjustments to keywords and abilities for various units.</li>
-  <li>📦 <strong>New Units:</strong> Victory Honor Guard introduced, showing strong potential for competitive play.</li>
+    <li>🔥 <strong>Oldest Miniatures:</strong> The oldest Warhammer 40k miniatures date back to 1985, including the Imperial Space Marine and RTB1 plastic kits from 1987.</li>
+    <li>⚡ <strong>Current Models:</strong> The current models include the Land Raider from 2000, with many Firstborn armor models from the same era.</li>
+    <li>🆕 <strong>Newest Releases:</strong> Recent miniatures include the Terminator Assault Squad and characters like Captain Titus, reflecting the ongoing evolution in design.</li>
+    <li>🛡️ <strong>Adeptus Mechanicus:</strong> Their oldest models date back to 1988, while the most recent releases include the Sidonian Scatross and Servitor Battle Clays in 2025.</li>
+    <li>🚀 <strong>Chaos Space Marines:</strong> Notable for having older metal sculpts from 1988-1999, with the newest models released in 2023.</li>
+    <li>👾 <strong>Xenos Factions:</strong> Eldari and Tyranids have miniatures dating back to the late '80s, with recent updates reflecting modern aesthetics.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-  <li>📈 <strong>Points Cost:</strong> Victory Honor Guard costs 130 points for 3 models or 210 points for 6 models.</li>
-  <li>📊 <strong>Strength and Attacks:</strong> Honor Guard can potentially execute 37 attacks at strength 6, AP2, and damage 2.</li>
-  <li>🔢 <strong>Ultramarines Detachment Options:</strong> Up to 3 turns of advance and charge or advance and shoot with mastered doctrines when using Manus Kalgar.</li>
+    <li>📅 <strong>Year Range:</strong> The oldest known Warhammer 40k miniatures are from 1985, while the most recent models are from 2025, showcasing 40 years of evolution.</li>
+    <li>💰 <strong>Price of Old Models:</strong> The cost of miniatures has significantly inflated; early character models were priced around £2 compared to modern prices, which can exceed £500.</li>
+    <li>🔄 <strong>Model Refresh Rate:</strong> Major updates for many factions occur approximately every 5-10 years, with some factions seeing limited releases for over a decade.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-  <li>🤔 <strong>Question 1:</strong> How will the new Ultramarines units affect the current meta in competitive play?</li>
-  <li>🤔 <strong>Question 2:</strong> What strategies can players use to maximize the effectiveness of the new Gladius Task Force?</li>
-  <li>🤔 <strong>Question 3:</strong> With the changes to Tau stealth suits, how might this impact their overall army composition?</li>
+    <li>🤔 <strong>How do the design changes in miniatures reflect the evolving narratives within the Warhammer 40k universe?</strong></li>
+    <li>🔍 <strong>What impact do you think nostalgia has on the choices of Games Workshop regarding miniatures?</strong></li>
+    <li>📈 <strong>How can the miniatures' evolution influence the gameplay dynamics in Warhammer 40k?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
