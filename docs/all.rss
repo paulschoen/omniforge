@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Nov 2025 17:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 13:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The colours of Grand Cathay, as painted by the Warhammer Studio]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o4fnmhuz/the-colours-of-grand-cathay-as-painted-by-the-warhammer-studio</link>
+            <guid>o4fnmhuz</guid>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jade Warriors that will make you green with envy]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_sdsjadewarriors-nov14-1-feature-e6e04godfr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winners Interviews from the World Championships of Warhammer | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/4epxgyte/winners-interviews-from-the-world-championships-of-warhammer-warhammer</link>
@@ -275,22 +286,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature11-w5u9lnofbi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships Preview – New champions get stuck into close-range brawls in Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pinglgrx/world-championships-preview-new-champions-get-stuck-into-close-range-brawls-in-warhammer-40000</link>
-            <guid>pinglgrx</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New characters incoming for the Leagues of Votann, T’au Empire, and Tyranids.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature10-74g6qluicl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
