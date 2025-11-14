@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Nov 2025 21:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 13:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Who are the heroes and how do they play?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zv46f79h/an-adventurers-guide-to-warhammer-quest-darkwater-who-are-the-heroes-and-how-do-they-play</link>
+            <guid>zv46f79h</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out more about this band of protagonists.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_dwcharacters-nov14-1-feature-(1)-g7kobk80zo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies on Parade 2025 – Discover the winners]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bgnffhic/armies-on-parade-2025-discover-the-winners</link>
@@ -268,19 +278,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh--sizzle---2---thumbnail-16x9-2l9sctu2gg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Maggotkin of Nurgle Announced | World Championships Warhammer Preview Live! 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wbzaahuw/maggotkin-of-nurgle-announced-world-championships-warhammer-preview-live-2025</link>
-            <guid>wbzaahuw</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Festus the Leechlord leads a parade of pustulent Maggotkin of Nurgle. Gaze in wonder at their corpulent forms.]]></description>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01772---aos-maggotkin---thumbnail---v2-d9wggwi6wo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
