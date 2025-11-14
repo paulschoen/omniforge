@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Nov 2025 15:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 18:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Celebrate the 2025 Season, Win all the Codexes and Battletomes!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r2iyfcit/celebrate-the-2025-season-win-all-the-codexes-and-battletomes</link>
+            <guid>r2iyfcit</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sync your account for a chance to win!]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/codex-competition-date00-1-feature-gbgsqfpyo8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Adepta Sororitas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bxqtyr5v/warhammer-art-through-the-years-adepta-sororitas</link>
@@ -262,18 +272,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-nov8-1-feature-zl62iombvk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: 500 Worlds Announced | World Championships Warhammer Preview Live! 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ry6iksgm/warhammer-40000-500-worlds-announced-world-championships-warhammer-preview-live-2025</link>
-            <guid>ry6iksgm</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Demetrian Titus: officer, leader, strategist. Once again Captain of the Ultramarines Second Company, Titus faces a new mission with impossible odds – but he's not alone!]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01770_500-worlds_thumbnail_16x9-3nvgythh6r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
