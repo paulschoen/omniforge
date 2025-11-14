@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Nov 2025 14:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 15:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Adepta Sororitas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bxqtyr5v/warhammer-art-through-the-years-adepta-sororitas</link>
+            <guid>bxqtyr5v</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bolter, flamer, melta, paintbrush.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art7_adeptasororitas-nov14-1-feature-yase7yhkqu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50 Years – Read stories from staff and enter a giveaway to celebrate five decades of Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/70pd375w/50-years-read-stories-from-staff-and-enter-a-giveaway-to-celebrate-five-decades-of-warhammer</link>
@@ -264,18 +274,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01770_500-worlds_thumbnail_16x9-3nvgythh6r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Armies of Grand Cathay Grow | World Championships Warhammer Preview Live! 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ssfevxtk/the-armies-of-grand-cathay-grow-world-championships-warhammer-preview-live-2025</link>
-            <guid>ssfevxtk</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Defenders of the Great Bastion arrive to reinforce the armies of Grand Cathay amid a storm of magic and artillery fire – revealed at World Championships Warhammer Preview Live! 2025.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01773_thumbnail-loqwlxvvj7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
