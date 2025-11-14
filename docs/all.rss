@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Nov 2025 13:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 14:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[50 Years – Read stories from staff and enter a giveaway to celebrate five decades of Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/70pd375w/50-years-read-stories-from-staff-and-enter-a-giveaway-to-celebrate-five-decades-of-warhammer</link>
+            <guid>70pd375w</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How some of our staff found the Warhammer hobby.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/50yearsgw-nov14-1-feature-pcf7myxawn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Who are the heroes and how do they play?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zv46f79h/an-adventurers-guide-to-warhammer-quest-darkwater-who-are-the-heroes-and-how-do-they-play</link>
@@ -266,18 +276,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01773_thumbnail-loqwlxvvj7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Warhammer TV Animated Show Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6t03brys/v01863-wh-november-preview-reel-1</link>
-            <guid>6t03brys</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow for more Warhammer, more often]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh--sizzle---2---thumbnail-16x9-2l9sctu2gg.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
