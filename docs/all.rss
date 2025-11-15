@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Nov 2025 18:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 18:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Seize a Battleforce in time for Christmas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/snmg8mvz/saturday-pre-orders-seize-a-battleforce-in-time-for-christmas</link>
+            <guid>snmg8mvz</guid>
+            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-nov15-1-feature-ndacmhgttn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Celebrate the 2025 Season, Win all the Codexes and Battletomes!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r2iyfcit/celebrate-the-2025-season-win-all-the-codexes-and-battletomes</link>
@@ -258,20 +271,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov9-1-feature-d3fw2bujmg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-order – Scouts and Stealth suits sneak into Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8lkeojyq/saturday-pre-order-scouts-and-stealth-suits-sneak-into-kill-team</link>
-            <guid>8lkeojyq</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-nov8-1-feature-zl62iombvk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
