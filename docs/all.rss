@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 15 Nov 2025 18:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 18:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Get into the melee with Assault Terminators and Chaos Marauders]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/amxn8f1q/sunday-preview-get-into-the-melee-with-assault-terminators-and-chaos-marauders</link>
+            <guid>amxn8f1q</guid>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov16-1-feature-wgiuqm8l7l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Seize a Battleforce in time for Christmas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/snmg8mvz/saturday-pre-orders-seize-a-battleforce-in-time-for-christmas</link>
@@ -257,20 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_setting-nov10-1-feature-tpdk8laavg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Start new armies in a flash with bountiful Battleforce boxes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/igr8gyao/sunday-preview-start-new-armies-in-a-flash-with-bountiful-battleforce-boxes</link>
-            <guid>igr8gyao</guid>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov9-1-feature-d3fw2bujmg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
