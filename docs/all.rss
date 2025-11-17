@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Nov 2025 13:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 14:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Myrmidon Destructor Host prepares to deliver a litany of devastation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gyfikpf1/the-myrmidon-destructor-host-prepares-to-deliver-a-litany-of-devastation</link>
+            <guid>gyfikpf1</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Mechanicum calls for heavy reinforcements.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-j5j0hq9cqq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Chaos Marauders designers’ notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes</link>
@@ -262,17 +273,6 @@
             <category domain="spearhead">Spearhead</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-4aylxwt2xz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cough up the credits for a gaggle of Hangers-on including a vigilant new Hive Watcher]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vrmuv7xq/cough-up-the-credits-for-a-gaggle-of-hangers-on-including-a-vigilant-new-hive-watcher</link>
-            <guid>vrmuv7xq</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You don’t earn credits without spending credits.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec-hangersonreveal-nov10-1-feature-epdygg55a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
