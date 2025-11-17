@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 16 Nov 2025 18:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 13:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Chaos Marauders designers’ notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes</link>
+            <guid>5wik4apb</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The minds behind the new miniatures reveal all.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-zgbkfmtu5r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Get into the melee with Assault Terminators and Chaos Marauders]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/amxn8f1q/sunday-preview-get-into-the-melee-with-assault-terminators-and-chaos-marauders</link>
@@ -261,17 +273,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec-hangersonreveal-nov10-1-feature-epdygg55a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – What is the Jade Abbey?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pm4r36ou/an-adventurers-guide-to-warhammer-quest-darkwater-what-is-the-jade-abbey</link>
-            <guid>pm4r36ou</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We pick over the setting of the new Warhammer Quest.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_setting-nov10-1-feature-tpdk8laavg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
