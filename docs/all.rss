@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Nov 2025 12:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 13:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – The Marauder Tribes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uogxq24y/old-world-almanack-the-marauder-tribes</link>
+            <guid>uogxq24y</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the lore of the denizens of the Shadowlands.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-cxazv3mcth.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 18th of November]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hzhor33z/the-rumour-engine-18th-of-november</link>
@@ -258,18 +270,6 @@
             <category domain="armies-on-parade">Armies on Parade</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aopawards_incoming-nov11-1-feature-8nr9z7vei2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds – How did Titus become Captain of the Second Company (again)?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2uwxtd2k/500-worlds-how-did-titus-become-captain-of-the-second-company-again</link>
-            <guid>2uwxtd2k</guid>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who came before and after Captain Titus?]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_secondcoycaptains-nov11-1-feature-o6yytbx3rz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
