@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Nov 2025 10:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 12:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 18th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hzhor33z/the-rumour-engine-18th-of-november</link>
+            <guid>hzhor33z</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov18-1-feature-5czpa9kyny.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – The basic rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/h2qdou5l/an-adventurers-guide-to-warhammer-quest-darkwater-the-basic-rules</link>
@@ -260,16 +270,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_secondcoycaptains-nov11-1-feature-o6yytbx3rz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 11th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bti8k5tj/the-rumour-engine-11th-of-november</link>
-            <guid>bti8k5tj</guid>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov11-1-feature-2v2lp7za0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
