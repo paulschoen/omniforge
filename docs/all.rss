@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Nov 2025 15:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 10:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -41,6 +41,16 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-zgbkfmtu5r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer: Vermintide 2 - Return to the Reik | Release Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lsn7na7p/warhammer-vermintide-2-return-to-the-reik-release-trailer</link>
+            <guid>lsn7na7p</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Retread old paths in Return to the Reik. The free level will be available this Thursday, November 20!]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v2-returntothereik-thumb-bwfaezepjk.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sunday Preview – Get into the melee with Assault Terminators and Chaos Marauders]]></title>
@@ -260,16 +270,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-nov11-1-feature-2v2lp7za0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Under the Christmas Tree]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qkk2mlx0/warhammer-under-the-christmas-tree</link>
-            <guid>qkk2mlx0</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Is that the sweet sound of Warhammer?]]></description>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01827-christmas-launch-2025_thumbnail_v3-qwec0e7h1o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
