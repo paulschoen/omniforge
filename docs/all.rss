@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Nov 2025 13:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 15:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ferren Areios, Ultramarines’ Sixth Company Captain and Master of the Rites]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1vfc3phb/ferren-areios-ultramarines-sixth-company-captain-and-master-of-the-rites</link>
+            <guid>1vfc3phb</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out about Ferren Areios’ history.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ferrenlore-nov18-1-feature-qeix5iavro.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – The Marauder Tribes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uogxq24y/old-world-almanack-the-marauder-tribes</link>
@@ -260,16 +272,6 @@
             <description><![CDATA[Log in to your My Warhammer account to win!]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/50-year-giveaway-feat-yulvmulyaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tune in for the Armies on Parade online ceremony later this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qh7lvejy/tune-in-for-the-armies-on-parade-online-ceremony-later-this-week</link>
-            <guid>qh7lvejy</guid>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for a fantastic awards show.]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aopawards_incoming-nov11-1-feature-8nr9z7vei2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
