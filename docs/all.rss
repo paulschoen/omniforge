@@ -4,11 +4,37 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 18 Nov 2025 17:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 11:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Ferren Areios | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/boqi1lan/how-to-paint-ferren-areios-warhammer-40000</link>
+            <guid>boqi1lan</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ferren Areios, Captain of the Ultramarines’ 6th Company, is a warrior forged in the fires of the Indomitus Crusade. Chosen by the Primarch to lead his brothers in battle, the Master of Rites fights for the survival of Humanity and the realm of Ultramar. Tune in to this paint guide to see Ollie show you how to paint this awesome new character quickly and easily!
+
+If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01203-thumbnail-rbwrafvftm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Join the sons of the Lion with a new wearable Dark Angels helmet]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nae1gwyp/join-the-sons-of-the-lion-with-a-new-wearable-dark-angels-helmet</link>
+            <guid>nae1gwyp</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Space Marine helmet for your collection.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/joytoy_darkangelshelmet-nov19-1-feature-cqnpr7yhke.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Make your name on the streets as Hive Scum with a new class for Warhammer 40,000: Darktide]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z1yoepme/make-your-name-on-the-streets-as-hive-scum-with-a-new-class-for-warhammer-40000-darktide</link>
@@ -252,30 +278,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_masterofrites-nov12-1-feature-tdcaeu6yqm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Boltgun 2 – Voice acting a Battle Sister with Alanah Pearce]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/znbfzmcs/warhammer-40000-boltgun-2-voice-acting-a-battle-sister-with-alanah-pearce</link>
-            <guid>znbfzmcs</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We interview the voice of Nyra Veyrath.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/boltgun2_interview-nov12-1-feature1-ahryuhku6x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2025 – SPIEL Essen finalists (part one)]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j6eulvoe/golden-demon-2025-spiel-essen-finalists-part-one</link>
-            <guid>j6eulvoe</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our first round of finalists.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_finalists1-nov12-1-feature-afh6zdrwov.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
