@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Nov 2025 13:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 14:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Encounters and campaigns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kmifsqtr/an-adventurers-guide-to-warhammer-quest-darkwater-encounters-and-campaigns</link>
+            <guid>kmifsqtr</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out how encounters work.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_mapbook-nov19-1-feature-vcou3rgfc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Helsmiths of Hashut conquer Warhammer TV with a pair of shows]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nsqcp1ek/the-helsmiths-of-hashut-conquer-warhammer-tv-with-a-pair-of-shows</link>
@@ -266,17 +276,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wcw_lookback-nov12-1-feature-ernjmdye5y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Writing Master of Rites – Black Library Author Interview | Black Library]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/sxeq8aig/writing-master-of-rites-black-library-author-interview-black-library</link>
-            <guid>sxeq8aig</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out more about Ferren Areios, the Ultramarines' 6th Company Captain and Master of Rites, in this Black Library author interview.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01668_bl-rob-young_master-of-rites_thumbnail_v2-dx0kdtyswb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
