@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Nov 2025 11:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 13:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Helsmiths of Hashut conquer Warhammer TV with a pair of shows]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nsqcp1ek/the-helsmiths-of-hashut-conquer-warhammer-tv-with-a-pair-of-shows</link>
+            <guid>nsqcp1ek</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch three new episodes and enter two competitions.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-nov19-1-feature-rjqrh8m2ru.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Ferren Areios | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/boqi1lan/how-to-paint-ferren-areios-warhammer-40000</link>
@@ -267,17 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="black-library">Black Library</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01668_bl-rob-young_master-of-rites_thumbnail_v2-dx0kdtyswb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Learn more about the upcoming novel Master of Rites in this video interview with the author.]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nxdpspjc/learn-more-about-the-upcoming-novel-master-of-rites-in-this-video-interview-with-the-author</link>
-            <guid>nxdpspjc</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Putting the Master of Rites through hell.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_masterofrites-nov12-1-feature-tdcaeu6yqm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
