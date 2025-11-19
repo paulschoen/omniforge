@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Nov 2025 14:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 15:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library Ashes of the Imperium Author Interview | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/a234kjxy/black-library-ashes-of-the-imperium-author-interview-warhammer</link>
+            <guid>a234kjxy</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ashes of the Imperium is the first book in Black Library's thrilling new series The Scouring. Author Chris Wraight sits down to discuss some of what goes into writing such massive stories.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="videos">Videos</category>
+            <category domain="black-library">Black Library</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01756-chris-wraight-scouring-interview_thumbnail_1-fcbvnbgsqg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ashes of the Imperium interview – Chris Wraight gets stuck into The Scouring]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pzj94hyz/ashes-of-the-imperium-interview-chris-wraight-gets-stuck-into-the-scouring</link>
+            <guid>pzj94hyz</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What better way to learn about a book than to ask the author?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_ashesoftheimperium-nov19-1-feature-oltul5bvrt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Encounters and campaigns]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kmifsqtr/an-adventurers-guide-to-warhammer-quest-darkwater-encounters-and-campaigns</link>
@@ -254,28 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_sdsjadewarriors-nov14-1-feature-e6e04godfr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winners Interviews from the World Championships of Warhammer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4epxgyte/winners-interviews-from-the-world-championships-of-warhammer-warhammer</link>
-            <guid>4epxgyte</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what it's like to win, and what it takes to get there, through these interviews with the victors at the recent World Championships of Warhammer.]]></description>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="interviews">Interviews</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01843-wcw-wrap-up-ucrewgyhns.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The new World Champions look back on the World Championships of Warhammer 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pc7zx1lx/the-new-world-champions-look-back-on-the-world-championships-of-warhammer-2025</link>
-            <guid>pc7zx1lx</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Words from the winners]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wcw_lookback-nov12-1-feature-ernjmdye5y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
