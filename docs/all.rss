@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Nov 2025 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 13:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 2]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sdnu4qtd/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-2</link>
+            <guid>sdnu4qtd</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Studio team prepare for battle.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-nov20-1-feature-kbbodxulkm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Ashes of the Imperium Author Interview | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/a234kjxy/black-library-ashes-of-the-imperium-author-interview-warhammer</link>
@@ -266,17 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd_tactica6-nov13-1-feature-zd1fjm8rha.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The colours of Grand Cathay, as painted by the Warhammer Studio]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o4fnmhuz/the-colours-of-grand-cathay-as-painted-by-the-warhammer-studio</link>
-            <guid>o4fnmhuz</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Jade Warriors that will make you green with envy]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_sdsjadewarriors-nov14-1-feature-e6e04godfr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
