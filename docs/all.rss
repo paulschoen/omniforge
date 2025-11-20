@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Nov 2025 14:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 15:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 tactica – Building a better army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jqtn7yqh/warhammer-40000-tactica-building-a-better-army</link>
+            <guid>jqtn7yqh</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Expert advice on improving your list building.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd_tactica7-nov20-1-feature-x07nydpwpo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – How The Razing of Westerland will change your Chaos armies]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4vefvsrn/old-world-almanack-how-the-razing-of-westerland-will-change-your-chaos-armies</link>
@@ -268,16 +279,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_dwcharacters-nov14-1-feature-(1)-g7kobk80zo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies on Parade 2025 – Discover the winners]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bgnffhic/armies-on-parade-2025-discover-the-winners</link>
-            <guid>bgnffhic</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the awards today.]]></description>
-            <category domain="armies-on-parade">Armies on Parade</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aopawards2025-nov13-1-feature_update-ammjbl9nba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
