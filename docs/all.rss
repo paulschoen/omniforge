@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Nov 2025 15:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 16:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Christmas 2025 Shipping Dates – Get your orders in on time]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/plv6dsy0/warhammer-christmas-2025-shipping-dates-get-your-orders-in-on-time</link>
+            <guid>plv6dsy0</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[All the dates you need to know.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/shippingdeadlines-nov20-1-feature-pmhawrqwrl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 tactica – Building a better army]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jqtn7yqh/warhammer-40000-tactica-building-a-better-army</link>
@@ -269,16 +280,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/50yearsgw-nov14-1-feature-pcf7myxawn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Who are the heroes and how do they play?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zv46f79h/an-adventurers-guide-to-warhammer-quest-darkwater-who-are-the-heroes-and-how-do-they-play</link>
-            <guid>zv46f79h</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out more about this band of protagonists.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_dwcharacters-nov14-1-feature-(1)-g7kobk80zo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
