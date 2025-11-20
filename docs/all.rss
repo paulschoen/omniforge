@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Nov 2025 13:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 14:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – How The Razing of Westerland will change your Chaos armies]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4vefvsrn/old-world-almanack-how-the-razing-of-westerland-will-change-your-chaos-armies</link>
+            <guid>4vefvsrn</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules for your new Chaos Marauders miniatures.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_razingofwesterland-nov20-1-feature-rirarxprij.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 2]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sdnu4qtd/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-2</link>
@@ -266,17 +278,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="armies-on-parade">Armies on Parade</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aopawards2025-nov13-1-feature_update-ammjbl9nba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 tactica – Analysing your army lists]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kgaibzwo/warhammer-40000-tactica-analysing-your-army-lists</link>
-            <guid>kgaibzwo</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to level up your army selection.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd_tactica6-nov13-1-feature-zd1fjm8rha.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
