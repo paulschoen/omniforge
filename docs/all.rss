@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Nov 2025 16:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 17:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Open 2026 – Join us for unforgettable Warhammer Weekends in California and The Netherlands]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i8ubhehl/warhammer-open-2026-join-us-for-unforgettable-warhammer-weekends-in-california-and-the-netherlands</link>
+            <guid>i8ubhehl</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer heads to Palm Springs and Maastricht.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whopens-nov20-1-feature-lgqhac0f0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Christmas 2025 Shipping Dates – Get your orders in on time]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/plv6dsy0/warhammer-christmas-2025-shipping-dates-get-your-orders-in-on-time</link>
@@ -270,16 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art7_adeptasororitas-nov14-1-feature-yase7yhkqu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50 Years – Read stories from staff and enter a giveaway to celebrate five decades of Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/70pd375w/50-years-read-stories-from-staff-and-enter-a-giveaway-to-celebrate-five-decades-of-warhammer</link>
-            <guid>70pd375w</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How some of our staff found the Warhammer hobby.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/50yearsgw-nov14-1-feature-pcf7myxawn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
