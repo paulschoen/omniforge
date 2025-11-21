@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Nov 2025 17:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 13:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: T’au Empire]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/icnhqxvv/warhammer-art-through-the-years-tau-empire</link>
+            <guid>icnhqxvv</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A gallery for the Greater Good.]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art8_tau-nov21-1-feature-qie587ykuh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Open 2026 – Join us for unforgettable Warhammer Weekends in California and The Netherlands]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/i8ubhehl/warhammer-open-2026-join-us-for-unforgettable-warhammer-weekends-in-california-and-the-netherlands</link>
@@ -271,16 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/codex-competition-date00-1-feature-gbgsqfpyo8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Adepta Sororitas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bxqtyr5v/warhammer-art-through-the-years-adepta-sororitas</link>
-            <guid>bxqtyr5v</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bolter, flamer, melta, paintbrush.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art7_adeptasororitas-nov14-1-feature-yase7yhkqu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
