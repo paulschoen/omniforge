@@ -4,11 +4,45 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 20 Nov 2025 16:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 21:05:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[How to Win the Melee Game in Warhammer 40K - Battle Tactics + Ideas]]></title>
+            <link>https://www.youtube.com/watch?v=nQJexyjfYbg</link>
+            <guid>yt:video:nQJexyjfYbg</guid>
+            <pubDate>Thu, 20 Nov 2025 15:01:39 GMT</pubDate>
+            <description><![CDATA[The video discusses effective melee battle tactics in Warhammer 40k, emphasizing unit coordination, threat management, and strategic positioning to maximize combat effectiveness and maintain battlefield control.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Melee Battle Tactics in Warhammer 40k</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Unit Coordination:</strong> Effective melee tactics involve coordinating units for strategic charges against enemy forces.</li>
+    <li>⚔️ <strong>Melee Combat Dynamics:</strong> Melee engagements can lead to significant shifts in battlefield control, depending on strategic positioning.</li>
+    <li>🛡️ <strong>Threat Management:</strong> Keeping enemy melee units at bay is crucial; know the threat range of opposing units.</li>
+    <li>🚧 <strong>Screening Techniques:</strong> Use expendable units to screen valuable units from enemy charges.</li>
+    <li>📏 <strong>Distance Matters:</strong> Maintaining distance can deter enemy charges, especially against high-threat units.</li>
+    <li>💥 <strong>Countering Charges:</strong> Strategies like "heroic intervention" and "counter-offensive" can turn the tide during melee exchanges.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📈 <strong>Threat Range:</strong> Units with a 12” movement can potentially charge 24” with abilities, but maintaining a distance of >24” can often prevent successful charges.</li>
+    <li>💰 <strong>Points Investment:</strong> Keeping a 400-point enemy unit out of melee can save significant resources and prevent loss of control.</li>
+    <li>🧮 <strong>Command Points:</strong> Spending 1-2 command points during crucial moments can provide major shifts in combat outcomes.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How can you adapt your melee tactics based on the specific strengths and weaknesses of your army?</li>
+    <li>🤔 <strong>Question 2:</strong> What are the most effective ways to screen valuable units from enemy charges in your gameplay experience?</li>
+    <li>🤔 <strong>Question 3:</strong> In what scenarios might it be more beneficial to sacrifice an expendable unit rather than retreating valuable units?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Eight Best Army Lists in Warhammer 40K? Mega-Event Winning Lists!]]></title>
             <link>https://www.youtube.com/watch?v=LgTMuSh-HZM</link>
@@ -15498,36 +15532,35 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[How to Win the Melee Game in Warhammer 40K - Battle Tactics + Ideas]]></title>
-            <link>https://www.youtube.com/watch?v=nQJexyjfYbg</link>
-            <guid>yt:video:nQJexyjfYbg</guid>
-            <pubDate>Thu, 20 Nov 2025 15:01:39 GMT</pubDate>
-            <description><![CDATA[The video discusses effective melee battle tactics in Warhammer 40k, emphasizing unit coordination, threat management, and strategic positioning to maximize combat effectiveness and maintain battlefield control.]]></description>
+            <title><![CDATA[40K News Round Up - Prices Confirmed, Armoured Tech Priests, GW Profits and More]]></title>
+            <link>https://www.youtube.com/watch?v=oA6TNIdLEuY</link>
+            <guid>yt:video:oA6TNIdLEuY</guid>
+            <pubDate>Fri, 21 Nov 2025 19:47:49 GMT</pubDate>
+            <description><![CDATA[The video provides a weekly roundup of Warhammer 40k and Games Workshop news, highlighting confirmed prices for new releases, significant revenue growth to £310 million, upcoming model pre-orders, new lore updates, and a channel giveaway of a custom army.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Melee Battle Tactics in Warhammer 40k</h2>
+<h2>📢 Weekly Warhammer 40k & Games Workshop News Roundup</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Unit Coordination:</strong> Effective melee tactics involve coordinating units for strategic charges against enemy forces.</li>
-    <li>⚔️ <strong>Melee Combat Dynamics:</strong> Melee engagements can lead to significant shifts in battlefield control, depending on strategic positioning.</li>
-    <li>🛡️ <strong>Threat Management:</strong> Keeping enemy melee units at bay is crucial; know the threat range of opposing units.</li>
-    <li>🚧 <strong>Screening Techniques:</strong> Use expendable units to screen valuable units from enemy charges.</li>
-    <li>📏 <strong>Distance Matters:</strong> Maintaining distance can deter enemy charges, especially against high-threat units.</li>
-    <li>💥 <strong>Countering Charges:</strong> Strategies like "heroic intervention" and "counter-offensive" can turn the tide during melee exchanges.</li>
+    <li>🔥 <strong>Confirmed Prices:</strong> New releases for Warhammer 40k, including Krux Terminatas and a Black Library Captain.</li>
+    <li>🎉 <strong>Growth Report:</strong> Games Workshop shows significant revenue growth, with core business profits rising to £310 million.</li>
+    <li>📦 <strong>Upcoming Releases:</strong> New models such as Fenios and the Terminator Assault Squad are set to be pre-ordered soon.</li>
+    <li>🚀 <strong>New Lore Updates:</strong> Release of a new space marine character and a book exploring the post-heresy era.</li>
+    <li>🎁 <strong>Channel Giveaway:</strong> Opportunity to win a custom army worth up to £300 or $500.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📈 <strong>Threat Range:</strong> Units with a 12” movement can potentially charge 24” with abilities, but maintaining a distance of >24” can often prevent successful charges.</li>
-    <li>💰 <strong>Points Investment:</strong> Keeping a 400-point enemy unit out of melee can save significant resources and prevent loss of control.</li>
-    <li>🧮 <strong>Command Points:</strong> Spending 1-2 command points during crucial moments can provide major shifts in combat outcomes.</li>
+    <li>📈 <strong>Revenue Growth:</strong> Core business profits rose to £310 million from £270 million compared to last year.</li>
+    <li>📉 <strong>Licensing Revenue:</strong> Decreased to £16 million from £30 million in the previous period.</li>
+    <li>💰 <strong>New Model Prices:</strong> Fenios priced at £45, Terminator Assault Squad at £42.50, and Soden Khan at £38.50.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How can you adapt your melee tactics based on the specific strengths and weaknesses of your army?</li>
-    <li>🤔 <strong>Question 2:</strong> What are the most effective ways to screen valuable units from enemy charges in your gameplay experience?</li>
-    <li>🤔 <strong>Question 3:</strong> In what scenarios might it be more beneficial to sacrifice an expendable unit rather than retreating valuable units?</li>
+    <li>🤔 <strong>How do the recent price changes affect your purchasing decisions for new Warhammer models?</strong></li>
+    <li>🧐 <strong>What impact do you think the new lore updates will have on the Warhammer 40k community?</strong></li>
+    <li>💡 <strong>In what ways do you foresee the upcoming 40k edition release affecting Games Workshop's growth trajectory?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
