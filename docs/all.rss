@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Nov 2025 14:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 15:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u69fxnc8/the-hammerhal-herald-drink-to-your-good-health-with-aqua-ghyranis-from-the-jade-abbey</link>
+            <guid>u69fxnc8</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just one sip and you’ll be right as rain.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="hammerhal-herald">Hammerhal Herald</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_hammerhalherald-nov21-1-feature-lushrpvqll.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heroes of the First Founding – A Curbing of Excess]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bivrlanu/heroes-of-the-first-founding-a-curbing-of-excess</link>
@@ -271,19 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov16-1-feature-wgiuqm8l7l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Seize a Battleforce in time for Christmas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/snmg8mvz/saturday-pre-orders-seize-a-battleforce-in-time-for-christmas</link>
-            <guid>snmg8mvz</guid>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-nov15-1-feature-ndacmhgttn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
