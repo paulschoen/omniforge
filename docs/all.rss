@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 22 Nov 2025 13:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Nov 2025 18:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Prepare to enter the Jade Abbey in Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xxrvgot1/sunday-preview-prepare-to-enter-the-jade-abbey-in-warhammer-quest-darkwater</link>
+            <guid>xxrvgot1</guid>
+            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov23-1-feature-tkecs1u7xx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u69fxnc8/the-hammerhal-herald-drink-to-your-good-health-with-aqua-ghyranis-from-the-jade-abbey</link>
@@ -267,21 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v2-returntothereik-thumb-bwfaezepjk.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Get into the melee with Assault Terminators and Chaos Marauders]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/amxn8f1q/sunday-preview-get-into-the-melee-with-assault-terminators-and-chaos-marauders</link>
-            <guid>amxn8f1q</guid>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov16-1-feature-wgiuqm8l7l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
