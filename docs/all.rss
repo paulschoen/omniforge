@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 23 Nov 2025 18:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 10:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -22,6 +22,18 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov23-1-feature-tkecs1u7xx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Ferren Areios – No Helmet | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/baxsctmq/how-to-paint-ferren-areios-no-helmet-warhammer-40000</link>
+            <guid>baxsctmq</guid>
+            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ferren Areios, Captain of the Ultramarines’ 6th Company, is a warrior forged in the fires of the Indomitus Crusade. Chosen by the Primarch to lead his brothers in battle, the Master of Rites fights for the survival of Humanity and the realm of Ultramar. Tune in to this paint guide and learn how to paint this awesome character, without his helmet, quickly and easily!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ferren-areios-eg6bx7a5y3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
@@ -271,16 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-zgbkfmtu5r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: Vermintide 2 - Return to the Reik | Release Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lsn7na7p/warhammer-vermintide-2-return-to-the-reik-release-trailer</link>
-            <guid>lsn7na7p</guid>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Retread old paths in Return to the Reik. The free level will be available this Thursday, November 20!]]></description>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v2-returntothereik-thumb-bwfaezepjk.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
