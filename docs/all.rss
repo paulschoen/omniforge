@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Nov 2025 13:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 14:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Quest: Darkwater – Designer’s Commentary]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gk3drgp4/warhammer-quest-darkwater-designers-commentary</link>
+            <guid>gk3drgp4</guid>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Designing a new quest for the Mortal Realms.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_designernotes-nov24-1-feature-oufwijsqz8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Make your own custom faction terrain in Path to Glory: Blighted Wilds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0eh4n7up/make-your-own-custom-faction-terrain-in-path-to-glory-blighted-wilds</link>
@@ -270,17 +280,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_rulesoverview-nov17-1-feature-xc6uszrzf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Myrmidon Destructor Host prepares to deliver a litany of devastation]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gyfikpf1/the-myrmidon-destructor-host-prepares-to-deliver-a-litany-of-devastation</link>
-            <guid>gyfikpf1</guid>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Mechanicum calls for heavy reinforcements.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-j5j0hq9cqq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
