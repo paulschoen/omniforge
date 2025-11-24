@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Nov 2025 10:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 13:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Make your own custom faction terrain in Path to Glory: Blighted Wilds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0eh4n7up/make-your-own-custom-faction-terrain-in-path-to-glory-blighted-wilds</link>
+            <guid>0eh4n7up</guid>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Turn your forests and ruins into Landmarks of Ghyran.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_blightedwildscustomterrain-nov25-1-feature-v2ewjpwi7f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Prepare to enter the Jade Abbey in Warhammer Quest: Darkwater]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xxrvgot1/sunday-preview-prepare-to-enter-the-jade-abbey-in-warhammer-quest-darkwater</link>
@@ -271,18 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-j5j0hq9cqq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Chaos Marauders designers’ notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes</link>
-            <guid>5wik4apb</guid>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The minds behind the new miniatures reveal all.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-zgbkfmtu5r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
