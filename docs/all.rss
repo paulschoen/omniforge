@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Nov 2025 14:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 15:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 Reclamation Update Available Now! | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/if7ntawd/warhammer-40000-space-marine-2-reclamation-update-available-now-warhammer</link>
+            <guid>if7ntawd</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Climb aboard and cleanse the void ship Wrath of Espandor with the Reclamation Update for Warhammer 40,000: Space Marine 2, including new Blood Angels and Salamanders cosmetics, and more!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_reclamation-update_thumbnail_1920x1080_v2-4dg76hbhhj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brave a void ship overrun with Tyranids in the next free update for Space Marine 2]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qtmimgx3/brave-a-void-ship-overrun-with-tyranids-in-the-next-free-update-for-space-marine-2</link>
+            <guid>qtmimgx3</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, new cosmetics for the Blood Angels and Salamanders are here.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update-nov25-1-feature-j6ilq8tumi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get inspired by these awesome Warhammer Quest: Darkwater heroes painted by the wider Warhammer Community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uqlrgxaf/get-inspired-by-these-awesome-warhammer-quest-darkwater-heroes-painted-by-the-wider-warhammer-community</link>
@@ -258,29 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/darktidedlc-nov11-1-feature-29xv950jvr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide – Hive Scum Announced]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/5kegqpze/warhammer-40000-darktide-hive-scum-announced</link>
-            <guid>5kegqpze</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Hive Scum come screaming from the depths of the hive, sowing destruction and mayhem in their wake. These dangerous cartel fixers have many a nifty trick up their sleeves, with access to makeshift weaponry, a new talent tree, fresh aesthetics, and more.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dt-hivescum-cin_1280_720-aqe8zc7p9i.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ferren Areios, Ultramarines’ Sixth Company Captain and Master of the Rites]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1vfc3phb/ferren-areios-ultramarines-sixth-company-captain-and-master-of-the-rites</link>
-            <guid>1vfc3phb</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out about Ferren Areios’ history.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ferrenlore-nov18-1-feature-qeix5iavro.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
