@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Nov 2025 15:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 16:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A month’s worth of festive Warhammer goodies with this year’s Grotmas Calendar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hdjtvnag/a-months-worth-of-festive-warhammer-goodies-with-this-years-grotmas-calendar</link>
+            <guid>hdjtvnag</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lore, rules, and more – a new gift every day.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmascalendar_incoming-nov24-1-feature-d8kuf1rjvp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Space Marine 2 Reclamation Update Available Now! | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/if7ntawd/warhammer-40000-space-marine-2-reclamation-update-available-now-warhammer</link>
@@ -269,18 +278,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_darkangelshelmet-nov19-1-feature-cqnpr7yhke.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Make your name on the streets as Hive Scum with a new class for Warhammer 40,000: Darktide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z1yoepme/make-your-name-on-the-streets-as-hive-scum-with-a-new-class-for-warhammer-40000-darktide</link>
-            <guid>z1yoepme</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Command respect in Tertium.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/darktidedlc-nov11-1-feature-29xv950jvr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
