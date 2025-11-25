@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Nov 2025 13:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 14:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get inspired by these awesome Warhammer Quest: Darkwater heroes painted by the wider Warhammer Community]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uqlrgxaf/get-inspired-by-these-awesome-warhammer-quest-darkwater-heroes-painted-by-the-wider-warhammer-community</link>
+            <guid>uqlrgxaf</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[All sorts of different takes on the Darkwater gang.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_influencerheroes-nov25-1-feature-1ksqxueba0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 25th of November]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gvkxzzft/the-rumour-engine-25th-of-november</link>
@@ -269,18 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ferrenlore-nov18-1-feature-qeix5iavro.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – The Marauder Tribes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uogxq24y/old-world-almanack-the-marauder-tribes</link>
-            <guid>uogxq24y</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the lore of the denizens of the Shadowlands.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-cxazv3mcth.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
