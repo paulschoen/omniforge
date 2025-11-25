@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Nov 2025 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 13:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 25th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gvkxzzft/the-rumour-engine-25th-of-november</link>
+            <guid>gvkxzzft</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov25-1-feature-9sriq7hvte.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Play hide and seek with Shelob™, Gollum™, and a new Middle-earth™ journal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8qvzbgol/play-hide-and-seek-with-shelobtm-gollumtm-and-a-new-middle-earthtm-journal</link>
@@ -271,16 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-cxazv3mcth.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 18th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hzhor33z/the-rumour-engine-18th-of-november</link>
-            <guid>hzhor33z</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov18-1-feature-5czpa9kyny.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
