@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Nov 2025 13:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 14:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Drink in all the delightful details on the Warhammer Quest: Darkwater miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j6eudz89/drink-in-all-the-delightful-details-on-the-warhammer-quest-darkwater-miniatures</link>
+            <guid>j6eudz89</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the heroes and villains.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_kitfocus-nov26-1-feature-rzygl0wrgt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon Season 2 Part 2 Animation Trailer | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/rbohr5kw/blacktalon-season-2-part-2-animation-trailer-warhammer</link>
@@ -262,17 +272,6 @@
             <category domain="black-library">Black Library</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01756-chris-wraight-scouring-interview_thumbnail_1-fcbvnbgsqg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ashes of the Imperium interview – Chris Wraight gets stuck into The Scouring]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pzj94hyz/ashes-of-the-imperium-interview-chris-wraight-gets-stuck-into-the-scouring</link>
-            <guid>pzj94hyz</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What better way to learn about a book than to ask the author?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_ashesoftheimperium-nov19-1-feature-oltul5bvrt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
