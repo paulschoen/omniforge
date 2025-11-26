@@ -4,11 +4,52 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Nov 2025 16:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 13:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Season 2 Part 2 Animation Trailer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rbohr5kw/blacktalon-season-2-part-2-animation-trailer-warhammer</link>
+            <guid>rbohr5kw</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's nearly time for the thrilling conclusion to Blacktalon Season 2 as our heroes return once more.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep5_16x9-ugnlvlttzq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Warhammer TV team break out of the studio to play Warhammer 40,000 in an end-of-season special]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wjazou8l/the-warhammer-tv-team-break-out-of-the-studio-to-play-warhammer-40000-in-an-end-of-season-special</link>
+            <guid>wjazou8l</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new shows to check out this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-nov26-1-feature-utkwk3jfgg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The trailer for the second half of Blacktalon Season 2 is here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rn1dsrmz/the-trailer-for-the-second-half-of-blacktalon-season-2-is-here</link>
+            <guid>rn1dsrmz</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Neave faces her past and fights for Hammerhal’s future.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_s2p2-nov26-1-feature-je34lelupy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Tactical Rocks | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/9vshkkeb/how-to-paint-tactical-rocks-warhammer</link>
+            <guid>9vshkkeb</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tactical rocks have an important role to play in how our miniatures look. They’re great for world building, allowing for more dynamic and interesting poses, and of course making your favourite characters stand big and tall amongst the rest of your army! Tune in to see Ollie show you four simple ways to paint them!]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01293-rocks-paxkaawjic.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A month’s worth of festive Warhammer goodies with this year’s Grotmas Calendar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hdjtvnag/a-months-worth-of-festive-warhammer-goodies-with-this-years-grotmas-calendar</link>
@@ -232,52 +273,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_ashesoftheimperium-nov19-1-feature-oltul5bvrt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Encounters and campaigns]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kmifsqtr/an-adventurers-guide-to-warhammer-quest-darkwater-encounters-and-campaigns</link>
-            <guid>kmifsqtr</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out how encounters work.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_mapbook-nov19-1-feature-vcou3rgfc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Helsmiths of Hashut conquer Warhammer TV with a pair of shows]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nsqcp1ek/the-helsmiths-of-hashut-conquer-warhammer-tv-with-a-pair-of-shows</link>
-            <guid>nsqcp1ek</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch three new episodes and enter two competitions.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-nov19-1-feature-rjqrh8m2ru.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Ferren Areios | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/boqi1lan/how-to-paint-ferren-areios-warhammer-40000</link>
-            <guid>boqi1lan</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ferren Areios, Captain of the Ultramarines’ 6th Company, is a warrior forged in the fires of the Indomitus Crusade. Chosen by the Primarch to lead his brothers in battle, the Master of Rites fights for the survival of Humanity and the realm of Ultramar. Tune in to this paint guide to see Ollie show you how to paint this awesome new character quickly and easily!
-
-If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01203-thumbnail-rbwrafvftm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join the sons of the Lion with a new wearable Dark Angels helmet]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nae1gwyp/join-the-sons-of-the-lion-with-a-new-wearable-dark-angels-helmet</link>
-            <guid>nae1gwyp</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new Space Marine helmet for your collection.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_darkangelshelmet-nov19-1-feature-cqnpr7yhke.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
