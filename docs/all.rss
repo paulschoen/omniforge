@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Nov 2025 13:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Meet Gelgus Pust and his foul flock]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eh3emyas/an-adventurers-guide-to-warhammer-quest-darkwater-meet-gelgus-pust-and-his-foul-flock</link>
+            <guid>eh3emyas</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who to watch out for in the Jade Abbey.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_nurgle-nov27-1-feature-glegkbccz0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spend a whole weekend playing Warhammer Underworlds – and more – at Warhammer World in March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9cwjsdse/spend-a-whole-weekend-playing-warhammer-underworlds-and-more-at-warhammer-world-in-march</link>
@@ -260,17 +270,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_razingofwesterland-nov20-1-feature-rirarxprij.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Battles in Middle-earth™: Preparing for Throne of Skulls – Part 2]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sdnu4qtd/battles-in-middle-earthtm-preparing-for-throne-of-skulls-part-2</link>
-            <guid>sdnu4qtd</guid>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Studio team prepare for battle.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-nov20-1-feature-kbbodxulkm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
