@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Nov 2025 14:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 13:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Spend a whole weekend playing Warhammer Underworlds – and more – at Warhammer World in March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9cwjsdse/spend-a-whole-weekend-playing-warhammer-underworlds-and-more-at-warhammer-world-in-march</link>
+            <guid>9cwjsdse</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Next year’s events calendar continues to grow.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-nov27-1-feature-abfvxyeupr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Drink in all the delightful details on the Warhammer Quest: Darkwater miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j6eudz89/drink-in-all-the-delightful-details-on-the-warhammer-quest-darkwater-miniatures</link>
@@ -28,7 +39,7 @@
             <category domain="animations">Animations</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep5_16x9-ugnlvlttzq.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_teaser16x9-bxrufgfgwn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Warhammer TV team break out of the studio to play Warhammer 40,000 in an end-of-season special]]></title>
@@ -260,18 +271,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-nov20-1-feature-kbbodxulkm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Ashes of the Imperium Author Interview | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/a234kjxy/black-library-ashes-of-the-imperium-author-interview-warhammer</link>
-            <guid>a234kjxy</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ashes of the Imperium is the first book in Black Library's thrilling new series The Scouring. Author Chris Wraight sits down to discuss some of what goes into writing such massive stories.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="videos">Videos</category>
-            <category domain="black-library">Black Library</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01756-chris-wraight-scouring-interview_thumbnail_1-fcbvnbgsqg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
