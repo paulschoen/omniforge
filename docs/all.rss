@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Nov 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 16:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Community team paint the heroes of Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ncmflumo/the-warhammer-community-team-paint-the-heroes-of-warhammer-quest-darkwater</link>
+            <guid>ncmflumo</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The team gets ready to battle Gelgus Pust and friends.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_ourheroes-nov27-1-feature-cxxjoaoslt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Meet Gelgus Pust and his foul flock]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eh3emyas/an-adventurers-guide-to-warhammer-quest-darkwater-meet-gelgus-pust-and-his-foul-flock</link>
@@ -258,18 +269,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd_tactica7-nov20-1-feature-x07nydpwpo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – How The Razing of Westerland will change your Chaos armies]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4vefvsrn/old-world-almanack-how-the-razing-of-westerland-will-change-your-chaos-armies</link>
-            <guid>4vefvsrn</guid>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules for your new Chaos Marauders miniatures.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_razingofwesterland-nov20-1-feature-rirarxprij.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
