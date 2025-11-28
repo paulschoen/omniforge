@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Nov 2025 14:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 15:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Death Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fnpyuuam/warhammer-art-through-the-years-death-guard</link>
+            <guid>fnpyuuam</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prepare to enjoy a lot of green.]]></description>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art9_deathguard-nov21-1-feature-jznr3hrtv5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The wider Warhammer Community pledge themselves to Gelgus Pust and his followers in a painting showcase]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fuqaqd8m/the-wider-warhammer-community-pledge-themselves-to-gelgus-pust-and-his-followers-in-a-painting-showcase</link>
@@ -256,18 +267,6 @@
             <category domain="hammerhal-herald">Hammerhal Herald</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_hammerhalherald-nov21-1-feature-lushrpvqll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – A Curbing of Excess]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bivrlanu/heroes-of-the-first-founding-a-curbing-of-excess</link>
-            <guid>bivrlanu</guid>
-            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Short fiction starring the Ultramarines’ Master of Rites.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ferrenstory-nov18-1-feature-hhwemzmbzz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
