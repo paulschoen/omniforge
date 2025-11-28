@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Nov 2025 10:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 13:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Celebrate the enduring legacy of Gotrek with a stunning, loot-filled special edition of inaugural novel Trollslayer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3xvuceyy/celebrate-the-enduring-legacy-of-gotrek-with-a-stunning-loot-filled-special-edition-of-inaugural-novel-trollslayer</link>
+            <guid>3xvuceyy</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Trollslayer returns with a mega limited edition.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_trollslayer-nov28-1-feature-spfmtzxcsd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Titus, Metaurus, and co. step from Secret Level onto your shelf with new JOYTOY action figures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/45asex8s/titus-metaurus-and-co-step-from-secret-level-onto-your-shelf-with-new-joytoy-action-figures</link>
@@ -259,17 +269,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art8_tau-nov21-1-feature-qie587ykuh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Open 2026 – Join us for unforgettable Warhammer Weekends in California and The Netherlands]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i8ubhehl/warhammer-open-2026-join-us-for-unforgettable-warhammer-weekends-in-california-and-the-netherlands</link>
-            <guid>i8ubhehl</guid>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer heads to Palm Springs and Maastricht.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whopens-nov20-1-feature-lgqhac0f0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
