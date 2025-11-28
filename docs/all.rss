@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Nov 2025 15:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 16:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV Winter Season 2025 Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/3fvhkkbs/warhammer-tv-winter-season-2025-trailer</link>
+            <guid>3fvhkkbs</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season of Warhammer TV is on the way, featuring more lore, more games, and more laughs with your favourite presenters.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/winter-season-thumb-nnytel07tz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Death Guard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fnpyuuam/warhammer-art-through-the-years-death-guard</link>
@@ -256,17 +266,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ferren-areios-eg6bx7a5y3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u69fxnc8/the-hammerhal-herald-drink-to-your-good-health-with-aqua-ghyranis-from-the-jade-abbey</link>
-            <guid>u69fxnc8</guid>
-            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Just one sip and you’ll be right as rain.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="hammerhal-herald">Hammerhal Herald</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_hammerhalherald-nov21-1-feature-lushrpvqll.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
