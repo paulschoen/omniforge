@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Nov 2025 13:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 14:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The wider Warhammer Community pledge themselves to Gelgus Pust and his followers in a painting showcase]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fuqaqd8m/the-wider-warhammer-community-pledge-themselves-to-gelgus-pust-and-his-followers-in-a-painting-showcase</link>
+            <guid>fuqaqd8m</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Now it’s time for the villains.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_influencervillains-nov28-1-feature-dewo3e74zk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Celebrate the enduring legacy of Gotrek with a stunning, loot-filled special edition of inaugural novel Trollslayer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3xvuceyy/celebrate-the-enduring-legacy-of-gotrek-with-a-stunning-loot-filled-special-edition-of-inaugural-novel-trollslayer</link>
@@ -258,17 +268,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ferrenstory-nov18-1-feature-hhwemzmbzz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: T’au Empire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/icnhqxvv/warhammer-art-through-the-years-tau-empire</link>
-            <guid>icnhqxvv</guid>
-            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A gallery for the Greater Good.]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art8_tau-nov21-1-feature-qie587ykuh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
