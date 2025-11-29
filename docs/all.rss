@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Nov 2025 16:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 18:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Team up and cast out Gelgus Pust in Warhammer Quest: Darkwater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z4npqhea/saturday-pre-orders-team-up-and-cast-out-gelgus-pust-in-warhammer-quest-darkwater</link>
+            <guid>z4npqhea</guid>
+            <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-nov29-1-feature-ndhqwdfpse.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV Winter Season 2025 Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/3fvhkkbs/warhammer-tv-winter-season-2025-trailer</link>
@@ -254,18 +267,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov23-1-feature-tkecs1u7xx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Ferren Areios – No Helmet | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/baxsctmq/how-to-paint-ferren-areios-no-helmet-warhammer-40000</link>
-            <guid>baxsctmq</guid>
-            <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ferren Areios, Captain of the Ultramarines’ 6th Company, is a warrior forged in the fires of the Indomitus Crusade. Chosen by the Primarch to lead his brothers in battle, the Master of Rites fights for the survival of Humanity and the realm of Ultramar. Tune in to this paint guide and learn how to paint this awesome character, without his helmet, quickly and easily!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ferren-areios-eg6bx7a5y3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
