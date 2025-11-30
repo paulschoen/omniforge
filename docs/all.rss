@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 30 Nov 2025 17:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 18:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The Divine Prince returns to Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ufdc58kz/sunday-preview-the-divine-prince-returns-to-necromunda</link>
+            <guid>ufdc58kz</guid>
+            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov30-1-feature-lofy9dhvao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘UltraMad’ protest – official statement issued]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/gewaspxo/ultramad-protest-official-statement-issued</link>
@@ -261,16 +275,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_designernotes-nov24-1-feature-oufwijsqz8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Make your own custom faction terrain in Path to Glory: Blighted Wilds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0eh4n7up/make-your-own-custom-faction-terrain-in-path-to-glory-blighted-wilds</link>
-            <guid>0eh4n7up</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Turn your forests and ruins into Landmarks of Ghyran.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_blightedwildscustomterrain-nov25-1-feature-v2ewjpwi7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
