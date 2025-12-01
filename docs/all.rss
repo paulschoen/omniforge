@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 30 Nov 2025 18:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 09:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -53,6 +53,18 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-nov29-1-feature-ndhqwdfpse.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Speed Freeks - Creation Workshop Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4lix02cy/warhammer-40000-speed-freeks-creation-workshop-trailer</link>
+            <guid>4lix02cy</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Now players can create, share, and play custom racetracks/maps in Warhammer 40,000: Speed Freeks, using the new Creation Workshop!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/workshop-thumbnail-n1qaoh43iu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer TV Winter Season 2025 Trailer]]></title>
@@ -265,16 +277,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-xtotczdaxg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Quest: Darkwater – Designer’s Commentary]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gk3drgp4/warhammer-quest-darkwater-designers-commentary</link>
-            <guid>gk3drgp4</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Designing a new quest for the Mortal Realms.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_designernotes-nov24-1-feature-oufwijsqz8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
