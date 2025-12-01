@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 16:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 17:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer World Protests: Agreement Reached]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/vosyetnt/warhammer-world-protests-agreement-reached</link>
+            <guid>vosyetnt</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[UltraMad demonstrations have ended after four days. Here’s what happened.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/umprotest-feature-3-67nmgwuwsc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[An avian Arch-Knight and leaping Kroot Carnivore return as this year’s Boxing Day Miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/noz8yycy/an-avian-arch-knight-and-leaping-kroot-carnivore-return-as-this-years-boxing-day-miniatures</link>
@@ -264,15 +276,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01293-rocks-paxkaawjic.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A month’s worth of festive Warhammer goodies with this year’s Grotmas Calendar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hdjtvnag/a-months-worth-of-festive-warhammer-goodies-with-this-years-grotmas-calendar</link>
-            <guid>hdjtvnag</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lore, rules, and more – a new gift every day.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmascalendar_incoming-nov24-1-feature-d8kuf1rjvp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
