@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 13:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 14:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Grotmas Calendar Hub]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ggzuywtd/the-grotmas-calendar-hub</link>
+            <guid>ggzuywtd</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new gift every day.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmascalendar_hub-dec01-1-feature-bbrcjegeau.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 1 – Titus arrives in Ultramar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1zh6qkxk/grotmas-calendar-day-1-titus-arrives-in-ultramar</link>
+            <guid>1zh6qkxk</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Free fiction from the Grotmas Calendar.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas1-dec01-1-feature-mk0kc2yy7v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Join the long vigil to receive a free miniature this month, plus score a Helsmiths of Hashut coin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/skhceyst/join-the-long-vigil-to-receive-a-free-miniature-this-month-plus-score-a-helsmiths-of-hashut-coin</link>
@@ -255,28 +277,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_update-nov25-1-feature-j6ilq8tumi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get inspired by these awesome Warhammer Quest: Darkwater heroes painted by the wider Warhammer Community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uqlrgxaf/get-inspired-by-these-awesome-warhammer-quest-darkwater-heroes-painted-by-the-wider-warhammer-community</link>
-            <guid>uqlrgxaf</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[All sorts of different takes on the Darkwater gang.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_influencerheroes-nov25-1-feature-1ksqxueba0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 25th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gvkxzzft/the-rumour-engine-25th-of-november</link>
-            <guid>gvkxzzft</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-nov25-1-feature-9sriq7hvte.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
