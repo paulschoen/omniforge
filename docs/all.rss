@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 16:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[An avian Arch-Knight and leaping Kroot Carnivore return as this year’s Boxing Day Miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/noz8yycy/an-avian-arch-knight-and-leaping-kroot-carnivore-return-as-this-years-boxing-day-miniatures</link>
+            <guid>noz8yycy</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Order them in-store or online from early January.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/boxingdayreveals-dec01-1-feature-nsutfwbors.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miniature of the Year 2025: Vote for your favourites and enter a competition to win the best]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1geonm0v/miniature-of-the-year-2025-vote-for-your-favourites-and-enter-a-competition-to-win-the-best</link>
@@ -263,17 +273,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <description><![CDATA[Lore, rules, and more – a new gift every day.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmascalendar_incoming-nov24-1-feature-d8kuf1rjvp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 Reclamation Update Available Now! | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/if7ntawd/warhammer-40000-space-marine-2-reclamation-update-available-now-warhammer</link>
-            <guid>if7ntawd</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Climb aboard and cleanse the void ship Wrath of Espandor with the Reclamation Update for Warhammer 40,000: Space Marine 2, including new Blood Angels and Salamanders cosmetics, and more!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_reclamation-update_thumbnail_1920x1080_v2-4dg76hbhhj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
