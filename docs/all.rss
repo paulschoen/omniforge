@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 09:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 13:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Join the long vigil to receive a free miniature this month, plus score a Helsmiths of Hashut coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/skhceyst/join-the-long-vigil-to-receive-a-free-miniature-this-month-plus-score-a-helsmiths-of-hashut-coin</link>
+            <guid>skhceyst</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your free miniature and coin this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-dec01-1-feature-3ov5zs6oks.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The Divine Prince returns to Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ufdc58kz/sunday-preview-the-divine-prince-returns-to-necromunda</link>
@@ -266,17 +277,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-nov25-1-feature-9sriq7hvte.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Play hide and seek with Shelob™, Gollum™, and a new Middle-earth™ journal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8qvzbgol/play-hide-and-seek-with-shelobtm-gollumtm-and-a-new-middle-earthtm-journal</link>
-            <guid>8qvzbgol</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Horrible things wait in Cirith Ungol™.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-xtotczdaxg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
