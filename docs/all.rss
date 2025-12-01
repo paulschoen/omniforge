@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 14:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 15:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Miniature of the Year 2025: Vote for your favourites and enter a competition to win the best]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1geonm0v/miniature-of-the-year-2025-vote-for-your-favourites-and-enter-a-competition-to-win-the-best</link>
+            <guid>1geonm0v</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pick the best in three categories.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofyear2025-dec01-1-feature-sgfzwzyhji.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Grotmas Calendar Hub]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ggzuywtd/the-grotmas-calendar-hub</link>
@@ -265,18 +274,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_reclamation-update_thumbnail_1920x1080_v2-4dg76hbhhj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brave a void ship overrun with Tyranids in the next free update for Space Marine 2]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qtmimgx3/brave-a-void-ship-overrun-with-tyranids-in-the-next-free-update-for-space-marine-2</link>
-            <guid>qtmimgx3</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, new cosmetics for the Blood Angels and Salamanders are here.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-nov25-1-feature-j6ilq8tumi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
