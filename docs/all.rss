@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Dec 2025 13:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 14:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 2 – The Helsmiths of Hashut join the battle for Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4mnabgwa/grotmas-calendar-day-2-the-helsmiths-of-hashut-join-the-battle-for-ghyran</link>
+            <guid>4mnabgwa</guid>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A scourge on the Realm of Life.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas2-dec02-1-feature-r1zh4joyog.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf explores the design of Warhammer Quest: Darkwater in issue 519]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/81zexnir/white-dwarf-explores-the-design-of-warhammer-quest-darkwater-in-issue-519</link>
@@ -267,16 +279,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_teaser16x9-bxrufgfgwn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer TV team break out of the studio to play Warhammer 40,000 in an end-of-season special]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wjazou8l/the-warhammer-tv-team-break-out-of-the-studio-to-play-warhammer-40000-in-an-end-of-season-special</link>
-            <guid>wjazou8l</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three new shows to check out this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-nov26-1-feature-utkwk3jfgg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
