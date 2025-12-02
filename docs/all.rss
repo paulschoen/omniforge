@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Dec 2025 14:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 15:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Vote for your favourite Black Library book of 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xk95c67a/vote-for-your-favourite-black-library-book-of-2025</link>
+            <guid>xk95c67a</guid>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[May the best book win.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2025-dec02-1-feature-zgx3lzy9c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 2 – The Helsmiths of Hashut join the battle for Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4mnabgwa/grotmas-calendar-day-2-the-helsmiths-of-hashut-join-the-battle-for-ghyran</link>
@@ -268,17 +278,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_kitfocus-nov26-1-feature-rzygl0wrgt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2 Part 2 Animation Trailer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rbohr5kw/blacktalon-season-2-part-2-animation-trailer-warhammer</link>
-            <guid>rbohr5kw</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[It's nearly time for the thrilling conclusion to Blacktalon Season 2 as our heroes return once more.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_teaser16x9-bxrufgfgwn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
