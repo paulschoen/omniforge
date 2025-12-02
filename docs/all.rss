@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Dec 2025 12:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 13:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf explores the design of Warhammer Quest: Darkwater in issue 519]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/81zexnir/white-dwarf-explores-the-design-of-warhammer-quest-darkwater-in-issue-519</link>
+            <guid>81zexnir</guid>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s in this month’s issue of White Dwarf.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd519-dec02-1-feature-yfwtai11f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 2nd of December]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xflgzrsj/the-rumour-engine-2nd-of-december</link>
@@ -266,16 +277,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-nov26-1-feature-utkwk3jfgg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The trailer for the second half of Blacktalon Season 2 is here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rn1dsrmz/the-trailer-for-the-second-half-of-blacktalon-season-2-is-here</link>
-            <guid>rn1dsrmz</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Neave faces her past and fights for Hammerhal’s future.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_s2p2-nov26-1-feature-je34lelupy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
