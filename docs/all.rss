@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Dec 2025 17:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 12:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 2nd of December]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xflgzrsj/the-rumour-engine-2nd-of-december</link>
+            <guid>xflgzrsj</guid>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec02-1-feature-no8nlxjc9h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer World Protests: Agreement Reached]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/vosyetnt/warhammer-world-protests-agreement-reached</link>
@@ -266,16 +276,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_s2p2-nov26-1-feature-je34lelupy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Tactical Rocks | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/9vshkkeb/how-to-paint-tactical-rocks-warhammer</link>
-            <guid>9vshkkeb</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tactical rocks have an important role to play in how our miniatures look. They’re great for world building, allowing for more dynamic and interesting poses, and of course making your favourite characters stand big and tall amongst the rest of your army! Tune in to see Ollie show you four simple ways to paint them!]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01293-rocks-paxkaawjic.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
