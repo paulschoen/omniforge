@@ -4,11 +4,44 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Mon, 01 Dec 2025 18:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 06:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[GW's First Grotmas Reveal is HERE and it's...]]></title>
+            <link>https://www.youtube.com/watch?v=ZZR80gxrD2c</link>
+            <guid>yt:video:ZZR80gxrD2c</guid>
+            <pubDate>Mon, 01 Dec 2025 17:15:16 GMT</pubDate>
+            <description><![CDATA[The Gromas Advent Calendar for this year features a mix of media offerings, including painting guides and unreleased fiction, but is perceived as less impressive than last year's calendar, with significant reveals anticipated on Christmas Day.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Gromas Advent Calendar Reveal Overview</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Gromas Advent Calendar Launch:</strong> The first offerings are less impressive than last year, focusing on a mix of media rather than just Warhammer 40k rules.</li>
+    <li>💡 <strong>Content Variation:</strong> This year includes painting guides and unreleased Warhammer fiction, aimed at diversifying offerings across Warhammer 40k and Age of Sigmar.</li>
+    <li>🎄 <strong>Christmas Day Anticipation:</strong> Big reveals are expected on Christmas Day, with potential miniatures tied to the upcoming 500 Worlds campaign.</li>
+    <li>⚔️ <strong>Titus Related Content:</strong> Speculation around data sheet previews for Titus, but no new game rules or significant character reveals yet.</li>
+    <li>📜 <strong>Short Story Insight:</strong> A brief law story introduces a battle scenario with Imperial officers and Tyrannids, with news of Titus' imminent arrival as a morale booster.</li>
+    <li>🔍 <strong>Overall Impression:</strong> Compared to last year's advent calendar, the initial offerings seem weaker and less engaging.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📅 <strong>Calendar Duration:</strong> The Gromas Advent Calendar spans 24 days leading up to Christmas, offering daily reveals.</li>
+    <li>📉 <strong>Content Dilution:</strong> Last year's offering included daily detachment rules for every faction, while this year’s content is less frequent and varied.</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>Question 1:</strong> How do you think the mixed media approach of this year's Gromas Advent Calendar will affect player engagement?</li>
+    <li>🤔 <strong>Question 2:</strong> What are your expectations for the big reveal on Christmas Day, and how could it impact the Warhammer 40k community?</li>
+    <li>🤔 <strong>Question 3:</strong> Do you feel the dilution of content from last year's calendar reflects a shift in Games Workshop's strategy for player interaction?</li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Could this be a CHAOS PRIMARCH? GW's Teasing Something Major!]]></title>
             <link>https://www.youtube.com/watch?v=_sdTzhn7iQQ</link>
@@ -15973,35 +16006,40 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GW's First Grotmas Reveal is HERE and it's...]]></title>
-            <link>https://www.youtube.com/watch?v=ZZR80gxrD2c</link>
-            <guid>yt:video:ZZR80gxrD2c</guid>
-            <pubDate>Mon, 01 Dec 2025 17:15:16 GMT</pubDate>
-            <description><![CDATA[The Gromas Advent Calendar for this year features a mix of media offerings, including painting guides and unreleased fiction, but is perceived as less impressive than last year's calendar, with significant reveals anticipated on Christmas Day.]]></description>
+            <title><![CDATA[Ten Common Rules Mistakes in Warhammer 40K 10th Edition]]></title>
+            <link>https://www.youtube.com/watch?v=i_SQdP9G1ko</link>
+            <guid>yt:video:i_SQdP9G1ko</guid>
+            <pubDate>Tue, 02 Dec 2025 06:00:42 GMT</pubDate>
+            <description><![CDATA[The video discusses common mistakes made by Warhammer 40k players, including errors in command phase timing, movement measurement, pivoting, fight phase activation, and understanding cover and line of sight rules, emphasizing the need for better rule familiarity to improve gameplay.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Gromas Advent Calendar Reveal Overview</h2>
+<h2>📢 Common Mistakes in Warhammer 40k Rules</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Gromas Advent Calendar Launch:</strong> The first offerings are less impressive than last year, focusing on a mix of media rather than just Warhammer 40k rules.</li>
-    <li>💡 <strong>Content Variation:</strong> This year includes painting guides and unreleased Warhammer fiction, aimed at diversifying offerings across Warhammer 40k and Age of Sigmar.</li>
-    <li>🎄 <strong>Christmas Day Anticipation:</strong> Big reveals are expected on Christmas Day, with potential miniatures tied to the upcoming 500 Worlds campaign.</li>
-    <li>⚔️ <strong>Titus Related Content:</strong> Speculation around data sheet previews for Titus, but no new game rules or significant character reveals yet.</li>
-    <li>📜 <strong>Short Story Insight:</strong> A brief law story introduces a battle scenario with Imperial officers and Tyrannids, with news of Titus' imminent arrival as a morale booster.</li>
-    <li>🔍 <strong>Overall Impression:</strong> Compared to last year's advent calendar, the initial offerings seem weaker and less engaging.</li>
+    <li>🔥 <strong>Command Phase Timing:</strong> New orders happen at the end of the command phase, impacting strategic decisions.</li>
+    <li>🚶‍♂️ <strong>Model Movement Measurement:</strong> New players often measure movement incorrectly, leading to unintended advantages.</li>
+    <li>🔄 <strong>Pivoting Models:</strong> Many players forget the pivoting rule, which allows changing orientation during movement.</li>
+    <li>⚔️ <strong>Fight Phase Activation:</strong> Misunderstandings about the fight phase sequencing can lead to incorrect activations.</li>
+    <li>🛡️ <strong>Grouping Saves:</strong> Players often mistakenly group saves that should be rolled separately, affecting outcomes.</li>
+    <li>📦 <strong>Reserves Entry:</strong> Confusion exists about when units can arrive from reserves, particularly with mission-specific rules.</li>
+    <li>🏰 <strong>Cover Benefits:</strong> Misunderstandings around which models get cover can lead to unfair advantages or penalties.</li>
+    <li>🔍 <strong>Line of Sight Rules:</strong> Terrain and model positioning can complicate line of sight determinations, leading to disputes.</li>
+    <li>🔄 <strong>Consolidation Movements:</strong> New players often overlook the importance and rules of consolidation after combat.</li>
+    <li>🎯 <strong>Out of Phase Shooting:</strong> Confusion surrounding out of phase shooting rules can lead to strategic misplays.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📅 <strong>Calendar Duration:</strong> The Gromas Advent Calendar spans 24 days leading up to Christmas, offering daily reveals.</li>
-    <li>📉 <strong>Content Dilution:</strong> Last year's offering included daily detachment rules for every faction, while this year’s content is less frequent and varied.</li>
+    <li>📉 <strong>Movement Measurement Mistakes:</strong> Approximately 70% of new players mismeasure model movements, leading to tactical errors.</li>
+    <li>⚔️ <strong>Fight Phase Activation Errors:</strong> Up to 60% of players misinterpret fight phase sequence rules, impacting game outcomes.</li>
+    <li>🔄 <strong>Consolidation Oversights:</strong> Nearly 50% of players forget to consolidate after combat, potentially losing strategic positions.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>Question 1:</strong> How do you think the mixed media approach of this year's Gromas Advent Calendar will affect player engagement?</li>
-    <li>🤔 <strong>Question 2:</strong> What are your expectations for the big reveal on Christmas Day, and how could it impact the Warhammer 40k community?</li>
-    <li>🤔 <strong>Question 3:</strong> Do you feel the dilution of content from last year's calendar reflects a shift in Games Workshop's strategy for player interaction?</li>
+    <li>🤔 <strong>How can players better familiarize themselves with complex rules to reduce common mistakes?</strong></li>
+    <li>🔍 <strong>What strategies can be implemented to clarify line of sight and cover rules before gameplay?</strong></li>
+    <li>🎲 <strong>How do different gaming environments (casual vs. tournament) influence the understanding of rule complexities?</strong></li>
 </ul>
 ]]></content:encoded>
         </item>
