@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Dec 2025 16:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 18:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -19,6 +19,17 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/li_ruinofthesalamanders-dec02-1-feature-d3wlazetbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 3 – Loyalist Legion painting guide]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6qpc8cnl/grotmas-calendar-day-3-loyalist-legion-painting-guide</link>
+            <guid>6qpc8cnl</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Improve your Loyalist Legions with these painting tips.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas3-dec03-1-feature-sajalslbin.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blacktalon Season 2, Episode 4 Trailer – Harvest | Warhammer]]></title>
@@ -268,19 +279,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_secretlevel-nov28-1-feature-d7b13ulb4n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fans Protest at Warhammer World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wargutl7/fans-protest-at-warhammer-world</link>
-            <guid>wargutl7</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[We have partnered with Calth News to bring you exclusive footage of the demonstration mounted by passionate fans at Warhammer World, the spiritual home of the Warhammer hobby. More to come as this story unfolds.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/umprotest-feature-2zq6pr8j8u.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
