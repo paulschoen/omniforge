@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Dec 2025 14:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 15:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Help the Salamanders survive the killing fields of Isstvan V in the next supplement for Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cgqb3im5/help-the-salamanders-survive-the-killing-fields-of-isstvan-v-in-the-next-supplement-for-legions-imperialis</link>
+            <guid>cgqb3im5</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer Studio discuss the upcoming book.]]></description>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/li_ruinofthesalamanders-dec02-1-feature-d3wlazetbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon Season 2, Episode 4 Trailer – Harvest | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/li5jrvti/blacktalon-season-2-episode-4-trailer-harvest-warhammer</link>
@@ -270,16 +281,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_ourheroes-nov27-1-feature-cxxjoaoslt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Meet Gelgus Pust and his foul flock]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eh3emyas/an-adventurers-guide-to-warhammer-quest-darkwater-meet-gelgus-pust-and-his-foul-flock</link>
-            <guid>eh3emyas</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who to watch out for in the Jade Abbey.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_nurgle-nov27-1-feature-glegkbccz0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
