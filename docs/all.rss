@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Dec 2025 15:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 12:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Warhammer Quest: Darkwater | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/uosuswkj/how-to-paint-warhammer-quest-darkwater-warhammer-age-of-sigmar</link>
+            <guid>uosuswkj</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this tutorial, Dan will guide you through how to paint your Warhammer Quest: Darkwater miniatures using just 20 paints! This approach is perfect for beginners and anyone looking to efficiently paint their heroes and scions with a few easy steps, ready to embark on their journey into the Jade Abbey!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01041-learn-to-paint-niagara-thumbnail-gjgubml73s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vote for your favourite Black Library book of 2025]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xk95c67a/vote-for-your-favourite-black-library-book-of-2025</link>
@@ -268,16 +279,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-nov27-1-feature-abfvxyeupr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drink in all the delightful details on the Warhammer Quest: Darkwater miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j6eudz89/drink-in-all-the-delightful-details-on-the-warhammer-quest-darkwater-miniatures</link>
-            <guid>j6eudz89</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A closer look at the heroes and villains.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_kitfocus-nov26-1-feature-rzygl0wrgt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
