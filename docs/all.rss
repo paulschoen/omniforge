@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Dec 2025 12:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 13:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Season 2, Episode 4 Trailer – Harvest | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/li5jrvti/blacktalon-season-2-episode-4-trailer-harvest-warhammer</link>
+            <guid>li5jrvti</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Distrust blooms among the Blacktalons as Neave and her companions reflect on the heavy price of service to Sigmar, in Episode 4 of Blacktalon Season 2.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhamer-plus">Warhamer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep4_16x9-lblgjsncvv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New episodes of Blacktalon start today on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wy5sonbu/new-episodes-of-blacktalon-start-today-on-warhammer-tv</link>
+            <guid>wy5sonbu</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The animated series continues.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-dec03-1-feature-ip7nplogdh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Warhammer Quest: Darkwater | Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/uosuswkj/how-to-paint-warhammer-quest-darkwater-warhammer-age-of-sigmar</link>
@@ -258,27 +281,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_ourheroes-nov27-1-feature-cxxjoaoslt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An adventurer’s guide to Warhammer Quest: Darkwater – Meet Gelgus Pust and his foul flock]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eh3emyas/an-adventurers-guide-to-warhammer-quest-darkwater-meet-gelgus-pust-and-his-foul-flock</link>
-            <guid>eh3emyas</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who to watch out for in the Jade Abbey.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_nurgle-nov27-1-feature-glegkbccz0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spend a whole weekend playing Warhammer Underworlds – and more – at Warhammer World in March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9cwjsdse/spend-a-whole-weekend-playing-warhammer-underworlds-and-more-at-warhammer-world-in-march</link>
-            <guid>9cwjsdse</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Next year’s events calendar continues to grow.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-nov27-1-feature-abfvxyeupr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
