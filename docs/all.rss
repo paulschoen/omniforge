@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Dec 2025 18:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 13:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[What’s been happening on Necromunda? Catch up on the story in time for Spire of Primus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/emnpl3j1/whats-been-happening-on-necromunda-catch-up-on-the-story-in-time-for-spire-of-primus</link>
+            <guid>emnpl3j1</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A quick overview of the Necromunda narrative.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_lore-dec04-1-feature-fvwrbsbfzs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Help the Salamanders survive the killing fields of Isstvan V in the next supplement for Legions Imperialis]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cgqb3im5/help-the-salamanders-survive-the-killing-fields-of-isstvan-v-in-the-next-supplement-for-legions-imperialis</link>
@@ -269,16 +279,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_trollslayer-nov28-1-feature-spfmtzxcsd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Titus, Metaurus, and co. step from Secret Level onto your shelf with new JOYTOY action figures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/45asex8s/titus-metaurus-and-co-step-from-secret-level-onto-your-shelf-with-new-joytoy-action-figures</link>
-            <guid>45asex8s</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New action figures and more to celebrate a year since their on-screen adventure.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_secretlevel-nov28-1-feature-d7b13ulb4n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
