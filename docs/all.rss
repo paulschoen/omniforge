@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Dec 2025 13:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 14:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 4 – A bone-chilling tale]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kpctm3l6/grotmas-calendar-day-4-a-bone-chilling-tale</link>
+            <guid>kpctm3l6</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A spooky serenade.]]></description>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas4-dec04-1-feature-dajy7hkml9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What’s been happening on Necromunda? Catch up on the story in time for Spire of Primus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/emnpl3j1/whats-been-happening-on-necromunda-catch-up-on-the-story-in-time-for-spire-of-primus</link>
@@ -269,16 +281,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whq_influencervillains-nov28-1-feature-dewo3e74zk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate the enduring legacy of Gotrek with a stunning, loot-filled special edition of inaugural novel Trollslayer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3xvuceyy/celebrate-the-enduring-legacy-of-gotrek-with-a-stunning-loot-filled-special-edition-of-inaugural-novel-trollslayer</link>
-            <guid>3xvuceyy</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Trollslayer returns with a mega limited edition.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_trollslayer-nov28-1-feature-spfmtzxcsd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
