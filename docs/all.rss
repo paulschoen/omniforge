@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 00:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 09:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -19,6 +19,54 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dow_trailer-dec04-1-feature-oj9lvbjjwg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV Story Trailer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hk4bqsz3/warhammer-40000-dawn-of-war-iv-story-trailer-warhammer</link>
+            <guid>hk4bqsz3</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The release of Warhammer 40,000: Dawn of War IV draws closer! Check out the new story trailer now, and find out which faction will be gracing your screens alongside the Orks and Blood Ravens.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dow-xktiexioqf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Total War: WARHAMMER III - Tides of Torment OUT NOW!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/a5i6mfqt/total-war-warhammer-iii-tides-of-torment-out-now</link>
+            <guid>a5i6mfqt</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The day has come for Aislinn, Dechala, and Sayl to join the ranks of Total War: WARHAMMER III alongside patch 7.0 
+
+Not only that, Immortal Empires is now unlocked for owners of Total War: WARHAMMER I and WARHAMMER II]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/tides-zyucsjzxwv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Total War: WARHAMMER III - Lords of the End Times - Campaign Fly Over]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kszyc54v/total-war-warhammer-iii-lords-of-the-end-times-campaign-fly-over</link>
+            <guid>kszyc54v</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Taking inspiration from the lore, players will face a campaign experience transformed, with apocalyptic scenarios and cataclysmic events that push the boundaries of strategy and survival.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/flyover-o4qoesmfaq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Total War: Warhammer III - Lords of the End Times | Announce Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8pye1irx/total-war-warhammer-iii-lords-of-the-end-times-announce-trailer</link>
+            <guid>8pye1irx</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nagash, the great necromancer himself. Long whispered about in the darkest corners of the lore, he returns with one goal: to drown the world in undeath.
+
+Lords of the End Times — the next DLC for Total War: Warhammer III — is coming summer 2026.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/endtimes-d0nbddayfc.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[Can you survive the apocalypse? The Lords of the End Times are coming to Total War: Warhammer III]]></title>
@@ -80,6 +128,7 @@
             <guid>li5jrvti</guid>
             <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Distrust blooms among the Blacktalons as Neave and her companions reflect on the heavy price of service to Sigmar, in Episode 4 of Blacktalon Season 2.]]></description>
+            <category domain="animations">Animations</category>
             <category domain="videos">Videos</category>
             <category domain="warhamer-plus">Warhamer Plus</category>
             <category>videos</category>
@@ -228,59 +277,6 @@
             <category domain="sunday-preview">Sunday preview</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov30-1-feature-lofy9dhvao.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘UltraMad’ protest – official statement issued]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gewaspxo/ultramad-protest-official-statement-issued</link>
-            <guid>gewaspxo</guid>
-            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our partners at Calth News have provided an update on the demonstrations demanding ‘More Ultramarines, More Often’ outside Warhammer headquarters, Nottingham. Now in their third day, the protest shows no signs of abating. 
-
-The Warhammer Studio has now responded with an official statement.
-
-How long can this last? We’ll have more on Warhammer Community as the situation unfolds. 
-
-Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/umprotest-feature-2-iqtqizz4lb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Team up and cast out Gelgus Pust in Warhammer Quest: Darkwater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z4npqhea/saturday-pre-orders-team-up-and-cast-out-gelgus-pust-in-warhammer-quest-darkwater</link>
-            <guid>z4npqhea</guid>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-nov29-1-feature-ndhqwdfpse.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Speed Freeks - Creation Workshop Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4lix02cy/warhammer-40000-speed-freeks-creation-workshop-trailer</link>
-            <guid>4lix02cy</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Now players can create, share, and play custom racetracks/maps in Warhammer 40,000: Speed Freeks, using the new Creation Workshop!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/workshop-thumbnail-n1qaoh43iu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Winter Season 2025 Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/3fvhkkbs/warhammer-tv-winter-season-2025-trailer</link>
-            <guid>3fvhkkbs</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season of Warhammer TV is on the way, featuring more lore, more games, and more laughs with your favourite presenters.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/winter-season-thumb-nnytel07tz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
