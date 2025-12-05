@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 13:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 5 – Veteran Detachments for the Astra Militarum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gjcfhp0x/grotmas-calendar-day-5-veteran-detachments-for-the-astra-militarum</link>
+            <guid>gjcfhp0x</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first new Detachment from the calendar.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas5-dec05-1-feature-mjxxregkeu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Studio staff paint new Necromunda ready for Spire of Primus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/chb6cr7x/the-warhammer-studio-staff-paint-new-necromunda-ready-for-spire-of-primus</link>
@@ -267,15 +279,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/boxingdayreveals-dec01-1-feature-nsutfwbors.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miniature of the Year 2025: Vote for your favourites and enter a competition to win the best]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1geonm0v/miniature-of-the-year-2025-vote-for-your-favourites-and-enter-a-competition-to-win-the-best</link>
-            <guid>1geonm0v</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pick the best in three categories.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofyear2025-dec01-1-feature-sgfzwzyhji.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
