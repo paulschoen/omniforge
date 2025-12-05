@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 15:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Adeptus Mechanicus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vluhyona/warhammer-art-through-the-years-adeptus-mechanicus</link>
+            <guid>vluhyona</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Art for the Omnissiah.]]></description>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art10_admech-dec05-1-feature-e1s5pnktcp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 5 – Veteran Detachments for the Astra Militarum]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gjcfhp0x/grotmas-calendar-day-5-veteran-detachments-for-the-astra-militarum</link>
@@ -269,16 +280,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="space-marines">Space Marines</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/umprotest-feature-3-67nmgwuwsc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An avian Arch-Knight and leaping Kroot Carnivore return as this year’s Boxing Day Miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/noz8yycy/an-avian-arch-knight-and-leaping-kroot-carnivore-return-as-this-years-boxing-day-miniatures</link>
-            <guid>noz8yycy</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Order them in-store or online from early January.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/boxingdayreveals-dec01-1-feature-nsutfwbors.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
