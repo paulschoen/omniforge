@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 09:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 12:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: T’au Empire]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/icnhqxvv/warhammer-art-through-the-years-tau-empire</link>
+            <guid>icnhqxvv</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A gallery for the Greater Good.]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art8_tau-nov21-1-feature-qie587ykuh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u69fxnc8/the-hammerhal-herald-drink-to-your-good-health-with-aqua-ghyranis-from-the-jade-abbey</link>
+            <guid>u69fxnc8</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just one sip and you’ll be right as rain.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="hammerhal-herald">Hammerhal Herald</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whq_hammerhalherald-nov21-1-feature-lushrpvqll.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/amsujx55/the-blood-ravens-are-not-alone-in-a-new-warhammer-40000-dawn-of-war-iv-story-trailer</link>
@@ -30,6 +52,18 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dow-xktiexioqf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heroes of the First Founding – A Curbing of Excess]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bivrlanu/heroes-of-the-first-founding-a-curbing-of-excess</link>
+            <guid>bivrlanu</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Short fiction starring the Ultramarines’ Master of Rites.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ferrenstory-nov18-1-feature-hhwemzmbzz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Total War: WARHAMMER III - Tides of Torment OUT NOW!]]></title>
@@ -239,44 +273,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <description><![CDATA[A new gift every day.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmascalendar_hub-dec01-1-feature-bbrcjegeau.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 1 – Titus arrives in Ultramar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1zh6qkxk/grotmas-calendar-day-1-titus-arrives-in-ultramar</link>
-            <guid>1zh6qkxk</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Free fiction from the Grotmas Calendar.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas1-dec01-1-feature-mk0kc2yy7v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join the long vigil to receive a free miniature this month, plus score a Helsmiths of Hashut coin]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/skhceyst/join-the-long-vigil-to-receive-a-free-miniature-this-month-plus-score-a-helsmiths-of-hashut-coin</link>
-            <guid>skhceyst</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your free miniature and coin this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-dec01-1-feature-3ov5zs6oks.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The Divine Prince returns to Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ufdc58kz/sunday-preview-the-divine-prince-returns-to-necromunda</link>
-            <guid>ufdc58kz</guid>
-            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-nov30-1-feature-lofy9dhvao.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
