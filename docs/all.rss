@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Dec 2025 17:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 00:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/amsujx55/the-blood-ravens-are-not-alone-in-a-new-warhammer-40000-dawn-of-war-iv-story-trailer</link>
+            <guid>amsujx55</guid>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reinforcements are on the way.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dow_trailer-dec04-1-feature-oj9lvbjjwg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can you survive the apocalypse? The Lords of the End Times are coming to Total War: Warhammer III]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ao9ioms3/can-you-survive-the-apocalypse-the-lords-of-the-end-times-are-coming-to-total-war-warhammer-iii</link>
@@ -270,17 +281,6 @@ Let your voice be heard by email at: UltramarineBlues@gwplc.com]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/winter-season-thumb-nnytel07tz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Death Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fnpyuuam/warhammer-art-through-the-years-death-guard</link>
-            <guid>fnpyuuam</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Prepare to enjoy a lot of green.]]></description>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art9_deathguard-nov21-1-feature-jznr3hrtv5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
