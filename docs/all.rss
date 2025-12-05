@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 12:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 13:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Studio staff paint new Necromunda ready for Spire of Primus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/chb6cr7x/the-warhammer-studio-staff-paint-new-necromunda-ready-for-spire-of-primus</link>
+            <guid>chb6cr7x</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Extra examples of Ozostium Aranthus and co.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_sdspaints-dec05-1-feature-11n8tjcejl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: T’au Empire]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/icnhqxvv/warhammer-art-through-the-years-tau-empire</link>
@@ -264,15 +276,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <description><![CDATA[Pick the best in three categories.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofyear2025-dec01-1-feature-sgfzwzyhji.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Grotmas Calendar Hub]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ggzuywtd/the-grotmas-calendar-hub</link>
-            <guid>ggzuywtd</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new gift every day.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmascalendar_hub-dec01-1-feature-bbrcjegeau.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
