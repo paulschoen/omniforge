@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 06 Dec 2025 16:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 18:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Battle for the throne of Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6g6qtn2i/saturday-pre-orders-battle-for-the-throne-of-necromunda</link>
+            <guid>6g6qtn2i</guid>
+            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-dec06-1-feature-p03rkncvpp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 6 – Terrify and terminate with a new Chaos Space Marines Detachment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kdtvqqh5/grotmas-calendar-day-6-terrify-and-terminate-with-a-new-chaos-space-marines-detachment</link>
@@ -270,16 +284,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd519-dec02-1-feature-yfwtai11f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 2nd of December]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xflgzrsj/the-rumour-engine-2nd-of-december</link>
-            <guid>xflgzrsj</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec02-1-feature-no8nlxjc9h.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
