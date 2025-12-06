@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Dec 2025 15:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 16:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 6 – Terrify and terminate with a new Chaos Space Marines Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kdtvqqh5/grotmas-calendar-day-6-terrify-and-terminate-with-a-new-chaos-space-marines-detachment</link>
+            <guid>kdtvqqh5</guid>
+            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out a new Detachment for Warhammer 40,000.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas6-dec06-1-feature-e9txe61kmd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Adeptus Mechanicus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vluhyona/warhammer-art-through-the-years-adeptus-mechanicus</link>
@@ -268,18 +280,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-dec02-1-feature-no8nlxjc9h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer World Protests: Agreement Reached]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/vosyetnt/warhammer-world-protests-agreement-reached</link>
-            <guid>vosyetnt</guid>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[UltraMad demonstrations have ended after four days. Here’s what happened.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/umprotest-feature-3-67nmgwuwsc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
