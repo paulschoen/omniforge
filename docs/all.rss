@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 06 Dec 2025 18:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 16:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 7 – Embrace the tragic madness of the Blood Angels with a new Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zwxq77pl/grotmas-calendar-day-7-embrace-the-tragic-madness-of-the-blood-angels-with-a-new-detachment</link>
+            <guid>zwxq77pl</guid>
+            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Turn blind rage into victory with loads of Death Company Space Marines.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas7-dec07-1-feature-of2v4lqvjo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Battle for the throne of Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6g6qtn2i/saturday-pre-orders-battle-for-the-throne-of-necromunda</link>
@@ -273,17 +285,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas2-dec02-1-feature-r1zh4joyog.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf explores the design of Warhammer Quest: Darkwater in issue 519]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/81zexnir/white-dwarf-explores-the-design-of-warhammer-quest-darkwater-in-issue-519</link>
-            <guid>81zexnir</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s in this month’s issue of White Dwarf.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd519-dec02-1-feature-yfwtai11f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
