@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 07 Dec 2025 16:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 18:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Festive squig clothing returns!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zispb7vp/sunday-preview-festive-squig-clothing-returns</link>
+            <guid>zispb7vp</guid>
+            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your preview of everything available next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec07-1-feature-a1bkpzn7gc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 7 – Embrace the tragic madness of the Blood Angels with a new Detachment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zwxq77pl/grotmas-calendar-day-7-embrace-the-tragic-madness-of-the-blood-angels-with-a-new-detachment</link>
@@ -273,18 +286,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2025-dec02-1-feature-zgx3lzy9c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 2 – The Helsmiths of Hashut join the battle for Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4mnabgwa/grotmas-calendar-day-2-the-helsmiths-of-hashut-join-the-battle-for-ghyran</link>
-            <guid>4mnabgwa</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A scourge on the Realm of Life.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas2-dec02-1-feature-r1zh4joyog.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
