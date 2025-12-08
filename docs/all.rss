@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 08 Dec 2025 13:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 14:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 8 – Speed into action with a Harlequins-focused Aeldari Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jknyq6ds/grotmas-calendar-day-8-speed-into-action-with-a-harlequins-focused-aeldari-detachment</link>
+            <guid>jknyq6ds</guid>
+            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Leap aboard your transports and boost into the fray.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas8-dec08-1-feature-1yeqoobwsm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Build a Mechanicus-themed Battlezone with a Christmas Made to Order terrain drop]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ofvfo32r/build-a-mechanicus-themed-battlezone-with-a-christmas-made-to-order-terrain-drop</link>
@@ -275,17 +287,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-dec03-1-feature-ip7nplogdh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Warhammer Quest: Darkwater | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/uosuswkj/how-to-paint-warhammer-quest-darkwater-warhammer-age-of-sigmar</link>
-            <guid>uosuswkj</guid>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In this tutorial, Dan will guide you through how to paint your Warhammer Quest: Darkwater miniatures using just 20 paints! This approach is perfect for beginners and anyone looking to efficiently paint their heroes and scions with a few easy steps, ready to embark on their journey into the Jade Abbey!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01041-learn-to-paint-niagara-thumbnail-gjgubml73s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
