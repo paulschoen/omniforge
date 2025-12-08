@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 07 Dec 2025 18:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 13:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Build a Mechanicus-themed Battlezone with a Christmas Made to Order terrain drop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ofvfo32r/build-a-mechanicus-themed-battlezone-with-a-christmas-made-to-order-terrain-drop</link>
+            <guid>ofvfo32r</guid>
+            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Order some terrain over the holidays.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_mto-dec08-1-feature-lins6e3bqt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Festive squig clothing returns!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zispb7vp/sunday-preview-festive-squig-clothing-returns</link>
@@ -276,16 +286,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01041-learn-to-paint-niagara-thumbnail-gjgubml73s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vote for your favourite Black Library book of 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xk95c67a/vote-for-your-favourite-black-library-book-of-2025</link>
-            <guid>xk95c67a</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[May the best book win.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_bookoftheyear2025-dec02-1-feature-zgx3lzy9c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
