@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Dec 2025 10:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 11:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Red Skin | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/taf6sccb/how-to-paint-red-skin-warhammer</link>
+            <guid>taf6sccb</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[In both Warhammer 40,000 and Age of Sigmar, red skin appears far more often than you might think. Squigs and daemons of Khorne run rampant in both the grim dark future and the Mortal Realms, so knowing how to paint them is a pretty handy skill to have up your sleeve!]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01299-thumbnail-qgdihbuq1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Abaddon the Despoiler reigns supreme over the JOYTOY range]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o4zet2kw/abaddon-the-despoiler-reigns-supreme-over-the-joytoy-range</link>
@@ -273,18 +283,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas3-dec03-1-feature-sajalslbin.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2, Episode 4 Trailer – Harvest | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/li5jrvti/blacktalon-season-2-episode-4-trailer-harvest-warhammer</link>
-            <guid>li5jrvti</guid>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Distrust blooms among the Blacktalons as Neave and her companions reflect on the heavy price of service to Sigmar, in Episode 4 of Blacktalon Season 2.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhamer-plus">Warhamer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep4_16x9-lblgjsncvv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
