@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Dec 2025 11:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 13:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 9th of December]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/h0ufv5ot/the-rumour-engine-9th-of-december</link>
+            <guid>h0ufv5ot</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec09-1-feature-vov2uxjghi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Red Skin | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/taf6sccb/how-to-paint-red-skin-warhammer</link>
@@ -272,17 +282,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/li_ruinofthesalamanders-dec02-1-feature-d3wlazetbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 3 – Loyalist Legion painting guide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6qpc8cnl/grotmas-calendar-day-3-loyalist-legion-painting-guide</link>
-            <guid>6qpc8cnl</guid>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Improve your Loyalist Legions with these painting tips.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas3-dec03-1-feature-sajalslbin.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
