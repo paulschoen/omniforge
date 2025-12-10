@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 09 Dec 2025 14:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 11:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 10 – Unleash the Great Wolf in a ferocious new Space Wolves Detachment]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u1hmzoaa/grotmas-calendar-day-10-unleash-the-great-wolf-in-a-ferocious-new-space-wolves-detachment</link>
+            <guid>u1hmzoaa</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Logan Grimnar is ready to take heads.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas10-dec10-1-feature-g6fwohgjn8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Warhammer 40,000 Quarterly Balance Update – December 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/aptyn7c9/the-warhammer-40000-quarterly-balance-update-december-2025</link>
+            <guid>aptyn7c9</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s changed for the factions of the 41st Millennium.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-dec10-1-feature-knrzu2aczu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 9 – The new Emperor’s Children Detachment puts Fulgrim on his rightful pedestal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/urg6llwf/grotmas-calendar-day-9-the-new-emperors-children-detachment-puts-fulgrim-on-his-rightful-pedestal</link>
@@ -261,28 +285,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="video-games">Video Games</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/twwh3-endtimestrailer-dec04-1-feature-eqi8uhf0lb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 4 – A bone-chilling tale]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kpctm3l6/grotmas-calendar-day-4-a-bone-chilling-tale</link>
-            <guid>kpctm3l6</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A spooky serenade.]]></description>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas4-dec04-1-feature-dajy7hkml9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s been happening on Necromunda? Catch up on the story in time for Spire of Primus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/emnpl3j1/whats-been-happening-on-necromunda-catch-up-on-the-story-in-time-for-spire-of-primus</link>
-            <guid>emnpl3j1</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A quick overview of the Necromunda narrative.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_lore-dec04-1-feature-fvwrbsbfzs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
