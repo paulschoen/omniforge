@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Dec 2025 15:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 16:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ave Imperator: His Angels | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qnstf9ps/tbc-warhammer-christmas-animation</link>
+            <guid>qnstf9ps</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow for more Warhammer, more often]]></description>
+            <category domain="animations">Animations</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01870_thumbnail_opt-4_final-sqnvwjhkog.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch a free new animated vignette – Ave Imperator: His Angels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/khmxkhcv/watch-a-free-new-animated-vignette-ave-imperator-his-angels</link>
+            <guid>khmxkhcv</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A Warhammer-flavoured Christmas animation]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/xmasanimation-dec10-1-feature-8zqp5olgae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Era of Ruin Special Edition update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e6nmstah/era-of-ruin-special-edition-update</link>
@@ -260,29 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dow_trailer-dec04-1-feature-oj9lvbjjwg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV Story Trailer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hk4bqsz3/warhammer-40000-dawn-of-war-iv-story-trailer-warhammer</link>
-            <guid>hk4bqsz3</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The release of Warhammer 40,000: Dawn of War IV draws closer! Check out the new story trailer now, and find out which faction will be gracing your screens alongside the Orks and Blood Ravens.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dow-xktiexioqf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heroes of the First Founding – A Curbing of Excess]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bivrlanu/heroes-of-the-first-founding-a-curbing-of-excess</link>
-            <guid>bivrlanu</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Short fiction starring the Ultramarines’ Master of Rites.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_ferrenstory-nov18-1-feature-hhwemzmbzz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
