@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Dec 2025 13:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 14:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Paraih Nexus First Three Minutes | Warhammer 40,000 | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/5ji0fg8j/paraih-nexus-first-three-minutes-warhammer-40000-warhammer</link>
+            <guid>5ji0fg8j</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow for more Warhammer, more often]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pariah-nexus_thumbs_16x9-ngfsvsjiaa.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Go behind the scenes of Pariah Nexus with Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pp6bwvuu/go-behind-the-scenes-of-pariah-nexus-with-warhammer-tv</link>
@@ -274,17 +286,6 @@ Not only that, Immortal Empires is now unlocked for owners of Total War: WARHAMM
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/tides-zyucsjzxwv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: WARHAMMER III - Lords of the End Times - Campaign Fly Over]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kszyc54v/total-war-warhammer-iii-lords-of-the-end-times-campaign-fly-over</link>
-            <guid>kszyc54v</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Taking inspiration from the lore, players will face a campaign experience transformed, with apocalyptic scenarios and cataclysmic events that push the boundaries of strategy and survival.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/flyover-o4qoesmfaq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
