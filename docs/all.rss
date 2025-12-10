@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Dec 2025 11:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 12:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sharing Your Ultra-struggles | Reaction | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/txivfyhr/sharing-your-ultra-struggles-reaction-warhammer-40000</link>
+            <guid>txivfyhr</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Ultramarines madness gripping Warhammer World has finally ended, and your emails have flooded the UltramarineBlues inbox. Here, we read your UltraMad emails and react to some of the best ones.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01871_video-4_sm-social-video-thumbnail_v1-of852j5w9o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 10 – Unleash the Great Wolf in a ferocious new Space Wolves Detachment]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u1hmzoaa/grotmas-calendar-day-10-unleash-the-great-wolf-in-a-ferocious-new-space-wolves-detachment</link>
@@ -275,16 +288,6 @@ Lords of the End Times — the next DLC for Total War: Warhammer III — is comi
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/endtimes-d0nbddayfc.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[Can you survive the apocalypse? The Lords of the End Times are coming to Total War: Warhammer III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ao9ioms3/can-you-survive-the-apocalypse-the-lords-of-the-end-times-are-coming-to-total-war-warhammer-iii</link>
-            <guid>ao9ioms3</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Legendary Lords inbound!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/twwh3-endtimestrailer-dec04-1-feature-eqi8uhf0lb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
