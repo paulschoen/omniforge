@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Dec 2025 14:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 15:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Era of Ruin Special Edition update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e6nmstah/era-of-ruin-special-edition-update</link>
+            <guid>e6nmstah</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Great Christmas news for fans of Warhammer: The Horus Heresy]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_eraofruin-jan22-feature-skzhzc7s5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paraih Nexus First Three Minutes | Warhammer 40,000 | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/5ji0fg8j/paraih-nexus-first-three-minutes-warhammer-40000-warhammer</link>
@@ -273,19 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_ferrenstory-nov18-1-feature-hhwemzmbzz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: WARHAMMER III - Tides of Torment OUT NOW!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/a5i6mfqt/total-war-warhammer-iii-tides-of-torment-out-now</link>
-            <guid>a5i6mfqt</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The day has come for Aislinn, Dechala, and Sayl to join the ranks of Total War: WARHAMMER III alongside patch 7.0 
-
-Not only that, Immortal Empires is now unlocked for owners of Total War: WARHAMMER I and WARHAMMER II]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/tides-zyucsjzxwv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
