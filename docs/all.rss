@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Dec 2025 16:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 13:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Which Warhammer staffer is the best at the Middle-earth™ Strategy Battle Game? We found out at Throne of Skulls]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cvtwqwd9/which-warhammer-staffer-is-the-best-at-the-middle-earthtm-strategy-battle-game-we-found-out-at-throne-of-skulls</link>
+            <guid>cvtwqwd9</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lewis, Ash, and Danny join the battle between Good and Evil.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-dec12-1-feature-n0ukg9djqt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Quest: Darkwater Official Gameplay Demo | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/gv2qml9t/warhammer-quest-darkwater-official-gameplay-demo-warhammer-age-of-sigmar</link>
+            <guid>gv2qml9t</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out how Warhammer Quest: Darkwater plays on the tabletop, then grab a box and embark on your own adventures in the Jade Abbey!]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/4-player-thumbnail-v4-4uvjsitzon.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Quest: Darkwater Official Learn To Play | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lem0tp2s/warhammer-quest-darkwater-official-learn-to-play-warhammer-age-of-sigmar</link>
+            <guid>lem0tp2s</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out how to play Warhammer Quest: Darkwater with this handy guide to playing your first turns.]]></description>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01825-ltp-thumbnail-3-(0-00-00-00)-7pso14gvtz.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Ave Imperator: His Angels | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qnstf9ps/tbc-warhammer-christmas-animation</link>
@@ -248,39 +280,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_sdspaints-dec05-1-feature-11n8tjcejl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: T’au Empire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/icnhqxvv/warhammer-art-through-the-years-tau-empire</link>
-            <guid>icnhqxvv</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A gallery for the Greater Good.]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art8_tau-nov21-1-feature-qie587ykuh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hammerhal Herald – Drink to your good health with Aqua Ghyranis from the Jade Abbey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u69fxnc8/the-hammerhal-herald-drink-to-your-good-health-with-aqua-ghyranis-from-the-jade-abbey</link>
-            <guid>u69fxnc8</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Just one sip and you’ll be right as rain.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="hammerhal-herald">Hammerhal Herald</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whq_hammerhalherald-nov21-1-feature-lushrpvqll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/amsujx55/the-blood-ravens-are-not-alone-in-a-new-warhammer-40000-dawn-of-war-iv-story-trailer</link>
-            <guid>amsujx55</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reinforcements are on the way.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dow_trailer-dec04-1-feature-oj9lvbjjwg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
