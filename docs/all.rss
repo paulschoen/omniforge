@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Dec 2025 13:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 14:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 12 – The heroes of Darkwater bring the fight to the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fgrfqfgy/grotmas-calendar-day-12-the-heroes-of-darkwater-bring-the-fight-to-the-mortal-realms</link>
+            <guid>fgrfqfgy</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Legends rules for the new Warhammer Quest heroes.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas12-dec12-1-feature-swrjsoy6k7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Necrons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bwzknjdp/warhammer-art-through-the-years-necrons</link>
+            <guid>bwzknjdp</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art111_necrons-dec12-1-feature-gmlzg8p8ra.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Your stories from across 50 years of Games Workshop]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iugngx9s/your-stories-from-across-50-years-of-games-workshop</link>
@@ -257,32 +280,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec07-1-feature-a1bkpzn7gc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 7 – Embrace the tragic madness of the Blood Angels with a new Detachment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zwxq77pl/grotmas-calendar-day-7-embrace-the-tragic-madness-of-the-blood-angels-with-a-new-detachment</link>
-            <guid>zwxq77pl</guid>
-            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Turn blind rage into victory with loads of Death Company Space Marines.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas7-dec07-1-feature-of2v4lqvjo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Battle for the throne of Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6g6qtn2i/saturday-pre-orders-battle-for-the-throne-of-necromunda</link>
-            <guid>6g6qtn2i</guid>
-            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-dec06-1-feature-p03rkncvpp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
