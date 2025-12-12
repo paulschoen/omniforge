@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Dec 2025 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 13:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Your stories from across 50 years of Games Workshop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iugngx9s/your-stories-from-across-50-years-of-games-workshop</link>
+            <guid>iugngx9s</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How did you start your Warhammer hobby?]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/50yearsgw2-dec12-1-feature2-vwq1hcxl6z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Announcing Total War: Warhammer 40,000!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/im0uezy0/announcing-total-war-warhammer-40000</link>
@@ -274,18 +283,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-dec06-1-feature-p03rkncvpp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 6 – Terrify and terminate with a new Chaos Space Marines Detachment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kdtvqqh5/grotmas-calendar-day-6-terrify-and-terminate-with-a-new-chaos-space-marines-detachment</link>
-            <guid>kdtvqqh5</guid>
-            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out a new Detachment for Warhammer 40,000.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas6-dec06-1-feature-e9txe61kmd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
