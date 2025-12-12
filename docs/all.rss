@@ -4,11 +4,27 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Dec 2025 00:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 03:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Announcing Total War: Warhammer 40,000!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/im0uezy0/announcing-total-war-warhammer-40000</link>
+            <guid>im0uezy0</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Award-winning strategy franchise moves into the 41st Millennium]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="aeldari">Aeldari</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/twwft-1-feature-spsucthmt4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Which Warhammer staffer is the best at the Middle-earth™ Strategy Battle Game? We found out at Throne of Skulls]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cvtwqwd9/which-warhammer-staffer-is-the-best-at-the-middle-earthtm-strategy-battle-game-we-found-out-at-throne-of-skulls</link>
@@ -268,18 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas5-dec05-1-feature-mjxxregkeu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Studio staff paint new Necromunda ready for Spire of Primus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/chb6cr7x/the-warhammer-studio-staff-paint-new-necromunda-ready-for-spire-of-primus</link>
-            <guid>chb6cr7x</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Extra examples of Ozostium Aranthus and co.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_sdspaints-dec05-1-feature-11n8tjcejl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
