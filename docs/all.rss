@@ -4,23 +4,11 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Dec 2025 18:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 00:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 11 – Traitor Legion painting guide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/26rmthpl/grotmas-calendar-day-11-traitor-legion-painting-guide</link>
-            <guid>26rmthpl</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your Traitor Legions looking sharp with these painting tips.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas11-dec11-1-feature-brjbtu79lz.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Which Warhammer staffer is the best at the Middle-earth™ Strategy Battle Game? We found out at Throne of Skulls]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cvtwqwd9/which-warhammer-staffer-is-the-best-at-the-middle-earthtm-strategy-battle-game-we-found-out-at-throne-of-skulls</link>
@@ -280,6 +268,18 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas5-dec05-1-feature-mjxxregkeu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Warhammer Studio staff paint new Necromunda ready for Spire of Primus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/chb6cr7x/the-warhammer-studio-staff-paint-new-necromunda-ready-for-spire-of-primus</link>
+            <guid>chb6cr7x</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Extra examples of Ozostium Aranthus and co.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_sdspaints-dec05-1-feature-11n8tjcejl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
