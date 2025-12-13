@@ -4,11 +4,46 @@
         <title>Auspex Tactics RSS Feed</title>
         <link>https://www.youtube.com/feeds/videos.xml?channel_id=UC6Gco9PWxmJmJ5CqfbChuiQ</link>
         <description>Latest intelligence reports from the Auspex Tactics</description>
-        <lastBuildDate>Thu, 11 Dec 2025 18:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 06:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Auspex Tactics</copyright>
+        <item>
+            <title><![CDATA[What's Strong for Space Marines NOW? All Dataslate Changes Analysed!]]></title>
+            <link>https://www.youtube.com/watch?v=t0Hz9d8gsNM</link>
+            <guid>yt:video:t0Hz9d8gsNM</guid>
+            <pubDate>Thu, 11 Dec 2025 17:15:06 GMT</pubDate>
+            <description><![CDATA[The video discusses recent point changes for Space Marine units, highlighting significant increases for key units like Ethon Shan and Devastator Centurions, while some units, such as Eradicators, received point decreases, prompting strategic adjustments and potential shifts in competitive play.]]></description>
+            <content:encoded><![CDATA[
+<h2>📢 Space Marine Points Changes Explained</h2>
+
+<h3>📝 Summary</h3>
+<ul>
+    <li>🔥 <strong>Nerfs Overview:</strong> Significant points increases for key units like Ethon Shan (29%), Devastator Centurions (6%), and Vanguard Veterans (5%).</li>
+    <li>⚔️ <strong>Ethon Shan's Impact:</strong> Despite a 29% increase to 110 points, he remains crucial for the Shadow Mark Talon strategy.</li>
+    <li>📈 <strong>Buffs Overview:</strong> Points decreases for units including Eradicators (10%), Aggressors (5%), and an increase in Assault Terminators’ effectiveness.</li>
+    <li>🛡️ <strong>Victrix Honor Guard:</strong> Points increased to 240 but remain a strong unit; still effective despite the rise.</li>
+    <li>💡 <strong>Strategic Adjustments:</strong> Shadow Mark Talon received a nerf, likely reducing its usage in competitive play.</li>
+</ul>
+
+<h3>📊 Important Numerical Insights</h3>
+<ul>
+    <li>📉 <strong>Ethon Shan:</strong> Points increase from 85 to 110 (29%).</li>
+    <li>📉 <strong>Devastator Centurions:</strong> Points increase from 165 to 175 per unit of three (6%).</li>
+    <li>📉 <strong>Vanguard Veterans:</strong> Points increase from 95 to 100 (5%) or from 190 to 200 for 10.</li>
+    <li>📉 <strong>Victrix Honor Guard:</strong> Points go from 210 to 240 for a six-man squad (14%).</li>
+    <li>📉 <strong>Eradicators:</strong> Points drop from 100 to 90 per three (10%).</li>
+</ul>
+
+<h3>❓ Questions to Consider</h3>
+<ul>
+    <li>🤔 <strong>How will the nerfs to key units like Ethon Shan affect competitive Space Marine strategies?</strong></li>
+    <li>🤔 <strong>With the recent changes, what new army compositions could emerge in the Space Marine meta?</strong></li>
+    <li>🤔 <strong>What role do you think the adjusted points for the Victrix Honor Guard will play in the future of Space Marine lists?</strong></li>
+</ul>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Did Carnifexes just Get STRONG? Carnifex and Screamer Killer Review Post Tyranids Points Changes!]]></title>
             <link>https://www.youtube.com/watch?v=5CEkLRZHkwk</link>
@@ -16506,37 +16541,40 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[What's Strong for Space Marines NOW? All Dataslate Changes Analysed!]]></title>
-            <link>https://www.youtube.com/watch?v=t0Hz9d8gsNM</link>
-            <guid>yt:video:t0Hz9d8gsNM</guid>
-            <pubDate>Thu, 11 Dec 2025 17:15:06 GMT</pubDate>
-            <description><![CDATA[The video discusses recent point changes for Space Marine units, highlighting significant increases for key units like Ethon Shan and Devastator Centurions, while some units, such as Eradicators, received point decreases, prompting strategic adjustments and potential shifts in competitive play.]]></description>
+            <title><![CDATA[Biggest WINNERS and LOSERS from the Balance Update? Every 40K Army Discussed]]></title>
+            <link>https://www.youtube.com/watch?v=t3jfb0O8fJs</link>
+            <guid>yt:video:t3jfb0O8fJs</guid>
+            <pubDate>Fri, 12 Dec 2025 21:29:50 GMT</pubDate>
+            <description><![CDATA[The video provides an overview of the latest Warhammer 40k balance update, highlighting win rates and performance changes across various factions, with notable nerfs to key units in Space Marines and Adeptus Mechanicus, while Sisters of Battle maintain strong performance despite recent adjustments.]]></description>
             <content:encoded><![CDATA[
-<h2>📢 Space Marine Points Changes Explained</h2>
+<h2>📢 Warhammer 40k Balance Update Overview</h2>
 
 <h3>📝 Summary</h3>
 <ul>
-    <li>🔥 <strong>Nerfs Overview:</strong> Significant points increases for key units like Ethon Shan (29%), Devastator Centurions (6%), and Vanguard Veterans (5%).</li>
-    <li>⚔️ <strong>Ethon Shan's Impact:</strong> Despite a 29% increase to 110 points, he remains crucial for the Shadow Mark Talon strategy.</li>
-    <li>📈 <strong>Buffs Overview:</strong> Points decreases for units including Eradicators (10%), Aggressors (5%), and an increase in Assault Terminators’ effectiveness.</li>
-    <li>🛡️ <strong>Victrix Honor Guard:</strong> Points increased to 240 but remain a strong unit; still effective despite the rise.</li>
-    <li>💡 <strong>Strategic Adjustments:</strong> Shadow Mark Talon received a nerf, likely reducing its usage in competitive play.</li>
+    <li>🔥 <strong>Space Marines:</strong> Win rates around 50%; most grand tournament wins (25). Nerfs to key units like Shadow Martel Talon and Vitrix Guard.</li>
+    <li>🔥 <strong>Astra Militarum:</strong> Win rates at 46%; no major changes but addition of Grizzle Company's attachment boosts performance significantly.</li>
+    <li>🔥 <strong>Adeptus Mechanicus:</strong> Previously strong with 57% win rates; nerfs to key units like Belisarius Cawl but still favored by players.</li>
+    <li>🔥 <strong>Custodes:</strong> 49% win rates; received significant points drops, making them more competitive.</li>
+    <li>🔥 <strong>Grey Knights:</strong> 50% win rates; minimal changes leave players unhappy with overall performance.</li>
+    <li>🔥 <strong>Sisters of Battle:</strong> Strong performance with 56% win rates; significant nerfs have lowered sentiment among players.</li>
+    <li>🔥 <strong>Imperial Knights:</strong> One of the weakest with 45% win rates; minor point adjustments and no significant help from updates.</li>
+    <li>🔥 <strong>Black Templars:</strong> 49% win rates; received nerfs that may hinder their overall performance.</li>
+    <li>🔥 <strong>Chaos Space Marines:</strong> Competitive with 48% win rates; gained minor buffs and points adjustments.</li>
+    <li>🔥 <strong>Eldari:</strong> 53-54% win rates; major nerfs to key units, leading to dissatisfaction among players.</li>
 </ul>
 
 <h3>📊 Important Numerical Insights</h3>
 <ul>
-    <li>📉 <strong>Ethon Shan:</strong> Points increase from 85 to 110 (29%).</li>
-    <li>📉 <strong>Devastator Centurions:</strong> Points increase from 165 to 175 per unit of three (6%).</li>
-    <li>📉 <strong>Vanguard Veterans:</strong> Points increase from 95 to 100 (5%) or from 190 to 200 for 10.</li>
-    <li>📉 <strong>Victrix Honor Guard:</strong> Points go from 210 to 240 for a six-man squad (14%).</li>
-    <li>📉 <strong>Eradicators:</strong> Points drop from 100 to 90 per three (10%).</li>
+    <li>📉 <strong>Grand Tournament Wins:</strong> Space Marines lead with 25 victories, Astra Militarum follows with 13.</li>
+    <li>📈 <strong>Win Rates:</strong> Adeptus Mechanicus at 57%, Sisters of Battle at 56%, while Imperial Knights struggle at 45%.</li>
+    <li>📊 <strong>Points Changes:</strong> Belisarius Cawl increased to 210 points; Vitrix Guard's large squads went up to 240 points.</li>
 </ul>
 
 <h3>❓ Questions to Consider</h3>
 <ul>
-    <li>🤔 <strong>How will the nerfs to key units like Ethon Shan affect competitive Space Marine strategies?</strong></li>
-    <li>🤔 <strong>With the recent changes, what new army compositions could emerge in the Space Marine meta?</strong></li>
-    <li>🤔 <strong>What role do you think the adjusted points for the Victrix Honor Guard will play in the future of Space Marine lists?</strong></li>
+    <li>🤔 <strong>Question 1:</strong> How do you think the balance changes will affect the competitiveness of your favorite army?</li>
+    <li>🤔 <strong>Question 2:</strong> Which faction do you believe received the most significant nerf, and why?</li>
+    <li>🤔 <strong>Question 3:</strong> What strategies could players adopt to adapt to the new balance changes in their gameplay?</li>
 </ul>
 ]]></content:encoded>
         </item>
