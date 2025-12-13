@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Dec 2025 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 16:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Day 13 – Frostbitten fiction from Fenris]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/azth2slu/grotmas-day-13-frostbitten-fiction-from-fenris</link>
+            <guid>azth2slu</guid>
+            <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Something stirs in the snow.]]></description>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas13-dec13-1-feature-z6krjoc5vk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 12 – The heroes of Darkwater bring the fight to the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fgrfqfgy/grotmas-calendar-day-12-the-heroes-of-darkwater-bring-the-fight-to-the-mortal-realms</link>
@@ -267,19 +279,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_mto-dec08-1-feature-lins6e3bqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Festive squig clothing returns!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zispb7vp/sunday-preview-festive-squig-clothing-returns</link>
-            <guid>zispb7vp</guid>
-            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your preview of everything available next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec07-1-feature-a1bkpzn7gc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
