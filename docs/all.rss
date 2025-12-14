@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 13 Dec 2025 18:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 16:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Day 14 – Pair up and play Spearhead Doubles]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5o4fuqyt/grotmas-day-14-pair-up-and-play-spearhead-doubles</link>
+            <guid>5o4fuqyt</guid>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Duos do battle in the Mortal Realms.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas14-dec14-1-feature-wwb1h0wu30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders: Era of Ruin special edition guaranteed stock]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock</link>
@@ -269,18 +281,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_abaddon-dec09-1-feature-dhjwbhduzd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 8 – Speed into action with a Harlequins-focused Aeldari Detachment]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jknyq6ds/grotmas-calendar-day-8-speed-into-action-with-a-harlequins-focused-aeldari-detachment</link>
-            <guid>jknyq6ds</guid>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Leap aboard your transports and boost into the fray.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas8-dec08-1-feature-1yeqoobwsm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
