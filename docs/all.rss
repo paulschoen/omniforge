@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 14 Dec 2025 16:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 18:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – A brief pause ahead of Christmas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas</link>
+            <guid>qi7ljqqo</guid>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s still time to buy gifts!]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Day 14 – Pair up and play Spearhead Doubles]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5o4fuqyt/grotmas-day-14-pair-up-and-play-spearhead-doubles</link>
@@ -271,16 +283,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01299-thumbnail-qgdihbuq1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abaddon the Despoiler reigns supreme over the JOYTOY range]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o4zet2kw/abaddon-the-despoiler-reigns-supreme-over-the-joytoy-range</link>
-            <guid>o4zet2kw</guid>
-            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warmaster looms large over your action figure collection.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_abaddon-dec09-1-feature-dhjwbhduzd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
