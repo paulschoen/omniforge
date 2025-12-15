@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 14 Dec 2025 18:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 14:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Day 15 – A message from within the Eye]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0iy721tt/grotmas-day-15-a-message-from-within-the-eye</link>
+            <guid>0iy721tt</guid>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Omens from the Warp.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas15-dec15-1-feature-fd2miuihsi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – A brief pause ahead of Christmas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas</link>
@@ -273,16 +284,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-dec09-1-feature-vov2uxjghi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Red Skin | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/taf6sccb/how-to-paint-red-skin-warhammer</link>
-            <guid>taf6sccb</guid>
-            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[In both Warhammer 40,000 and Age of Sigmar, red skin appears far more often than you might think. Squigs and daemons of Khorne run rampant in both the grim dark future and the Mortal Realms, so knowing how to paint them is a pretty handy skill to have up your sleeve!]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01299-thumbnail-qgdihbuq1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
