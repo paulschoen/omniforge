@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 15 Dec 2025 15:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 13:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 16th of December]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tsxl4plj/the-rumour-engine-16th-of-december</link>
+            <guid>tsxl4plj</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec16-1-feature-wpcrgulrbr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unlock the potential of a Wicked Brick case with these stunning Warhammer dioramas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2rfusarl/unlock-the-potential-of-a-wicked-brick-case-with-these-stunning-warhammer-dioramas</link>
@@ -273,18 +283,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_balancedataslate-dec10-1-feature-knrzu2aczu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 9 – The new Emperor’s Children Detachment puts Fulgrim on his rightful pedestal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/urg6llwf/grotmas-calendar-day-9-the-new-emperors-children-detachment-puts-fulgrim-on-his-rightful-pedestal</link>
-            <guid>urg6llwf</guid>
-            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the Daemon Primarch in battle.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas9-dec09-1-feature-yxwyq0dyuq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
