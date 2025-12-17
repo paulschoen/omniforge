@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Dec 2025 15:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 11:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – The final Battlescroll of 2025 sets us up for more epic games in the new year]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qza17f3h/warhammer-age-of-sigmar-the-final-battlescroll-of-2025-sets-us-up-for-more-epic-games-in-the-new-year</link>
+            <guid>qza17f3h</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The final balance update of the year.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-dec17-1-feature-jj7kkrbhsp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon returns in 2026 – Find out how to enter]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g1nfad5l/golden-demon-returns-in-2026-find-out-how-to-enter</link>
@@ -269,19 +280,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-dec10-1-feature-klrr7rjpah.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharing Your Ultra-struggles | Reaction | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/txivfyhr/sharing-your-ultra-struggles-reaction-warhammer-40000</link>
-            <guid>txivfyhr</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Ultramarines madness gripping Warhammer World has finally ended, and your emails have flooded the UltramarineBlues inbox. Here, we read your UltraMad emails and react to some of the best ones.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01871_video-4_sm-social-video-thumbnail_v1-of852j5w9o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
