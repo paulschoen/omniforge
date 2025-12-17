@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Dec 2025 11:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 12:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Feathers | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hj9no3qt/how-to-paint-feathers-warhammer</link>
+            <guid>hj9no3qt</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Feathers appear on a multitude of models throughout the grim dark future, Age of Darkness, and the Mortal Realms. They come in all sorts of shapes, sizes, and colours – from the white, angelic feathers seen on Cherubim to the dark, moody black feathers on Raven Guard and the more exotic tropical feathers displayed on characters and Seraphon. Ollie’s here to show you just a few ways to paint them.
+
+If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01298-how-to-paint-feathers-thumbnail-1lmmhqd36o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – The final Battlescroll of 2025 sets us up for more epic games in the new year]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qza17f3h/warhammer-age-of-sigmar-the-final-battlescroll-of-2025-sets-us-up-for-more-epic-games-in-the-new-year</link>
@@ -270,16 +283,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pariah-nexus_thumbs_16x9-ngfsvsjiaa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Go behind the scenes of Pariah Nexus with Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pp6bwvuu/go-behind-the-scenes-of-pariah-nexus-with-warhammer-tv</link>
-            <guid>pp6bwvuu</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three new shows to watch this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-dec10-1-feature-klrr7rjpah.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
