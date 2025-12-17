@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Dec 2025 12:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 13:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Season 2, Episode 5 Trailer – Bargain | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xqgnsiqr/blacktalon</link>
+            <guid>xqgnsiqr</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the penultimate episode of Blacktalon Season 2 now, with a Warhammer+ subscription!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep5_16x9-s5adqjsli4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New episode of Blacktalon – Explore the shadows of Harrowdeep]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3kpyvpz4/new-episode-of-blacktalon-explore-the-shadows-of-harrowdeep</link>
+            <guid>3kpyvpz4</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s on Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-dec17-1-feature-eh9ad2uh10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Feathers | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/hj9no3qt/how-to-paint-feathers-warhammer</link>
@@ -261,28 +284,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/xmasanimation-dec10-1-feature-8zqp5olgae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Era of Ruin Special Edition update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e6nmstah/era-of-ruin-special-edition-update</link>
-            <guid>e6nmstah</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Great Christmas news for fans of Warhammer: The Horus Heresy]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_eraofruin-jan22-feature-skzhzc7s5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paraih Nexus First Three Minutes | Warhammer 40,000 | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/5ji0fg8j/paraih-nexus-first-three-minutes-warhammer-40000-warhammer</link>
-            <guid>5ji0fg8j</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow for more Warhammer, more often]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pariah-nexus_thumbs_16x9-ngfsvsjiaa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
