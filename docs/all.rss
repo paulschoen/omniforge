@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Dec 2025 14:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 15:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Da Red Gobbo’s Tinboy marches from our community painters’ workshops]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fvjttmpm/da-red-gobbos-tinboy-marches-from-our-community-painters-workshops</link>
+            <guid>fvjttmpm</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[How did the wider Warhammer community paint their Grotmas miniatures?]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/redgobbo_influencer-dec18-1-feature-tauthegubv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 18 – Space Marines take on Tyranids in the cooperative Operations]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rhh79nzz/grotmas-calendar-day-18-space-marines-take-on-tyranids-in-the-cooperative-operations</link>
@@ -278,16 +290,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-dec12-1-feature-n0ukg9djqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Quest: Darkwater Official Gameplay Demo | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gv2qml9t/warhammer-quest-darkwater-official-gameplay-demo-warhammer-age-of-sigmar</link>
-            <guid>gv2qml9t</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out how Warhammer Quest: Darkwater plays on the tabletop, then grab a box and embark on your own adventures in the Jade Abbey!]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/4-player-thumbnail-v4-4uvjsitzon.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
