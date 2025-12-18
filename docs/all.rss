@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Dec 2025 15:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 14:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 18 – Space Marines take on Tyranids in the cooperative Operations]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rhh79nzz/grotmas-calendar-day-18-space-marines-take-on-tyranids-in-the-cooperative-operations</link>
+            <guid>rhh79nzz</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Team up with your friends and family.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas18-dec18-1-feature-c5oqkiomst.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Word Bearers and Kriegsmen headline Black Library books from both sides of the wire]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lomqtzfk/word-bearers-and-kriegsmen-headline-black-library-books-from-both-sides-of-the-wire</link>
@@ -275,16 +288,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/4-player-thumbnail-v4-4uvjsitzon.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Quest: Darkwater Official Learn To Play | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lem0tp2s/warhammer-quest-darkwater-official-learn-to-play-warhammer-age-of-sigmar</link>
-            <guid>lem0tp2s</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out how to play Warhammer Quest: Darkwater with this handy guide to playing your first turns.]]></description>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01825-ltp-thumbnail-3-(0-00-00-00)-7pso14gvtz.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
