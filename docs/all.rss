@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Dec 2025 15:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 09:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dark Heresy - Gameplay Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8g83iqtp/warhammer-40000-dark-heresy-gameplay-trailer</link>
+            <guid>8g83iqtp</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Owlcat Games, alongside the launch of the Alpha, presents the new Gameplay Trailer for the upcoming Warhammer 40,000: Dark Heresy. Become an acolyte of the Inquisition in this grimdark, party-based, story-driven cRPG. Lead investigations, uncover grand conspiracies, master tactical combat, and wage a secret war against heresy. Learn more about Warhammer 40,000: Dark Heresy at https://darkheresy.owlcat.games/]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/_v2_1920x1080_-foxi1nczaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Da Red Gobbo’s Tinboy marches from our community painters’ workshops]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fvjttmpm/da-red-gobbos-tinboy-marches-from-our-community-painters-workshops</link>
@@ -278,18 +290,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas11-dec11-1-feature-brjbtu79lz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Which Warhammer staffer is the best at the Middle-earth™ Strategy Battle Game? We found out at Throne of Skulls]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cvtwqwd9/which-warhammer-staffer-is-the-best-at-the-middle-earthtm-strategy-battle-game-we-found-out-at-throne-of-skulls</link>
-            <guid>cvtwqwd9</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lewis, Ash, and Danny join the battle between Good and Evil.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_throneofskulls-dec12-1-feature-n0ukg9djqt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
