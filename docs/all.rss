@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Dec 2025 13:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 14:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 19 – We catch up with an Aeldari admiral]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rrnx1exa/grotmas-calendar-day-19-we-catch-up-with-an-aeldari-admiral</link>
+            <guid>rrnx1exa</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A prince returns.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas19-dec19-1-feature-2k47saemay.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: World Eaters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xq3zpvdx/warhammer-art-through-the-years-world-eaters</link>
@@ -276,19 +288,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="aeldari">Aeldari</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/twwft-1-feature-spsucthmt4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: Warhammer 40,000 – Announce Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/aqlhuysy/total-war-warhammer-40000-announce-trailer</link>
-            <guid>aqlhuysy</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There is no peace amongst the stars.
-Experience the brutal fusion of galactic strategy and visceral real-time battles in Total War: Warhammer 40,000. Take command of iconic factions, customise your armies, and engage in devastating conflict as you carve a bloody path across the stars.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/twwh40k_thumbnail_announce_3840x2160-hvvfh2hqu4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
