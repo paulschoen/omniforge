@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Dec 2025 09:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 13:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: World Eaters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xq3zpvdx/warhammer-art-through-the-years-world-eaters</link>
+            <guid>xq3zpvdx</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gaze in awe at Khorne’s chosen warriors.]]></description>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art12_worldeaters-dec19-1-feature-ab67vppjc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dark Heresy - Gameplay Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/8g83iqtp/warhammer-40000-dark-heresy-gameplay-trailer</link>
@@ -278,18 +289,6 @@ Experience the brutal fusion of galactic strategy and visceral real-time battles
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/twwh40k_thumbnail_announce_3840x2160-hvvfh2hqu4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 11 – Traitor Legion painting guide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/26rmthpl/grotmas-calendar-day-11-traitor-legion-painting-guide</link>
-            <guid>26rmthpl</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your Traitor Legions looking sharp with these painting tips.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas11-dec11-1-feature-brjbtu79lz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
