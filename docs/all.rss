@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Dec 2025 14:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 15:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tahlia Vedra matches fire and fury with the Helsmiths of Hashut in a new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lkos8rr0/tahlia-vedra-matches-fire-and-fury-with-the-helsmiths-of-hashut-in-a-new-black-library-novel</link>
+            <guid>lkos8rr0</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Lioness of the Parch is back in the saddle.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-qpu026bsx6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 19 – We catch up with an Aeldari admiral]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rrnx1exa/grotmas-calendar-day-19-we-catch-up-with-an-aeldari-admiral</link>
@@ -272,22 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <description><![CDATA[How did you start your Warhammer hobby?]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/50yearsgw2-dec12-1-feature2-vwq1hcxl6z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Total War: Warhammer 40,000!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/im0uezy0/announcing-total-war-warhammer-40000</link>
-            <guid>im0uezy0</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the trailer now! The award-winning strategy franchise moves into the 41st Millennium.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="aeldari">Aeldari</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/twwft-1-feature-spsucthmt4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
