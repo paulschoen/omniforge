@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Dec 2025 15:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 16:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Day 20 – Wandering in the wintery woods]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/apc1jkc2/grotmas-day-20-wandering-in-the-wintery-woods</link>
+            <guid>apc1jkc2</guid>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Beware what lurks in the forests.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas20-dec20-1-feature-bfwg9ons85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tahlia Vedra matches fire and fury with the Helsmiths of Hashut in a new Black Library novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lkos8rr0/tahlia-vedra-matches-fire-and-fury-with-the-helsmiths-of-hashut-in-a-new-black-library-novel</link>
@@ -273,15 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art111_necrons-dec12-1-feature-gmlzg8p8ra.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your stories from across 50 years of Games Workshop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iugngx9s/your-stories-from-across-50-years-of-games-workshop</link>
-            <guid>iugngx9s</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How did you start your Warhammer hobby?]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/50yearsgw2-dec12-1-feature2-vwq1hcxl6z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
