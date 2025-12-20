@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 20 Dec 2025 16:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 18:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Preparing for Christmas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bqizgjau/saturday-pre-orders-preparing-for-christmas</link>
+            <guid>bqizgjau</guid>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get down to your local store now!]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-dec20-1-feature-vwez6mknxt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Day 20 – Wandering in the wintery woods]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/apc1jkc2/grotmas-day-20-wandering-in-the-wintery-woods</link>
@@ -272,17 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas12-dec12-1-feature-swrjsoy6k7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Necrons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bwzknjdp/warhammer-art-through-the-years-necrons</link>
-            <guid>bwzknjdp</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art111_necrons-dec12-1-feature-gmlzg8p8ra.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
