@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 21 Dec 2025 14:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Dec 2025 18:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Lay Siege with Cataphractii Terminators]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p7zknfqy/sunday-preview-lay-siege-with-cataphractii-terminators</link>
+            <guid>p7zknfqy</guid>
+            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec21-1-feature-wsxwnenhuz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 21 – Take to the battlefield with four Warhammer 40,000 missions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/423j3ocm/grotmas-calendar-day-21-take-to-the-battlefield-with-four-warhammer-40000-missions</link>
@@ -270,18 +284,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-dec13-1-featurenew-syiwgqjbsf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Day 13 – Frostbitten fiction from Fenris]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/azth2slu/grotmas-day-13-frostbitten-fiction-from-fenris</link>
-            <guid>azth2slu</guid>
-            <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Something stirs in the snow.]]></description>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas13-dec13-1-feature-z6krjoc5vk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
