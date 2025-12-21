@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 20 Dec 2025 18:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Dec 2025 14:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 21 – Take to the battlefield with four Warhammer 40,000 missions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/423j3ocm/grotmas-calendar-day-21-take-to-the-battlefield-with-four-warhammer-40000-missions</link>
+            <guid>423j3ocm</guid>
+            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take to the tabletop over Christmas.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas21-dec21-1-feature-zod1hmb3ha.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Preparing for Christmas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bqizgjau/saturday-pre-orders-preparing-for-christmas</link>
@@ -270,18 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas13-dec13-1-feature-z6krjoc5vk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 12 – The heroes of Darkwater bring the fight to the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fgrfqfgy/grotmas-calendar-day-12-the-heroes-of-darkwater-bring-the-fight-to-the-mortal-realms</link>
-            <guid>fgrfqfgy</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Legends rules for the new Warhammer Quest heroes.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas12-dec12-1-feature-swrjsoy6k7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
