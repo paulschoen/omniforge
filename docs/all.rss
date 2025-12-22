@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Dec 2025 11:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 13:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Help or hinder Kal Jericho smuggle a stasis casket to safety in this bonus Spire of Primus scenario]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/swsmhwjg/help-or-hinder-kal-jericho-smuggle-a-stasis-casket-to-safety-in-this-bonus-spire-of-primus-scenario</link>
+            <guid>swsmhwjg</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download your free scenario now.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_scenario-dec22-1-feature-g6g5jihx0r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Lay Siege with Cataphractii Terminators]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p7zknfqy/sunday-preview-lay-siege-with-cataphractii-terminators</link>
@@ -273,18 +284,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Day 14 – Pair up and play Spearhead Doubles]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5o4fuqyt/grotmas-day-14-pair-up-and-play-spearhead-doubles</link>
-            <guid>5o4fuqyt</guid>
-            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Duos do battle in the Mortal Realms.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas14-dec14-1-feature-wwb1h0wu30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
