@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Dec 2025 13:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 22 – Tales of the Old Man]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d1aymqdp/grotmas-calendar-day-22-tales-of-the-old-man</link>
+            <guid>d1aymqdp</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Embattled guardsmen stand vigil over Armageddon.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas22-dec22-1-feature-s6pqeobezb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Help or hinder Kal Jericho smuggle a stasis casket to safety in this bonus Spire of Primus scenario]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/swsmhwjg/help-or-hinder-kal-jericho-smuggle-a-stasis-casket-to-safety-in-this-bonus-spire-of-primus-scenario</link>
@@ -272,18 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas15-dec15-1-feature-fd2miuihsi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – A brief pause ahead of Christmas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas</link>
-            <guid>qi7ljqqo</guid>
-            <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s still time to buy gifts!]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
