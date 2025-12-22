@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Dec 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 15:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get in the mood for an Adepta Sororitas Made to Order by replaying this Imperial Hymn]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gne4ukbb/get-in-the-mood-for-an-adepta-sororitas-made-to-order-by-replaying-this-imperial-hymn</link>
+            <guid>gne4ukbb</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sisters of Battle are set to ring in the new year.]]></description>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/silentnightmto-dec22-1-feature-abmzr18yqb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 22 – Tales of the Old Man]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d1aymqdp/grotmas-calendar-day-22-tales-of-the-old-man</link>
@@ -272,17 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wickedbricksdioramas-dec15-1-feature-ttjglm53kb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Day 15 – A message from within the Eye]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0iy721tt/grotmas-day-15-a-message-from-within-the-eye</link>
-            <guid>0iy721tt</guid>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Omens from the Warp.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas15-dec15-1-feature-fd2miuihsi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
