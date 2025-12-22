@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 21 Dec 2025 18:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 11:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -44,6 +44,19 @@
             <category domain="pre-orders">Pre-orders</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-dec20-1-feature-vwez6mknxt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV - "Sons of Caliban" Dark Angels Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/68rwh94d/warhammer-40000-dawn-of-war-iv-sons-of-caliban-dark-angels-trailer</link>
+            <guid>68rwh94d</guid>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The secretive Dark Angels descend during the Blood Ravens’ hour of need, bringing their ruthless precision and relentless discipline to the battlefields of Kronus. Two Space Marine Chapters crash into battle, to purge the Xenos threat.
+Witness their debut in this first official look at the Dark Angels sub-faction in-game in Warhammer 40,000: Dawn of War IV.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dow4_thumbnail_dark-angels_v1-n43uxgsase.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grotmas Day 20 – Wandering in the wintery woods]]></title>
@@ -272,18 +285,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas14-dec14-1-feature-wwb1h0wu30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders: Era of Ruin special edition guaranteed stock]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock</link>
-            <guid>wimoozuy</guid>
-            <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[This week’s new releases are live.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-dec13-1-featurenew-syiwgqjbsf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
