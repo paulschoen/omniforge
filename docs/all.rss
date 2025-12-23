@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Dec 2025 13:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 14:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 23 – The Grandfather brings gifts to Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gfuaxvmj/grotmas-calendar-day-23-the-grandfather-brings-gifts-to-ghyran</link>
+            <guid>gfuaxvmj</guid>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[War rocks the Realm of Life]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas23-dec23-1-feature-xqfluzqz6j.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 23rd of December]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tvveavmu/the-rumour-engine-23rd-of-december</link>
@@ -272,16 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas16-dec16-1-feature-tzsgfvetii.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 16th of December]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tsxl4plj/the-rumour-engine-16th-of-december</link>
-            <guid>tsxl4plj</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec16-1-feature-wpcrgulrbr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
