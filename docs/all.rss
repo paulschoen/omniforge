@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 24 Dec 2025 13:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 14:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 24 – Da Red Gobbo’s big heist]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist</link>
+            <guid>qskksauw</guid>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Will you be naughty or nice in this free battleplan?]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/grotmas24-dec24-1-feature-3wuqutna53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[This Cities of Sigmar army took 30 years to build, and they’ve only existed for 10]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bqmsimxp/this-cities-of-sigmar-army-took-30-years-to-build-and-theyve-only-existed-for-10</link>
@@ -270,18 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-dec17-1-feature-jj7kkrbhsp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon returns in 2026 – Find out how to enter]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g1nfad5l/golden-demon-returns-in-2026-find-out-how-to-enter</link>
-            <guid>g1nfad5l</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the event pack now, and take part in this year’s competition.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/goldendemon-dec16-1-feature-x8ylfxoxnk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
