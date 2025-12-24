@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Dec 2025 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 13:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[This Cities of Sigmar army took 30 years to build, and they’ve only existed for 10]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bqmsimxp/this-cities-of-sigmar-army-took-30-years-to-build-and-theyve-only-existed-for-10</link>
+            <guid>bqmsimxp</guid>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Armies of Renown joins Rich for a look at his extensive Sigmarite collection.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-dec24-1-feature-t6lqsh7zjb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 23 – The Grandfather brings gifts to Ghyran]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gfuaxvmj/grotmas-calendar-day-23-the-grandfather-brings-gifts-to-ghyran</link>
@@ -272,17 +282,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/goldendemon-dec16-1-feature-x8ylfxoxnk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Day 16 – A gift from the Grandfather]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5zd3rwuy/grotmas-day-16-a-gift-from-the-grandfather</link>
-            <guid>5zd3rwuy</guid>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Something’s festering under the tree.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas16-dec16-1-feature-tzsgfvetii.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
