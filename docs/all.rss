@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 24 Dec 2025 14:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 17:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grotmas Calendar Day 25 – Huron Blackheart strides forth from the Maelstrom]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom</link>
+            <guid>dusvlufn</guid>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Witness the dark glory of the Christmas Day reveal!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Huron Blackheart Revealed | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/nuj3v7yx/huron-blackheart-revealed-warhammer-40000</link>
+            <guid>nuj3v7yx</guid>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Huron Blackheart, Master of the Red Corsairs, pirate lord of the Maelstrom, and Tyrant of Badab, is getting a new miniature in 2026! What do you think this might mean for the future of Warhammer 40,000?]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01828_huron-blackheart_16x9-wxbcxxdqps.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 24 – Da Red Gobbo’s big heist]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist</link>
@@ -257,30 +279,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-dec17-1-feature-eh9ad2uh10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Feathers | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hj9no3qt/how-to-paint-feathers-warhammer</link>
-            <guid>hj9no3qt</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Feathers appear on a multitude of models throughout the grim dark future, Age of Darkness, and the Mortal Realms. They come in all sorts of shapes, sizes, and colours – from the white, angelic feathers seen on Cherubim to the dark, moody black feathers on Raven Guard and the more exotic tropical feathers displayed on characters and Seraphon. Ollie’s here to show you just a few ways to paint them.
-
-If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01298-how-to-paint-feathers-thumbnail-1lmmhqd36o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – The final Battlescroll of 2025 sets us up for more epic games in the new year]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qza17f3h/warhammer-age-of-sigmar-the-final-battlescroll-of-2025-sets-us-up-for-more-epic-games-in-the-new-year</link>
-            <guid>qza17f3h</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The final balance update of the year.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-dec17-1-feature-jj7kkrbhsp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
