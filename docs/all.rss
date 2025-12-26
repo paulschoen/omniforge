@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Dec 2025 10:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 11:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Adeptus Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/guglcg9i/warhammer-art-through-the-years-adeptus-custodes</link>
+            <guid>guglcg9i</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Witness the golden glory of the Ten Thousand.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art13_custodes-dec26-1-feature-jeyuihxpcf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Awesome Warhammer Events coming soon to Palm Springs and Nottingham]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m7ouolfa/awesome-warhammer-events-coming-soon-to-palm-springs-and-nottingham</link>
@@ -267,17 +278,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas17-dec17-1-feature-0xcam9bsxp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2, Episode 5 Trailer – Bargain | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xqgnsiqr/blacktalon</link>
-            <guid>xqgnsiqr</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the penultimate episode of Blacktalon Season 2 now, with a Warhammer+ subscription!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep5_16x9-s5adqjsli4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
