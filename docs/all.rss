@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 25 Dec 2025 17:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 10:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Awesome Warhammer Events coming soon to Palm Springs and Nottingham]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m7ouolfa/awesome-warhammer-events-coming-soon-to-palm-springs-and-nottingham</link>
+            <guid>m7ouolfa</guid>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[More exciting events to come next year.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-dec26-1-feature-c5vmtzla3r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grotmas Calendar Day 25 – Huron Blackheart strides forth from the Maelstrom]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom</link>
@@ -267,18 +278,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_ep5_16x9-s5adqjsli4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New episode of Blacktalon – Explore the shadows of Harrowdeep]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3kpyvpz4/new-episode-of-blacktalon-explore-the-shadows-of-harrowdeep</link>
-            <guid>3kpyvpz4</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s on Warhammer TV this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="animations">Animations</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-dec17-1-feature-eh9ad2uh10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
