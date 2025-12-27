@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Dec 2025 11:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 18:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Suit up for spectacular sieges in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vvtoscpd/saturday-pre-orders-suit-up-for-spectacular-sieges-in-the-age-of-darkness</link>
+            <guid>vvtoscpd</guid>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-dec27-1-feature-f9cc7xcnmm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Adeptus Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/guglcg9i/warhammer-art-through-the-years-adeptus-custodes</link>
@@ -266,18 +278,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-zcitaajqdk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 17 – A festive feast with the Flesh-eater Courts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/az6lstyc/grotmas-calendar-day-17-a-festive-feast-with-the-flesh-eater-courts</link>
-            <guid>az6lstyc</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A wholesome tale.]]></description>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas17-dec17-1-feature-0xcam9bsxp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
