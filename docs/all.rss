@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 27 Dec 2025 18:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 18:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – A putrescent crop begins to bloom]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom</link>
+            <guid>dphevrv5</guid>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec28-1-feature-hohgzidz8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Suit up for spectacular sieges in the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vvtoscpd/saturday-pre-orders-suit-up-for-spectacular-sieges-in-the-age-of-darkness</link>
@@ -268,16 +283,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas18-dec18-1-feature-c5oqkiomst.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Word Bearers and Kriegsmen headline Black Library books from both sides of the wire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lomqtzfk/word-bearers-and-kriegsmen-headline-black-library-books-from-both-sides-of-the-wire</link>
-            <guid>lomqtzfk</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming next from the Black Library presses?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-zcitaajqdk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
