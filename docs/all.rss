@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 28 Dec 2025 18:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 13:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get the lowdown on 500 Worlds: Titus in the first White Dwarf of 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mst3hmwo/get-the-lowdown-on-500-worlds-titus-in-the-first-white-dwarf-of-2026</link>
+            <guid>mst3hmwo</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s happening in issue 520.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd520-dec29-1-feature-0hdfzquglv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – A putrescent crop begins to bloom]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom</link>
@@ -270,19 +280,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/redgobbo_influencer-dec18-1-feature-tauthegubv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 18 – Space Marines take on Tyranids in the cooperative Operations]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rhh79nzz/grotmas-calendar-day-18-space-marines-take-on-tyranids-in-the-cooperative-operations</link>
-            <guid>rhh79nzz</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Team up with your friends and family.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas18-dec18-1-feature-c5oqkiomst.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
