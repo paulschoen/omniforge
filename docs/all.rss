@@ -4,11 +4,30 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Dec 2025 15:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 16:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Miniatures of the Year 2025 – Winners Announced | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/oqgzbvgc/miniature-of-the-year-2025-the-winners-warhammer</link>
+            <guid>oqgzbvgc</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The votes have been counted and the winners have been crowned!]]></description>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01873_model-of-the-year_thumbnail_16x9-xhwhzxjyzc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Miniature of the Year 2025 – The winners revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j9nqbfym/warhammer-miniature-of-the-year-2025-the-winners-revealed</link>
+            <guid>j9nqbfym</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The best miniatures of the year, voted for by you.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/motyresults-dec30-1-feature-w8qhsvqzhv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026</link>
@@ -254,29 +273,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-qpu026bsx6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 19 – We catch up with an Aeldari admiral]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rrnx1exa/grotmas-calendar-day-19-we-catch-up-with-an-aeldari-admiral</link>
-            <guid>rrnx1exa</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[A prince returns.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas19-dec19-1-feature-2k47saemay.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: World Eaters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xq3zpvdx/warhammer-art-through-the-years-world-eaters</link>
-            <guid>xq3zpvdx</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gaze in awe at Khorne’s chosen warriors.]]></description>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art12_worldeaters-dec19-1-feature-ab67vppjc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
