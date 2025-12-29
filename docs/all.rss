@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Dec 2025 14:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 15:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026</link>
+            <guid>zuyx9b9b</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Contribute and collect gifts at your local store.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/millionminis-dec29-1-feature-ip3hdb66jn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Submit to the will of the Omnissiah for a free miniature this month, and covertly acquire a Deathwatch coin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hlvn37ct/submit-to-the-will-of-the-omnissiah-for-a-free-miniature-this-month-and-covertly-acquire-a-deathwatch-coin</link>
@@ -267,18 +277,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art12_worldeaters-dec19-1-feature-ab67vppjc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dark Heresy - Gameplay Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/8g83iqtp/warhammer-40000-dark-heresy-gameplay-trailer</link>
-            <guid>8g83iqtp</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Owlcat Games, alongside the launch of the Alpha, presents the new Gameplay Trailer for the upcoming Warhammer 40,000: Dark Heresy. Become an acolyte of the Inquisition in this grimdark, party-based, story-driven cRPG. Lead investigations, uncover grand conspiracies, master tactical combat, and wage a secret war against heresy. Learn more about Warhammer 40,000: Dark Heresy at https://darkheresy.owlcat.games/]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/_v2_1920x1080_-foxi1nczaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
