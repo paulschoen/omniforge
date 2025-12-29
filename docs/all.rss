@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Dec 2025 13:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 14:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Submit to the will of the Omnissiah for a free miniature this month, and covertly acquire a Deathwatch coin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hlvn37ct/submit-to-the-will-of-the-omnissiah-for-a-free-miniature-this-month-and-covertly-acquire-a-deathwatch-coin</link>
+            <guid>hlvn37ct</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your free miniature and coin this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-dec29-1-feature-gs49zwcnw7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get the lowdown on 500 Worlds: Titus in the first White Dwarf of 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mst3hmwo/get-the-lowdown-on-500-worlds-titus-in-the-first-white-dwarf-of-2026</link>
@@ -268,18 +279,6 @@ Witness their debut in this first official look at the Dark Angels sub-faction i
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/_v2_1920x1080_-foxi1nczaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Da Red Gobbo’s Tinboy marches from our community painters’ workshops]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fvjttmpm/da-red-gobbos-tinboy-marches-from-our-community-painters-workshops</link>
-            <guid>fvjttmpm</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[How did the wider Warhammer community paint their Grotmas miniatures?]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/redgobbo_influencer-dec18-1-feature-tauthegubv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
