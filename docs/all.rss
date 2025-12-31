@@ -4,11 +4,53 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Dec 2025 14:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 13:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blacktalon Season 2, Episode 6 Trailer – Retribution | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/snyeujcw/blacktalon-season-2-episode-6-trailer-retribution-warhammer</link>
+            <guid>snyeujcw</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can Neave and the Blacktalons infiltrate Be'lakor's lair to stop him from reopening a realmgate directly to Hammerhal? The season 2 finale is live now]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep6_16x9-0mkrhl70po.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Settle in for a New Year’s Eve quiz with a special episode of Brainboyz on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vwnznupv/settle-in-for-a-new-years-eve-quiz-with-a-special-episode-of-brainboyz-on-warhammer-tv</link>
+            <guid>vwnznupv</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Test yourself on your Warhammer knowledge.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-brainboyz-dec31-1-feature-hlbsctwiih.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spread disease, chant choleric prayers, and cultivate Feculent Gnarlmaws with Battletome: Maggotkin of Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a5scea0v/spread-disease-chant-choleric-prayers-and-cultivate-feculent-gnarlmaws-with-battletome-maggotkin-of-nurgle</link>
+            <guid>a5scea0v</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Updated battle traits for Nurgle’s favoured.]]></description>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules1-dec31-1-feature-9nfn89yy29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The final episode lands: Watch the full season of Blacktalon now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/psarjnok/the-final-episode-lands-watch-the-full-season-of-blacktalon-now</link>
+            <guid>psarjnok</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sigmar’s assassin takes the fight to Be’lakor’s realm.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-blacktalon-dec31-1-feature-4qsahnei3p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Library Book of the Year 2025 – The winners]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3nta3xcu/black-library-book-of-the-year-2025-the-winners</link>
@@ -146,6 +188,8 @@
             <guid>nuj3v7yx</guid>
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Huron Blackheart, Master of the Red Corsairs, pirate lord of the Maelstrom, and Tyrant of Badab, is getting a new miniature in 2026! What do you think this might mean for the future of Warhammer 40,000?]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01828_huron-blackheart_16x9-wxbcxxdqps.png" length="0" type="image/png"/>
@@ -224,55 +268,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_scenario-dec22-1-feature-g6g5jihx0r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Lay Siege with Cataphractii Terminators]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p7zknfqy/sunday-preview-lay-siege-with-cataphractii-terminators</link>
-            <guid>p7zknfqy</guid>
-            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec21-1-feature-wsxwnenhuz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 21 – Take to the battlefield with four Warhammer 40,000 missions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/423j3ocm/grotmas-calendar-day-21-take-to-the-battlefield-with-four-warhammer-40000-missions</link>
-            <guid>423j3ocm</guid>
-            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take to the tabletop over Christmas.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas21-dec21-1-feature-zod1hmb3ha.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Preparing for Christmas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bqizgjau/saturday-pre-orders-preparing-for-christmas</link>
-            <guid>bqizgjau</guid>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get down to your local store now!]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-dec20-1-feature-vwez6mknxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV - "Sons of Caliban" Dark Angels Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/68rwh94d/warhammer-40000-dawn-of-war-iv-sons-of-caliban-dark-angels-trailer</link>
-            <guid>68rwh94d</guid>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The secretive Dark Angels descend during the Blood Ravens’ hour of need, bringing their ruthless precision and relentless discipline to the battlefields of Kronus. Two Space Marine Chapters crash into battle, to purge the Xenos threat.
-Witness their debut in this first official look at the Dark Angels sub-faction in-game in Warhammer 40,000: Dawn of War IV.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dow4_thumbnail_dark-angels_v1-n43uxgsase.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
