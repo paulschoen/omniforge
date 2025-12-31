@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 31 Dec 2025 13:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 15:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer by the Numbers 2025]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iedcswxy/warhammer-by-the-numbers-2025</link>
+            <guid>iedcswxy</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what's been going on around the hobby this year]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/yearinwarhammer-dec31-1-feature-nvffgnduep.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blacktalon Season 2, Episode 6 Trailer – Retribution | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/snyeujcw/blacktalon-season-2-episode-6-trailer-retribution-warhammer</link>
@@ -257,17 +266,6 @@
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas22-dec22-1-feature-s6pqeobezb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Help or hinder Kal Jericho smuggle a stasis casket to safety in this bonus Spire of Primus scenario]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/swsmhwjg/help-or-hinder-kal-jericho-smuggle-a-stasis-casket-to-safety-in-this-bonus-spire-of-primus-scenario</link>
-            <guid>swsmhwjg</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download your free scenario now.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_scenario-dec22-1-feature-g6g5jihx0r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
