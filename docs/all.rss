@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 31 Dec 2025 15:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 13:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Raise an almighty stench with Festus the Leechlord and his Rotbringer lackeys in Battletome: Maggotkin of Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wolqlwbn/raise-an-almighty-stench-with-festus-the-leechlord-and-his-rotbringer-lackeys-in-battletome-maggotkin-of-nurgle</link>
+            <guid>wolqlwbn</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules for warriors of the Plaguefather.]]></description>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules2-jan01-1-feature-el7cgc4crt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer by the Numbers 2025]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iedcswxy/warhammer-by-the-numbers-2025</link>
@@ -16,7 +27,7 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Find out what's been going on around the hobby this year]]></description>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/yearinwarhammer-dec31-1-feature-nvffgnduep.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/yearinwarhammer-dec31-1-feature-wwxy49ftdj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blacktalon Season 2, Episode 6 Trailer – Retribution | Warhammer]]></title>
@@ -255,17 +266,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/silentnightmto-dec22-1-feature-abmzr18yqb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 22 – Tales of the Old Man]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d1aymqdp/grotmas-calendar-day-22-tales-of-the-old-man</link>
-            <guid>d1aymqdp</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Embattled guardsmen stand vigil over Armageddon.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas22-dec22-1-feature-s6pqeobezb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
