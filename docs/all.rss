@@ -4,11 +4,39 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 01 Jan 2026 14:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 15:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Join Us – New Year Warhammer Preview Live! 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ql3fgem2/join-us-new-year-warhammer-preview-live-2026</link>
+            <guid>ql3fgem2</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Consider yourself officially invited to the New Year Preview Live! 2026. You can expect big announcements and reveals for:
+Warhammer 40,000
+Warhammer Age of Sigmar
+Warhammer: The Horus Heresy
+Blood Bowl
+
+Find out more at Warhammer-Community.com
+Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01805-preview-invite_thumbnail_16x9-wjbeo834bk.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the New Year Warhammer Preview Live! 2026 – your first reveal show of the year]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year</link>
+            <guid>uzoe2wdo</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first preview of 2026 is coming soon.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/newyear_incoming-jan01-1-feature-4eeh4aobwd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New battleforce boxes pit the Chaos Gods against each other]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/errixp3a/new-battleforce-boxes-pit-the-chaos-gods-against-each-other</link>
@@ -248,27 +276,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-dec24-1-feature-t6lqsh7zjb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 23 – The Grandfather brings gifts to Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gfuaxvmj/grotmas-calendar-day-23-the-grandfather-brings-gifts-to-ghyran</link>
-            <guid>gfuaxvmj</guid>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[War rocks the Realm of Life]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas23-dec23-1-feature-xqfluzqz6j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 23rd of December]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tvveavmu/the-rumour-engine-23rd-of-december</link>
-            <guid>tvveavmu</guid>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec23-1-feature-hcm08ebgca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
