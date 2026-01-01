@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 01 Jan 2026 13:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 14:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New battleforce boxes pit the Chaos Gods against each other]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/errixp3a/new-battleforce-boxes-pit-the-chaos-gods-against-each-other</link>
+            <guid>errixp3a</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Khorne, Slaanesh, Tzeentch, and Nurgle – who will you choose?]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="death-guard">Death Guard</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chaosbattleforces-jan01-1-feature-9fcetrpzyd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raise an almighty stench with Festus the Leechlord and his Rotbringer lackeys in Battletome: Maggotkin of Nurgle]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wolqlwbn/raise-an-almighty-stench-with-festus-the-leechlord-and-his-rotbringer-lackeys-in-battletome-maggotkin-of-nurgle</link>
@@ -255,17 +269,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-dec23-1-feature-hcm08ebgca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get in the mood for an Adepta Sororitas Made to Order by replaying this Imperial Hymn]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gne4ukbb/get-in-the-mood-for-an-adepta-sororitas-made-to-order-by-replaying-this-imperial-hymn</link>
-            <guid>gne4ukbb</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sisters of Battle are set to ring in the new year.]]></description>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/silentnightmto-dec22-1-feature-abmzr18yqb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
