@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 02 Jan 2026 03:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 13:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Drukhari]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z9fezwll/warhammer-art-through-the-years-drukhari</link>
+            <guid>z9fezwll</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art14_drukhari-jan02-1-feature-pniqiwap5q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tokyo to host The Warhammer Experience]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u9v5yof7/tokyo-to-host-the-warhammer-experience</link>
@@ -265,17 +276,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01828_huron-blackheart_16x9-wxbcxxdqps.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 24 – Da Red Gobbo’s big heist]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist</link>
-            <guid>qskksauw</guid>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Will you be naughty or nice in this free battleplan?]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/grotmas24-dec24-1-feature-3wuqutna53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
