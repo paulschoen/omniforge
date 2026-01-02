@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 02 Jan 2026 13:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 14:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Recruit Gelgus Pust and his court of minions to do battle in the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sz3xng0t/recruit-gelgus-pust-and-his-court-of-minions-to-do-battle-in-the-mortal-realms</link>
+            <guid>sz3xng0t</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The denizens of Darkwater provide reinforcements.]]></description>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules3-jan02-1-feature-fpplycg3v7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Drukhari]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z9fezwll/warhammer-art-through-the-years-drukhari</link>
@@ -264,18 +276,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Huron Blackheart Revealed | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nuj3v7yx/huron-blackheart-revealed-warhammer-40000</link>
-            <guid>nuj3v7yx</guid>
-            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Huron Blackheart, Master of the Red Corsairs, pirate lord of the Maelstrom, and Tyrant of Badab, is getting a new miniature in 2026! What do you think this might mean for the future of Warhammer 40,000?]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01828_huron-blackheart_16x9-wxbcxxdqps.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
