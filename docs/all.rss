@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 01 Jan 2026 15:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 03:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tokyo to host The Warhammer Experience]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u9v5yof7/tokyo-to-host-the-warhammer-experience</link>
+            <guid>u9v5yof7</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer comes to the heart of Japanese popular culture: Tokyo’s Akihabara district.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whexperiencejapan-jan02-1-feature-ovxbzvkuon.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Join Us – New Year Warhammer Preview Live! 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ql3fgem2/join-us-new-year-warhammer-preview-live-2026</link>
@@ -266,16 +276,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/grotmas24-dec24-1-feature-3wuqutna53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Cities of Sigmar army took 30 years to build, and they’ve only existed for 10]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bqmsimxp/this-cities-of-sigmar-army-took-30-years-to-build-and-theyve-only-existed-for-10</link>
-            <guid>bqmsimxp</guid>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armies of Renown joins Rich for a look at his extensive Sigmarite collection.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-dec24-1-feature-t6lqsh7zjb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
