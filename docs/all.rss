@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 02 Jan 2026 14:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 15:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[See the new and improved Captain Titus with free datasheets for the Wardens of Ultramar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar</link>
+            <guid>aa1dpgac</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the rules for Titus and his new command team.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Recruit Gelgus Pust and his court of minions to do battle in the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sz3xng0t/recruit-gelgus-pust-and-his-court-of-minions-to-do-battle-in-the-mortal-realms</link>
@@ -264,18 +276,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-dec26-1-feature-c5vmtzla3r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grotmas Calendar Day 25 – Huron Blackheart strides forth from the Maelstrom]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom</link>
-            <guid>dusvlufn</guid>
-            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Witness the dark glory of the Christmas Day reveal!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
