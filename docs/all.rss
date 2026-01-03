@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 02 Jan 2026 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jan 2026 18:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Corrupt the Mortal Realms with new Maggotkin of Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle</link>
+            <guid>ppbl7t1t</guid>
+            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jan03-1-feature-e8z1e7riil.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[See the new and improved Captain Titus with free datasheets for the Wardens of Ultramar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar</link>
@@ -265,17 +279,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art13_custodes-dec26-1-feature-jeyuihxpcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Awesome Warhammer Events coming soon to Palm Springs and Nottingham]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m7ouolfa/awesome-warhammer-events-coming-soon-to-palm-springs-and-nottingham</link>
-            <guid>m7ouolfa</guid>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[More exciting events to come next year.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-dec26-1-feature-c5vmtzla3r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
