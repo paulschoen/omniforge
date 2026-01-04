@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 03 Jan 2026 18:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 18:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Captain Titus prepares to unify the 500 Worlds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds</link>
+            <guid>ubw3jaeg</guid>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan04-1-feature-0a3wqqpe1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Corrupt the Mortal Realms with new Maggotkin of Nurgle]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle</link>
@@ -268,17 +281,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-dec27-1-feature-f9cc7xcnmm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Adeptus Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/guglcg9i/warhammer-art-through-the-years-adeptus-custodes</link>
-            <guid>guglcg9i</guid>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Witness the golden glory of the Ten Thousand.]]></description>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art13_custodes-dec26-1-feature-jeyuihxpcf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
