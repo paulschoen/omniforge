@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 05 Jan 2026 14:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 15:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord</link>
+            <guid>eekdls2v</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are this year’s anniversary miniatures.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-1-feature-vqktyzk1kx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – The rules that make Nekrosor Ammentar destruction incarnate]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fjbp4zev/500-worlds-titus-the-rules-that-make-nekrosor-ammentar-destruction-incarnate</link>
@@ -267,16 +278,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-dec29-1-feature-gs49zwcnw7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get the lowdown on 500 Worlds: Titus in the first White Dwarf of 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mst3hmwo/get-the-lowdown-on-500-worlds-titus-in-the-first-white-dwarf-of-2026</link>
-            <guid>mst3hmwo</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s happening in issue 520.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd520-dec29-1-feature-0hdfzquglv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
