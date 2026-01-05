@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 04 Jan 2026 18:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 13:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – Who are the Wardens of Ultramar?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9viqqmca/500-worlds-titus-who-are-the-wardens-of-ultramar</link>
+            <guid>9viqqmca</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Captain Titus has new allies in his command squad.]]></description>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wardensofultramarlore-jan05-1-feature-6hausscncj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Captain Titus prepares to unify the 500 Worlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds</link>
@@ -269,18 +281,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec28-1-feature-hohgzidz8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Suit up for spectacular sieges in the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vvtoscpd/saturday-pre-orders-suit-up-for-spectacular-sieges-in-the-age-of-darkness</link>
-            <guid>vvtoscpd</guid>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-dec27-1-feature-f9cc7xcnmm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
