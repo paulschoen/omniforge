@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 05 Jan 2026 13:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 14:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – The rules that make Nekrosor Ammentar destruction incarnate]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fjbp4zev/500-worlds-titus-the-rules-that-make-nekrosor-ammentar-destruction-incarnate</link>
+            <guid>fjbp4zev</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New datasheets for Necrons, including C’tan Shard updates.]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_necrules-jan05-1-feature-cjj6huhao5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – Who are the Wardens of Ultramar?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9viqqmca/500-worlds-titus-who-are-the-wardens-of-ultramar</link>
@@ -266,21 +277,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd520-dec29-1-feature-0hdfzquglv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – A putrescent crop begins to bloom]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom</link>
-            <guid>dphevrv5</guid>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-dec28-1-feature-hohgzidz8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
