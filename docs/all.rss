@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 06 Jan 2026 13:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 14:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – C’tan shards and Destroyers flood the field with new Necrons Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eskktjc3/500-worlds-titus-ctan-shards-and-destroyers-flood-the-field-with-new-necrons-detachments</link>
+            <guid>eskktjc3</guid>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Want to use all the C’tan shards at once? Of course you do!]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_500necrules-jan06-1-feature-xig1pxq9v9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 6th of January]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dvzabvpf/the-rumour-engine-6th-of-january</link>
@@ -267,16 +278,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <description><![CDATA[The best miniatures of the year, voted for by you.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/motyresults-dec30-1-feature-w8qhsvqzhv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026</link>
-            <guid>zuyx9b9b</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Contribute and collect gifts at your local store.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/millionminis-dec29-1-feature-ip3hdb66jn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
