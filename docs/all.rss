@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 06 Jan 2026 15:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 11:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – Strike fast and hold the line with new Space Marines Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments</link>
+            <guid>uebtnxvg</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fill the sky with Drop Pods!]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_smdetachments-jan07-1-feature-kjgmebe7ej.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – What makes other Necrons so scared of Nekrosor Ammentar?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/h0ecbqlt/500-worlds-titus-what-makes-other-necrons-so-scared-of-nekrosor-ammentar</link>
@@ -270,16 +282,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-dec30-1-feature-o3i8f3sh8y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Miniatures of the Year 2025 – Winners Announced | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/oqgzbvgc/miniature-of-the-year-2025-the-winners-warhammer</link>
-            <guid>oqgzbvgc</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[The votes have been counted and the winners have been crowned!]]></description>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01873_model-of-the-year_thumbnail_16x9-xhwhzxjyzc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
