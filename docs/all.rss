@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 Jan 2026 13:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 16:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – Are there really 500 worlds in the realm of Ultramar?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xwfy1vuo/500-worlds-titus-are-there-really-500-worlds-in-the-realm-of-ultramar</link>
+            <guid>xwfy1vuo</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All about the planets Titus and co. need to reclaim.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_500worldslore-jan07-1-feature-mxdgo0iklf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Painting Desk – Blood Vengeance Trailer | Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/xgzeiqps/painting-desk-blood-vengeance-trailer-warhammer-tv</link>
@@ -273,16 +284,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/blacktalon_ep6_16x9-0mkrhl70po.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Settle in for a New Year’s Eve quiz with a special episode of Brainboyz on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vwnznupv/settle-in-for-a-new-years-eve-quiz-with-a-special-episode-of-brainboyz-on-warhammer-tv</link>
-            <guid>vwnznupv</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Test yourself on your Warhammer knowledge.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-brainboyz-dec31-1-feature-hlbsctwiih.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
