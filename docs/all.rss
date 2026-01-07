@@ -4,11 +4,53 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 Jan 2026 11:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 13:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Painting Desk – Blood Vengeance Trailer | Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xgzeiqps/painting-desk-blood-vengeance-trailer-warhammer-tv</link>
+            <guid>xgzeiqps</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[In this episode, Painting Desk welcomes a miniatures designer from the Warhammer studio to discuss storytelling through a series of dioramas featuring witch hunters in the Mortal Realms.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v5-h-b-pd-promo-thumb-pptc03jbyz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Warhammer 40,000 Animations Trailer – January 2026 | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cuzwp8m4/new-warhammer-40000-animations-trailer-january-2026-warhammer</link>
+            <guid>cuzwp8m4</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out more at Warhammer-Community.com]]></description>
+            <category domain="animations">Animations</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh-january-2026-animations-trailer-thumbnail-zybemygogb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The first three new Warhammer animations confirmed for 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ycxnwws6/the-first-three-new-warhammer-animations-confirmed-for-2026</link>
+            <guid>ycxnwws6</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Battle Sisters and Berzerkers]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus_animations2026-jan07-1-feature-qa6b6f4f8v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get up close and personal with a selection of gorgeous and evocative vampire hunter dioramas on Painting Desk]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2me96dxl/get-up-close-and-personal-with-a-selection-of-gorgeous-and-evocative-vampire-hunter-dioramas-on-painting-desk</link>
+            <guid>2me96dxl</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what your Warhammer+ subscription gets you this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jan07-1-feature-nb3zm8ljom.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – Strike fast and hold the line with new Space Marines Detachments]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments</link>
@@ -241,47 +283,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-brainboyz-dec31-1-feature-hlbsctwiih.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spread disease, chant choleric prayers, and cultivate Feculent Gnarlmaws with Battletome: Maggotkin of Nurgle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/a5scea0v/spread-disease-chant-choleric-prayers-and-cultivate-feculent-gnarlmaws-with-battletome-maggotkin-of-nurgle</link>
-            <guid>a5scea0v</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Updated battle traits for Nurgle’s favoured.]]></description>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules1-dec31-1-feature-9nfn89yy29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The final episode lands: Watch the full season of Blacktalon now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/psarjnok/the-final-episode-lands-watch-the-full-season-of-blacktalon-now</link>
-            <guid>psarjnok</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sigmar’s assassin takes the fight to Be’lakor’s realm.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-blacktalon-dec31-1-feature-4qsahnei3p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Book of the Year 2025 – The winners]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3nta3xcu/black-library-book-of-the-year-2025-the-winners</link>
-            <guid>3nta3xcu</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[You chose the best Warhammer fiction of the year.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bookofyear2025winner-dec30-1-feature-l0glgcjjlv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 30th of December]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sqdh0evs/the-rumour-engine-30th-of-december</link>
-            <guid>sqdh0evs</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-dec30-1-feature-o3i8f3sh8y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
