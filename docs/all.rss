@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 Jan 2026 16:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 13:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The incredible C’tan Shard of the Nightbringer as imagined by community painters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pyqj7rni/the-incredible-ctan-shard-of-the-nightbringer-as-imagined-by-community-painters</link>
+            <guid>pyqj7rni</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get inspired by these awesome renditions of the new C’tan shard.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_inflnightbringers-jan08-1-feature-hcssh8fn14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Captain Titus | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6rcow1pz/how-to-paint-captain-titus-warhammer-40000</link>
+            <guid>6rcow1pz</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A relentless champion of Ultramar with an unyielding will, Captain Demetrian Titus has won countless battles against seemingly impossible odds. While possessed of lauded command abilities, Titus is truly at home in the press of battle where he fights relentlessly and refuses to give in even to grievous wounds. This model is a true centrepiece for any Ultramarines army and thus deserves an immaculate paint job. Those in need of a helping hand, don’t worry, Ollie’s got your back with this easy to follow and comprehensive paint guide!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/titus_painting_tutorial_thumbnail-90fbnhvxcv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – Are there really 500 worlds in the realm of Ultramar?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xwfy1vuo/500-worlds-titus-are-there-really-500-worlds-in-the-realm-of-ultramar</link>
@@ -36,7 +61,7 @@
             <link>https://www.warhammer-community.com/en-gb/videos/cuzwp8m4/new-warhammer-40000-animations-trailer-january-2026-warhammer</link>
             <guid>cuzwp8m4</guid>
             <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out more at Warhammer-Community.com]]></description>
+            <description><![CDATA[Take a sneak peek at the next THREE epic, all-new animations set in the grim darkness of the far future, due to land on Warhammer+ soon.]]></description>
             <category domain="animations">Animations</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh-january-2026-animations-trailer-thumbnail-zybemygogb.jpg" length="0" type="image/jpg"/>
@@ -264,26 +289,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules2-jan01-1-feature-el7cgc4crt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer by the Numbers 2025]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iedcswxy/warhammer-by-the-numbers-2025</link>
-            <guid>iedcswxy</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what's been going on around the hobby this year]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/yearinwarhammer-dec31-1-feature-wwxy49ftdj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blacktalon Season 2, Episode 6 Trailer – Retribution | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/snyeujcw/blacktalon-season-2-episode-6-trailer-retribution-warhammer</link>
-            <guid>snyeujcw</guid>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can Neave and the Blacktalons infiltrate Be'lakor's lair to stop him from reopening a realmgate directly to Hammerhal? The season 2 finale is live now]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blacktalon_ep6_16x9-0mkrhl70po.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
