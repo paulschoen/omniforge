@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 08 Jan 2026 14:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 17:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Orks Trailer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/w2zlyxxt/warhammer-40000-dawn-of-war-iv-orks-trailer-warhammer</link>
+            <guid>w2zlyxxt</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Witness Ork brutality and the loud, relentless ferocity that comes with it as Gorgutz, Ork Warboss of the Bad Moons, unleashes a surprise attack, in the first in-game faction CGI sequence from the upcoming Warhammer 40,000: Dawn of War IV. WAAAGH!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/16-eessdwxzpx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – Fight deadly Boarding Actions on Necron terrain with Dread Incursions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ra4pksny/500-worlds-titus-fight-deadly-boarding-actions-on-necron-terrain-with-dread-incursions</link>
@@ -275,20 +287,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/newyear_incoming-jan01-1-feature-4eeh4aobwd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New battleforce boxes pit the Chaos Gods against each other]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/errixp3a/new-battleforce-boxes-pit-the-chaos-gods-against-each-other</link>
-            <guid>errixp3a</guid>
-            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Khorne, Slaanesh, Tzeentch, and Nurgle – who will you choose?]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="death-guard">Death Guard</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_chaosbattleforces-jan01-1-feature-9fcetrpzyd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
