@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 08 Jan 2026 13:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 14:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[500 Worlds: Titus – Fight deadly Boarding Actions on Necron terrain with Dread Incursions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ra4pksny/500-worlds-titus-fight-deadly-boarding-actions-on-necron-terrain-with-dread-incursions</link>
+            <guid>ra4pksny</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Close quarters battles are back in the limelight.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_500dreadincursions-jan08-1-feature-oypcpbdhvj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The incredible C’tan Shard of the Nightbringer as imagined by community painters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pyqj7rni/the-incredible-ctan-shard-of-the-nightbringer-as-imagined-by-community-painters</link>
@@ -278,17 +289,6 @@ Tune in live at 7:30pm GMT on 16 January 2026!]]></description>
             <category domain="death-guard">Death Guard</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_chaosbattleforces-jan01-1-feature-9fcetrpzyd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Raise an almighty stench with Festus the Leechlord and his Rotbringer lackeys in Battletome: Maggotkin of Nurgle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wolqlwbn/raise-an-almighty-stench-with-festus-the-leechlord-and-his-rotbringer-lackeys-in-battletome-maggotkin-of-nurgle</link>
-            <guid>wolqlwbn</guid>
-            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules for warriors of the Plaguefather.]]></description>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules2-jan01-1-feature-el7cgc4crt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
