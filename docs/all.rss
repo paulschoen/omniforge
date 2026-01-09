@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 Jan 2026 15:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 16:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Titus and the Wardens of Ultramar are on parade thanks to our talented community painters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters</link>
+            <guid>xcucjrwf</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A dazzling display of Ultramar’s best and brightest.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="ultramarines">Ultramarines</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_infltitus-jan09-1-feature-ggblmycmzr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Warhammer World in the USA? Get the details here.]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u6jqjmvz/a-warhammer-world-in-the-usa-get-the-details-here</link>
@@ -268,17 +282,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules3-jan02-1-feature-fpplycg3v7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Drukhari]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9fezwll/warhammer-art-through-the-years-drukhari</link>
-            <guid>z9fezwll</guid>
-            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art14_drukhari-jan02-1-feature-pniqiwap5q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
