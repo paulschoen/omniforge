@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 Jan 2026 14:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 15:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A Warhammer World in the USA? Get the details here.]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u6jqjmvz/a-warhammer-world-in-the-usa-get-the-details-here</link>
+            <guid>u6jqjmvz</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Breaking News: There’s a new Warhammer World coming.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-oskuly61bl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[500 Worlds: Titus – Will you brave a deadly campaign on the war-torn Vespator Front?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oq2wdapz/500-worlds-titus-will-you-brave-a-deadly-campaign-on-the-war-torn-vespator-front</link>
@@ -270,16 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/art14_drukhari-jan02-1-feature-pniqiwap5q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo to host The Warhammer Experience]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u9v5yof7/tokyo-to-host-the-warhammer-experience</link>
-            <guid>u9v5yof7</guid>
-            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer comes to the heart of Japanese popular culture: Tokyo’s Akihabara district.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whexperiencejapan-jan02-1-feature-ovxbzvkuon.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
