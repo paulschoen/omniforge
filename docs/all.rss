@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 Jan 2026 16:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 18:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Reclaim the 500 Worlds of Ultramar with Captain Titus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/v0ohrzf9/saturday-pre-orders-reclaim-the-500-worlds-of-ultramar-with-captain-titus</link>
+            <guid>v0ohrzf9</guid>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join Titus in the war against Nekrosor Ammentar.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jan10-1-feature-vyov53nwoj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Titus and the Wardens of Ultramar are on parade thanks to our talented community painters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters</link>
@@ -270,18 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Recruit Gelgus Pust and his court of minions to do battle in the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sz3xng0t/recruit-gelgus-pust-and-his-court-of-minions-to-do-battle-in-the-mortal-realms</link>
-            <guid>sz3xng0t</guid>
-            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The denizens of Darkwater provide reinforcements.]]></description>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinrules3-jan02-1-feature-fpplycg3v7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
