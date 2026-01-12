@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 Jan 2026 14:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 15:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tune in to the New Year Warhammer Preview on Friday]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s4afynk7/tune-in-to-the-new-year-warhammer-preview-on-friday</link>
+            <guid>s4afynk7</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first preview of the year is nearly here.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/newyear_thisweek-jan12-1-feature-younifmrd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Skitarii are the elite hunters of the Mechanicum, but what makes them so special?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jffr4bmv/the-skitarii-are-the-elite-hunters-of-the-mechanicum-but-what-makes-them-so-special</link>
@@ -18,6 +28,17 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_skitariilore-jan12-1-feature-2qlmofxqsp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting Putrid Nurgle Skin Tones | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/gr7xvn27/painting-putrid-nurgle-skin-tones-warhammer-age-of-sigmar</link>
+            <guid>gr7xvn27</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The gifts of Nurgle often cause the body to swell and mutate in quite disturbing ways. Today, Dan is tackling these ‘gifts’ by showing you three different techniques for painting the putrid skin of Nurgle's followers.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01303-putrid-skintones-thumbnail-o98djvbahv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Treachery of Gollum™ – Designer’s notes on the new Middle-earth™ journal]]></title>
@@ -255,29 +276,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-1-feature-vqktyzk1kx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – The rules that make Nekrosor Ammentar destruction incarnate]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fjbp4zev/500-worlds-titus-the-rules-that-make-nekrosor-ammentar-destruction-incarnate</link>
-            <guid>fjbp4zev</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New datasheets for Necrons, including C’tan Shard updates.]]></description>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_necrules-jan05-1-feature-cjj6huhao5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – Who are the Wardens of Ultramar?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9viqqmca/500-worlds-titus-who-are-the-wardens-of-ultramar</link>
-            <guid>9viqqmca</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Captain Titus has new allies in his command squad.]]></description>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wardensofultramarlore-jan05-1-feature-6hausscncj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
