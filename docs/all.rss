@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 11 Jan 2026 18:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 13:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Treachery of Gollum™ – Designer’s notes on the new Middle-earth™ journal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jng5mtow/the-treachery-of-gollumtm-designers-notes-on-the-new-middle-earthtm-journal</link>
+            <guid>jng5mtow</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover what awaits in the tunnels above Cirith Ungol™.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_gollumjournal-jan12-1-feature-zj7omx4gd7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Angron Transfigured stares down the new Skitarii]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dcuclxww/sunday-preview-angron-transfigured-stares-down-the-new-skitarii</link>
@@ -270,20 +281,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan04-1-feature-0a3wqqpe1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Corrupt the Mortal Realms with new Maggotkin of Nurgle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle</link>
-            <guid>ppbl7t1t</guid>
-            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jan03-1-feature-e8z1e7riil.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
