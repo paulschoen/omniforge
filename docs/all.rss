@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 Jan 2026 13:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 14:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Skitarii are the elite hunters of the Mechanicum, but what makes them so special?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jffr4bmv/the-skitarii-are-the-elite-hunters-of-the-mechanicum-but-what-makes-them-so-special</link>
+            <guid>jffr4bmv</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Fabricator General’s personal troops are a cut above.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_skitariilore-jan12-1-feature-2qlmofxqsp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Treachery of Gollum™ – Designer’s notes on the new Middle-earth™ journal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jng5mtow/the-treachery-of-gollumtm-designers-notes-on-the-new-middle-earthtm-journal</link>
@@ -268,19 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wardensofultramarlore-jan05-1-feature-6hausscncj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Captain Titus prepares to unify the 500 Worlds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds</link>
-            <guid>ubw3jaeg</guid>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan04-1-feature-0a3wqqpe1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
