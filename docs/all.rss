@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 Jan 2026 15:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 12:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Nurgle's Decaying Armour & Metallics | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xrr2vgw0/how-to-paint-nurgles-decaying-armour-metallics-warhammer-age-of-sigmar</link>
+            <guid>xrr2vgw0</guid>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nurgle's corruption knows no bounds, infecting all aspects of his followers, including their armour! In this video, Dan shows just how decayed it can get.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/nurgle_armour_thumbnail-h50pwmkupr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tune in to the New Year Warhammer Preview on Friday]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s4afynk7/tune-in-to-the-new-year-warhammer-preview-on-friday</link>
@@ -265,17 +277,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jan06-1-feature-rlcntxh4kh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord</link>
-            <guid>eekdls2v</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are this year’s anniversary miniatures.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-1-feature-vqktyzk1kx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
