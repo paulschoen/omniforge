@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 Jan 2026 13:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 14:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Under the hood of the new Skitarii Battle-Pilgrym rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zaswbnk3/under-the-hood-of-the-new-skitarii-battle-pilgrym-rules</link>
+            <guid>zaswbnk3</guid>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[They don’t just look good – let’s see what they can do.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_skitariirules-jan13-1-feature-ivfk5uifnj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 13th of January]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-13th-of-january</link>
@@ -266,17 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_necammentar-jan06-1-feature-0ba8colli6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – C’tan shards and Destroyers flood the field with new Necrons Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eskktjc3/500-worlds-titus-ctan-shards-and-destroyers-flood-the-field-with-new-necrons-detachments</link>
-            <guid>eskktjc3</guid>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Want to use all the C’tan shards at once? Of course you do!]]></description>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_500necrules-jan06-1-feature-xig1pxq9v9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
