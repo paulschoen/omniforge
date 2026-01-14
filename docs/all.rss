@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 Jan 2026 10:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 13:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon</link>
+            <guid>sgsr7vwj</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What to watch on Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jan14-1-feature-bmrktiza2g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bring death swift and true with Jaghatai Khan’s new JOYTOY figure]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nhrvhvkv/bring-death-swift-and-true-with-jaghatai-khans-new-joytoy-figure</link>
@@ -263,18 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jan07-1-feature-nb3zm8ljom.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – Strike fast and hold the line with new Space Marines Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments</link>
-            <guid>uebtnxvg</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fill the sky with Drop Pods!]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_smdetachments-jan07-1-feature-kjgmebe7ej.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
