@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 15 Jan 2026 13:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 15:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Night Lords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dgunipgk/pages-from-the-black-books-the-night-lords</link>
+            <guid>dgunipgk</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic Horus Heresy lore about the sons of Konrad Curze.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore1-jan15-1-feature-awj3cyf6io.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community team paints a pair of spectacular Nightbringer C’tan Shards]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uzs2caoc/the-warhammer-community-team-paints-a-pair-of-spectacular-nightbringer-ctan-shards</link>
@@ -265,17 +276,6 @@
             <category domain="animations">Animations</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh-january-2026-animations-trailer-thumbnail-zybemygogb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The first three new Warhammer animations confirmed for 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ycxnwws6/the-first-three-new-warhammer-animations-confirmed-for-2026</link>
-            <guid>ycxnwws6</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Battle Sisters and Berzerkers]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus_animations2026-jan07-1-feature-qa6b6f4f8v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
