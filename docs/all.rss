@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 Jan 2026 13:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 13:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Community team paints a pair of spectacular Nightbringer C’tan Shards]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uzs2caoc/the-warhammer-community-team-paints-a-pair-of-spectacular-nightbringer-ctan-shards</link>
+            <guid>uzs2caoc</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[More inspiration for how to paint this awesome miniature.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_teamnightbringers-jan13-1-feature-oym1ji6lsu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon</link>
@@ -263,16 +276,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus_animations2026-jan07-1-feature-qa6b6f4f8v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get up close and personal with a selection of gorgeous and evocative vampire hunter dioramas on Painting Desk]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2me96dxl/get-up-close-and-personal-with-a-selection-of-gorgeous-and-evocative-vampire-hunter-dioramas-on-painting-desk</link>
-            <guid>2me96dxl</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what your Warhammer+ subscription gets you this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jan07-1-feature-nb3zm8ljom.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
