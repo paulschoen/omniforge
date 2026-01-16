@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 Jan 2026 12:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 13:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Grey Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z8qyn4jc/warhammer-art-through-the-years-grey-knights</link>
+            <guid>z8qyn4jc</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/art16_greyknights-jan16-1-feature-7pbpwvwx53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Grey Knights | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/kdnw4szv/how-to-paint-grey-knights-warhammer-40000</link>
@@ -267,17 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_500worldslore-jan07-1-feature-mxdgo0iklf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Desk – Blood Vengeance Trailer | Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xgzeiqps/painting-desk-blood-vengeance-trailer-warhammer-tv</link>
-            <guid>xgzeiqps</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[In this episode, Painting Desk welcomes a miniatures designer from the Warhammer studio to discuss storytelling through a series of dioramas featuring witch hunters in the Mortal Realms.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v5-h-b-pd-promo-thumb-pptc03jbyz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
