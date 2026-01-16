@@ -4,11 +4,208 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 Jan 2026 15:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 21:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Reign of Iron – Teaser Trailer | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/txv5ktro/the-reign-of-iron-teaser-trailer-warhammer-40000</link>
+            <guid>txv5ktro</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bare metal… Yellow and black hazard stripes… What can any of it possibly mean!?]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01883_thumbnail_gb_16x9-zrj7qoqzbe.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Legio Custodes – Revealed at the New Year Preview 2026 | Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4k5nezn3/new-legio-custodes-revealed-at-the-new-year-preview-2026-warhammer-the-horus-heresy</link>
+            <guid>4k5nezn3</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Emperor unsheathes his talons! Feast your eyes on these all-new plastic kits in all their Auramite glory.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01857_custodes-thumbnails_16x9-pqkmoacxcj.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive Animation Extract: Penitence – Revealed at the New Year Preview 2026 | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hzs64nlz/exclusive-animation-extract-penitence-revealed-at-the-new-year-preview-2026-warhammer</link>
+            <guid>hzs64nlz</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Penitence is an Adepta Sororitas story, following a squad of Battle Sisters as they deliver a sacred relic to a would-be site of pilgrimage. Of course, things don’t quite go to plan.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/eng-v01910_extract_adepta-sororitas-penitence_thumbnail_16x9-atszfzpunb.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Ossiarch Bonereapers – Revealed at the New Year Preview 2026 | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/chrsejuh/new-ossiarch-bonereapers-revealed-at-the-new-year-preview-2026-warhammer-age-of-sigmar</link>
+            <guid>chrsejuh</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build new tactical options from the bones of the conquered with this spread of new units and kits for the Ossiarch Bonereapers, as revealed at the New Year Preview 2026!]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01808-ossiarch-bonereapers-reveal-thumbnail-fj6ofe0gxf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corsairs of the Maelstrom – Revealed at the New Year Preview 2026 | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/orbctczw/corsairs-of-the-maelstrom-revealed-at-the-new-year-preview-2026-warhammer-40000</link>
+            <guid>orbctczw</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Huron Blackheart's Red Corsairs launch fresh assaults from the Maelstrom – but they're not the only pirates in the galaxy. Prince Yriel joins the fray with his Aeldari Corsairs, the Eldritch Raiders!]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01807-jan-prev-vid-2-thumbnail-v3-llzejgk67i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Revealed: The Eye of Terror]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ycu7gzna/the-new-year-preview-revealed-the-eye-of-terror</link>
+            <guid>ycu7gzna</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New models for Warhammer 40,000 Iron Warriors sighted?]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature08-hxezhgremf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Tanks galore for the Legiones Astartes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o0vvkblo/the-new-year-preview-tanks-galore-for-the-legiones-astartes</link>
+            <guid>o0vvkblo</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New super-heavies and Journal Tactica announced.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature07-edobltvqzi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – All-new Legio Custodes Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mdp0kzdk/the-new-year-preview-all-new-legio-custodes-revealed</link>
+            <guid>mdp0kzdk</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Emperor unsheathes his talons.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature06-d4w6xoepzg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – New Animation Trailer: Penitence]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vgtle19y/the-new-year-preview-new-animation-trailer-penitence</link>
+            <guid>vgtle19y</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[An Adepta Sororitas animation for Warhammer+]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature02-l3evn2bjvb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Show off your Blood Bowl skills with the superlative High Elf Team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nqqvkxjd/the-new-year-preview-show-off-your-blood-bowl-skills-with-the-superlative-high-elf-team</link>
+            <guid>nqqvkxjd</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The elves of Ulthuan are here to play.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature03-opp6c3qo4l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Superlative sorcerers do battle in twin reveals]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i3kjtenu/the-new-year-preview-superlative-sorcerers-do-battle-in-twin-reveals</link>
+            <guid>i3kjtenu</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Master magic and more with Tzeentch and the Lumineth.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature05-kh5qmg5egw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Fulfil the bone-tithe with new Ossiarch Bonereapers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/waia6lkr/the-new-year-preview-fulfil-the-bone-tithe-with-new-ossiarch-bonereapers</link>
+            <guid>waia6lkr</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build new tactical options from the bones of the conquered.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature04-iovao27sim.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Enter the Lair of the Tyrant]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/w4kpa40k/the-new-year-preview-enter-the-lair-of-the-tyrant</link>
+            <guid>w4kpa40k</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new campaign supplement for Warhammer 40,000.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature01c-miw1xb4nkk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Prince Yriel counterattacks with new Aeldari Corsairs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l7x5v6ib/the-new-year-preview-prince-yriel-counterattacks-with-new-aeldari-corsairs</link>
+            <guid>l7x5v6ib</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Eldritch Raiders strike from the void.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature01a-1zy5vvyjtv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Preview – Prepare to be boarded by the new Red Corsairs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs</link>
+            <guid>oozg3yry</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chaos renegades raid across the Imperium.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/feature01b-zn3ehtt2fp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The New Year Warhammer Preview Live! 2026 – See all of the reveals]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ssts1hyy/the-new-year-warhammer-preview-live-2026-see-all-of-the-reveals</link>
+            <guid>ssts1hyy</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Every reveal in one convenient place.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature00-g5w6ic9gnr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Go hunting for relics with Skitarii painted by our own Warhammer staff]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/svcdmikw/go-hunting-for-relics-with-skitarii-painted-by-our-own-warhammer-staff</link>
@@ -96,188 +293,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_skitariirules-jan13-1-feature-ivfk5uifnj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 13th of January]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-13th-of-january</link>
-            <guid>lvbiukyp</guid>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jan13-1-feature-w51ecjupq3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Nurgle's Decaying Armour & Metallics | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xrr2vgw0/how-to-paint-nurgles-decaying-armour-metallics-warhammer-age-of-sigmar</link>
-            <guid>xrr2vgw0</guid>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nurgle's corruption knows no bounds, infecting all aspects of his followers, including their armour! In this video, Dan shows just how decayed it can get.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/nurgle_armour_thumbnail-h50pwmkupr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tune in to the New Year Warhammer Preview on Friday]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s4afynk7/tune-in-to-the-new-year-warhammer-preview-on-friday</link>
-            <guid>s4afynk7</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first preview of the year is nearly here.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/newyear_thisweek-jan12-1-feature-younifmrd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Skitarii are the elite hunters of the Mechanicum, but what makes them so special?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jffr4bmv/the-skitarii-are-the-elite-hunters-of-the-mechanicum-but-what-makes-them-so-special</link>
-            <guid>jffr4bmv</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Fabricator General’s personal troops are a cut above.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_skitariilore-jan12-1-feature-2qlmofxqsp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Putrid Nurgle Skin Tones | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gr7xvn27/painting-putrid-nurgle-skin-tones-warhammer-age-of-sigmar</link>
-            <guid>gr7xvn27</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The gifts of Nurgle often cause the body to swell and mutate in quite disturbing ways. Today, Dan is tackling these ‘gifts’ by showing you three different techniques for painting the putrid skin of Nurgle's followers.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01303-putrid-skintones-thumbnail-o98djvbahv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Treachery of Gollum™ – Designer’s notes on the new Middle-earth™ journal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jng5mtow/the-treachery-of-gollumtm-designers-notes-on-the-new-middle-earthtm-journal</link>
-            <guid>jng5mtow</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover what awaits in the tunnels above Cirith Ungol™.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_gollumjournal-jan12-1-feature-zj7omx4gd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Angron Transfigured stares down the new Skitarii]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dcuclxww/sunday-preview-angron-transfigured-stares-down-the-new-skitarii</link>
-            <guid>dcuclxww</guid>
-            <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan11-1-feature-t3cgcdg66a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Reclaim the 500 Worlds of Ultramar with Captain Titus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/v0ohrzf9/saturday-pre-orders-reclaim-the-500-worlds-of-ultramar-with-captain-titus</link>
-            <guid>v0ohrzf9</guid>
-            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join Titus in the war against Nekrosor Ammentar.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jan10-1-feature-vyov53nwoj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Titus and the Wardens of Ultramar are on parade thanks to our talented community painters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters</link>
-            <guid>xcucjrwf</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A dazzling display of Ultramar’s best and brightest.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_infltitus-jan09-1-feature-ggblmycmzr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Warhammer World in the USA? Get the details here.]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u6jqjmvz/a-warhammer-world-in-the-usa-get-the-details-here</link>
-            <guid>u6jqjmvz</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Breaking News: There’s a new Warhammer World coming.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-oskuly61bl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – Will you brave a deadly campaign on the war-torn Vespator Front?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oq2wdapz/500-worlds-titus-will-you-brave-a-deadly-campaign-on-the-war-torn-vespator-front</link>
-            <guid>oq2wdapz</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules for running large-scale narrative campaigns.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_vespatorfront-jan09-1-feature-bj4fp8fjhk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Emperor’s Children]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dfgn8e8c/warhammer-art-through-the-years-emperors-children</link>
-            <guid>dfgn8e8c</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art15_empschildren-jan09-1-feature-bduohtjdch.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Orks Trailer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/w2zlyxxt/warhammer-40000-dawn-of-war-iv-orks-trailer-warhammer</link>
-            <guid>w2zlyxxt</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Witness Ork brutality and the loud, relentless ferocity that comes with it as Gorgutz, Ork Warboss of the Bad Moons, unleashes a surprise attack, in the first in-game faction CGI sequence from the upcoming Warhammer 40,000: Dawn of War IV. WAAAGH!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/16-eessdwxzpx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500 Worlds: Titus – Fight deadly Boarding Actions on Necron terrain with Dread Incursions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ra4pksny/500-worlds-titus-fight-deadly-boarding-actions-on-necron-terrain-with-dread-incursions</link>
-            <guid>ra4pksny</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Close quarters battles are back in the limelight.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_500dreadincursions-jan08-1-feature-oypcpbdhvj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The incredible C’tan Shard of the Nightbringer as imagined by community painters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pyqj7rni/the-incredible-ctan-shard-of-the-nightbringer-as-imagined-by-community-painters</link>
-            <guid>pyqj7rni</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get inspired by these awesome renditions of the new C’tan shard.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_inflnightbringers-jan08-1-feature-hcssh8fn14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Captain Titus | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6rcow1pz/how-to-paint-captain-titus-warhammer-40000</link>
-            <guid>6rcow1pz</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A relentless champion of Ultramar with an unyielding will, Captain Demetrian Titus has won countless battles against seemingly impossible odds. While possessed of lauded command abilities, Titus is truly at home in the press of battle where he fights relentlessly and refuses to give in even to grievous wounds. This model is a true centrepiece for any Ultramarines army and thus deserves an immaculate paint job. Those in need of a helping hand, don’t worry, Ollie’s got your back with this easy to follow and comprehensive paint guide!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="ultramarines">Ultramarines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/titus_painting_tutorial_thumbnail-90fbnhvxcv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
