@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 15 Jan 2026 15:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 12:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Grey Knights | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kdnw4szv/how-to-paint-grey-knights-warhammer-40000</link>
+            <guid>kdnw4szv</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Grey Knights are the elite daemon hunters of the Imperium! They rock an awesome silver colour scheme, which is super easy to paint and yet looks great. Tune in to see Ollie talk about all things painting Grey Knights.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail---2-zk7je8pqvz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Night Lords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dgunipgk/pages-from-the-black-books-the-night-lords</link>
@@ -266,16 +278,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v5-h-b-pd-promo-thumb-pptc03jbyz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Warhammer 40,000 Animations Trailer – January 2026 | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/cuzwp8m4/new-warhammer-40000-animations-trailer-january-2026-warhammer</link>
-            <guid>cuzwp8m4</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a sneak peek at the next THREE epic, all-new animations set in the grim darkness of the far future, due to land on Warhammer+ soon.]]></description>
-            <category domain="animations">Animations</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh-january-2026-animations-trailer-thumbnail-zybemygogb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
