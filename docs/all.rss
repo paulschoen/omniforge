@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 Jan 2026 21:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 00:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Custodes: Your Questions Answered]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kcuvmezh/new-custodes-your-questions-answered</link>
+            <guid>kcuvmezh</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yes. Some of those awesome new Custodes miniatures are female.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-hqfeuschxb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Reign of Iron – Teaser Trailer | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/txv5ktro/the-reign-of-iron-teaser-trailer-warhammer-40000</link>
@@ -201,7 +212,7 @@
             <link>https://www.warhammer-community.com/en-gb/articles/ssts1hyy/the-new-year-warhammer-preview-live-2026-see-all-of-the-reveals</link>
             <guid>ssts1hyy</guid>
             <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Every reveal in one convenient place.]]></description>
+            <description><![CDATA[All the upcoming miniatures in one place, from new Legio Custodes to Ossiarch Bonereapers and a whole host of Corsairs – and much more]]></description>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature00-g5w6ic9gnr.jpg" length="0" type="image/jpg"/>
@@ -283,16 +294,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_khan-jan14-1-feature-iqopfhqv7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Under the hood of the new Skitarii Battle-Pilgrym rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zaswbnk3/under-the-hood-of-the-new-skitarii-battle-pilgrym-rules</link>
-            <guid>zaswbnk3</guid>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[They don’t just look good – let’s see what they can do.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_skitariirules-jan13-1-feature-ivfk5uifnj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
