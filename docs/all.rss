@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 17 Jan 2026 00:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 18:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The monstrous and mechanical battle in the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/emd2sijb/saturday-pre-orders-the-monstrous-and-mechanical-battle-in-the-horus-heresy</link>
+            <guid>emd2sijb</guid>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jan17-1-feature-3gktylhbnr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Custodes: Your Questions Answered]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kcuvmezh/new-custodes-your-questions-answered</link>
@@ -284,16 +297,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jan14-1-feature-bmrktiza2g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bring death swift and true with Jaghatai Khan’s new JOYTOY figure]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nhrvhvkv/bring-death-swift-and-true-with-jaghatai-khans-new-joytoy-figure</link>
-            <guid>nhrvhvkv</guid>
-            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Great Khan joins the range.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_khan-jan14-1-feature-iqopfhqv7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
