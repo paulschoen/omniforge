@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 19 Jan 2026 14:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 15:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Praise Hashut and earn a new Daemonsmith by shopping in Warhammer stores soon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bnnsdzri/praise-hashut-and-earn-a-new-daemonsmith-by-shopping-in-warhammer-stores-soon</link>
+            <guid>bnnsdzri</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Spend in-store to get a new Zharrdron miniature.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_retaildaemonsmithreveal-jan19-1-feature-lyoqs9ufrs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team: Shadowhunt – Celestian Insidiants show witches the blunt end of a null mace]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tvaxw27j/kill-team-shadowhunt-celestian-insidiants-show-witches-the-blunt-end-of-a-null-mace</link>
@@ -286,17 +299,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail---2-zk7je8pqvz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Night Lords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dgunipgk/pages-from-the-black-books-the-night-lords</link>
-            <guid>dgunipgk</guid>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic Horus Heresy lore about the sons of Konrad Curze.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore1-jan15-1-feature-awj3cyf6io.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
