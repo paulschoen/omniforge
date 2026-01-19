@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 18 Jan 2026 18:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 14:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team: Shadowhunt – Celestian Insidiants show witches the blunt end of a null mace]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tvaxw27j/kill-team-shadowhunt-celestian-insidiants-show-witches-the-blunt-end-of-a-null-mace</link>
+            <guid>tvaxw27j</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Veteran Battle Sisters fill the killzone with faith and fire.]]></description>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_shbattlesistersrules-jan19-1-feature-rzxykxuuwk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Fell hunters and faithful wardens clash in Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qvxeezrk/sunday-preview-fell-hunters-and-faithful-wardens-clash-in-kill-team</link>
@@ -286,19 +297,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore1-jan15-1-feature-awj3cyf6io.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community team paints a pair of spectacular Nightbringer C’tan Shards]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uzs2caoc/the-warhammer-community-team-paints-a-pair-of-spectacular-nightbringer-ctan-shards</link>
-            <guid>uzs2caoc</guid>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[More inspiration for how to paint this awesome miniature.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_teamnightbringers-jan13-1-feature-oym1ji6lsu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
