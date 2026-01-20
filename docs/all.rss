@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 Jan 2026 13:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 14:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team: Shadowhunt – Scream down from the skies with the vicious, bloodthirsty Murderwing]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5s6zvean/kill-team-shadowhunt-scream-down-from-the-skies-with-the-vicious-bloodthirsty-murderwing</link>
+            <guid>5s6zvean</guid>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Soar around the killzone and stab operatives you fly over.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_shmurderwingrules-jan20-1-feature-f6hf1mww3n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 20th of January]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-20th-of-january</link>
@@ -286,17 +296,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_teamskitarii-jan16-1-feature-cujvkk8omf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Grey Knights]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z8qyn4jc/warhammer-art-through-the-years-grey-knights</link>
-            <guid>z8qyn4jc</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/art16_greyknights-jan16-1-feature-7pbpwvwx53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
