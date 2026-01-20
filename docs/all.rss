@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 Jan 2026 15:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 16:07:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer Community team have made their Million Miniatures Challenge pledge – What are you planning?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qoglpxve/the-warhammer-community-team-have-made-their-million-miniatures-challenge-pledge-what-are-you-planning</link>
+            <guid>qoglpxve</guid>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what we’re aiming to contribute.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/millionminischeckin1-jan20-1-feature-kt3x5tm3on.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tunnel from blasted ruins into disquieting tombs in new Descent killzones for Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ccdqzgz7/tunnel-from-blasted-ruins-into-disquieting-tombs-in-new-descent-killzones-for-kill-team</link>
@@ -285,16 +296,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature01b-zn3ehtt2fp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Warhammer Preview Live! 2026 – See all of the reveals]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ssts1hyy/the-new-year-warhammer-preview-live-2026-see-all-of-the-reveals</link>
-            <guid>ssts1hyy</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All the upcoming miniatures in one place, from new Legio Custodes to Ossiarch Bonereapers and a whole host of Corsairs – and much more]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature00-g5w6ic9gnr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
