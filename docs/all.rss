@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 Jan 2026 16:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 13:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Infinite and the Divine author Robert Rath commands his own Necron characters in Battle Report]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/puphctnh/infinite-and-the-divine-author-robert-rath-commands-his-own-necron-characters-in-battle-report</link>
+            <guid>puphctnh</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s what’s on Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jan21-1-feature-sbwznvj5cm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community team have made their Million Miniatures Challenge pledge – What are you planning?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qoglpxve/the-warhammer-community-team-have-made-their-million-miniatures-challenge-pledge-what-are-you-planning</link>
@@ -283,19 +293,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/feature01a-1zy5vvyjtv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Prepare to be boarded by the new Red Corsairs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs</link>
-            <guid>oozg3yry</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chaos renegades raid across the Imperium.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/feature01b-zn3ehtt2fp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
