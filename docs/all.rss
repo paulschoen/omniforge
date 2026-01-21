@@ -4,11 +4,19 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 Jan 2026 14:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 17:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[TEST FOR LIVE ARTICLES]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kyxcaxwm/test-for-live-articles</link>
+            <guid>kyxcaxwm</guid>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team: Shadowhunt – Face death itself when the Nightbringer rises from its tomb]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dyatkuu4/kill-team-shadowhunt-face-death-itself-when-the-nightbringer-rises-from-its-tomb</link>
@@ -279,17 +287,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature04-iovao27sim.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Enter the Lair of the Tyrant]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w4kpa40k/the-new-year-preview-enter-the-lair-of-the-tyrant</link>
-            <guid>w4kpa40k</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new campaign supplement for Warhammer 40,000.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature01c-miw1xb4nkk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
