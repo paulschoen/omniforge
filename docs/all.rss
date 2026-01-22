@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 Jan 2026 18:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 13:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Can a Commissar really restrain the Death Korps? Ask the author of Death Rider]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hewvydtm/can-a-commissar-really-restrain-the-death-korps-ask-the-author-of-death-rider</link>
+            <guid>hewvydtm</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We chat with Rhuairidh James about his first full-length novel.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_deathrider-jan22-1-feature-yif72yup1i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team: Shadowhunt – Face death itself when the Nightbringer rises from its tomb]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dyatkuu4/kill-team-shadowhunt-face-death-itself-when-the-nightbringer-rises-from-its-tomb</link>
@@ -279,17 +290,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature04-iovao27sim.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Enter the Lair of the Tyrant]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/w4kpa40k/the-new-year-preview-enter-the-lair-of-the-tyrant</link>
-            <guid>w4kpa40k</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new campaign supplement for Warhammer 40,000.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature01c-miw1xb4nkk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
