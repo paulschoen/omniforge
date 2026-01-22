@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 Jan 2026 14:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 15:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Wield the hatred between Orcs and Uruk-hai as a weapon in the Cirith Ungol™ army list]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nfsveq92/wield-the-hatred-between-orcs-and-uruk-hai-as-a-weapon-in-the-cirith-ungoltm-army-list</link>
+            <guid>nfsveq92</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s the best way to use Shelob and the collected minions of Sauron?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_cirithungol-jan22-1-feature-uptvsmtezz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Thramas Crusade]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eux5hoii/pages-from-the-black-books-the-thramas-crusade</link>
@@ -274,20 +285,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature03-opp6c3qo4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Superlative sorcerers do battle in twin reveals]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i3kjtenu/the-new-year-preview-superlative-sorcerers-do-battle-in-twin-reveals</link>
-            <guid>i3kjtenu</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Master magic and more with Tzeentch and the Lumineth.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature05-kh5qmg5egw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
