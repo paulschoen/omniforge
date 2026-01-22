@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 Jan 2026 13:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 14:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Thramas Crusade]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eux5hoii/pages-from-the-black-books-the-thramas-crusade</link>
+            <guid>eux5hoii</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A campaign of terror begins.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore2-jan22-1-feature-2ygzkcblie.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can a Commissar really restrain the Death Korps? Ask the author of Death Rider]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hewvydtm/can-a-commissar-really-restrain-the-death-korps-ask-the-author-of-death-rider</link>
@@ -277,19 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature05-kh5qmg5egw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Fulfil the bone-tithe with new Ossiarch Bonereapers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/waia6lkr/the-new-year-preview-fulfil-the-bone-tithe-with-new-ossiarch-bonereapers</link>
-            <guid>waia6lkr</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build new tactical options from the bones of the conquered.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature04-iovao27sim.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
