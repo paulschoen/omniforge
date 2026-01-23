@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Jan 2026 14:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 15:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A Tale of Four Painters – new additions to the players’ Horus Heresy armies]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qd1nvdss/a-tale-of-four-painters-new-additions-to-the-players-horus-heresy-armies</link>
+            <guid>qd1nvdss</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome miniatures from the Warhammer team.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_to4g-jan23-1-feature-pjwbi1rdxm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team community painters go all out for Shadowhunt]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uaw1gl4h/kill-team-community-painters-go-all-out-for-shadowhunt</link>
@@ -273,18 +286,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature07-edobltvqzi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – All-new Legio Custodes Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mdp0kzdk/the-new-year-preview-all-new-legio-custodes-revealed</link>
-            <guid>mdp0kzdk</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Emperor unsheathes his talons.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature06-d4w6xoepzg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
