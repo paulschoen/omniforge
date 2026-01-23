@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Jan 2026 13:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 14:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team community painters go all out for Shadowhunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uaw1gl4h/kill-team-community-painters-go-all-out-for-shadowhunt</link>
+            <guid>uaw1gl4h</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celestian Insidiants and Murderwing operatives painted by our community.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_-shadowhuntinfluencer-jan23-1-feature-cyirib9e2y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Tyranids]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yl1cozl5/warhammer-art-through-the-years-tyranids</link>
@@ -271,19 +285,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature06-d4w6xoepzg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – New Animation Trailer: Penitence]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vgtle19y/the-new-year-preview-new-animation-trailer-penitence</link>
-            <guid>vgtle19y</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[An Adepta Sororitas animation for Warhammer+]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature02-l3evn2bjvb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
