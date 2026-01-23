@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 Jan 2026 15:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 13:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Tyranids]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yl1cozl5/warhammer-art-through-the-years-tyranids</link>
+            <guid>yl1cozl5</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammerart17-jan23-1-feature-xj2vxzvnw6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wield the hatred between Orcs and Uruk-hai as a weapon in the Cirith Ungol™ army list]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nfsveq92/wield-the-hatred-between-orcs-and-uruk-hai-as-a-weapon-in-the-cirith-ungoltm-army-list</link>
@@ -273,18 +284,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature02-l3evn2bjvb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Show off your Blood Bowl skills with the superlative High Elf Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nqqvkxjd/the-new-year-preview-show-off-your-blood-bowl-skills-with-the-superlative-high-elf-team</link>
-            <guid>nqqvkxjd</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The elves of Ulthuan are here to play.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature03-opp6c3qo4l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
