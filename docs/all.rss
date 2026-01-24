@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Jan 2026 15:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 18:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vekmdfs3/saturday-pre-orders-death-strikes-from-the-skies-in-kill-team-shadowhunt</link>
+            <guid>vekmdfs3</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything available to pre-order today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jan24-1-feature-ph3lzgpiut.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Tale of Four Painters – new additions to the players’ Horus Heresy armies]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qd1nvdss/a-tale-of-four-painters-new-additions-to-the-players-horus-heresy-armies</link>
@@ -274,18 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature08-hxezhgremf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Tanks galore for the Legiones Astartes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o0vvkblo/the-new-year-preview-tanks-galore-for-the-legiones-astartes</link>
-            <guid>o0vvkblo</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New super-heavies and Journal Tactica announced.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature07-edobltvqzi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
