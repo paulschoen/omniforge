@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 24 Jan 2026 18:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 18:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Embrace Chaos with new battleforces and Old World classics]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zioctyhm/sunday-preview-embrace-chaos-with-new-battleforces-and-old-world-classics</link>
+            <guid>zioctyhm</guid>
+            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan25-1-feature-vyl6u5ct8q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Death strikes from the skies in Kill Team: Shadowhunt]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vekmdfs3/saturday-pre-orders-death-strikes-from-the-skies-in-kill-team-shadowhunt</link>
@@ -272,19 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01807-jan-prev-vid-2-thumbnail-v3-llzejgk67i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Preview – Revealed: The Eye of Terror]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ycu7gzna/the-new-year-preview-revealed-the-eye-of-terror</link>
-            <guid>ycu7gzna</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New models for Warhammer 40,000 Iron Warriors sighted?]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature08-hxezhgremf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
