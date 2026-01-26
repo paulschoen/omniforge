@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 Jan 2026 15:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 16:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Heroes 2026 – Nominate the unsung heroes who shaped your Warhammer journey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nimmvpoz/warhammer-heroes-2026-nominate-the-unsung-heroes-who-shaped-your-warhammer-journey</link>
+            <guid>nimmvpoz</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Submit your nomination now.]]></description>
+            <category domain="warhammer-heroes">Warhammer Heroes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whheroes2026-jan19-1-feature-7tbna83tuh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A powerhouse Warsmith leads a new campaign for the Iron Warriors]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zftmsi8e/a-powerhouse-warsmith-leads-a-new-campaign-for-the-iron-warriors</link>
@@ -277,18 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01883_thumbnail_gb_16x9-zrj7qoqzbe.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Legio Custodes – Revealed at the New Year Preview 2026 | Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4k5nezn3/new-legio-custodes-revealed-at-the-new-year-preview-2026-warhammer-the-horus-heresy</link>
-            <guid>4k5nezn3</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Emperor unsheathes his talons! Feast your eyes on these all-new plastic kits in all their Auramite glory.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01857_custodes-thumbnails_16x9-pqkmoacxcj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
