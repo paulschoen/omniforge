@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 Jan 2026 13:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 15:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A powerhouse Warsmith leads a new campaign for the Iron Warriors]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zftmsi8e/a-powerhouse-warsmith-leads-a-new-campaign-for-the-iron-warriors</link>
+            <guid>zftmsi8e</guid>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The dour sons of Perturabo prepare for the greatest siege in ten millennia.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-ojuld5fxbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stand stoic with new event miniatures for Warhammer 40,000 and Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kwuec3hd/stand-stoic-with-new-event-miniatures-for-warhammer-40000-and-age-of-sigmar</link>
@@ -87,6 +99,18 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/warhammerart17-jan23-1-feature-xj2vxzvnw6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint an Imperial Knight | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/txhf3ap1/how-to-paint-an-imperial-knight-warhammer-40000</link>
+            <guid>txhf3ap1</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imperial Knights are towering war machines – more than a match for vast swathes of enemy infantry, massive monsters, and heavy battle tanks. Bold and ever willing to risk peril, Knights plunge into the fiercest fighting, dealing death with cannons, whirring chainblades, and an arsenal of additional weapons. They’re truly immense and an absolute blast to paint too, despite their massive size! Tune in to this video to see Ollie talk all things painting Imperial Knights!]]></description>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/23-sbzhh8e9ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Wield the hatred between Orcs and Uruk-hai as a weapon in the Cirith Ungol™ army list]]></title>
@@ -265,30 +289,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01857_custodes-thumbnails_16x9-pqkmoacxcj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive Animation Extract: Penitence – Revealed at the New Year Preview 2026 | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hzs64nlz/exclusive-animation-extract-penitence-revealed-at-the-new-year-preview-2026-warhammer</link>
-            <guid>hzs64nlz</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Penitence is an Adepta Sororitas story, following a squad of Battle Sisters as they deliver a sacred relic to a would-be site of pilgrimage. Of course, things don’t quite go to plan.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/eng-v01910_extract_adepta-sororitas-penitence_thumbnail_16x9-atszfzpunb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[New Ossiarch Bonereapers – Revealed at the New Year Preview 2026 | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/chrsejuh/new-ossiarch-bonereapers-revealed-at-the-new-year-preview-2026-warhammer-age-of-sigmar</link>
-            <guid>chrsejuh</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build new tactical options from the bones of the conquered with this spread of new units and kits for the Ossiarch Bonereapers, as revealed at the New Year Preview 2026!]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01808-ossiarch-bonereapers-reveal-thumbnail-fj6ofe0gxf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
