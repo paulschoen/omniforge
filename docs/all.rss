@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Jan 2026 15:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 16:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Adepta Sororitas and Alpha Legion novels cross the Black Library horizon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/744em5b2/adepta-sororitas-and-alpha-legion-novels-cross-the-black-library-horizon</link>
+            <guid>744em5b2</guid>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Aestred Thurga and Solomon Akurra star in new stories.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_40kreveals-jan27-1-feature-worbpofjao.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar: The Ultimate Guide]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/wpi2uz3c/warhammer-age-of-sigmar-the-ultimate-guide</link>
@@ -272,18 +282,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_shbattlesistersrules-jan19-1-feature-rzxykxuuwk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Fell hunters and faithful wardens clash in Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qvxeezrk/sunday-preview-fell-hunters-and-faithful-wardens-clash-in-kill-team</link>
-            <guid>qvxeezrk</guid>
-            <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All of next week’s releases revealed.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan18-1-feature-vwxewpmhs0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
