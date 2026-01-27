@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Jan 2026 13:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 14:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[You decide the cover star for a new Ultimate Guide to Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mlybbxsj/you-decide-the-cover-star-for-a-new-ultimate-guide-to-warhammer-age-of-sigmar</link>
+            <guid>mlybbxsj</guid>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your votes in and decide who’ll grace the cover.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dk_books-jan27-1-feature-evijfl6u27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 27th of January]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-27th-of-january</link>
@@ -274,17 +285,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jan17-1-feature-3gktylhbnr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Custodes: Your Questions Answered]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kcuvmezh/new-custodes-your-questions-answered</link>
-            <guid>kcuvmezh</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yes. Some of those awesome new Custodes miniatures are female.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-hqfeuschxb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
