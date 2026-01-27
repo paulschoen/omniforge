@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Jan 2026 14:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 15:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar: The Ultimate Guide]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wpi2uz3c/warhammer-age-of-sigmar-the-ultimate-guide</link>
+            <guid>wpi2uz3c</guid>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vote for who you think should be on the cover of the upcoming Warhammer Age of Sigmar: The Ultimate Guide from DK books]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammer-aos-ultimate-guide-youtube_cover_(72ppi)-hbe6h5a7ep.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You decide the cover star for a new Ultimate Guide to Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mlybbxsj/you-decide-the-cover-star-for-a-new-ultimate-guide-to-warhammer-age-of-sigmar</link>
@@ -272,19 +284,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan18-1-feature-vwxewpmhs0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – The monstrous and mechanical battle in the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/emd2sijb/saturday-pre-orders-the-monstrous-and-mechanical-battle-in-the-horus-heresy</link>
-            <guid>emd2sijb</guid>
-            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything available to pre-order today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jan17-1-feature-3gktylhbnr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
