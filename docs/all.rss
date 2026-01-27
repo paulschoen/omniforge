@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 Jan 2026 16:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 13:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 27th of January]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-27th-of-january</link>
+            <guid>fcmvqul0</guid>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-jan27-1-feature-ulzl6av6s6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Heroes 2026 – Nominate the unsung heroes who shaped your Warhammer journey]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nimmvpoz/warhammer-heroes-2026-nominate-the-unsung-heroes-who-shaped-your-warhammer-journey</link>
@@ -275,18 +285,6 @@
             <category domain="adeptus-custodes">Adeptus Custodes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-hqfeuschxb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Reign of Iron – Teaser Trailer | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/txv5ktro/the-reign-of-iron-teaser-trailer-warhammer-40000</link>
-            <guid>txv5ktro</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bare metal… Yellow and black hazard stripes… What can any of it possibly mean!?]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01883_thumbnail_gb_16x9-zrj7qoqzbe.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
