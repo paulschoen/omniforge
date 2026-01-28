@@ -4,13 +4,42 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 Jan 2026 13:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 17:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Nurgle invests the latest episode of Loremasters on Warhammer TV]]></title>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Orks Faction Trailer | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fdstk58a/warhammer-40000-dawn-of-war-iv-orks-faction-trailer-warhammer</link>
+            <guid>fdstk58a</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dakka is louder, choppas hit harder, an' the boyz head into war on a massive scale – check out this first full gameplay look into the Orks in Warhammer 40,000: Dawn of War IV! 
+
+For Orks, war is loud, anarchic, and gloriously violent. It's all about taking on the biggest and baddest, krumping the enemy, and, most importantly, having a darn good scrap! In-game, the Orks make use of a number of tactical units and their unique Waaagh! ability to turn the tide on the battlefield.
+
+Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/steam_event_cover-owspuy69hu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dawn of War IV gameplay reveal – trailer gets brutal and cunning with the Orks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1ioth0l4/dawn-of-war-iv-gameplay-reveal-trailer-gets-brutal-and-cunning-with-the-orks</link>
+            <guid>1ioth0l4</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the latest gameplay trailer packed with Ork action.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dow_orktrailer-jan28-1-feature-plkgm1n9th.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nurgle infests the latest episode of Loremasters on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kco3fay8/nurgle-invests-the-latest-episode-of-loremasters-on-warhammer-tv</link>
             <guid>kco3fay8</guid>
             <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
@@ -260,26 +289,6 @@
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/millionminischeckin1-jan20-1-feature-kt3x5tm3on.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tunnel from blasted ruins into disquieting tombs in new Descent killzones for Kill Team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ccdqzgz7/tunnel-from-blasted-ruins-into-disquieting-tombs-in-new-descent-killzones-for-kill-team</link>
-            <guid>ccdqzgz7</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Launch special operations in two war zones at once.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_shdescentkillzonerules-jan20-1-feature-mevcaki4cv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team: Shadowhunt – Scream down from the skies with the vicious, bloodthirsty Murderwing]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5s6zvean/kill-team-shadowhunt-scream-down-from-the-skies-with-the-vicious-bloodthirsty-murderwing</link>
-            <guid>5s6zvean</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Soar around the killzone and stab operatives you fly over.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_shmurderwingrules-jan20-1-feature-f6hf1mww3n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
