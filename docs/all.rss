@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 Jan 2026 11:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 13:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Nurgle invests the latest episode of Loremasters on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kco3fay8/nurgle-invests-the-latest-episode-of-loremasters-on-warhammer-tv</link>
+            <guid>kco3fay8</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s also episodes of How We Roll and Citadel Colour Masterclass]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jan28-1-feature_alt-mbnc9sqcyw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reform your lines and set out for battle with a new Warhammer: The Old World balance update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lbzk6erd/reform-your-lines-and-set-out-for-battle-with-a-new-warhammer-the-old-world-balance-update</link>
@@ -270,16 +280,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_shmurderwingrules-jan20-1-feature-f6hf1mww3n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 20th of January]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-20th-of-january</link>
-            <guid>lvbiukyp</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jan20-1-feature-4ruqhn6yaq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
