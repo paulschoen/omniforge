@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Jan 2026 16:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 11:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Reform your lines and set out for battle with a new Warhammer: The Old World balance update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lbzk6erd/reform-your-lines-and-set-out-for-battle-with-a-new-warhammer-the-old-world-balance-update</link>
+            <guid>lbzk6erd</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s changed in the latest rules revision?]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_update-jan28-1-feature-omtl5oaob1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kasrkin regain their elite status in the January Kill Team Balance Update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o22qkepp/kasrkin-regain-their-elite-status-in-the-january-kill-team-balance-update</link>
+            <guid>o22qkepp</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this quarter’s rules updates for Kill Team.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_update-jan28-1-feature-k2hfy6mdit.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adepta Sororitas and Alpha Legion novels cross the Black Library horizon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/744em5b2/adepta-sororitas-and-alpha-legion-novels-cross-the-black-library-horizon</link>
@@ -258,30 +280,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jan20-1-feature-4ruqhn6yaq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Praise Hashut and earn a new Daemonsmith by shopping in Warhammer stores soon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bnnsdzri/praise-hashut-and-earn-a-new-daemonsmith-by-shopping-in-warhammer-stores-soon</link>
-            <guid>bnnsdzri</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Spend in-store to get a new Zharrdron miniature.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_retaildaemonsmithreveal-jan19-1-feature-lyoqs9ufrs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team: Shadowhunt – Celestian Insidiants show witches the blunt end of a null mace]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tvaxw27j/kill-team-shadowhunt-celestian-insidiants-show-witches-the-blunt-end-of-a-null-mace</link>
-            <guid>tvaxw27j</guid>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Veteran Battle Sisters fill the killzone with faith and fire.]]></description>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_shbattlesistersrules-jan19-1-feature-rzxykxuuwk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
