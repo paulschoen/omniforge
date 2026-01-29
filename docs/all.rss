@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 Jan 2026 17:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 13:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[More exciting events come to Warhammer World in May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u9hln7ks/more-exciting-events-come-to-warhammer-world-in-may</link>
+            <guid>u9hln7ks</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up in the heartlands of Warhammer?]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-jan29-1-feature-iykuaaebss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dawn of War IV – Orks Faction Trailer | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fdstk58a/warhammer-40000-dawn-of-war-iv-orks-faction-trailer-warhammer</link>
@@ -278,17 +289,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jan21-1-feature-sbwznvj5cm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer Community team have made their Million Miniatures Challenge pledge – What are you planning?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qoglpxve/the-warhammer-community-team-have-made-their-million-miniatures-challenge-pledge-what-are-you-planning</link>
-            <guid>qoglpxve</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what we’re aiming to contribute.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/millionminischeckin1-jan20-1-feature-kt3x5tm3on.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
