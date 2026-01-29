@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Jan 2026 14:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 15:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – Night Lords at Thramas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/t2ubdg6k/pages-from-the-black-books-night-lords-at-thramas</link>
+            <guid>t2ubdg6k</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The VIII Legion make their mark on a terrifying crusade.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore3-jan29-1-feature-vsovqqwkno.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Custom markets and crazy conversions, created by the Necromunda team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/if42sefc/custom-markets-and-crazy-conversions-created-by-the-necromunda-team</link>
@@ -280,16 +291,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_deathrider-jan22-1-feature-yif72yup1i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team: Shadowhunt – Face death itself when the Nightbringer rises from its tomb]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dyatkuu4/kill-team-shadowhunt-face-death-itself-when-the-nightbringer-rises-from-its-tomb</link>
-            <guid>dyatkuu4</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can you beat the C’tan Shard? Probably not, no.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_nightbringer-jan21-1-feature-qzj5n6rm72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
