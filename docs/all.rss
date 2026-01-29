@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Jan 2026 13:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 14:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Custom markets and crazy conversions, created by the Necromunda team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/if42sefc/custom-markets-and-crazy-conversions-created-by-the-necromunda-team</link>
+            <guid>if42sefc</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what you can do by combining Necromunda terrain.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_sdsmarket-jan29-1-feature-oqokaiqaef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More exciting events come to Warhammer World in May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u9hln7ks/more-exciting-events-come-to-warhammer-world-in-may</link>
@@ -279,16 +290,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_nightbringer-jan21-1-feature-qzj5n6rm72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Infinite and the Divine author Robert Rath commands his own Necron characters in Battle Report]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/puphctnh/infinite-and-the-divine-author-robert-rath-commands-his-own-necron-characters-in-battle-report</link>
-            <guid>puphctnh</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s what’s on Warhammer TV this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jan21-1-feature-sbwznvj5cm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
