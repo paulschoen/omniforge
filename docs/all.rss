@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Jan 2026 15:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 16:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Breach and clear with the Warhammer Community team’s dedicated Horus Heresy door-kickers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g6knaelp/breach-and-clear-with-the-warhammer-community-teams-dedicated-horus-heresy-door-kickers</link>
+            <guid>g6knaelp</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heavy assault Space Marines painted by our team.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_staffsiege-jan29-1-feature-dlrnpmrcyn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Night Lords at Thramas]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/t2ubdg6k/pages-from-the-black-books-night-lords-at-thramas</link>
@@ -280,17 +292,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore2-jan22-1-feature-2ygzkcblie.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can a Commissar really restrain the Death Korps? Ask the author of Death Rider]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hewvydtm/can-a-commissar-really-restrain-the-death-korps-ask-the-author-of-death-rider</link>
-            <guid>hewvydtm</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We chat with Rhuairidh James about his first full-length novel.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_deathrider-jan22-1-feature-yif72yup1i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
