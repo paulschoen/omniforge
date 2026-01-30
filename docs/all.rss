@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Jan 2026 16:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 11:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Painting a Rogal Dorn Battle Tank | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/uosolbli/painting-a-rogal-dorn-battle-tank-warhammer-40000</link>
+            <guid>uosolbli</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Countless Imperial war machines have been seen rolling to war clad in the iconic green and khaki camouflage pattern. Leman Russes, Rogal Dorns, and even Baneblades all look incredible in this scheme, and in this video Ollie will show you just how much fun it is to paint!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/30-01_thumbnail-7gflwtn9xa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Breach and clear with the Warhammer Community team’s dedicated Horus Heresy door-kickers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g6knaelp/breach-and-clear-with-the-warhammer-community-teams-dedicated-horus-heresy-door-kickers</link>
@@ -281,17 +293,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_cirithungol-jan22-1-feature-uptvsmtezz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Thramas Crusade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eux5hoii/pages-from-the-black-books-the-thramas-crusade</link>
-            <guid>eux5hoii</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A campaign of terror begins.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore2-jan22-1-feature-2ygzkcblie.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
