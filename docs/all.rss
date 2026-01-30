@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 Jan 2026 14:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 15:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators</link>
+            <guid>riua1n5m</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how painters from the Warhammer Studio got on with their new miniatures.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rule the Maelstrom with Huron and his crew’s spicy new datasheets]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets</link>
@@ -278,20 +290,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_to4g-jan23-1-feature-pjwbi1rdxm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team community painters go all out for Shadowhunt]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uaw1gl4h/kill-team-community-painters-go-all-out-for-shadowhunt</link>
-            <guid>uaw1gl4h</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celestian Insidiants and Murderwing operatives painted by our community.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_-shadowhuntinfluencer-jan23-1-feature-cyirib9e2y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
