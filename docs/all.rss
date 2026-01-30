@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 Jan 2026 11:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 13:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Chaos Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5omlfcnp/warhammer-art-through-the-years-chaos-knights</link>
+            <guid>5omlfcnp</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whart18_chaosknights-jan30-1-feature-9cvc3clrxm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Painting a Rogal Dorn Battle Tank | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/uosolbli/painting-a-rogal-dorn-battle-tank-warhammer-40000</link>
@@ -282,17 +293,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/23-sbzhh8e9ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wield the hatred between Orcs and Uruk-hai as a weapon in the Cirith Ungol™ army list]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nfsveq92/wield-the-hatred-between-orcs-and-uruk-hai-as-a-weapon-in-the-cirith-ungoltm-army-list</link>
-            <guid>nfsveq92</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s the best way to use Shelob and the collected minions of Sauron?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_cirithungol-jan22-1-feature-uptvsmtezz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
