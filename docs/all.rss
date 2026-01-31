@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 Jan 2026 15:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 18:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Chaos Space Marines and Marauders running wild]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uapels1d/saturday-pre-orders-chaos-space-marines-and-marauders-running-wild</link>
+            <guid>uapels1d</guid>
+            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out today’s latest pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jan31-1-feature-imevzukpit.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators</link>
@@ -277,19 +291,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jan24-1-feature-ph3lzgpiut.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Tale of Four Painters – new additions to the players’ Horus Heresy armies]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qd1nvdss/a-tale-of-four-painters-new-additions-to-the-players-horus-heresy-armies</link>
-            <guid>qd1nvdss</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome miniatures from the Warhammer team.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_to4g-jan23-1-feature-pjwbi1rdxm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
