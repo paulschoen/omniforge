@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Feb 2026 13:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 15:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Inscribe runes and create power from harmony with the dazzling new Lumineth Realm-lord battle trait]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ijbn2gge/inscribe-runes-and-create-power-from-harmony-with-the-dazzling-new-lumineth-realm-lord-battle-trait</link>
+            <guid>ijbn2gge</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exploit the Hysh-Mhensa and rule the battlefield.]]></description>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_luminethrules1-feb02-1-feature-r2hxr7kx4i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tyranids swarm over our Iron Halo coin stash thanks to February’s free Miniature of the Month]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hkuqc4cx/tyranids-swarm-over-our-iron-halo-coin-stash-thanks-to-februarys-free-miniature-of-the-month</link>
@@ -276,21 +287,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-ojuld5fxbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand stoic with new event miniatures for Warhammer 40,000 and Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kwuec3hd/stand-stoic-with-new-event-miniatures-for-warhammer-40000-and-age-of-sigmar</link>
-            <guid>kwuec3hd</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Attend a Warhammer event in 2026 and pick up something cool.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="events">Events</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/eventminis2026-jan26-1-feature-2fqllctzmd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
