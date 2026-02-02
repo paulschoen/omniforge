@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 01 Feb 2026 18:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 13:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tyranids swarm over our Iron Halo coin stash thanks to February’s free Miniature of the Month]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hkuqc4cx/tyranids-swarm-over-our-iron-halo-coin-stash-thanks-to-februarys-free-miniature-of-the-month</link>
+            <guid>hkuqc4cx</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Head in-store for a great miniature and coin this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb02-1-feature-ybu7t300ep.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – A magical melee rocks the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qsxg0ftc/sunday-preview-a-magical-melee-rocks-the-mortal-realms</link>
@@ -280,21 +291,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/eventminis2026-jan26-1-feature-2fqllctzmd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Embrace Chaos with new battleforces and Old World classics]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zioctyhm/sunday-preview-embrace-chaos-with-new-battleforces-and-old-world-classics</link>
-            <guid>zioctyhm</guid>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jan25-1-feature-vyl6u5ct8q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
