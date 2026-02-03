@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Feb 2026 13:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 14:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[White Dwarf dives into the Tomb World for new Kill Team rules and skirmish fun in Issue 521]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rcuwbbun/white-dwarf-dives-into-the-tomb-world-for-new-kill-team-rules-and-skirmish-fun-in-issue-521</link>
+            <guid>rcuwbbun</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up in this month’s issue?]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd521-feb03-1-feature-r8m9qjimkl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 3rd of February]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-3rd-of-february</link>
@@ -277,16 +288,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/dk_books-jan27-1-feature-evijfl6u27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 27th of January]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-27th-of-january</link>
-            <guid>fcmvqul0</guid>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jan27-1-feature-ulzl6av6s6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
