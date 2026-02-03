@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Feb 2026 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Alter fate and play tricks on foes with new Disciples of Tzeentch battle traits]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cutbwtz8/alter-fate-and-play-tricks-on-foes-with-new-disciples-of-tzeentch-battle-traits</link>
+            <guid>cutbwtz8</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Change and change again.]]></description>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_tzeentchrules1-feb03-1-feature-2jqskbtm59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf dives into the Tomb World for new Kill Team rules and skirmish fun in Issue 521]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rcuwbbun/white-dwarf-dives-into-the-tomb-world-for-new-kill-team-rules-and-skirmish-fun-in-issue-521</link>
@@ -277,17 +288,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer-aos-ultimate-guide-youtube_cover_(72ppi)-hbe6h5a7ep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You decide the cover star for a new Ultimate Guide to Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mlybbxsj/you-decide-the-cover-star-for-a-new-ultimate-guide-to-warhammer-age-of-sigmar</link>
-            <guid>mlybbxsj</guid>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your votes in and decide who’ll grace the cover.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dk_books-jan27-1-feature-evijfl6u27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
