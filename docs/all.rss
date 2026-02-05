@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 04 Feb 2026 14:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 13:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Relive epic moments from Middle-earth™ with Made to Order classics]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wca5zc0o/relive-epic-moments-from-middle-earthtm-with-made-to-order-classics</link>
+            <guid>wca5zc0o</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Recreate moments from the movies, and more]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_mto-feb05-1-feature-u2satqjzrb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Master magic with Teclis and bring enlightenment to the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cbvh8cjv/master-magic-with-teclis-and-bring-enlightenment-to-the-mortal-realms</link>
@@ -276,17 +286,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_update-jan28-1-feature-omtl5oaob1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kasrkin regain their elite status in the January Kill Team Balance Update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o22qkepp/kasrkin-regain-their-elite-status-in-the-january-kill-team-balance-update</link>
-            <guid>o22qkepp</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this quarter’s rules updates for Kill Team.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_update-jan28-1-feature-k2hfy6mdit.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
