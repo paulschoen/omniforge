@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Feb 2026 13:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 14:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Summon shifting Argent Shards into battle and shower foes with spectacular spellcasting]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s2u3hnhx/summon-shifting-argent-shards-into-battle-and-shower-foes-with-spectacular-spellcasting</link>
+            <guid>s2u3hnhx</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unleash the raw power of magic.]]></description>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_tzeentchrules2-feb05-1-feature-bhkjf9jqct.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Relive epic moments from Middle-earth™ with Made to Order classics]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wca5zc0o/relive-epic-moments-from-middle-earthtm-with-made-to-order-classics</link>
@@ -275,17 +286,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jan28-1-feature_alt-mbnc9sqcyw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reform your lines and set out for battle with a new Warhammer: The Old World balance update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lbzk6erd/reform-your-lines-and-set-out-for-battle-with-a-new-warhammer-the-old-world-balance-update</link>
-            <guid>lbzk6erd</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s changed in the latest rules revision?]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_update-jan28-1-feature-omtl5oaob1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
