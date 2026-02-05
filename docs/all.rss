@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Feb 2026 14:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 15:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – Principal worlds of the Eastern Fringe]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lws0etpf/pages-from-the-black-books-principal-worlds-of-the-eastern-fringe</link>
+            <guid>lws0etpf</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn more about the worlds far from Terra’s light.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore4-feb05-1-feature-npxxlv6ins.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summon shifting Argent Shards into battle and shower foes with spectacular spellcasting]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s2u3hnhx/summon-shifting-argent-shards-into-battle-and-shower-foes-with-spectacular-spellcasting</link>
@@ -29,6 +40,18 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_mto-feb05-1-feature-u2satqjzrb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint T’au Stealth Suits | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tina5pbo/how-to-paint-tau-stealth-suits-warhammer-40000</link>
+            <guid>tina5pbo</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[XV26 Stealth Battlesuit teams are – by T’au military standards – strategic anomalies. Specialists in covert warfare, Stealth Battlesuit pilots are amongst the most daring and innovative warriors in the Empire. And if you’re looking to paint your very own, seek no further than this video! In this paint guide, Ollie shows you not only how to paint the awesome Vior’la scheme we’re used to, but a couple of extra ones too, including the classic T’au Sept!]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01311-how-to-paint-tau-stealth-suits-thumbnail-lvalek4ye3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Master magic with Teclis and bring enlightenment to the Mortal Realms]]></title>
@@ -264,28 +287,6 @@ Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/steam_event_cover-owspuy69hu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dawn of War IV gameplay reveal – trailer gets brutal and cunning with the Orks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1ioth0l4/dawn-of-war-iv-gameplay-reveal-trailer-gets-brutal-and-cunning-with-the-orks</link>
-            <guid>1ioth0l4</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the latest gameplay trailer packed with Ork action.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dow_orktrailer-jan28-1-feature-plkgm1n9th.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nurgle infests the latest episode of Loremasters on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kco3fay8/nurgle-invests-the-latest-episode-of-loremasters-on-warhammer-tv</link>
-            <guid>kco3fay8</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s also episodes of How We Roll and Citadel Colour Masterclass]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jan28-1-feature_alt-mbnc9sqcyw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
