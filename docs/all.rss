@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Feb 2026 15:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 16:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Shining a light on Battletome: Lumineth Realm-lords with Ryan from Threshold Tactics]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yoizipvt/shining-a-light-on-battletome-lumineth-realm-lords-with-ryan-from-threshold-tactics</link>
+            <guid>yoizipvt</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What does a Warhammer Age of Sigmar expert from the community think of the new rules?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_inflluminethrules-feb05-1-feature-4ahvnqe2lu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Principal worlds of the Eastern Fringe]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lws0etpf/pages-from-the-black-books-principal-worlds-of-the-eastern-fringe</link>
@@ -270,23 +282,6 @@
             <category domain="warhammer-world">Warhammer World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-jan29-1-feature-iykuaaebss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Orks Faction Trailer | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fdstk58a/warhammer-40000-dawn-of-war-iv-orks-faction-trailer-warhammer</link>
-            <guid>fdstk58a</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dakka is louder, choppas hit harder, an' the boyz head into war on a massive scale – check out this first full gameplay look into the Orks in Warhammer 40,000: Dawn of War IV! 
-
-For Orks, war is loud, anarchic, and gloriously violent. It's all about taking on the biggest and baddest, krumping the enemy, and, most importantly, having a darn good scrap! In-game, the Orks make use of a number of tactical units and their unique Waaagh! ability to turn the tide on the battlefield.
-
-Warhammer 40,000: Dawn of War IV releases on Steam in 2026!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/steam_event_cover-owspuy69hu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
