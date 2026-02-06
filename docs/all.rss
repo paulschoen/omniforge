@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Feb 2026 12:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 14:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The face of change in Battletome: Disciples of Tzeentch, with Ryan from Threshold Tactics]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zpke56li/the-face-of-change-in-battletome-disciples-of-tzeentch-with-ryan-from-threshold-tactics</link>
+            <guid>zpke56li</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s new in Tzeentch’s next battletome?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_tzeinflrules-feb06-1-feature-colsacm5vw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Time is running out to nominate a Warhammer Hero from your local community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lfr8ktdx/time-is-running-out-to-nominate-a-warhammer-hero-from-your-local-community</link>
@@ -18,6 +30,18 @@
             <category domain="warhammer-heroes">Warhammer Heroes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whheroesreminder2026-feb06-1-feature-mpvnn6hr8v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint a Tzeentch Fatemaster | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/7n7mdeay/how-to-paint-a-tzeentch-fatemaster-warhammer-age-of-sigmar</link>
+            <guid>7n7mdeay</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fatemasters are charismatic firebrands who weave plots and illusions to ensure their enemies’ annihilation. If you’re interested in giving your very own mastermind of the Arcanite Cults a formidable paint job, tune in to this video to see Ollie show you how!]]></description>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail-qehoqr98uy.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Shining a light on Battletome: Lumineth Realm-lords with Ryan from Threshold Tactics]]></title>
@@ -259,28 +283,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_staffsiege-jan29-1-feature-dlrnpmrcyn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Night Lords at Thramas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/t2ubdg6k/pages-from-the-black-books-night-lords-at-thramas</link>
-            <guid>t2ubdg6k</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The VIII Legion make their mark on a terrifying crusade.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore3-jan29-1-feature-vsovqqwkno.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Custom markets and crazy conversions, created by the Necromunda team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/if42sefc/custom-markets-and-crazy-conversions-created-by-the-necromunda-team</link>
-            <guid>if42sefc</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what you can do by combining Necromunda terrain.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/nec_sdsmarket-jan29-1-feature-oqokaiqaef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
