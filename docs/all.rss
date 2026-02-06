@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Feb 2026 16:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 12:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Time is running out to nominate a Warhammer Hero from your local community]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lfr8ktdx/time-is-running-out-to-nominate-a-warhammer-hero-from-your-local-community</link>
+            <guid>lfr8ktdx</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Don’t miss the deadline for this year’s Warhammer Heroes voting.]]></description>
+            <category domain="warhammer-heroes">Warhammer Heroes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whheroesreminder2026-feb06-1-feature-mpvnn6hr8v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shining a light on Battletome: Lumineth Realm-lords with Ryan from Threshold Tactics]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yoizipvt/shining-a-light-on-battletome-lumineth-realm-lords-with-ryan-from-threshold-tactics</link>
@@ -51,7 +61,7 @@
             <description><![CDATA[Recreate moments from the movies, and more]]></description>
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_mto-feb05-1-feature-u2satqjzrb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/me_mto-feb05-1-feature-uqxz3julj8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[How to Paint T’au Stealth Suits | Warhammer 40,000]]></title>
@@ -271,17 +281,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/nec_sdsmarket-jan29-1-feature-oqokaiqaef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More exciting events come to Warhammer World in May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u9hln7ks/more-exciting-events-come-to-warhammer-world-in-may</link>
-            <guid>u9hln7ks</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up in the heartlands of Warhammer?]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-jan29-1-feature-iykuaaebss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
