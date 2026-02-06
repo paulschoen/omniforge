@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Feb 2026 14:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 16:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Genestealer Cults]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1thtdpx8/warhammer-art-through-the-years-genestealer-cults</link>
+            <guid>1thtdpx8</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="genestealer-cults">Genestealer Cults</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whart19_gsc-feb06-1-feature-bykzuuxtre.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The face of change in Battletome: Disciples of Tzeentch, with Ryan from Threshold Tactics]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zpke56li/the-face-of-change-in-battletome-disciples-of-tzeentch-with-ryan-from-threshold-tactics</link>
@@ -271,18 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/30-01_thumbnail-7gflwtn9xa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breach and clear with the Warhammer Community team’s dedicated Horus Heresy door-kickers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g6knaelp/breach-and-clear-with-the-warhammer-community-teams-dedicated-horus-heresy-door-kickers</link>
-            <guid>g6knaelp</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heavy assault Space Marines painted by our team.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_staffsiege-jan29-1-feature-dlrnpmrcyn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
