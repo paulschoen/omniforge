@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Feb 2026 16:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 18:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – It’s a magic showdown in the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0csejnhc/saturday-pre-orders-its-a-magic-showdown-in-the-mortal-realms</link>
+            <guid>0csejnhc</guid>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s up for pre-order this week?]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb07-1-feature-sttylhrimv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Genestealer Cults]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1thtdpx8/warhammer-art-through-the-years-genestealer-cults</link>
@@ -270,18 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whart18_chaosknights-jan30-1-feature-9cvc3clrxm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting a Rogal Dorn Battle Tank | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/uosolbli/painting-a-rogal-dorn-battle-tank-warhammer-40000</link>
-            <guid>uosolbli</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Countless Imperial war machines have been seen rolling to war clad in the iconic green and khaki camouflage pattern. Leman Russes, Rogal Dorns, and even Baneblades all look incredible in this scheme, and in this video Ollie will show you just how much fun it is to paint!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/30-01_thumbnail-7gflwtn9xa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
