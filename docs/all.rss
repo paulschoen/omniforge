@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Feb 2026 13:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 14:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Discover a new love for objective-based piracy with the Red Corsairs Raiders datasheets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1v332xbn/discover-a-new-love-for-objective-based-piracy-with-the-red-corsairs-raiders-datasheets</link>
+            <guid>1v332xbn</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Raiders and Reave-Captains go for the gold.]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_redcorsairrules-feb09-1-feature-zoynuao2c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bring your own warlords to life with custom character rules in The Maelstrom: Crucible of Champions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zivixehm/bring-your-own-warlords-to-life-with-custom-character-rules-in-the-maelstrom-crucible-of-champions</link>
@@ -29,6 +40,18 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_thanatekstithe-feb09-1-feature-w3ssf8ylzh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint a Vanari Lord Regent | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rn1u7gw9/how-to-paint-a-vanari-lord-regent-warhammer-age-of-sigmar</link>
+            <guid>rn1u7gw9</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Amidst the ranks of the Lumineth infantry, a Vanari Lord Regent is a powerful and inspiring presence. This is emphasised through its miniature, which is deserving of a magnificent paint job! Tune in to this video as Ollie shows you everything you need to know about painting this epic hero.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/lord-regent-thumbnail-2bc1so5wcj.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sunday Preview – Huron Blackheart sets sail from the Maelstrom]]></title>
@@ -260,32 +283,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb01-1-feature-uzjmvhpvng.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Chaos Space Marines and Marauders running wild]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uapels1d/saturday-pre-orders-chaos-space-marines-and-marauders-running-wild</link>
-            <guid>uapels1d</guid>
-            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out today’s latest pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jan31-1-feature-imevzukpit.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators</link>
-            <guid>riua1n5m</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how painters from the Warhammer Studio got on with their new miniatures.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
