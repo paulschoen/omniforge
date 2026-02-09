@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Feb 2026 12:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 13:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bring your own warlords to life with custom character rules in The Maelstrom: Crucible of Champions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zivixehm/bring-your-own-warlords-to-life-with-custom-character-rules-in-the-maelstrom-crucible-of-champions</link>
+            <guid>zivixehm</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create a protagonist for your Warhammer 40,000 games.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_maelstomcocrules-feb09-1-feature-8otd7bzefs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thanatek’s Tithe are here to claim bones, even if they have to find unwilling donors]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qstvajgd/thanateks-tithe-are-here-to-claim-bones-even-if-they-have-to-find-unwilling-donors</link>
@@ -276,17 +286,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rule the Maelstrom with Huron and his crew’s spicy new datasheets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets</link>
-            <guid>2fdhlf7g</guid>
-            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules revealed for the Masters of the Maelstrom.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_huron-jan30-1-feature-zy7k9se62z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
