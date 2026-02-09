@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Feb 2026 14:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed: The new Defiler stomps onto the battlefield]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8oknimbb/revealed-the-new-defiler-stomps-onto-the-battlefield</link>
+            <guid>8oknimbb</guid>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wield six legs of absolute devastation on the battlefield.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-crdbmi7lma.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Discover a new love for objective-based piracy with the Red Corsairs Raiders datasheets]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1v332xbn/discover-a-new-love-for-objective-based-piracy-with-the-red-corsairs-raiders-datasheets</link>
@@ -268,21 +280,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb02-1-feature-ybu7t300ep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – A magical melee rocks the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qsxg0ftc/sunday-preview-a-magical-melee-rocks-the-mortal-realms</link>
-            <guid>qsxg0ftc</guid>
-            <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb01-1-feature-uzjmvhpvng.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
