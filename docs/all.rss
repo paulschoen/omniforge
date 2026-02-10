@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Feb 2026 15:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 13:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 10th of February]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iv7yysth/the-rumour-engine-10th-of-february</link>
+            <guid>iv7yysth</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb10-1-feature-xfibx711xw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed: The new Defiler stomps onto the battlefield]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8oknimbb/revealed-the-new-defiler-stomps-onto-the-battlefield</link>
@@ -61,6 +71,7 @@
             <description><![CDATA[Amidst the ranks of the Lumineth infantry, a Vanari Lord Regent is a powerful and inspiring presence. This is emphasised through its miniature, which is deserving of a magnificent paint job! Tune in to this video as Ollie shows you everything you need to know about painting this epic hero.]]></description>
             <category domain="videos">Videos</category>
             <category domain="painting">Painting</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/lord-regent-thumbnail-2bc1so5wcj.png" length="0" type="image/png"/>
@@ -133,6 +144,7 @@
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Fatemasters are charismatic firebrands who weave plots and illusions to ensure their enemies’ annihilation. If you’re interested in giving your very own mastermind of the Arcanite Cults a formidable paint job, tune in to this video to see Ollie show you how!]]></description>
             <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="videos">Videos</category>
             <category domain="painting">Painting</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
@@ -188,9 +200,10 @@
             <guid>tina5pbo</guid>
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[XV26 Stealth Battlesuit teams are – by T’au military standards – strategic anomalies. Specialists in covert warfare, Stealth Battlesuit pilots are amongst the most daring and innovative warriors in the Empire. And if you’re looking to paint your very own, seek no further than this video! In this paint guide, Ollie shows you not only how to paint the awesome Vior’la scheme we’re used to, but a couple of extra ones too, including the classic T’au Sept!]]></description>
-            <category domain="tau-empire">T'au Empire</category>
+            <category domain="videos">Videos</category>
             <category domain="painting">Painting</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="tau-empire">T'au Empire</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01311-how-to-paint-tau-stealth-suits-thumbnail-lvalek4ye3.jpg" length="0" type="image/jpg"/>
         </item>
@@ -269,17 +282,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_luminethrules1-feb02-1-feature-r2hxr7kx4i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyranids swarm over our Iron Halo coin stash thanks to February’s free Miniature of the Month]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hkuqc4cx/tyranids-swarm-over-our-iron-halo-coin-stash-thanks-to-februarys-free-miniature-of-the-month</link>
-            <guid>hkuqc4cx</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Head in-store for a great miniature and coin this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-feb02-1-feature-ybu7t300ep.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
