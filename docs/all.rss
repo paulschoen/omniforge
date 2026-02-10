@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Feb 2026 13:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 14:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Prince Yriel returns from the void with new Aeldari Corsair datasheets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xohei4ue/prince-yriel-returns-from-the-void-with-new-aeldari-corsair-datasheets</link>
+            <guid>xohei4ue</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out how the Eldritch Raiders perform on the battlefield.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aelcorsairrules-feb10-1-feature-eo9f8u7ag4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 10th of February]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iv7yysth/the-rumour-engine-10th-of-february</link>
@@ -271,17 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-n9jhdj8pka.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inscribe runes and create power from harmony with the dazzling new Lumineth Realm-lord battle trait]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ijbn2gge/inscribe-runes-and-create-power-from-harmony-with-the-dazzling-new-lumineth-realm-lord-battle-trait</link>
-            <guid>ijbn2gge</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Exploit the Hysh-Mhensa and rule the battlefield.]]></description>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_luminethrules1-feb02-1-feature-r2hxr7kx4i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
