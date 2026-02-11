@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Feb 2026 15:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 11:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Maelstrom Detachments snub the Dark Gods and booby trap objectives for fun]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ly4zdcav/new-maelstrom-detachments-snub-the-dark-gods-and-booby-trap-objectives-for-fun</link>
+            <guid>ly4zdcav</guid>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Six new Detachments come with the new Maelstrom books.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_maelstromdetachments-feb11-1-feature-hsahnt0ay0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer Community team put The Maelstrom’s custom character rules to the test]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hjiieqr9/the-warhammer-community-team-put-the-maelstroms-custom-character-rules-to-the-test</link>
@@ -271,16 +281,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wd521-feb03-1-feature-r8m9qjimkl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 3rd of February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-3rd-of-february</link>
-            <guid>fcmvqul0</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb03-1-feature-mvw9ekrbk9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
