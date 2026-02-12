@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Feb 2026 15:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 16:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Experience the World Championships of Warhammer in Spain in 2026!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/40dvsrcq/experience-the-world-championships-of-warhammer-in-spain-in-2026</link>
+            <guid>40dvsrcq</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer players from around the world will journey to Barcelona this year.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps2026-feb12-1-feature-gecyjiowr4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community painters go raiding with the Red Corsairs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l4h0spyc/community-painters-go-raiding-with-the-red-corsairs</link>
@@ -272,17 +284,6 @@
             <category domain="tau-empire">T'au Empire</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01311-how-to-paint-tau-stealth-suits-thumbnail-lvalek4ye3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master magic with Teclis and bring enlightenment to the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cbvh8cjv/master-magic-with-teclis-and-bring-enlightenment-to-the-mortal-realms</link>
-            <guid>cbvh8cjv</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Scour your foes with magic and martial might.]]></description>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_luminethrules2-feb04-1-feature-gegxtzwxhl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
