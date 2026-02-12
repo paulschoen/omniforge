@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Feb 2026 13:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 14:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Dark Angels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wgolebol/pages-from-the-black-books-the-dark-angels</link>
+            <guid>wgolebol</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn more about the legendary First Legion.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore5-feb12-1-feature-ewm26inhzm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ultramar’s most iconic planets revealed as Warhammer+ investigates the 500 Worlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wljvbn4y/ultramars-most-iconic-planets-revealed-as-warhammer-investigates-the-500-worlds</link>
@@ -269,17 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-feb04-1-feature-jqq7ulddwp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alter fate and play tricks on foes with new Disciples of Tzeentch battle traits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cutbwtz8/alter-fate-and-play-tricks-on-foes-with-new-disciples-of-tzeentch-battle-traits</link>
-            <guid>cutbwtz8</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Change and change again.]]></description>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_tzeentchrules1-feb03-1-feature-2jqskbtm59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
