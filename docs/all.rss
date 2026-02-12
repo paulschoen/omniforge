@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Feb 2026 14:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 15:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community painters go raiding with the Red Corsairs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l4h0spyc/community-painters-go-raiding-with-the-red-corsairs</link>
+            <guid>l4h0spyc</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Huron and the gang, painted by the Warhammer community.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_redcorsairsinfluencer-feb12-1-feature-i0lvpifiz2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Dark Angels]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wgolebol/pages-from-the-black-books-the-dark-angels</link>
@@ -270,16 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_luminethrules2-feb04-1-feature-gegxtzwxhl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Questing Nights duels with a deadly daemon prince in a climactic Jade Abbey expedition on Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rmx2hckc/questing-nights-duels-with-a-deadly-daemon-prince-in-a-climactic-jade-abbey-expedition-on-warhammer</link>
-            <guid>rmx2hckc</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, enter an awesome competition to win tantalising prizes!]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-feb04-1-feature-jqq7ulddwp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
