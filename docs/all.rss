@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Feb 2026 16:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 11:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Red Corsairs Raiders | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/1kom1kph/how-to-paint-red-corsairs-raiders-warhammer-40000</link>
+            <guid>1kom1kph</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ruthless and cruel even by the standards of Renegade Space Marines, Red Corsairs Raiders excel in hit-and-run attacks. They fight with cunning brutality, clad in sinister red and black armour. If they’ve caught your eye, look no further than this video! In this comprehensive paint guide, Ollie shows you everything you need to know about painting your very own Red Corsairs Raider.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/red-corsair-raider-thumbnail-ntklwal5er.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Experience the World Championships of Warhammer in Spain in 2026!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/40dvsrcq/experience-the-world-championships-of-warhammer-in-spain-in-2026</link>
@@ -271,19 +284,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_mto-feb05-1-feature-uqxz3julj8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint T’au Stealth Suits | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tina5pbo/how-to-paint-tau-stealth-suits-warhammer-40000</link>
-            <guid>tina5pbo</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[XV26 Stealth Battlesuit teams are – by T’au military standards – strategic anomalies. Specialists in covert warfare, Stealth Battlesuit pilots are amongst the most daring and innovative warriors in the Empire. And if you’re looking to paint your very own, seek no further than this video! In this paint guide, Ollie shows you not only how to paint the awesome Vior’la scheme we’re used to, but a couple of extra ones too, including the classic T’au Sept!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01311-how-to-paint-tau-stealth-suits-thumbnail-lvalek4ye3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
