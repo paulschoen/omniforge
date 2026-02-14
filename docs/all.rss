@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Feb 2026 14:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 16:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Grove Guardian, by Alarielle – Valentine's Day Sylvaneth Reveal | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/daiwhdcq/grove-guardian-by-alarielle-valentines-day-sylvaneth-reveal-warhammer-age-of-sigmar</link>
+            <guid>daiwhdcq</guid>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Elegance. Radiance. Beauty. Vengeance. Experience the scent of life, but stay away from the soulpod groves, lest the Grove Guardian be roused. Who is this vengeful Sylvaneth bloom?]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/valentines_thumbnail_16x9-jjuqfollcw.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Grove Guardian by Alarielle – the new scent of Life in Ghyran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0riglbkl/grove-guardian-by-alarielle-the-new-scent-of-life-in-ghyran</link>
+            <guid>0riglbkl</guid>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Uncork the scent of the Realm of Life.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/14-02_1-feature-jmrxvhi3eh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeldari Corsairs have kidnapped our community painters!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ov5swbsa/aeldari-corsairs-have-kidnapped-our-community-painters</link>
@@ -264,29 +289,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail-qehoqr98uy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Shining a light on Battletome: Lumineth Realm-lords with Ryan from Threshold Tactics]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yoizipvt/shining-a-light-on-battletome-lumineth-realm-lords-with-ryan-from-threshold-tactics</link>
-            <guid>yoizipvt</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What does a Warhammer Age of Sigmar expert from the community think of the new rules?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_inflluminethrules-feb05-1-feature-4ahvnqe2lu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Principal worlds of the Eastern Fringe]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lws0etpf/pages-from-the-black-books-principal-worlds-of-the-eastern-fringe</link>
-            <guid>lws0etpf</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn more about the worlds far from Terra’s light.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore4-feb05-1-feature-npxxlv6ins.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
