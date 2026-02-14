@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 14 Feb 2026 16:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 18:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Descend into the Nightmare Realm of the Maelstrom]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qin4w3uu/saturday-pre-orders-descend-into-the-nightmare-realm-of-the-maelstrom</link>
+            <guid>qin4w3uu</guid>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of today’s pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb14-1-feature-syfixzewzn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Grove Guardian, by Alarielle – Valentine's Day Sylvaneth Reveal | Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/daiwhdcq/grove-guardian-by-alarielle-valentines-day-sylvaneth-reveal-warhammer-age-of-sigmar</link>
@@ -276,19 +289,6 @@
             <category domain="warhammer-heroes">Warhammer Heroes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whheroesreminder2026-feb06-1-feature-mpvnn6hr8v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint a Tzeentch Fatemaster | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/7n7mdeay/how-to-paint-a-tzeentch-fatemaster-warhammer-age-of-sigmar</link>
-            <guid>7n7mdeay</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fatemasters are charismatic firebrands who weave plots and illusions to ensure their enemies’ annihilation. If you’re interested in giving your very own mastermind of the Arcanite Cults a formidable paint job, tune in to this video to see Ollie show you how!]]></description>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail-qehoqr98uy.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
