@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 14 Feb 2026 18:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 18:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Reap the bone-tithe with osseous reinforcements]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cylwzxbf/sunday-preview-reap-the-bone-tithe-with-osseous-reinforcements</link>
+            <guid>cylwzxbf</guid>
+            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Breathe new life into Nagash’s skeleton legions.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb15-1-feature-pfx3yrokzs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Descend into the Nightmare Realm of the Maelstrom]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qin4w3uu/saturday-pre-orders-descend-into-the-nightmare-realm-of-the-maelstrom</link>
@@ -279,16 +292,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_tzeinflrules-feb06-1-feature-colsacm5vw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time is running out to nominate a Warhammer Hero from your local community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lfr8ktdx/time-is-running-out-to-nominate-a-warhammer-hero-from-your-local-community</link>
-            <guid>lfr8ktdx</guid>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Don’t miss the deadline for this year’s Warhammer Heroes voting.]]></description>
-            <category domain="warhammer-heroes">Warhammer Heroes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whheroesreminder2026-feb06-1-feature-mpvnn6hr8v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
