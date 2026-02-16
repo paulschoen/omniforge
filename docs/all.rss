@@ -4,19 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Feb 2026 13:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 14:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Exercise relentless discipline and unleash the fury of Katakros with the new Battletome: Ossiarch Bonereapers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/irbbqxlq/exercise-relentless-discipline-and-unleash-the-fury-of-katakros-with-the-new-battletome-ossiarch-bonereapers</link>
+            <guid>irbbqxlq</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A finely tuned martial machine.]]></description>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules1-feb16-1-feature-t9taylldix.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tiger Warriors Revealed: new units announced for Total War: Warhammer III]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nj7lekk5/tiger-warriors-revealed-new-units-announced-for-total-war-warhammer-iii</link>
             <guid>nj7lekk5</guid>
             <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Straight from the minds of the Warhammer Studio team, new units join Total War: Warhammer III.]]></description>
-            <category domain="video-games">Video Games</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="video-games">Video Games</category>
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tww_update-feb16-1-feature_alt-btpm0i33xq.jpg" length="0" type="image/jpg"/>
@@ -278,20 +290,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb08-1-feature-cvxqjgb9q2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – It’s a magic showdown in the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0csejnhc/saturday-pre-orders-its-a-magic-showdown-in-the-mortal-realms</link>
-            <guid>0csejnhc</guid>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s up for pre-order this week?]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb07-1-feature-sttylhrimv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
