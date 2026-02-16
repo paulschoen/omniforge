@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Feb 2026 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 15:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Defend the Cadian Gate with the Archmagos Terminus and new Skitarii heavies]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hd2ygsuz/defend-the-cadian-gate-with-the-archmagos-terminus-and-new-skitarii-heavies</link>
+            <guid>hd2ygsuz</guid>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thulia Ghuld is the living avatar of mechanical destruction.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-9zeio3wg9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Exercise relentless discipline and unleash the fury of Katakros with the new Battletome: Ossiarch Bonereapers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/irbbqxlq/exercise-relentless-discipline-and-unleash-the-fury-of-katakros-with-the-new-battletome-ossiarch-bonereapers</link>
@@ -276,20 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/lord-regent-thumbnail-2bc1so5wcj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Huron Blackheart sets sail from the Maelstrom]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lke65sad/sunday-preview-huron-blackheart-sets-sail-from-the-maelstrom</link>
-            <guid>lke65sad</guid>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb08-1-feature-cvxqjgb9q2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
