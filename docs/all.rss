@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Feb 2026 15:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 13:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 17th of February]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pxw1txcq/the-rumour-engine-17th-of-february</link>
+            <guid>pxw1txcq</guid>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb17-1-feature-xqv7mffd0g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Defend the Cadian Gate with the Archmagos Terminus and new Skitarii heavies]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hd2ygsuz/defend-the-cadian-gate-with-the-archmagos-terminus-and-new-skitarii-heavies</link>
@@ -275,19 +285,6 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_thanatekstithe-feb09-1-feature-w3ssf8ylzh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint a Vanari Lord Regent | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rn1u7gw9/how-to-paint-a-vanari-lord-regent-warhammer-age-of-sigmar</link>
-            <guid>rn1u7gw9</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Amidst the ranks of the Lumineth infantry, a Vanari Lord Regent is a powerful and inspiring presence. This is emphasised through its miniature, which is deserving of a magnificent paint job! Tune in to this video as Ollie shows you everything you need to know about painting this epic hero.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/lord-regent-thumbnail-2bc1so5wcj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
