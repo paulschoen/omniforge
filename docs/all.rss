@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 17 Feb 2026 13:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 14:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Master war chariots, osseous archers, and eerie assassins with new Ossiarch Bonereapers units]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/krxibsmt/master-war-chariots-osseous-archers-and-eerie-assassins-with-new-ossiarch-bonereapers-units</link>
+            <guid>krxibsmt</guid>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New units, new rules, new strategies.]]></description>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules2-feb17-1-feature-v0jypmhgfn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 17th of February]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pxw1txcq/the-rumour-engine-17th-of-february</link>
@@ -274,17 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_maelstomcocrules-feb09-1-feature-8otd7bzefs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thanatek’s Tithe are here to claim bones, even if they have to find unwilling donors]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qstvajgd/thanateks-tithe-are-here-to-claim-bones-even-if-they-have-to-find-unwilling-donors</link>
-            <guid>qstvajgd</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new Warhammer Underworlds warband is revealed.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whuw_thanatekstithe-feb09-1-feature-w3ssf8ylzh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
