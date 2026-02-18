@@ -4,11 +4,38 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 17 Feb 2026 14:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 13:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Adepta Sororitas: Penitence – Official Warhammer 40,000 Animation Teaser | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/s217m3d1/adepta-sororitas-penitence-official-warhammer-40000-animation-teaser-warhammer</link>
+            <guid>s217m3d1</guid>
+            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the intro sequence of the thrilling Warhammer 40,000 animation, Adepta Sororitas: Penitence, coming to Warhammer TV soon! 
+
+Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animations]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01924-penitence-intro-preview-thumbnail-(16x9)-991qfpasol.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paint marble effects from this week’s Armies of Renown, and get an exclusive look at new animation Adepta Sororitas: Penitence]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xedqyi64/paint-marble-effects-from-this-weeks-armies-of-renown-and-get-an-exclusive-look-at-new-animation-adepta-sororitas-penitence</link>
+            <guid>xedqyi64</guid>
+            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Battle Report, Scribes and Scriveners, and Armies of Renown out today!]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="painting">Painting</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-feb18-1-feature-xml03ufdfr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Master war chariots, osseous archers, and eerie assassins with new Ossiarch Bonereapers units]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/krxibsmt/master-war-chariots-osseous-archers-and-eerie-assassins-with-new-ossiarch-bonereapers-units</link>
@@ -264,27 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-crdbmi7lma.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Discover a new love for objective-based piracy with the Red Corsairs Raiders datasheets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1v332xbn/discover-a-new-love-for-objective-based-piracy-with-the-red-corsairs-raiders-datasheets</link>
-            <guid>1v332xbn</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Raiders and Reave-Captains go for the gold.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_redcorsairrules-feb09-1-feature-zoynuao2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bring your own warlords to life with custom character rules in The Maelstrom: Crucible of Champions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zivixehm/bring-your-own-warlords-to-life-with-custom-character-rules-in-the-maelstrom-crucible-of-champions</link>
-            <guid>zivixehm</guid>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Create a protagonist for your Warhammer 40,000 games.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_maelstomcocrules-feb09-1-feature-8otd7bzefs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
