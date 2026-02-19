@@ -4,22 +4,11 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Feb 2026 15:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 10:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
-        <item>
-            <title><![CDATA[How To Link Your Accounts – Desktop Users | Black Library: The App | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/87l9o6h6/how-to-link-your-accounts-desktop-users-black-library-the-app-warhammer</link>
-            <guid>87l9o6h6</guid>
-            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[This step-by-step on-screen guide will show you how to sync your library and link My Warhammer and Black Library accounts so you can access your existing Black Library purchases on the new Black Library app from day one.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_instructional_thumbnail-yafoprnerv.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[A new Black Library app is on the way – here’s what you need to know]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wugetgtg/a-new-black-library-app-is-on-the-way-heres-what-you-need-to-know</link>
@@ -250,28 +239,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore5-feb12-1-feature-ewm26inhzm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[How To Link Your Accounts – iPhone Users | Black Library: The App | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wv60p8b0/how-to-link-your-accounts-iphone-users-black-library-the-app-warhammer</link>
-            <guid>wv60p8b0</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[This step-by-step on-screen guide will show you how to sync your library and link My Warhammer and Black Library accounts so you can access your existing Black Library purchases on the new Black Library app from day one.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_instructional_thumbnail-bly7wuecsg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[How to link your accounts – Android users | Black Library: The App]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gybd8qbn/how-to-link-your-accounts-for-android-users-black-library-the-app-warhammer</link>
-            <guid>gybd8qbn</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[This step-by-step on-screen guide will show you how to sync your library and link My Warhammer and Black Library accounts so you can access your existing Black Library purchases on the new Black Library app from day one.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_instructional_thumbnail-14ifqqxkaj.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Ultramar’s most iconic planets revealed as Warhammer+ investigates the 500 Worlds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wljvbn4y/ultramars-most-iconic-planets-revealed-as-warhammer-investigates-the-500-worlds</link>
             <guid>wljvbn4y</guid>
@@ -290,6 +257,38 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_maelstromdetachments-feb11-1-feature-hsahnt0ay0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Warhammer Community team put The Maelstrom’s custom character rules to the test]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hjiieqr9/the-warhammer-community-team-put-the-maelstroms-custom-character-rules-to-the-test</link>
+            <guid>hjiieqr9</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What can we make from the new Crucible of Champions book?]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_warcomcoc-feb10-1-feature-ehw2whnvuc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince Yriel returns from the void with new Aeldari Corsair datasheets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xohei4ue/prince-yriel-returns-from-the-void-with-new-aeldari-corsair-datasheets</link>
+            <guid>xohei4ue</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out how the Eldritch Raiders perform on the battlefield.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aelcorsairrules-feb10-1-feature-eo9f8u7ag4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 10th of February]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iv7yysth/the-rumour-engine-10th-of-february</link>
+            <guid>iv7yysth</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb10-1-feature-xfibx711xw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
