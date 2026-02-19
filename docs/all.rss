@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Feb 2026 11:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 14:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to play Ossiarch Bonereapers, with Anthony from AoS Coach]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kttjggcz/how-to-play-ossiarch-bonereapers-with-anthony-from-aos-coach</link>
+            <guid>kttjggcz</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Advice from an expert.]]></description>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersinfluencerrules-feb19-1-feature-vkugztrdto.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What’s new in the latest Middle-earth™ Strategy Battle Game designer’s commentary?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/po1dslbj/whats-new-in-the-latest-middle-earthtm-strategy-battle-game-designers-commentary</link>
@@ -279,17 +290,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_warcomcoc-feb10-1-feature-ehw2whnvuc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince Yriel returns from the void with new Aeldari Corsair datasheets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xohei4ue/prince-yriel-returns-from-the-void-with-new-aeldari-corsair-datasheets</link>
-            <guid>xohei4ue</guid>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out how the Eldritch Raiders perform on the battlefield.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_aelcorsairrules-feb10-1-feature-eo9f8u7ag4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
