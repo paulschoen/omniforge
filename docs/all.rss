@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Feb 2026 13:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 14:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Coming soon to Black Library: Ghazghkull, Chem-Dogs, and illustrated Necrons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f6qxkgi6/coming-soon-to-black-library-ghazghkull-chem-dogs-and-illustrated-necrons</link>
+            <guid>f6qxkgi6</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out four upcoming books from Black Library.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_upcoming-feb20-1-feature-wdclaxqqrl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Leagues of Votann]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qwyg5tsx/warhammer-art-through-the-years-leagues-of-votann</link>
@@ -281,16 +291,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore5-feb12-1-feature-ewm26inhzm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultramar’s most iconic planets revealed as Warhammer+ investigates the 500 Worlds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wljvbn4y/ultramars-most-iconic-planets-revealed-as-warhammer-investigates-the-500-worlds</link>
-            <guid>wljvbn4y</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming out on Warhammer+ today?]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-feb11-1-feature-gmjmhgdyaw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
