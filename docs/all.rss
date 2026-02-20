@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Feb 2026 15:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 16:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[REVEALED: New Warhammer Open events for the summer – including the first in the UK]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pjijlowv/revealed-new-warhammer-open-events-for-the-summer-including-the-first-in-the-uk</link>
+            <guid>pjijlowv</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer Open Series is coming to Dallas, Tacoma, Edmonton, Birmingham, and Newport in 2026]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whopens2026-feb20-1-feature-glbdw8vmqj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The new Aeldari Vyper – Nineties classic to modern, swivelling marvel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/upctllnl/the-new-aeldari-vyper-nineties-classic-to-modern-swivelling-marvel</link>
@@ -278,19 +289,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/worldchamps2026-feb12-1-feature-gecyjiowr4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community painters go raiding with the Red Corsairs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l4h0spyc/community-painters-go-raiding-with-the-red-corsairs</link>
-            <guid>l4h0spyc</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Huron and the gang, painted by the Warhammer community.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_redcorsairsinfluencer-feb12-1-feature-i0lvpifiz2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
