@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Feb 2026 14:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The new Aeldari Vyper – Nineties classic to modern, swivelling marvel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/upctllnl/the-new-aeldari-vyper-nineties-classic-to-modern-swivelling-marvel</link>
+            <guid>upctllnl</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Have a look, the new rotating turret is a beaut.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_vyperfocus-feb20-1-feature-pvm3hmikgd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coming soon to Black Library: Ghazghkull, Chem-Dogs, and illustrated Necrons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f6qxkgi6/coming-soon-to-black-library-ghazghkull-chem-dogs-and-illustrated-necrons</link>
@@ -280,17 +291,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_redcorsairsinfluencer-feb12-1-feature-i0lvpifiz2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Dark Angels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wgolebol/pages-from-the-black-books-the-dark-angels</link>
-            <guid>wgolebol</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn more about the legendary First Legion.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore5-feb12-1-feature-ewm26inhzm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
