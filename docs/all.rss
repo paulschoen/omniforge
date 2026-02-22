@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 21 Feb 2026 18:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 18:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Master the Winds of Magic and unleash the might of the Machine God]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vxgu8rf9/sunday-preview-master-the-winds-of-magic-and-unleash-the-might-of-the-machine-god</link>
+            <guid>vxgu8rf9</guid>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about next week’s pre-orders for the armies of Grand Cathay and the Mechanicum.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb22-1-feature-xalqvxiixn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Knock knock, it’s time to give up the bone-tithe]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pjnhbg01/saturday-pre-orders-knock-knock-its-time-to-give-up-the-bone-tithe</link>
@@ -276,19 +290,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whart_20-imperialknights-feb13-1-feature-cdblvr0zuv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Red Corsairs Raiders | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/1kom1kph/how-to-paint-red-corsairs-raiders-warhammer-40000</link>
-            <guid>1kom1kph</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ruthless and cruel even by the standards of Renegade Space Marines, Red Corsairs Raiders excel in hit-and-run attacks. They fight with cunning brutality, clad in sinister red and black armour. If they’ve caught your eye, look no further than this video! In this comprehensive paint guide, Ollie shows you everything you need to know about painting your very own Red Corsairs Raider.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/red-corsair-raider-thumbnail-ntklwal5er.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
