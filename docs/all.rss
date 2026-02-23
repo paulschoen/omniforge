@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Feb 2026 13:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 14:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[T’au Empire’s Twin Lance datasheet lets you perfect close-range enemy-melting]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g1glqtzl/tau-empires-twin-lance-datasheet-lets-you-perfect-close-range-enemy-melting</link>
+            <guid>g1glqtzl</guid>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who ever said the T’au were no good up close?]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_twinlance-feb23-1-feature-8yrst2amht.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Four new Combat Patrols bring Kroot, Corsairs, and Chaos to the battlefield]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5zzqwaml/four-new-combat-patrols-bring-kroot-corsairs-and-chaos-to-the-battlefield</link>
@@ -281,19 +292,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/14-02_1-feature-jmrxvhi3eh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeldari Corsairs have kidnapped our community painters!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ov5swbsa/aeldari-corsairs-have-kidnapped-our-community-painters</link>
-            <guid>ov5swbsa</guid>
-            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Not really – they volunteered to make Yriel’s crew look awesome.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_inflaelcorsairs-feb13-1-feature-oznry1wald.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
