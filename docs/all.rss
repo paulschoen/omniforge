@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Feb 2026 14:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 15:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Imperial Knight Destrier strides into battle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/utzwpur9/new-imperial-knight-destrier-strides-into-battle</link>
+            <guid>utzwpur9</guid>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new Imperial Knight is a fast and agile close combat king.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-ghlne9e8fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[T’au Empire’s Twin Lance datasheet lets you perfect close-range enemy-melting]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g1glqtzl/tau-empires-twin-lance-datasheet-lets-you-perfect-close-range-enemy-melting</link>
@@ -280,18 +292,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/valentines_thumbnail_16x9-jjuqfollcw.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Grove Guardian by Alarielle – the new scent of Life in Ghyran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0riglbkl/grove-guardian-by-alarielle-the-new-scent-of-life-in-ghyran</link>
-            <guid>0riglbkl</guid>
-            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Uncork the scent of the Realm of Life.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/14-02_1-feature-jmrxvhi3eh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
