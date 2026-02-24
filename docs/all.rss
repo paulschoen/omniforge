@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Feb 2026 14:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 15:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[You could win a Captain Titus vs. Huron Blackheart face-off Combat Patrol bundle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3t4ojqii/you-could-win-a-captain-titus-vs-huron-blackheart-face-off-combat-patrol-bundle</link>
+            <guid>3t4ojqii</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enter in just a few short clicks – it’s easy!]]></description>
+            <category domain="combat-patrol">Combat Patrol</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_emailcomp-feb24-1-feature-l9hjvdgydj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Enhance your Grand Cathay collection with the new reinforcements]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/paqibeae/old-world-almanack-enhance-your-grand-cathay-collection-with-the-new-reinforcements</link>
@@ -274,19 +285,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/relics-feb16-1-feature-cbpn1baphv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Reap the bone-tithe with osseous reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cylwzxbf/sunday-preview-reap-the-bone-tithe-with-osseous-reinforcements</link>
-            <guid>cylwzxbf</guid>
-            <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Breathe new life into Nagash’s skeleton legions.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb15-1-feature-pfx3yrokzs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
