@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Feb 2026 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 16:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – Return to Grand Cathay as the Great Bastion faces peril]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hjmlb8wk/old-world-almanack-return-to-grand-cathay-as-the-great-bastion-faces-peril</link>
+            <guid>hjmlb8wk</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get an update on the lore of the Old World’s newest faction.]]></description>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/tow_greatbastionlore-feb25-1-feature-kslrxud00r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adepta Sororitas: Penitence | Episode 1: Covenant – Official Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fiklja7a/adepta-sororitas-penitence-episode-1-covenant-official-trailer-warhammer</link>
@@ -274,16 +285,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules2-feb17-1-feature-v0jypmhgfn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 17th of February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pxw1txcq/the-rumour-engine-17th-of-february</link>
-            <guid>pxw1txcq</guid>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb17-1-feature-xqv7mffd0g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
