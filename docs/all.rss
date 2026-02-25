@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Feb 2026 14:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 15:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Adepta Sororitas: Penitence | Episode 1: Covenant – Official Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fiklja7a/adepta-sororitas-penitence-episode-1-covenant-official-trailer-warhammer</link>
+            <guid>fiklja7a</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[After their shuttle is ambushed, a squad of Battle Sisters fight to survive in order to deliver a holy relic to its final resting place. 
+Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now!]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01921-penitence-ep-1-trailer-(v2)-5whxeukt7n.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New animation Adepta Sororitas: Penitence arrives on Warhammer+ along with a host of special content]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mb5z0ebi/new-animation-adepta-sororitas-penitence-arrives-on-warhammer-along-with-a-host-of-special-content</link>
+            <guid>mb5z0ebi</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A group of Adepta Sororitas must overcome a physical and spiritual ordeal in the latest Warhammer TV animation.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-feb25-1-feature-acamxhuabi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Berehk Stornbröw is the premier Big Guy-killer in the Leagues of Votann, as proved by his new datasheet]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/aqaoebif/berehk-stornbrow-is-the-premier-big-guy-killer-in-the-leagues-of-votann-as-proved-by-his-new-datasheet</link>
@@ -259,29 +284,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-feb17-1-feature-xqv7mffd0g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Defend the Cadian Gate with the Archmagos Terminus and new Skitarii heavies]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hd2ygsuz/defend-the-cadian-gate-with-the-archmagos-terminus-and-new-skitarii-heavies</link>
-            <guid>hd2ygsuz</guid>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Thulia Ghuld is the living avatar of mechanical destruction.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-9zeio3wg9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exercise relentless discipline and unleash the fury of Katakros with the new Battletome: Ossiarch Bonereapers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/irbbqxlq/exercise-relentless-discipline-and-unleash-the-fury-of-katakros-with-the-new-battletome-ossiarch-bonereapers</link>
-            <guid>irbbqxlq</guid>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A finely tuned martial machine.]]></description>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules1-feb16-1-feature-t9taylldix.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
