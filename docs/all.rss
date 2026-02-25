@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Feb 2026 16:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 14:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Berehk Stornbröw is the premier Big Guy-killer in the Leagues of Votann, as proved by his new datasheet]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/aqaoebif/berehk-stornbrow-is-the-premier-big-guy-killer-in-the-leagues-of-votann-as-proved-by-his-new-datasheet</link>
+            <guid>aqaoebif</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new miniature’s powerful rules.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_berehkrules-feb25-1-feature-bm8enmuuul.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heraldry of the Dark Mechanicum – Part One]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/q0qhnrpr/heraldry-of-the-dark-mechanicum-part-one</link>
@@ -271,19 +282,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules1-feb16-1-feature-t9taylldix.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tiger Warriors Revealed: new units announced for Total War: Warhammer III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nj7lekk5/tiger-warriors-revealed-new-units-announced-for-total-war-warhammer-iii</link>
-            <guid>nj7lekk5</guid>
-            <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Straight from the minds of the Warhammer Studio team, new units join Total War: Warhammer III.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tww_update-feb16-1-feature_alt-btpm0i33xq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
