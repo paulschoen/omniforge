@@ -4,11 +4,38 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Feb 2026 15:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 16:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Space Marine 2 - Techmarine Update Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/czj8q6pc/warhammer-40000-space-marine-2-techmarine-update-trailer</link>
+            <guid>czj8q6pc</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to announce the release of the Techmarine Update for Warhammer 40,000: Space Marine 2. The gameplay update is available free for all PlayStation 5, Xbox Series, and PC players. Alongside the Techmarine come a new PvE mission, a new weapon, the Raven Guard Champion Pack and Carcharodons Cosmetic Pack for Season Pass 2 owners, and much more.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="videos">Videos</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/spacemarine2_techmarineupdate_thumbnail-rzhwiacb9v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Techmarine class comes to Warhammer 40,000: Space Marine 2 with a new mission and cosmetics in tow]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jgazn8yc/the-techmarine-class-comes-to-warhammer-40000-space-marine-2-with-a-new-mission-and-cosmetics-in-tow</link>
+            <guid>jgazn8yc</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wield the power of the Omnissiah.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update-feb26-1-feature-pglezkaos0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Relics 2026 – the Warhammer merch festival]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2vflzaxp/warhammer-relics-2026-the-warhammer-merch-festival</link>
@@ -258,30 +285,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_faqcommentary-feb19-1-feature-jfdaf8ob8l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A new Black Library app is on the way – here’s what you need to know]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wugetgtg/a-new-black-library-app-is-on-the-way-heres-what-you-need-to-know</link>
-            <guid>wugetgtg</guid>
-            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Collect all your eBooks and audiobooks in one place.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/blapp-1-feature-fpemodm9vq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adepta Sororitas: Penitence – Official Warhammer 40,000 Animation Teaser | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/s217m3d1/adepta-sororitas-penitence-official-warhammer-40000-animation-teaser-warhammer</link>
-            <guid>s217m3d1</guid>
-            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the intro sequence of the thrilling Warhammer 40,000 animation, Adepta Sororitas: Penitence, coming to Warhammer TV soon! 
-
-Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animations]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01924-penitence-intro-preview-thumbnail-(16x9)-991qfpasol.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
