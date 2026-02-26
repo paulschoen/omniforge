@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Feb 2026 16:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 14:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The World Eaters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ntq1stob/pages-from-the-black-books-the-world-eaters</link>
+            <guid>ntq1stob</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Burn, maim, and kill with Angron’s berserkers.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore7-feb26-1-feature-xatk8c1ucz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Return to Grand Cathay as the Great Bastion faces peril]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hjmlb8wk/old-world-almanack-return-to-grand-cathay-as-the-great-bastion-faces-peril</link>
@@ -274,17 +285,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-feb18-1-feature-xml03ufdfr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master war chariots, osseous archers, and eerie assassins with new Ossiarch Bonereapers units]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/krxibsmt/master-war-chariots-osseous-archers-and-eerie-assassins-with-new-ossiarch-bonereapers-units</link>
-            <guid>krxibsmt</guid>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New units, new rules, new strategies.]]></description>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersrules2-feb17-1-feature-v0jypmhgfn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
