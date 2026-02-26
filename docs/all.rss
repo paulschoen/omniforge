@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Feb 2026 14:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 15:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Relics 2026 – the Warhammer merch festival]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2vflzaxp/warhammer-relics-2026-the-warhammer-merch-festival</link>
+            <guid>2vflzaxp</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover new reveals and special deals from our licensed partners.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/relics-feb26-1-feature-dhg4wrmrtn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The World Eaters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ntq1stob/pages-from-the-black-books-the-world-eaters</link>
@@ -272,19 +282,6 @@ Sign up to Warhammer+ to watch it and loads more epic Warhammer shows and animat
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01924-penitence-intro-preview-thumbnail-(16x9)-991qfpasol.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paint marble effects from this week’s Armies of Renown, and get an exclusive look at new animation Adepta Sororitas: Penitence]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xedqyi64/paint-marble-effects-from-this-weeks-armies-of-renown-and-get-an-exclusive-look-at-new-animation-adepta-sororitas-penitence</link>
-            <guid>xedqyi64</guid>
-            <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Battle Report, Scribes and Scriveners, and Armies of Renown out today!]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="painting">Painting</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-feb18-1-feature-xml03ufdfr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
