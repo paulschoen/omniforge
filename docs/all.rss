@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Feb 2026 16:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 13:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Huron Blackheart | Red Corsairs | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/1ancerdz/how-to-paint-huron-blackheart-red-corsairs-warhammer-40000</link>
+            <guid>1ancerdz</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reviled as the Tyrant of Badab, Huron Blackheart directs the pitiless reaving of his Red Corsairs with the ruthlessness of a pirate king. Welcome to a particularly exciting paint guide, in which Ollie shows you how to paint this truly stunning new miniature in great detail, giving him all the attention he deserves!]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01325-how-to-paint_-huron-blackheart-thumbnail-yasj2kjfrc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer art through the years: The Inquisition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yvbfxyjp/warhammer-art-through-the-years-the-inquisition</link>
+            <guid>yvbfxyjp</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="imperial-agents">Imperial Agents</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whart_22-inq-feb27-1-feature-y3h57mzcyw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Space Marine 2 - Techmarine Update Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/czj8q6pc/warhammer-40000-space-marine-2-techmarine-update-trailer</link>
@@ -37,7 +60,7 @@
             <enclosure url="https://assets.warhammer-community.com/sm2_update-feb26-1-feature-pglezkaos0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Warhammer Relics 2026 – the Warhammer merch festival]]></title>
+            <title><![CDATA[Warhammer Relics 2026 – All the reveals and deals from the Warhammer merch festival]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2vflzaxp/warhammer-relics-2026-the-warhammer-merch-festival</link>
             <guid>2vflzaxp</guid>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
@@ -263,28 +286,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore6-feb19-1-feature-mawxnpeisk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to play Ossiarch Bonereapers, with Anthony from AoS Coach]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kttjggcz/how-to-play-ossiarch-bonereapers-with-anthony-from-aos-coach</link>
-            <guid>kttjggcz</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Advice from an expert.]]></description>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ossiarchbonereapersinfluencerrules-feb19-1-feature-vkugztrdto.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s new in the latest Middle-earth™ Strategy Battle Game designer’s commentary?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/po1dslbj/whats-new-in-the-latest-middle-earthtm-strategy-battle-game-designers-commentary</link>
-            <guid>po1dslbj</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s changed on the battlefields of Middle-earth.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_faqcommentary-feb19-1-feature-jfdaf8ob8l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
