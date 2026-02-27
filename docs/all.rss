@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Feb 2026 13:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 14:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[First look at the datasheet for the new Tyranid Prime with Lash Whip]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uvhbkjz6/first-look-at-the-datasheet-for-the-new-tyranid-prime-with-lash-whip</link>
+            <guid>uvhbkjz6</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the rules for the new Tyranid leader-beast]]></description>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_tyrprimewhiprules-feb27-1-feature-wfsrlfrnfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Huron Blackheart | Red Corsairs | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/1ancerdz/how-to-paint-huron-blackheart-red-corsairs-warhammer-40000</link>
@@ -275,17 +286,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whart_21-lov-feb20-1-feature-moliypfbnu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Blood Angels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/v5vlerjg/pages-from-the-black-books-the-blood-angels</link>
-            <guid>v5vlerjg</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the crimson-clad sons of Sanguinius, and rejoice.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore6-feb19-1-feature-mawxnpeisk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
