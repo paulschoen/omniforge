@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Feb 2026 16:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 18:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tickets on sale now for six Warhammer Opens and more events this spring and summer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xl5grii2/tickets-on-sale-now-for-six-warhammer-opens-and-more-events-this-spring-and-summer</link>
+            <guid>xl5grii2</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Are you heading to a Warhammer event this summer?]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/events-feb27-1-feature-smzwwtt4zb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeldari Corsair showcase: The Ballad of the Sky Serpents part two]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jyswoccs/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents-part-two</link>
@@ -277,16 +288,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_vyperfocus-feb20-1-feature-pvm3hmikgd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coming soon to Black Library: Ghazghkull, Chem-Dogs, and illustrated Necrons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f6qxkgi6/coming-soon-to-black-library-ghazghkull-chem-dogs-and-illustrated-necrons</link>
-            <guid>f6qxkgi6</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out four upcoming books from Black Library.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_upcoming-feb20-1-feature-wdclaxqqrl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
