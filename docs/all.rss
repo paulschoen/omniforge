@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Feb 2026 14:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 16:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aeldari Corsair showcase: The Ballad of the Sky Serpents part two]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jyswoccs/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents-part-two</link>
+            <guid>jyswoccs</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New corsair miniatures expand this incredible collection.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_pwcorsairs-feb27-1-feature-deyyuc5ka5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[First look at the datasheet for the new Tyranid Prime with Lash Whip]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uvhbkjz6/first-look-at-the-datasheet-for-the-new-tyranid-prime-with-lash-whip</link>
@@ -275,17 +287,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_upcoming-feb20-1-feature-wdclaxqqrl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Leagues of Votann]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qwyg5tsx/warhammer-art-through-the-years-leagues-of-votann</link>
-            <guid>qwyg5tsx</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whart_21-lov-feb20-1-feature-moliypfbnu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
