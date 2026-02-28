@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Feb 2026 18:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 18:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Bring superior firepower to the Age of Darkness, the Old World, and the nearest pirate ship]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/udz1j9vu/saturday-pre-orders-bring-superior-firepower-to-the-age-of-darkness-the-old-world-and-the-nearest-pirate-ship</link>
+            <guid>udz1j9vu</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The forces of the Mechanicum and Grand Cathay grow in numbers and firepower.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-feb28-1-feature-e1g2ysfpqc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV Spring Season 2026 Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qvh6muos/warhammer-tv-spring-season-2026-trailer-warhammer</link>
+            <guid>qvh6muos</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season begins on Warhammer TV! Check out what's on its way to your Warhammer+ subscription.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/winter-season-whtv-landscape-0yejlp85dr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tickets on sale now for six Warhammer Opens and more events this spring and summer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xl5grii2/tickets-on-sale-now-for-six-warhammer-opens-and-more-events-this-spring-and-summer</link>
@@ -266,28 +290,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb21-1-feature-vxoojpg4yw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REVEALED: New Warhammer Open events for the summer – including the first in the UK]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pjijlowv/revealed-new-warhammer-open-events-for-the-summer-including-the-first-in-the-uk</link>
-            <guid>pjijlowv</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer Open Series is coming to Dallas, Tacoma, Edmonton, Birmingham, and Newport in 2026]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whopens2026-feb20-1-feature-glbdw8vmqj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The new Aeldari Vyper – Nineties classic to modern, swivelling marvel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/upctllnl/the-new-aeldari-vyper-nineties-classic-to-modern-swivelling-marvel</link>
-            <guid>upctllnl</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Have a look, the new rotating turret is a beaut.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_vyperfocus-feb20-1-feature-pvm3hmikgd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
