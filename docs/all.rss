@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 28 Feb 2026 18:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 18:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Ahoy me hearties, space pirates inbound]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ewwcqh21/sunday-preview-ahoy-me-hearties-space-pirates-inbound</link>
+            <guid>ewwcqh21</guid>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Corsairs of different flavours lead next week’s pre-orders for Warhammer 40,000.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar01-1-feature-zz4kh0nuof.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Bring superior firepower to the Age of Darkness, the Old World, and the nearest pirate ship]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/udz1j9vu/saturday-pre-orders-bring-superior-firepower-to-the-age-of-darkness-the-old-world-and-the-nearest-pirate-ship</link>
@@ -278,18 +293,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb22-1-feature-xalqvxiixn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Knock knock, it’s time to give up the bone-tithe]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pjnhbg01/saturday-pre-orders-knock-knock-its-time-to-give-up-the-bone-tithe</link>
-            <guid>pjnhbg01</guid>
-            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out all of today’s new pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb21-1-feature-vxoojpg4yw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
