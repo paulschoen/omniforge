@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Mar 2026 14:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 15:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blood Hags lead the charge in new Daughters of Khaine battletome]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/871suqbd/blood-hags-lead-the-charge-in-new-daughters-of-khaine-battletome</link>
+            <guid>871suqbd</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New battletome, new miniatures, classic murder.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dokreveals-mar02-1-feature-clav6inp7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eye of Terror – The Reign of Iron Begins]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jgwkothg/eye-of-terror-the-reign-of-iron-begins</link>
@@ -276,18 +288,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-feb24-1-feature-7xz7kb8oso.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Imperial Knight Destrier strides into battle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/utzwpur9/new-imperial-knight-destrier-strides-into-battle</link>
-            <guid>utzwpur9</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new Imperial Knight is a fast and agile close combat king.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-ghlne9e8fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
