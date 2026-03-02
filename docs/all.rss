@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Mar 2026 11:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 13:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Embrace Chaos with March’s Miniature of the Month and score two commemorative coins]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vfcfswyc/embrace-chaos-with-marchs-miniature-of-the-month-and-score-two-commemorative-coins</link>
+            <guid>vfcfswyc</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celebrate Chaos, Death, and Black Library.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/miniofmonth-mar02-1-feature-qfxbtkeo9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Ahoy me hearties, space pirates inbound]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ewwcqh21/sunday-preview-ahoy-me-hearties-space-pirates-inbound</link>
@@ -276,21 +287,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_twinlance-feb23-1-feature-8yrst2amht.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four new Combat Patrols bring Kroot, Corsairs, and Chaos to the battlefield]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5zzqwaml/four-new-combat-patrols-bring-kroot-corsairs-and-chaos-to-the-battlefield</link>
-            <guid>5zzqwaml</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[They’re the perfect way to start a new and thematic army.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="combat-patrol">Combat Patrol</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_combatpatrols-feb02-1-feature-a3bcc6a5n9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
