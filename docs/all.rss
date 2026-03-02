@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 01 Mar 2026 18:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 11:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -23,6 +23,18 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar01-1-feature-zz4kh0nuof.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Infinite Museion Teaser Trailer | Warhammer 40,000: Rogue Trader]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ohltmxdz/the-infinite-museion-teaser-trailer-warhammer-40000-rogue-trader</link>
+            <guid>ohltmxdz</guid>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Infinite Museion, the third major expansion for Warhammer 40,000: Rogue Trader. Delve into a secret vault curated by Trazyn the Infinite himself. Discover Trazyn’s obsession with the Von Valancius dynasty, and choose whether to disrupt or fulfill his plans. Wishlist now!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail_dlc3-sexdyljt2g.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Bring superior firepower to the Age of Darkness, the Old World, and the nearest pirate ship]]></title>
@@ -279,20 +291,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_combatpatrols-feb02-1-feature-a3bcc6a5n9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Master the Winds of Magic and unleash the might of the Machine God]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vxgu8rf9/sunday-preview-master-the-winds-of-magic-and-unleash-the-might-of-the-machine-god</link>
-            <guid>vxgu8rf9</guid>
-            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about next week’s pre-orders for the armies of Grand Cathay and the Mechanicum.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-feb22-1-feature-xalqvxiixn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
