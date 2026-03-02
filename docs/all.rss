@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Mar 2026 13:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 14:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Eye of Terror – The Reign of Iron Begins]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jgwkothg/eye-of-terror-the-reign-of-iron-begins</link>
+            <guid>jgwkothg</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next expansion for Warhammer 40,000 is a siege of epic proportions.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-fcbacwqbco.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Embrace Chaos with March’s Miniature of the Month and score two commemorative coins]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vfcfswyc/embrace-chaos-with-marchs-miniature-of-the-month-and-score-two-commemorative-coins</link>
@@ -276,17 +288,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-ghlne9e8fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T’au Empire’s Twin Lance datasheet lets you perfect close-range enemy-melting]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g1glqtzl/tau-empires-twin-lance-datasheet-lets-you-perfect-close-range-enemy-melting</link>
-            <guid>g1glqtzl</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who ever said the T’au were no good up close?]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_twinlance-feb23-1-feature-8yrst2amht.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
