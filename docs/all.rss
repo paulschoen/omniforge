@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Mar 2026 15:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 13:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 3rd of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-3rd-of-march</link>
+            <guid>7xzunj9v</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar03-1-feature-p9woqo16y3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blood Hags lead the charge in new Daughters of Khaine battletome]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/871suqbd/blood-hags-lead-the-charge-in-new-daughters-of-khaine-battletome</link>
@@ -278,16 +288,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="old-world-almanack">Old World Almanack</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_greatbastionrules-feb24-1-feature-4lice52xlq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 24th of February]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8h8u1nsa/the-rumour-engine-24th-of-february</link>
-            <guid>8h8u1nsa</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-feb24-1-feature-7xz7kb8oso.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
