@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Mar 2026 13:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 14:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[It’s pirates vs. pirates in White Dwarf issue 522]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/88dtxpnb/its-pirates-vs-pirates-in-white-dwarf-issue-522</link>
+            <guid>88dtxpnb</guid>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[White Dwarf signs up with a swarthy crew of void-reaving corsairs.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd522-mar03-1-feature-5izwsydeep.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 3rd of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-3rd-of-march</link>
@@ -277,17 +287,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_emailcomp-feb24-1-feature-l9hjvdgydj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Enhance your Grand Cathay collection with the new reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/paqibeae/old-world-almanack-enhance-your-grand-cathay-collection-with-the-new-reinforcements</link>
-            <guid>paqibeae</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what peasants, wizards, and lots of guns will add to your army.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_greatbastionrules-feb24-1-feature-4lice52xlq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
