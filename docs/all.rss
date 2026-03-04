@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 04 Mar 2026 13:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 14:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library Reader’s Choice 2025 – the winners revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iynisocl/black-library-readers-choice-2025-the-winners-revealed</link>
+            <guid>iynisocl</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Which books did you choose for a reprint?]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2025_results-mar4-1-feature-jmaickul76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More White Dwarfs added to the Warhammer Vault and Chaos reigns on Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/b9obk4fa/more-white-dwarfs-added-to-the-warhammer-vault-and-chaos-reigns-on-warhammer</link>
@@ -277,17 +287,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-feb25-1-feature-acamxhuabi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Berehk Stornbröw is the premier Big Guy-killer in the Leagues of Votann, as proved by his new datasheet]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/aqaoebif/berehk-stornbrow-is-the-premier-big-guy-killer-in-the-leagues-of-votann-as-proved-by-his-new-datasheet</link>
-            <guid>aqaoebif</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the new miniature’s powerful rules.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_berehkrules-feb25-1-feature-bm8enmuuul.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
