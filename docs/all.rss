@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 04 Mar 2026 11:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 13:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[More White Dwarfs added to the Warhammer Vault and Chaos reigns on Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b9obk4fa/more-white-dwarfs-added-to-the-warhammer-vault-and-chaos-reigns-on-warhammer</link>
+            <guid>b9obk4fa</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s new additions to your Warhammer+ membership.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar04-1-feature-6udxgsd1fz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer 40,000 Quarterly Balance Update – March 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jlgyvik1/the-warhammer-40000-quarterly-balance-update-march-2026</link>
@@ -277,16 +288,6 @@ Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_berehkrules-feb25-1-feature-bm8enmuuul.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heraldry of the Dark Mechanicum – Part One]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/q0qhnrpr/heraldry-of-the-dark-mechanicum-part-one</link>
-            <guid>q0qhnrpr</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get colour scheme inspiration for your corrupted Dark Mechanicum forces.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_darkmechanicumheraldry1-1-featurealt-npxf7dbojy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
