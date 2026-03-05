@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Mar 2026 14:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A tale of Vypers and craftworlds, painted by the Warhammer Community team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iitah2fk/a-tale-of-vypers-and-craftworlds-painted-by-the-warhammer-community-team</link>
+            <guid>iitah2fk</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic Aeldari colour schemes on the new Vyper.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_staffvypers-mar05-1-feature-tyrqzvh61v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Tooth and Claw]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xpjv7dw4/pages-from-the-black-books-tooth-and-claw</link>
@@ -273,21 +286,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/tow_greatbastionlore-feb25-1-feature-kslrxud00r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adepta Sororitas: Penitence | Episode 1: Covenant – Official Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fiklja7a/adepta-sororitas-penitence-episode-1-covenant-official-trailer-warhammer</link>
-            <guid>fiklja7a</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[After their shuttle is ambushed, a squad of Battle Sisters fight to survive in order to deliver a holy relic to its final resting place. 
-Watch the trailer for Episode 1 of this brand new Warhammer 40,000 animation now!]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01921-penitence-ep-1-trailer-(v2)-5whxeukt7n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
