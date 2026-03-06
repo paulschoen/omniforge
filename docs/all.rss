@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Mar 2026 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 15:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Citadel Colour Is Now Warhammer Colour | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/vh1ettra/citadel-colour-is-now-warhammer-colour-warhammer</link>
+            <guid>vh1ettra</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01909_thumbnail_16x9-ex5izflcth.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Citadel Colour is becoming Warhammer Colour]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/okgv4njl/citadel-colour-is-becoming-warhammer-colour</link>
+            <guid>okgv4njl</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Same paint. Obvious new name.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-a4ejsqizug.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How we painted the new Tyranid Prime and Berehk Stornbröw]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hy5szveb/how-we-painted-the-new-tyranid-prime-and-berehk-stornbrow</link>
@@ -266,29 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/spacemarine2_techmarineupdate_thumbnail-rzhwiacb9v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Techmarine class comes to Warhammer 40,000: Space Marine 2 with a new mission and cosmetics in tow]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jgazn8yc/the-techmarine-class-comes-to-warhammer-40000-space-marine-2-with-a-new-mission-and-cosmetics-in-tow</link>
-            <guid>jgazn8yc</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wield the power of the Omnissiah.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update-feb26-1-feature-pglezkaos0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Relics 2026 – All the reveals and deals from the Warhammer merch festival]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2vflzaxp/warhammer-relics-2026-the-warhammer-merch-festival</link>
-            <guid>2vflzaxp</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover new reveals and special deals from our licensed partners.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/relics-feb26-1-feature-dhg4wrmrtn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
