@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Mar 2026 15:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 13:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Assassins & Imperial Agents]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rmawrcvo/warhammer-art-through-the-years-assassins-imperial-agents</link>
+            <guid>rmawrcvo</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="imperial-agents">Imperial Agents</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whart_23-otherimp-mar06-1-feature-qbtbq31bh2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A tale of Vypers and craftworlds, painted by the Warhammer Community team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iitah2fk/a-tale-of-vypers-and-craftworlds-painted-by-the-warhammer-community-team</link>
@@ -275,17 +286,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore7-feb26-1-feature-xatk8c1ucz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Return to Grand Cathay as the Great Bastion faces peril]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hjmlb8wk/old-world-almanack-return-to-grand-cathay-as-the-great-bastion-faces-peril</link>
-            <guid>hjmlb8wk</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get an update on the lore of the Old World’s newest faction.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/tow_greatbastionlore-feb25-1-feature-kslrxud00r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
