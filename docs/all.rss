@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Mar 2026 15:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 21:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Breaking News: Ork in the Wild]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0noqba4q/breaking-news-ork-in-the-wild</link>
+            <guid>0noqba4q</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Choppa or Power Klaw? This Warboss has both…]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/ork-wb-feature-jb5wfmixxw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Citadel Colour Is Now Warhammer Colour | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/vh1ettra/citadel-colour-is-now-warhammer-colour-warhammer</link>
@@ -273,20 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whart_22-inq-feb27-1-feature-y3h57mzcyw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 - Techmarine Update Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/czj8q6pc/warhammer-40000-space-marine-2-techmarine-update-trailer</link>
-            <guid>czj8q6pc</guid>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Focus Entertainment and Saber Interactive are excited to announce the release of the Techmarine Update for Warhammer 40,000: Space Marine 2. The gameplay update is available free for all PlayStation 5, Xbox Series, and PC players. Alongside the Techmarine come a new PvE mission, a new weapon, the Raven Guard Champion Pack and Carcharodons Cosmetic Pack for Season Pass 2 owners, and much more.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/spacemarine2_techmarineupdate_thumbnail-rzhwiacb9v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
