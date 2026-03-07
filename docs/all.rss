@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Mar 2026 21:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 18:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Master the Maelstrom with your preferred pirates, reavers, and corsairs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zhu2vejf/saturday-pre-orders-master-the-maelstrom-with-your-preferred-pirates-reavers-and-corsairs</link>
+            <guid>zhu2vejf</guid>
+            <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All manner of corsairs and reavers arrive – which will you choose?]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar07-1-feature-et5i6k6rgw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Breaking News: Ork in the Wild]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0noqba4q/breaking-news-ork-in-the-wild</link>
@@ -274,17 +288,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01325-how-to-paint_-huron-blackheart-thumbnail-yasj2kjfrc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: The Inquisition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yvbfxyjp/warhammer-art-through-the-years-the-inquisition</link>
-            <guid>yvbfxyjp</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="imperial-agents">Imperial Agents</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whart_22-inq-feb27-1-feature-y3h57mzcyw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
