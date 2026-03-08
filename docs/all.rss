@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 07 Mar 2026 18:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 18:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Black Library Celebration and Blood Bowl releases]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ngdxmygg/sunday-preview-black-library-celebration-and-blood-bowl-releases</link>
+            <guid>ngdxmygg</guid>
+            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[High Elves land on the gridiron as we celebrate all things Black Library.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar08-1-feature-c6cahd0y7x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Master the Maelstrom with your preferred pirates, reavers, and corsairs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zhu2vejf/saturday-pre-orders-master-the-maelstrom-with-your-preferred-pirates-reavers-and-corsairs</link>
@@ -276,18 +289,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_tyrprimewhiprules-feb27-1-feature-wfsrlfrnfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Huron Blackheart | Red Corsairs | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/1ancerdz/how-to-paint-huron-blackheart-red-corsairs-warhammer-40000</link>
-            <guid>1ancerdz</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reviled as the Tyrant of Badab, Huron Blackheart directs the pitiless reaving of his Red Corsairs with the ruthlessness of a pirate king. Welcome to a particularly exciting paint guide, in which Ollie shows you how to paint this truly stunning new miniature in great detail, giving him all the attention he deserves!]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01325-how-to-paint_-huron-blackheart-thumbnail-yasj2kjfrc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
