@@ -4,11 +4,27 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Mar 2026 13:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 14:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed: Combat Patrol: Iron Warriors and heavily armoured Battalions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mnepgmud/revealed-combat-patrol-iron-warriors-and-heavily-armoured-battalions</link>
+            <guid>mnepgmud</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Start or expand your armies with firepower-laden boxed sets.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="imperial-fists">Imperial Fists</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eotboxes-mar09-1-feature-3jcmsucpfq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Word Bearers novel Zardu Layak: The Crimson Apostle announced]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1eg0z9ov/new-word-bearers-novel-zardu-layak-the-crimson-apostle-announced</link>
@@ -278,18 +294,6 @@
             <category domain="warhammer-open-series">Warhammer Open Series</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/events-feb27-1-feature-smzwwtt4zb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeldari Corsair showcase: The Ballad of the Sky Serpents part two]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jyswoccs/aeldari-corsair-showcase-the-ballad-of-the-sky-serpents-part-two</link>
-            <guid>jyswoccs</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New corsair miniatures expand this incredible collection.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_pwcorsairs-feb27-1-feature-deyyuc5ka5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
