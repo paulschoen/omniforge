@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 08 Mar 2026 18:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 13:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Word Bearers novel Zardu Layak: The Crimson Apostle announced]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1eg0z9ov/new-word-bearers-novel-zardu-layak-the-crimson-apostle-announced</link>
+            <guid>1eg0z9ov</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Word Bearers adventure begins.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_zardulayakreveal-mar09-1-feature-xdkicjx2dg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Black Library Celebration and Blood Bowl releases]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ngdxmygg/sunday-preview-black-library-celebration-and-blood-bowl-releases</link>
@@ -278,17 +290,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_pwcorsairs-feb27-1-feature-deyyuc5ka5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[First look at the datasheet for the new Tyranid Prime with Lash Whip]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uvhbkjz6/first-look-at-the-datasheet-for-the-new-tyranid-prime-with-lash-whip</link>
-            <guid>uvhbkjz6</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the rules for the new Tyranid leader-beast]]></description>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_tyrprimewhiprules-feb27-1-feature-wfsrlfrnfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
