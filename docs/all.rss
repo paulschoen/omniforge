@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Mar 2026 15:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 16:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sneak Peek: New Ork ‘bits’ sighted]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted</link>
+            <guid>e9dl4ok8</guid>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Another Ork kit coming down the track…]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-3h7ewetsje.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed: Give them both barrels with the new Titan-hunting Falchion tank]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f7bd1ghe/revealed-give-them-both-barrels-with-the-new-titan-hunting-falchion-tank</link>
@@ -283,17 +294,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-feb28-1-feature-e1g2ysfpqc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Spring Season 2026 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qvh6muos/warhammer-tv-spring-season-2026-trailer-warhammer</link>
-            <guid>qvh6muos</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season begins on Warhammer TV! Check out what's on its way to your Warhammer+ subscription.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/winter-season-whtv-landscape-0yejlp85dr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
