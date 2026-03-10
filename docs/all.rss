@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Mar 2026 14:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 16:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Vote for your next Black Library Reader’s Choice reprints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jf2b8zlc/vote-for-your-next-black-library-readers-choice-reprints</link>
+            <guid>jf2b8zlc</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Which books should get new editions next year?]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2026-mar10-1-feature-xq6peaiu1q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What exactly do the High Elves do in Blood Bowl? Their designers tell all]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ahaquwqp/what-exactly-do-the-high-elves-do-in-blood-bowl-their-designers-tell-all</link>
@@ -277,17 +287,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-fcbacwqbco.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Embrace Chaos with March’s Miniature of the Month and score two commemorative coins]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vfcfswyc/embrace-chaos-with-marchs-miniature-of-the-month-and-score-two-commemorative-coins</link>
-            <guid>vfcfswyc</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate Chaos, Death, and Black Library.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/miniofmonth-mar02-1-feature-qfxbtkeo9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
