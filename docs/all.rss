@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Mar 2026 09:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 13:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 10th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-10th-of-march</link>
+            <guid>7xzunj9v</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar10-1-feature-dgkjgz68fr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sneak Peek: New Ork ‘bits’ sighted]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted</link>
@@ -282,18 +292,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar01-1-feature-zz4kh0nuof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Infinite Museion Teaser Trailer | Warhammer 40,000: Rogue Trader]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ohltmxdz/the-infinite-museion-teaser-trailer-warhammer-40000-rogue-trader</link>
-            <guid>ohltmxdz</guid>
-            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Infinite Museion, the third major expansion for Warhammer 40,000: Rogue Trader. Delve into a secret vault curated by Trazyn the Infinite himself. Discover Trazyn’s obsession with the Von Valancius dynasty, and choose whether to disrupt or fulfill his plans. Wishlist now!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_dlc3-sexdyljt2g.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
