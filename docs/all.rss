@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Mar 2026 16:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 09:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -145,6 +145,19 @@
             <enclosure url="https://assets.warhammer-community.com/whart_23-otherimp-mar06-1-feature-qbtbq31bh2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Warhammer 40,000: Speed Freeks | Console Announcement Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/nykojliy/warhammer-40000-speed-freeks-console-announcement-trailer</link>
+            <guid>nykojliy</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[OI, GITZ! The WAAAGH! is coming to PS5 and Xbox Series S|X!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail_consoleannounce-ptmq555znr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A tale of Vypers and craftworlds, painted by the Warhammer Community team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iitah2fk/a-tale-of-vypers-and-craftworlds-painted-by-the-warhammer-community-team</link>
             <guid>iitah2fk</guid>
@@ -281,19 +294,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail_dlc3-sexdyljt2g.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Bring superior firepower to the Age of Darkness, the Old World, and the nearest pirate ship]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/udz1j9vu/saturday-pre-orders-bring-superior-firepower-to-the-age-of-darkness-the-old-world-and-the-nearest-pirate-ship</link>
-            <guid>udz1j9vu</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The forces of the Mechanicum and Grand Cathay grow in numbers and firepower.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-feb28-1-feature-e1g2ysfpqc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
