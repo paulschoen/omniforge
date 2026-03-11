@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Mar 2026 10:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 13:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Penitence Episode 2 and an exclusive Dawn of War IV interview land on Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a7yuknyr/penitence-episode-2-and-an-exclusive-dawn-of-war-iv-interview-land-on-warhammer</link>
+            <guid>a7yuknyr</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s new Warhammer TV episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar11-1-feature-1mj7ooypqy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dark Heresy – New Character Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/s9hph2ua/warhammer-40000-dark-heresy-new-character-revealed</link>
@@ -275,18 +287,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-mar03-1-feature-p9woqo16y3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood Hags lead the charge in new Daughters of Khaine battletome]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/871suqbd/blood-hags-lead-the-charge-in-new-daughters-of-khaine-battletome</link>
-            <guid>871suqbd</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New battletome, new miniatures, classic murder.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_dokreveals-mar02-1-feature-clav6inp7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
