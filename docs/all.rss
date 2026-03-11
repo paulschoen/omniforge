@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Mar 2026 13:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 14:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Relive the doom of the Crimson Fists in a new Special Edition of Rynn’s World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2uodttlq/relive-the-doom-of-the-crimson-fists-in-a-new-special-edition-of-rynns-world</link>
+            <guid>2uodttlq</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chapter Master Kantor’s darkest day has never looked so good.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_rynnsworldse-mar11-1-feature-yim4yok6q2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Penitence Episode 2 and an exclusive Dawn of War IV interview land on Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/a7yuknyr/penitence-episode-2-and-an-exclusive-dawn-of-war-iv-interview-land-on-warhammer</link>
@@ -20,6 +30,18 @@
             <category domain="adepta-sororitas">Adepta Sororitas</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar11-1-feature-1mj7ooypqy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adepta Sororitas: Penitence | Episode 2: Revelation – Official Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6jtb9zhp/adepta-sororitas-penitence-episode-2-revelation-official-trailer-warhammer</link>
+            <guid>6jtb9zhp</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Harried by Ork Kommandos, a trio of Battle Sisters must rely on their faith to protect them on their deadly pilgrimage. But could the past crimes of one of their number ultimately seal their fate?]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01922-penitence-ep-2-trailer-(v2)-1hkpgo554n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dark Heresy – New Character Revealed]]></title>
@@ -267,26 +289,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_quarterlyupdate-mar04-1-feature-jpnlctlxll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s pirates vs. pirates in White Dwarf issue 522]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/88dtxpnb/its-pirates-vs-pirates-in-white-dwarf-issue-522</link>
-            <guid>88dtxpnb</guid>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[White Dwarf signs up with a swarthy crew of void-reaving corsairs.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd522-mar03-1-feature-5izwsydeep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 3rd of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-3rd-of-march</link>
-            <guid>7xzunj9v</guid>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar03-1-feature-p9woqo16y3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
