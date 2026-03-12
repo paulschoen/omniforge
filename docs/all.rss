@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Mar 2026 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 13:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Iron Hands]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2vyvvrqp/pages-from-the-black-books-the-iron-hands</link>
+            <guid>2vyvvrqp</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The clans of Medusa take over the Black Books.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore9-mar12-1-feature-borcgoitoc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Relive the doom of the Crimson Fists in a new Special Edition of Rynn’s World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2uodttlq/relive-the-doom-of-the-crimson-fists-in-a-new-special-edition-of-rynns-world</link>
@@ -278,17 +289,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar04-1-feature-6udxgsd1fz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer 40,000 Quarterly Balance Update – March 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jlgyvik1/the-warhammer-40000-quarterly-balance-update-march-2026</link>
-            <guid>jlgyvik1</guid>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Big changes for C’tan Shards and more.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_quarterlyupdate-mar04-1-feature-jpnlctlxll.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
