@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Mar 2026 13:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Scouring timeline – How the Warhammer Studio worked with Black Library authors on the new series]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xmlkha5o/the-scouring-timeline-how-the-warhammer-studio-worked-with-black-library-authors-on-the-new-series</link>
+            <guid>xmlkha5o</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[How much research goes into such a seismic series?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_scouring-mar12-1-feature-ef35u2eg8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Iron Hands]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2vyvvrqp/pages-from-the-black-books-the-iron-hands</link>
@@ -278,17 +290,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2025_results-mar4-1-feature-jmaickul76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More White Dwarfs added to the Warhammer Vault and Chaos reigns on Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b9obk4fa/more-white-dwarfs-added-to-the-warhammer-vault-and-chaos-reigns-on-warhammer</link>
-            <guid>b9obk4fa</guid>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today’s new additions to your Warhammer+ membership.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar04-1-feature-6udxgsd1fz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
