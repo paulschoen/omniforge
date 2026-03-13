@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Mar 2026 13:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 14:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed: Dan Abnett’s latest novel sees a hive city teetering on the brink]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wlaxvots/revealed-dan-abnetts-latest-novel-sees-a-hive-city-teetering-on-the-brink</link>
+            <guid>wlaxvots</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new two-part novel explores the inner turmoil of an Imperial hive city.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-pzeqoeshgc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Titans]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vxdlug1l/warhammer-art-through-the-years-titans</link>
@@ -278,19 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/thumbnail_consoleannounce-ptmq555znr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A tale of Vypers and craftworlds, painted by the Warhammer Community team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iitah2fk/a-tale-of-vypers-and-craftworlds-painted-by-the-warhammer-community-team</link>
-            <guid>iitah2fk</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic Aeldari colour schemes on the new Vyper.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_staffvypers-mar05-1-feature-tyrqzvh61v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
