@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Mar 2026 14:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 16:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Collect a host of Spearheads with new Warhammer Age of Sigmar magazine]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mm7rd0ir/collect-a-host-of-spearheads-with-new-warhammer-age-of-sigmar-magazine</link>
+            <guid>mm7rd0ir</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new subscription magazine is available now in the UK from our partners at Hachette.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_spearheadmag-mar13-1-feature-co3cpb5lxa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed: Dan Abnett’s latest novel sees a hive city teetering on the brink]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wlaxvots/revealed-dan-abnetts-latest-novel-sees-a-hive-city-teetering-on-the-brink</link>
@@ -275,19 +285,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whart_23-otherimp-mar06-1-feature-qbtbq31bh2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Speed Freeks | Console Announcement Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nykojliy/warhammer-40000-speed-freeks-console-announcement-trailer</link>
-            <guid>nykojliy</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[OI, GITZ! The WAAAGH! is coming to PS5 and Xbox Series S|X!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_consoleannounce-ptmq555znr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
