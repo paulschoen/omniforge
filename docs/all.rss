@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Mar 2026 15:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 13:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Titans]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vxdlug1l/warhammer-art-through-the-years-titans</link>
+            <guid>vxdlug1l</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whart_23-titans-mar13-1-feature-wyiu858tnm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Mortis Reapers | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4sfmz3y4/how-to-paint-mortis-reapers-warhammer-age-of-sigmar</link>
+            <guid>4sfmz3y4</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dread assassins of forbidding aspect, Mortis Reapers slip behind enemy lines to target vulnerable leaders. Check out this video to discover everything you need to know when it comes to painting them – from their unique reaper’s blades to their iconic dark-bone bodies.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new-thumbnail-mortis-reaper-sgfohlwg5p.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[The Scouring timeline – How the Warhammer Studio worked with Black Library authors on the new series]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xmlkha5o/the-scouring-timeline-how-the-warhammer-studio-worked-with-black-library-authors-on-the-new-series</link>
@@ -269,27 +291,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_staffvypers-mar05-1-feature-tyrqzvh61v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Tooth and Claw]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xpjv7dw4/pages-from-the-black-books-tooth-and-claw</link>
-            <guid>xpjv7dw4</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The World Eaters and Iron Hands battle over Bodt.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore8-mar05-1-feature-lajlfhearq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library Reader’s Choice 2025 – the winners revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iynisocl/black-library-readers-choice-2025-the-winners-revealed</link>
-            <guid>iynisocl</guid>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Which books did you choose for a reprint?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2025_results-mar4-1-feature-jmaickul76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
