@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 14 Mar 2026 18:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 18:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The bigger, brighter Legio Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jl0oyszp/sunday-preview-the-bigger-brighter-legio-custodes</link>
+            <guid>jl0oyszp</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar16-1-feature-nnwltzqyyd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Books and Blood Bowl are up for grabs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mqsbmkuf/saturday-pre-orders-books-and-blood-bowl-are-up-for-grabs</link>
@@ -272,20 +285,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-a4ejsqizug.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How we painted the new Tyranid Prime and Berehk Stornbröw]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hy5szveb/how-we-painted-the-new-tyranid-prime-and-berehk-stornbrow</link>
-            <guid>hy5szveb</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[How will you paint yours?]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_staffcharacters-mar06-1-feature-vejzhvwxjk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
