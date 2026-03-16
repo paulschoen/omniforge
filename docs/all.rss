@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Mar 2026 13:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 14:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Check out the 2026 Warhammer Open swag boxes!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jbt1j3ky/check-out-the-2026-warhammer-open-swag-boxes</link>
+            <guid>jbt1j3ky</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ticket holders get the standard swag box included in the price of their ticket.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whopens_swag-mar16-1-feature-6ejpbzeuai.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heraldry of the Dark Mechanicum – Part Two]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pahkjjsi/heraldry-of-the-dark-mechanicum-part-two</link>
@@ -275,16 +286,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/ork-wb-feature-jb5wfmixxw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Citadel Colour Is Now Warhammer Colour | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/vh1ettra/citadel-colour-is-now-warhammer-colour-warhammer</link>
-            <guid>vh1ettra</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01909_thumbnail_16x9-ex5izflcth.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
