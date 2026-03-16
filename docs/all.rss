@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Mar 2026 14:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 15:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Return to Armageddon: Warhammer 40,000 Animation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/msgairds/return-to-armageddon-warhammer-40000-animation</link>
+            <guid>msgairds</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Armageddon is burning. The Orks are without number. And a familiar face has returned to put steel back in the armies of Armageddon. Could it be...?]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/armageddon_animation_thumbnail_16-03-zec3sfpyhh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Animation: The Saviour of Armageddon Returns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns</link>
+            <guid>sklouxc3</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Hero of Hades Hive is back with a new miniature.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-14dnkpqkfz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Check out the 2026 Warhammer Open swag boxes!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jbt1j3ky/check-out-the-2026-warhammer-open-swag-boxes</link>
@@ -260,32 +285,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar08-1-feature-c6cahd0y7x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Master the Maelstrom with your preferred pirates, reavers, and corsairs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zhu2vejf/saturday-pre-orders-master-the-maelstrom-with-your-preferred-pirates-reavers-and-corsairs</link>
-            <guid>zhu2vejf</guid>
-            <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All manner of corsairs and reavers arrive – which will you choose?]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-mar07-1-feature-et5i6k6rgw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breaking News: Ork in the Wild]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0noqba4q/breaking-news-ork-in-the-wild</link>
-            <guid>0noqba4q</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Choppa or Power Klaw? This Warboss has both…]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/ork-wb-feature-jb5wfmixxw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
