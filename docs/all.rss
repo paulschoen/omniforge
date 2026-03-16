@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 15 Mar 2026 18:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 13:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Heraldry of the Dark Mechanicum – Part Two]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pahkjjsi/heraldry-of-the-dark-mechanicum-part-two</link>
+            <guid>pahkjjsi</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Colour schemes and heraldry for more divergent Forge Worlds.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_darkmechanicumheraldry2-mar16-1-feature-573zt87fk1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The bigger, brighter Legio Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jl0oyszp/sunday-preview-the-bigger-brighter-legio-custodes</link>
@@ -274,17 +285,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01909_thumbnail_16x9-ex5izflcth.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Citadel Colour is becoming Warhammer Colour]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/okgv4njl/citadel-colour-is-becoming-warhammer-colour</link>
-            <guid>okgv4njl</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Same paint. Obvious new name.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-a4ejsqizug.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
