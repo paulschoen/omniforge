@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Mar 2026 15:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 13:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 17th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-17th-of-march</link>
+            <guid>cuxra3ym</guid>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar17-1-feature-vezvgbi65d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Return to Armageddon: Warhammer 40,000 Animation]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/msgairds/return-to-armageddon-warhammer-40000-animation</link>
@@ -272,19 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_zardulayakreveal-mar09-1-feature-xdkicjx2dg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Black Library Celebration and Blood Bowl releases]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ngdxmygg/sunday-preview-black-library-celebration-and-blood-bowl-releases</link>
-            <guid>ngdxmygg</guid>
-            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[High Elves land on the gridiron as we celebrate all things Black Library.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar08-1-feature-c6cahd0y7x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
