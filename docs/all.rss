@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Mar 2026 13:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 15:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint an Aeldari Vyper | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xvo0kpcq/how-to-paint-an-aeldari-vyper-warhammer-40000</link>
+            <guid>xvo0kpcq</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Aeldari Vypers are sleek skimmers that offer a perfect compromise between the speed of a jetbike and the heavier armament of a grav-tank. This video will teach you exactly how to paint one. Follow along as Ollie shows you how sub-assemblies make the process easier and why the Vyper is so much fun to paint!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/vyper-thumbnail-ybftjwz7zo.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Uncover the history of the Red Corsairs and more on Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p9k3pjkh/uncover-the-history-of-the-red-corsairs-and-more-on-warhammer</link>
@@ -262,17 +274,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-mar10-1-feature-dgkjgz68fr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sneak Peek: New Ork ‘bits’ sighted]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted</link>
-            <guid>e9dl4ok8</guid>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Another Ork kit coming down the track…]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-3h7ewetsje.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
