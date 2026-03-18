@@ -4,11 +4,41 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Mar 2026 15:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 16:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Join Us – Warhammer Preview Live! AdeptiCon 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qihbic0b/join-us-warhammer-preview-live-adepticon-2026</link>
+            <guid>qihbic0b</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Consider yourself officially invited to the next earth-shattering Warhammer preview show, live from AdeptiCon 2026! You can expect big announcements and reveals for:
+Warhammer 40,000
+Warhammer Age of Sigmar
+Warhammer: The Horus Heresy
+Kill Team
+Middle-earth Strategy Battle Game
+Warhammer Underworlds
+Warhammer+]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01895_preview-invite-thumbnail_16x9-lymnmkaenu.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Join the biggest Warhammer Preview of the year at AdeptiCon 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sr5fkxao/join-the-biggest-warhammer-preview-of-the-year-at-adepticon-2026</link>
+            <guid>sr5fkxao</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next Preview show is one week away]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/adepticon_incoming-mar18-1-feature-quxncwgdus.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint an Aeldari Vyper | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/xvo0kpcq/how-to-paint-an-aeldari-vyper-warhammer-40000</link>
@@ -253,27 +283,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2026-mar10-1-feature-xq6peaiu1q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What exactly do the High Elves do in Blood Bowl? Their designers tell all]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ahaquwqp/what-exactly-do-the-high-elves-do-in-blood-bowl-their-designers-tell-all</link>
-            <guid>ahaquwqp</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A guide to Ulthuan-style Blood Bowl, from the experts.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bb_highelffocus-mar10-1-feature-pzu9qzjt4n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 10th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-10th-of-march</link>
-            <guid>7xzunj9v</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar10-1-feature-dgkjgz68fr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
