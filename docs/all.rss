@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Mar 2026 12:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 13:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Uncover the history of the Red Corsairs and more on Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p9k3pjkh/uncover-the-history-of-the-red-corsairs-and-more-on-warhammer</link>
+            <guid>p9k3pjkh</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New episodes to watch today.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar18-1-feature-cqof7lk0vd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Download the brand new Black Library app today]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftfv93jv/download-the-brand-new-black-library-app-today</link>
@@ -263,17 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-3h7ewetsje.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Give them both barrels with the new Titan-hunting Falchion tank]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f7bd1ghe/revealed-give-them-both-barrels-with-the-new-titan-hunting-falchion-tank</link>
-            <guid>f7bd1ghe</guid>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new Space Marine super-heavy rumbles into view.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_falchion-mar09-1-feature-74btj0xlmw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
