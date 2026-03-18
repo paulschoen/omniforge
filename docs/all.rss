@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 17 Mar 2026 14:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 12:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Download the brand new Black Library app today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ftfv93jv/download-the-brand-new-black-library-app-today</link>
+            <guid>ftfv93jv</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get eight full stories for free when you try the app.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[How to ally the new Custodians to your Horus Heresy army]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tipvydzp/how-to-ally-the-new-custodians-to-your-horus-heresy-army</link>
@@ -264,22 +274,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_falchion-mar09-1-feature-74btj0xlmw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Combat Patrol: Iron Warriors and heavily armoured Battalions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mnepgmud/revealed-combat-patrol-iron-warriors-and-heavily-armoured-battalions</link>
-            <guid>mnepgmud</guid>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Start or expand your armies with firepower-laden boxed sets.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="imperial-fists">Imperial Fists</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eotboxes-mar09-1-feature-3jcmsucpfq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
