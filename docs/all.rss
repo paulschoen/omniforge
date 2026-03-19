@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Mar 2026 16:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 13:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rco5kiwc/pages-from-the-black-books-the-emperors-children</link>
+            <guid>rco5kiwc</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn all about the sublime sons of Fulgrim.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore10-mar19-1-feature-qlabykqbhu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Join Us – Warhammer Preview Live! AdeptiCon 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qihbic0b/join-us-warhammer-preview-live-adepticon-2026</link>
@@ -273,16 +284,6 @@ Warhammer+]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/[whdh]-epione-spes-companion-dd-thumbnail_1920x1080-tce4hyu1cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vote for your next Black Library Reader’s Choice reprints]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jf2b8zlc/vote-for-your-next-black-library-readers-choice-reprints</link>
-            <guid>jf2b8zlc</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Which books should get new editions next year?]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_readerschoice2026-mar10-1-feature-xq6peaiu1q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
