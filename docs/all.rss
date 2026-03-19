@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Mar 2026 14:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aeldari showcase – Corsairs join the followers of the Whispering God]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tce8jdse/aeldari-showcase-corsairs-join-the-followers-of-the-whispering-god</link>
+            <guid>tce8jdse</guid>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at an incredible Aeldari battleforce.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_joelsaeldari-mar19-1-feature-zz1sxv26cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community painters take on the Legio Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zmsin9aw/community-painters-take-on-the-legio-custodes</link>
@@ -272,18 +284,6 @@ Warhammer+]]></description>
             <category domain="adepta-sororitas">Adepta Sororitas</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar11-1-feature-1mj7ooypqy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adepta Sororitas: Penitence | Episode 2: Revelation – Official Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6jtb9zhp/adepta-sororitas-penitence-episode-2-revelation-official-trailer-warhammer</link>
-            <guid>6jtb9zhp</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Harried by Ork Kommandos, a trio of Battle Sisters must rely on their faith to protect them on their deadly pilgrimage. But could the past crimes of one of their number ultimately seal their fate?]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01922-penitence-ep-2-trailer-(v2)-1hkpgo554n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
