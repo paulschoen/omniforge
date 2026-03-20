@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Mar 2026 13:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 14:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Glorious in gold – Painted Legio Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/igtqhgp7/glorious-in-gold-painted-legio-custodes</link>
+            <guid>igtqhgp7</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Legio Custodes miniatures, ready for battle.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_stevescustodes-mar20-1-feature-oqx8hhgqpm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Stormcast Eternals]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/q2c2tgvd/warhammer-art-through-the-years-stormcast-eternals</link>
@@ -273,16 +286,6 @@ Warhammer+]]></description>
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore9-mar12-1-feature-borcgoitoc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Relive the doom of the Crimson Fists in a new Special Edition of Rynn’s World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2uodttlq/relive-the-doom-of-the-crimson-fists-in-a-new-special-edition-of-rynns-world</link>
-            <guid>2uodttlq</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chapter Master Kantor’s darkest day has never looked so good.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_rynnsworldse-mar11-1-feature-yim4yok6q2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
