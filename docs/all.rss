@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Mar 2026 15:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 13:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Stormcast Eternals]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/q2c2tgvd/warhammer-art-through-the-years-stormcast-eternals</link>
+            <guid>q2c2tgvd</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart25-mar20-1-feature-suzt530uiq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeldari showcase – Corsairs join the followers of the Whispering God]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tce8jdse/aeldari-showcase-corsairs-join-the-followers-of-the-whispering-god</link>
@@ -272,18 +283,6 @@ Warhammer+]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_rynnsworldse-mar11-1-feature-yim4yok6q2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Penitence Episode 2 and an exclusive Dawn of War IV interview land on Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/a7yuknyr/penitence-episode-2-and-an-exclusive-dawn-of-war-iv-interview-land-on-warhammer</link>
-            <guid>a7yuknyr</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s new Warhammer TV episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="animations">Animations</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar11-1-feature-1mj7ooypqy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
