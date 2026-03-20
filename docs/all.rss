@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Mar 2026 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Preparing for the Middle-earth™ Strategy Battle Game Grand Tournament]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zp3p7laf/preparing-for-the-middle-earthtm-strategy-battle-game-grand-tournament</link>
+            <guid>zp3p7laf</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Players build their armies for the upcoming Warhammer World event.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_gtprep-mar20-1-feature-n9dt65nbjb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Glorious in gold – Painted Legio Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/igtqhgp7/glorious-in-gold-painted-legio-custodes</link>
@@ -275,17 +289,6 @@ Warhammer+]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_scouring-mar12-1-feature-ef35u2eg8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Iron Hands]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2vyvvrqp/pages-from-the-black-books-the-iron-hands</link>
-            <guid>2vyvvrqp</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The clans of Medusa take over the Black Books.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore9-mar12-1-feature-borcgoitoc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
