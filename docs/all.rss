@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Mar 2026 16:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 18:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – The fury of the Ten Thousand]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/disxb2yy/saturday-pre-orders-the-fury-of-the-ten-thousand</link>
+            <guid>disxb2yy</guid>
+            <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pre-order the new Legio Custodes today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar21-1-feature-ht1zztryfo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yarrick animation – Worth a re-watch!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ymtlv0jp/yarrick-animation-worth-a-re-watch</link>
@@ -279,16 +291,6 @@ Warhammer+]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-pzeqoeshgc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Titans]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vxdlug1l/warhammer-art-through-the-years-titans</link>
-            <guid>vxdlug1l</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whart_23-titans-mar13-1-feature-wyiu858tnm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
