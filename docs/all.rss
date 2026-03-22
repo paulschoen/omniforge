@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 21 Mar 2026 18:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 18:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Warriors of blood and thorns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zdrz3hzs/sunday-preview-warriors-of-blood-and-thorns</link>
+            <guid>zdrz3hzs</guid>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Upcoming pre-orders from the Mortal Realms.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar22-1-feature-0bgiqiv1bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – The fury of the Ten Thousand]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/disxb2yy/saturday-pre-orders-the-fury-of-the-ten-thousand</link>
@@ -281,16 +294,6 @@ Warhammer+]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_spearheadmag-mar13-1-feature-co3cpb5lxa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Dan Abnett’s latest novel sees a hive city teetering on the brink]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wlaxvots/revealed-dan-abnetts-latest-novel-sees-a-hive-city-teetering-on-the-brink</link>
-            <guid>wlaxvots</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new two-part novel explores the inner turmoil of an Imperial hive city.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-pzeqoeshgc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
