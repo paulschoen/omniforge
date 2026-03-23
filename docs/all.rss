@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 22 Mar 2026 18:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 14:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Perform Khainite blood rituals with Battletome: Daughters of Khaine]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ua2wkuys/perform-khainite-blood-rituals-with-battletome-daughters-of-khaine</link>
+            <guid>ua2wkuys</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a look at the rules in the new battletome.]]></description>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dokrules1-march23-1-feature-e72hlnjkjn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Warriors of blood and thorns]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zdrz3hzs/sunday-preview-warriors-of-blood-and-thorns</link>
@@ -284,16 +295,6 @@ Warhammer+]]></description>
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-mar14-1-feature-qyjjhnvkwm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Collect a host of Spearheads with new Warhammer Age of Sigmar magazine]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mm7rd0ir/collect-a-host-of-spearheads-with-new-warhammer-age-of-sigmar-magazine</link>
-            <guid>mm7rd0ir</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new subscription magazine is available now in the UK from our partners at Hachette.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_spearheadmag-mar13-1-feature-co3cpb5lxa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
