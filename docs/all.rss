@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Mar 2026 15:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 16:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tune in to the Warhammer AdeptiCon Preview this week!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zjrvij91/tune-in-to-the-warhammer-adepticon-preview-this-week</link>
+            <guid>zjrvij91</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Don’t miss out on all the big reveals from AdeptiCon 2026.]]></description>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/adepticon_thisweek-mar23-1-feature-dv9anfxir3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eye of Terror – New rules for Defilers, Mutilators, and Kravek Morne]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lg5kfaxf/eye-of-terror-new-rules-for-defilers-mutilators-and-kravek-morne</link>
@@ -281,19 +292,6 @@ Warhammer+]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_darkmechanicumheraldry2-mar16-1-feature-573zt87fk1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The bigger, brighter Legio Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jl0oyszp/sunday-preview-the-bigger-brighter-legio-custodes</link>
-            <guid>jl0oyszp</guid>
-            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar16-1-feature-nnwltzqyyd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
