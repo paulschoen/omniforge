@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Mar 2026 16:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 13:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 24th of March]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-24th-of-march</link>
+            <guid>cuxra3ym</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar24-1-feature-mojkh0hlb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tune in to the Warhammer AdeptiCon Preview this week!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zjrvij91/tune-in-to-the-warhammer-adepticon-preview-this-week</link>
@@ -281,17 +291,6 @@ Warhammer+]]></description>
             <category domain="warhammer-open-series">Warhammer Open Series</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whopens_swag-mar16-1-feature-6ejpbzeuai.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heraldry of the Dark Mechanicum – Part Two]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pahkjjsi/heraldry-of-the-dark-mechanicum-part-two</link>
-            <guid>pahkjjsi</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Colour schemes and heraldry for more divergent Forge Worlds.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_darkmechanicumheraldry2-mar16-1-feature-573zt87fk1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
