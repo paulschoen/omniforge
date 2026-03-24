@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Mar 2026 13:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 14:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Reclaim nature with the new rules in Battletome: Sylvaneth]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ghkdf2i5/reclaim-nature-with-the-new-rules-in-battletome-sylvaneth</link>
+            <guid>ghkdf2i5</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a leaf out of the new book and find out about the updated battle trait.]]></description>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sylvanethrules1-march24-1-feature-08y7yjzc5s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 24th of March]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-24th-of-march</link>
@@ -280,17 +291,6 @@ Warhammer+]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-14dnkpqkfz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check out the 2026 Warhammer Open swag boxes!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jbt1j3ky/check-out-the-2026-warhammer-open-swag-boxes</link>
-            <guid>jbt1j3ky</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ticket holders get the standard swag box included in the price of their ticket.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whopens_swag-mar16-1-feature-6ejpbzeuai.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
