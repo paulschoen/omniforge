@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Mar 2026 14:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 15:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Eye of Terror – New rules for Imperial Knights and Adeptus Mechanicus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jxzkm0hu/eye-of-terror-new-rules-for-imperial-knights-and-adeptus-mechanicus</link>
+            <guid>jxzkm0hu</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Charge with the Knight Destrier and Thulia Ghuld.]]></description>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eotimprules-mar24-1-feature-x3km5umhgu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reclaim nature with the new rules in Battletome: Sylvaneth]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ghkdf2i5/reclaim-nature-with-the-new-rules-in-battletome-sylvaneth</link>
@@ -279,18 +291,6 @@ Warhammer+]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/armageddon_animation_thumbnail_16-03-zec3sfpyhh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Animation: The Saviour of Armageddon Returns]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns</link>
-            <guid>sklouxc3</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Hero of Hades Hive is back with a new miniature.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-14dnkpqkfz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
