@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Mar 2026 15:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 16:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – The new False Gods cover for The Horus Heresy Saga]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4lzm3knx/revealed-the-new-false-gods-cover-for-the-horus-heresy-saga</link>
+            <guid>4lzm3knx</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the amazing cover art for the next book in the Horus Heresy Saga.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_falsegods-mar25-1-feature-ff35vn271o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Daughters of Khaine rules – Choose your Army of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o46n5tfs/daughters-of-khaine-rules-choose-your-army-of-renown</link>
@@ -287,16 +298,6 @@ Warhammer+]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/vyper-thumbnail-ybftjwz7zo.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Uncover the history of the Red Corsairs and more on Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p9k3pjkh/uncover-the-history-of-the-red-corsairs-and-more-on-warhammer</link>
-            <guid>p9k3pjkh</guid>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New episodes to watch today.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar18-1-feature-cqof7lk0vd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
