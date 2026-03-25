@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Mar 2026 14:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 15:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Daughters of Khaine rules – Choose your Army of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o46n5tfs/daughters-of-khaine-rules-choose-your-army-of-renown</link>
+            <guid>o46n5tfs</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Disciples of Zainthar Kai or glorious gladiators – whose side are you on?]]></description>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dokrules2-mar25-1-feature-dwyokf2hja.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – Test of Loyalty]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5vdoryag/chronicles-of-ruin-test-of-loyalty</link>
@@ -286,16 +297,6 @@ Warhammer+]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar18-1-feature-cqof7lk0vd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Download the brand new Black Library app today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ftfv93jv/download-the-brand-new-black-library-app-today</link>
-            <guid>ftfv93jv</guid>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get eight full stories for free when you try the app.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
