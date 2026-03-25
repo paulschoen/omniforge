@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Mar 2026 13:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 14:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Test of Loyalty]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5vdoryag/chronicles-of-ruin-test-of-loyalty</link>
+            <guid>5vdoryag</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the Daughters of Khaine as they spring a deadly trap.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dokfiction-mar25-1-feature-axecrm4eda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Adepta Sororitas: Penitence | Episode 3: Absolution – Official Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/kkmxdkza/adepta-sororitas-penitence-episode-3-absolution-official-trailer-warhammer</link>
@@ -284,16 +296,6 @@ Warhammer+]]></description>
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[How to ally the new Custodians to your Horus Heresy army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tipvydzp/how-to-ally-the-new-custodians-to-your-horus-heresy-army</link>
-            <guid>tipvydzp</guid>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[You don’t have to be the Talons of the Emperor to use the new miniatures.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_alliedcustodes-mar17-1-feature-glz25wkg28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
