@@ -4,11 +4,37 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Mar 2026 15:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 13:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Adepta Sororitas: Penitence | Episode 3: Absolution – Official Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kkmxdkza/adepta-sororitas-penitence-episode-3-absolution-official-trailer-warhammer</link>
+            <guid>kkmxdkza</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Sisters continue their struggle through the storm. Every step brings them closer to salvation and redemption, but can they stay ahead of the Orks on their tail?]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01923-penitence-ep-3-trailer-thumbnail-v1-0yosmlccut.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All three episodes of Penitence are live on Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p6jwtnz2/all-three-episodes-of-penitence-are-live-on-warhammer</link>
+            <guid>p6jwtnz2</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Waaagh! Let’s talk Orks, plus, see wot’s comin’ this week, ‘umie.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-mar25-1-feature-pmutbifvar.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eye of Terror – New rules for Imperial Knights and Adeptus Mechanicus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jxzkm0hu/eye-of-terror-new-rules-for-imperial-knights-and-adeptus-mechanicus</link>
@@ -268,29 +294,6 @@ Warhammer+]]></description>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_alliedcustodes-mar17-1-feature-glz25wkg28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 17th of March]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-17th-of-march</link>
-            <guid>cuxra3ym</guid>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-mar17-1-feature-vezvgbi65d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Return to Armageddon: Warhammer 40,000 Animation]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/msgairds/return-to-armageddon-warhammer-40000-animation</link>
-            <guid>msgairds</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armageddon is burning. The Orks are without number. And a familiar face has returned to put steel back in the armies of Armageddon. Could it be...?]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/armageddon_animation_thumbnail_16-03-zec3sfpyhh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
