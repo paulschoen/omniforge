@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Mar 2026 13:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 14:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sylvaneth rules – Guarding groves with a new Army of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nhhyp4kv/sylvaneth-rules-guarding-groves-with-a-new-army-of-renown</link>
+            <guid>nhhyp4kv</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how the Grove Guardian’s rules help them do their job exceedingly well.]]></description>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sylvanethrules2-march26-1-feature-tbqw1ilays.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Death Guard]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/potqwxsb/pages-from-the-black-books-the-death-guard</link>
@@ -310,19 +321,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_dokfiction-mar25-1-feature-axecrm4eda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adepta Sororitas: Penitence | Episode 3: Absolution – Official Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kkmxdkza/adepta-sororitas-penitence-episode-3-absolution-official-trailer-warhammer</link>
-            <guid>kkmxdkza</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Sisters continue their struggle through the storm. Every step brings them closer to salvation and redemption, but can they stay ahead of the Orks on their tail?]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01923-penitence-ep-3-trailer-thumbnail-v1-0yosmlccut.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
