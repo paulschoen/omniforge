@@ -4,21 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Mar 2026 09:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 13:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
+            <title><![CDATA[Pages from the Black Books – The Death Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/potqwxsb/pages-from-the-black-books-the-death-guard</link>
+            <guid>potqwxsb</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the sons of Mortarion down in the trenches.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore11-mar26-1-feature-azfmurrm3g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AdeptiCon Preview 2026 Recap | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/rzoixvzd/adepticon-preview-2026-recap-warhammer</link>
             <guid>rzoixvzd</guid>
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer Preview Live! at AdeptiCon 2026 revealed artillery-laden walking fortresses, a high-flying new animation, long-awaited fan-favourite cavalry, a NEW EDITION of Warhammer 40,000, and so much more. Here’s Adam with the highlights. 
-See all the reveals on the Warhammer Community site: www.Warhammer-Community.com]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="adepticon">Adepticon</category>
+            <description><![CDATA[The Warhammer Preview Live! at AdeptiCon 2026 revealed artillery-laden walking fortresses, a high-flying new animation, long-awaited fan-favourite cavalry, a NEW EDITION of Warhammer 40,000, and so much more. Here’s Adam with the highlights.]]></description>
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01916_preview-round-up_thumbnails_16x9-wbnon6ojio.png" length="0" type="image/png"/>
         </item>
@@ -313,19 +323,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01923-penitence-ep-3-trailer-thumbnail-v1-0yosmlccut.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All three episodes of Penitence are live on Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p6jwtnz2/all-three-episodes-of-penitence-are-live-on-warhammer</link>
-            <guid>p6jwtnz2</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Waaagh! Let’s talk Orks, plus, see wot’s comin’ this week, ‘umie.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-mar25-1-feature-pmutbifvar.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
