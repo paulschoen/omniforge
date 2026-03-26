@@ -4,20 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Mar 2026 03:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 09:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
+            <title><![CDATA[AdeptiCon Preview 2026 Recap | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rzoixvzd/adepticon-preview-2026-recap-warhammer</link>
+            <guid>rzoixvzd</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer Preview Live! at AdeptiCon 2026 revealed artillery-laden walking fortresses, a high-flying new animation, long-awaited fan-favourite cavalry, a NEW EDITION of Warhammer 40,000, and so much more. Here’s Adam with the highlights. 
+See all the reveals on the Warhammer Community site: www.Warhammer-Community.com]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="adepticon">Adepticon</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01916_preview-round-up_thumbnails_16x9-wbnon6ojio.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Armageddon: Warhammer 40,000 New Edition Cinematic Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/o8yea0di/armageddon-warhammer-40000-new-edition-cinematic-trailer</link>
             <guid>o8yea0di</guid>
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armageddon burns. The green tide will not be stemmed. Old heroes and fresh menaces fight tooth and claw for every inch of blood-soaked ground. 
-
+            <description><![CDATA[Armageddon burns. The green tide will not be stemmed. Old heroes and fresh menaces fight tooth and claw for every inch of blood-soaked ground.
 There Is Only War.
-
 A new edition of Warhammer 40,000 has been announced.]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category domain="space-marines">Space Marines</category>
@@ -107,6 +118,9 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[They say we cannot win. Commissar Yarrick is tired of proving them wrong.]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="orks">Orks</category>
+            <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer40000armageddon-qcggzzlxng.png" length="0" type="image/png"/>
         </item>
@@ -312,18 +326,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-mar25-1-feature-pmutbifvar.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eye of Terror – New rules for Imperial Knights and Adeptus Mechanicus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jxzkm0hu/eye-of-terror-new-rules-for-imperial-knights-and-adeptus-mechanicus</link>
-            <guid>jxzkm0hu</guid>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Charge with the Knight Destrier and Thulia Ghuld.]]></description>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eotimprules-mar24-1-feature-x3km5umhgu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
