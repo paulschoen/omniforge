@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Mar 2026 14:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 15:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 New Edition – What You Need To Know]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/el5xswg4/warhammer-40000-new-edition-what-you-need-to-know</link>
+            <guid>el5xswg4</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new edition of Warhammer 40,000 was announced at the AdeptiCon Preview 2026! Here's what you need to know. #New40k]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01917-thumbnail-xwmugjer6m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – Your queries answered]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/v0fhjy3m/new40k-your-queries-answered</link>
+            <guid>v0fhjy3m</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We look at some of your questions about the new edition of Warhammer 40,000.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-2dktrteszw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sylvaneth rules – Guarding groves with a new Army of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nhhyp4kv/sylvaneth-rules-guarding-groves-with-a-new-army-of-renown</link>
@@ -298,29 +321,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_falsegods-mar25-1-feature-ff35vn271o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daughters of Khaine rules – Choose your Army of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o46n5tfs/daughters-of-khaine-rules-choose-your-army-of-renown</link>
-            <guid>o46n5tfs</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Disciples of Zainthar Kai or glorious gladiators – whose side are you on?]]></description>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_dokrules2-mar25-1-feature-dwyokf2hja.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – Test of Loyalty]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5vdoryag/chronicles-of-ruin-test-of-loyalty</link>
-            <guid>5vdoryag</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the Daughters of Khaine as they spring a deadly trap.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_dokfiction-mar25-1-feature-axecrm4eda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
