@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Mar 2026 13:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 14:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Daughters of Khaine]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bkm5yqc6/warhammer-art-through-the-years-daughters-of-khaine</link>
+            <guid>bkm5yqc6</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart26-mar27-1-feature-cdlxzohzpo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summer events coming to Warhammer World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ejwjb8az/summer-events-coming-to-warhammer-world</link>
@@ -313,17 +324,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature13-pqxo5euo5k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All the reveals from the Warhammer Preview Show at AdeptiCon 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dhufmbsz/all-the-reveals-from-the-warhammer-preview-show-at-adepticon-2026</link>
-            <guid>dhufmbsz</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See all of the latest Warhammer announcements in one place.]]></description>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature00-dlimj7rdkl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
