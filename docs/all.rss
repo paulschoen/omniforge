@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Mar 2026 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 15:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – War and Renewal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zw4dtbot/chronicles-of-ruin-war-and-renewal</link>
+            <guid>zw4dtbot</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how Grove Guardians perform their sacred duties in this free fiction.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_sylvanethfiction-mar27-1-feature-4bzecqzkxm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Daughters of Khaine]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bkm5yqc6/warhammer-art-through-the-years-daughters-of-khaine</link>
@@ -21,7 +33,7 @@
             <enclosure url="https://assets.warhammer-community.com/aos_whart26-mar27-1-feature-cdlxzohzpo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Summer events coming to Warhammer World]]></title>
+            <title><![CDATA[Summer events coming to Warhammer World and beyond]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ejwjb8az/summer-events-coming-to-warhammer-world</link>
             <guid>ejwjb8az</guid>
             <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
@@ -309,21 +321,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature01-xqmmx16z1k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – Wētā Workshop’s Mephiston gets your blood pumping]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3lxvcdpy/adepticon-preview-2026-weta-workshops-mephiston-gets-your-blood-pumping</link>
-            <guid>3lxvcdpy</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[There is also a new helmet from JOYTOY incoming.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="white-scars">White Scars</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature13-pqxo5euo5k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
