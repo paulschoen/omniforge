@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Mar 2026 15:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 16:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Awesome moments you might have missed in the Warhammer 40,000 trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6ndp8dyc/awesome-moments-you-might-have-missed-in-the-warhammer-40000-trailer</link>
+            <guid>6ndp8dyc</guid>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us as we rewatch our seven favourite parts of the jaw-dropping cinematic trailer.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="orks">Orks</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_trailermoments-mar27-1-feature-y5sojupuj1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – War and Renewal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zw4dtbot/chronicles-of-ruin-war-and-renewal</link>
@@ -305,22 +317,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature06-zzijxml3ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – Wazdakka Gutsmek battles Commissar Yarrick for the fate of Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon</link>
-            <guid>bmjvmce4</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Astra Militarum stands firm against the Ork Speedwaaagh!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature01-xqmmx16z1k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
