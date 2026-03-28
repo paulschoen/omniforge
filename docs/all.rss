@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Mar 2026 16:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 18:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Daughters of Khaine and Sylvaneth take to the battlefield]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sbtxpu7j/saturday-pre-orders-daughters-of-khaine-and-sylvaneth-take-to-the-battlefield</link>
+            <guid>sbtxpu7j</guid>
+            <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what you can pre-order right now.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-mar28-1-feature-jcrzuq1m6h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Awesome moments you might have missed in the Warhammer 40,000 trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6ndp8dyc/awesome-moments-you-might-have-missed-in-the-warhammer-40000-trailer</link>
@@ -301,22 +313,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-03-dqqrlsx8yd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New trailer for Warhammer 40,000 animation Aeronautica Imperialis]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wvspadqk/new-trailer-for-warhammer-40000-animation-aeronautica-imperialis</link>
-            <guid>wvspadqk</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming soon on Warhammer+]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature06-zzijxml3ms.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
