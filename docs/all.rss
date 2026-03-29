@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 28 Mar 2026 18:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 17:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Into the Eye of Terror]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/avczirqt/sunday-preview-into-the-eye-of-terror</link>
+            <guid>avczirqt</guid>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up for pre-order next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar29-1-feature-zxuteex6pa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Daughters of Khaine and Sylvaneth take to the battlefield]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sbtxpu7j/saturday-pre-orders-daughters-of-khaine-and-sylvaneth-take-to-the-battlefield</link>
@@ -298,21 +312,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature05-6afiqfpdan.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – The Red Terror hunts elite Cadians in new Kill Team expansion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jwpyca89/adepticon-preview-2026-the-red-terror-hunts-elite-cadians-in-new-kill-team-expansion</link>
-            <guid>jwpyca89</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A man-eating Tyranid terror stalks Devlan.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-03-dqqrlsx8yd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
