@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 30 Mar 2026 13:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Boss Nob Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m9ustghh/new40k-boss-nob-revealed</link>
+            <guid>m9ustghh</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Feast your eyes on a new Ork miniature for Warhammer 40,000.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-ddo1vp3nwz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside White Dwarf 523: Imperial Knights, Defilers and more]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tuuxdman/inside-white-dwarf-523-imperial-knights-defilers-and-more</link>
@@ -292,20 +304,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature09-hcawsgwh8x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – Massive walking Cogforts lead new Cities of Sigmar reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bvlnfcdh/adepticon-preview-2026-massive-walking-cogforts-lead-new-cities-of-sigmar-reinforcements</link>
-            <guid>bvlnfcdh</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lumbering fortresses, magical mounts, Gate Gargants, and good old-fashioned religious zealots hold the line.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature08-q0qz1dbzrn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
