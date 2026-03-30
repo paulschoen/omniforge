@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 30 Mar 2026 14:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 16:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon Show Review from Adepticon 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rmkyz4tq/golden-demon-show-review-from-adepticon-2026</link>
+            <guid>rmkyz4tq</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Golden Demon 2026 hosted superlative painters from around the world as they competed in this prestigious painting competition. In this video, the Warhammer team debrief after the judging, discuss the winners, and take a look at some of the highlights from the event.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/golden-demon-cta-zumr0ryjz2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Boss Nob Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m9ustghh/new40k-boss-nob-revealed</link>
@@ -288,22 +299,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer40000armageddon-qcggzzlxng.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – Clans Eshin battle the Freeguilds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hz1jmcv8/adepticon-preview-2026-clans-eshin-battle-the-freeguilds</link>
-            <guid>hz1jmcv8</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Skaven assassins battle elite Cities of Sigmar warriors amongst the ruins in a new boxed set.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="skaven">Skaven</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature09-hcawsgwh8x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
