@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 30 Mar 2026 00:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 12:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Join the feast with April’s Miniature of the Month]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8kgkpnaq/join-the-feast-with-aprils-miniature-of-the-month</link>
+            <guid>8kgkpnaq</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about next month’s miniature and collectable coin.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/motm-mar30-1-feature-b6pfxdm0e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 winners revealed at AdeptiCon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kgzvdqgj/golden-demon-2026-winners-revealed-at-adepticon</link>
@@ -298,20 +309,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me-1-feature-1afxv9acxu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 – A new Lumineth Realm-lords warband breezes into Warhammer Underworlds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/he0lfctv/adepticon-preview-2026-a-new-lumineth-realm-lords-warband-breezes-into-warhammer-underworlds</link>
-            <guid>he0lfctv</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome aelves and their adorable vulpine spirit revealed.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-04-qbri5wukxq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
