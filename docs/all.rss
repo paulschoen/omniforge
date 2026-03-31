@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 31 Mar 2026 13:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 14:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Perturabo’s grand plan revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/krrfctul/perturabos-grand-plan-revealed</link>
+            <guid>krrfctul</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Daemon Primarch of the Iron Warriors has a new purpose – the greatest siege in history.]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_perturabolore-apr02-1-feature-lohmjrj0mw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lore: Where has Commissar Yarrick been lately?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z9key2tp/lore-where-has-commissar-yarrick-been-lately</link>
@@ -282,21 +293,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-thumbnail-juqhhjhvxo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: The new edition is revealed at Adepticon Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ctdexme4/warhammer-40000-the-new-edition-is-revealed-at-adepticon-preview-2026</link>
-            <guid>ctdexme4</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[#New40k makes the game a more exciting and engaging experience than ever before]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature10-f36orvfmbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
