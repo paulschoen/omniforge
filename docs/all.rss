@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 31 Mar 2026 14:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 15:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – New Ork fiction from Black Library]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ommuil43/revealed-new-ork-fiction-from-black-library</link>
+            <guid>ommuil43</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for a good fight with books featuring Freebooterz, prophets, and Old Bale Eye.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_orks-apr02-1-feature-lthqeif2l9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Perturabo’s grand plan revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/krrfctul/perturabos-grand-plan-revealed</link>
@@ -282,17 +294,6 @@ This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal d
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/mephiston_master_v1_17_1920-x-1080-yt-thumbnail-mgtsajgiaj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Sigma-Nova – Aeronautica Imperialis Animation Teaser Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rgr6gquv/welcome-to-sigma-nova-aeronautica-imperialis-animation-teaser-trailer-warhammer</link>
-            <guid>rgr6gquv</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Aeronautica Imperialis, an all-new, high-flying Warhammer 40,000 animation, is coming to Warhammer+ soon.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-thumbnail-juqhhjhvxo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
