@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 31 Mar 2026 15:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 09:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – Battlescroll Updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5qkftvcy/warhammer-age-of-sigmar-battlescroll-updates</link>
+            <guid>5qkftvcy</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what changes the first balance updates of 2026 are bringing.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-apr01-1-feature-m7brl2zrjb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer as you’ve never heard it before]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qpeszcaf/warhammer-as-youve-never-heard-it-before</link>
+            <guid>qpeszcaf</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today we’re announcing The Emperor Protects: A Warhammer 40,000 Musical!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-a6zbo2dpzw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed – New Ork fiction from Black Library]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ommuil43/revealed-new-ork-fiction-from-black-library</link>
@@ -268,32 +289,6 @@ A new edition of Warhammer 40,000 has been announced.]]></description>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/terror-of-devlan-kill-team-llnnvtvm4z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COGFORTS MARCH! Massive Cities of Sigmar Reveals – AdeptiCon Preview 2026 | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fktf4n74/cogforts-march-massive-cities-of-sigmar-reveals-adepticon-preview-2026-warhammer-age-of-sigmar</link>
-            <guid>fktf4n74</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Ironweld Arsenal unleashes its most powerful weaponry yet in service to the Cities of Sigmar! Cogforts join the fight for the Mortal Realms alongside Gate Gargants, new characters, and loads more.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ageofsigmar_thumbnail-l8nuukrq3k.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 | Mephiston, the Lord of Death, 1:6 Scale Limited Edition Statue, by Wētā Workshop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/j2uzokti/warhammer-40000-mephiston-the-lord-of-death-16-scale-limited-edition-statue-by-weta-workshop</link>
-            <guid>j2uzokti</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stood upon the steps of the Arx Angelicum, Chief Librarian Mephiston of the Blood Angels is depicted in the instant before he unleashes his wrath.
-Mephiston, the Lord of Death, is captured in breathtaking detail. Clad in arterial red artificer armour, every surface bears the weight of centuries of war: layered ceramite plates, finely sculpted iconography, and battle-worn textures that speak to countless campaigns fought in the Emperor’s name. Wētā Workshop's artists have meticulously recreated the grim majesty of Mephiston, replicating in high fidelity the sharp-edged heraldry of the Blood Angels whilst adding subtle wear that grounds the piece firmly in the brutal reality of the 41st Millennium.
-This limited edition 1:6 scale collectible statue of Mephiston is a phenomenal depiction of his unparalleled focus and devastating power.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/mephiston_master_v1_17_1920-x-1080-yt-thumbnail-mgtsajgiaj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
