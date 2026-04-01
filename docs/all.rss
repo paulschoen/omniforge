@@ -4,13 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Apr 2026 12:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 13:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Exclusive interviews with Golden Demon winners on Warhammer]]></title>
+            <title><![CDATA[Warhammer 40,000 World Champion’s tactical insights on new Adeptus Mechanicus units]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kkqyzq5d/warhammer-40000-world-champions-tactical-insights-on-new-adeptus-mechanicus-units</link>
+            <guid>kkqyzq5d</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Richard Siegler explains how he would use Thulia Ghuld and Hastarii in his all-conquering army]]></description>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wcadmech-apr02-1-feature-ozemsbxe3v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive interviews with Golden Demon winners on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dtbofqtu/exclusive-interviews-with-golden-demon-winners-on-warhammer</link>
             <guid>dtbofqtu</guid>
             <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
@@ -274,18 +286,6 @@ A new edition of Warhammer 40,000 has been announced.]]></description>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer40000-thumbnail-ubpob4qzmw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#WWYD]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/jklg2xnx/wwyd</link>
-            <guid>jklg2xnx</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[#ArmageddonsFinest]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new-thumbnail-option-2_16x9-w1bqdv4m1d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
