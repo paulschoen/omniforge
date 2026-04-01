@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Apr 2026 09:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 12:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Exclusive interviews with Golden Demon winners on Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dtbofqtu/exclusive-interviews-with-golden-demon-winners-on-warhammer</link>
+            <guid>dtbofqtu</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer+ sits down with some of the best painters in the world, plus more new episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr01-1-feature-dwehbsdltw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – Battlescroll Updates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5qkftvcy/warhammer-age-of-sigmar-battlescroll-updates</link>
@@ -276,19 +286,6 @@ A new edition of Warhammer 40,000 has been announced.]]></description>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new-thumbnail-option-2_16x9-w1bqdv4m1d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Terror on Devlan Kill Team Expansion – Revealed at AdeptiCon Preview 2026 | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/9sqzwqrw/terror-on-devlan-kill-team-expansion-revealed-at-adepticon-preview-2026-warhammer-40000</link>
-            <guid>9sqzwqrw</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Red Terror, an iconic Tyranid bioform, returns to the battlefields of the 41st Millennium to hunt veteran Cadian elites in Terror on Devlan, an all-new boxed set for Kill Team revealed at the Warhammer Preview Live! AdeptiCon 2026.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/terror-of-devlan-kill-team-llnnvtvm4z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
