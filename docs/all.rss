@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Apr 2026 13:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 13:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Thousand Sons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6na9napb/pages-from-the-black-books-the-thousand-sons</link>
+            <guid>6na9napb</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the history and organisation of the psychically attuned sons of Magnus with classic lore.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore12-apr02-1-feature-gz5z3hl6kh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 World Champion’s tactical insights on new Adeptus Mechanicus units]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kkqyzq5d/warhammer-40000-world-champions-tactical-insights-on-new-adeptus-mechanicus-units</link>
@@ -271,21 +282,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01916_preview-round-up_thumbnails_16x9-wbnon6ojio.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Armageddon: Warhammer 40,000 New Edition Cinematic Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/o8yea0di/armageddon-warhammer-40000-new-edition-cinematic-trailer</link>
-            <guid>o8yea0di</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armageddon burns. The green tide will not be stemmed. Old heroes and fresh menaces fight tooth and claw for every inch of blood-soaked ground.
-There Is Only War.
-A new edition of Warhammer 40,000 has been announced.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer40000-thumbnail-ubpob4qzmw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
