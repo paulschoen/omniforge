@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Apr 2026 14:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Building an army in the new edition of Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000</link>
+            <guid>95fucn12</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about how Detachments work in the new edition, and how they can be used to create your custom force.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_armybuilding-apr2-1-feature-f5c8rb70xi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eye of Terror Detachments – Knights and Warp portals galore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z4ippqsy/eye-of-terror-detachments-knights-and-warp-portals-galore</link>
@@ -270,17 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_sylvanethrules2-march26-1-feature-tbqw1ilays.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Death Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/potqwxsb/pages-from-the-black-books-the-death-guard</link>
-            <guid>potqwxsb</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the sons of Mortarion down in the trenches.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore11-mar26-1-feature-azfmurrm3g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
