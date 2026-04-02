@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Apr 2026 13:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 14:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Eye of Terror Detachments – Knights and Warp portals galore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z4ippqsy/eye-of-terror-detachments-knights-and-warp-portals-galore</link>
+            <guid>z4ippqsy</guid>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What can the new Warhammer 40,000 Detachments do for you?]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eotdetachments-apr02-1-feature-hi0s1egtnx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Thousand Sons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6na9napb/pages-from-the-black-books-the-thousand-sons</link>
@@ -270,18 +281,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore11-mar26-1-feature-azfmurrm3g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AdeptiCon Preview 2026 Recap | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rzoixvzd/adepticon-preview-2026-recap-warhammer</link>
-            <guid>rzoixvzd</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer Preview Live! at AdeptiCon 2026 revealed artillery-laden walking fortresses, a high-flying new animation, long-awaited fan-favourite cavalry, a NEW EDITION of Warhammer 40,000, and so much more. Here’s Adam with the highlights.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adepticon">Adepticon</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01916_preview-round-up_thumbnails_16x9-wbnon6ojio.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
