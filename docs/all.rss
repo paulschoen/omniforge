@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Apr 2026 12:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 13:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Apocalypse rules make gigantic battles easy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/di79mrzj/new-apocalypse-rules-make-gigantic-battles-easy</link>
+            <guid>di79mrzj</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Titans, tanks, and massed infantry formations smash together in Eye of Terror: Reign of Iron.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eotapocalypserules-apr03-1-feature-bv9hxiygpe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Slaves to Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hsxyww8f/warhammer-art-through-the-years-slaves-to-darkness</link>
@@ -270,17 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart26-mar27-1-feature-cdlxzohzpo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer events coming to Warhammer World and beyond]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ejwjb8az/summer-events-coming-to-warhammer-world</link>
-            <guid>ejwjb8az</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s going on in Nottingham this July.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/events-mar27-1-feature-sgwk8yugtt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
