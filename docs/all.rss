@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Apr 2026 13:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 14:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – How your army affects your mission]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oefzq9fg/new40k-how-your-army-affects-your-mission</link>
+            <guid>oefzq9fg</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how your army choices affect your missions in the new edition.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_missions-apr2-1-feature-hnqmhptdnk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: Inside the incredible new Defiler kit]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tgz401zu/revealed-inside-the-incredible-new-defiler-kit</link>
+            <guid>tgz401zu</guid>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sorry… how many heads do you get?]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_defilerkitfocus-apr02-1-feature-nj3dsyiuz0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Apocalypse rules make gigantic battles easy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/di79mrzj/new-apocalypse-rules-make-gigantic-battles-easy</link>
@@ -257,29 +278,6 @@
             <category domain="space-marines">Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_trailermoments-mar27-1-feature-y5sojupuj1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – War and Renewal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zw4dtbot/chronicles-of-ruin-war-and-renewal</link>
-            <guid>zw4dtbot</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how Grove Guardians perform their sacred duties in this free fiction.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_sylvanethfiction-mar27-1-feature-4bzecqzkxm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Daughters of Khaine]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bkm5yqc6/warhammer-art-through-the-years-daughters-of-khaine</link>
-            <guid>bkm5yqc6</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Awesome art from the Warhammer archives.]]></description>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart26-mar27-1-feature-cdlxzohzpo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
