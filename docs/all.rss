@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Apr 2026 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 17:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Enter the Eye of Terror]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sfmkyzel/saturday-pre-orders-enter-the-eye-of-terror</link>
+            <guid>sfmkyzel</guid>
+            <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New releases for Chaos Space Marines, Adeptus Mechanicus, and Imperial Knights.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-apr4-1-feature-twgaoultwp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – How your army affects your mission]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oefzq9fg/new40k-how-your-army-affects-your-mission</link>
@@ -266,18 +279,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-mar28-1-feature-jcrzuq1m6h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Awesome moments you might have missed in the Warhammer 40,000 trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6ndp8dyc/awesome-moments-you-might-have-missed-in-the-warhammer-40000-trailer</link>
-            <guid>6ndp8dyc</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us as we rewatch our seven favourite parts of the jaw-dropping cinematic trailer.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_trailermoments-mar27-1-feature-y5sojupuj1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
