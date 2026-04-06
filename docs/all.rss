@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 06 Apr 2026 12:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 13:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Heart of Blight]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hvfv4cnz/chronicles-of-ruin-heart-of-blight</link>
+            <guid>hvfv4cnz</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Maggotkin of Nurgle are reaping a terrible harvest in the Jade Realm in this short story.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinfiction-apr06-1-feature-esqslr57nm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Behind the Scenes of The Emperor Protects: A Warhammer 40,000 Musical]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vckormcg/behind-the-scenes-of-the-emperor-protects-a-warhammer-40000-musical</link>
@@ -263,19 +275,6 @@
             <category domain="miniature-of-the-month">Miniature of the Month</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/motm-mar30-1-feature-b6pfxdm0e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 winners revealed at AdeptiCon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kgzvdqgj/golden-demon-2026-winners-revealed-at-adepticon</link>
-            <guid>kgzvdqgj</guid>
-            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See who raised the Slayer Sword this year]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category domain="events">Events</category>
-            <category domain="adepticon">Adepticon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/goldendemon_us2026-mar29-1-feature_alt-mba27auejx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
