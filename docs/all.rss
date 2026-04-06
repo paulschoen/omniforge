@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 05 Apr 2026 17:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 12:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Behind the Scenes of The Emperor Protects: A Warhammer 40,000 Musical]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vckormcg/behind-the-scenes-of-the-emperor-protects-a-warhammer-40000-musical</link>
+            <guid>vckormcg</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do you bring the grim darkness of the far future to life on stage?]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/empprotectbts-apr6-1-feature_video-mj9vmivmuo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – New Legio Custodes incoming]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iewdkefd/sunday-preview-new-legio-custodes-incoming</link>
@@ -266,20 +276,6 @@
             <category domain="adepticon">Adepticon</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/goldendemon_us2026-mar29-1-feature_alt-mba27auejx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Into the Eye of Terror]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/avczirqt/sunday-preview-into-the-eye-of-terror</link>
-            <guid>avczirqt</guid>
-            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up for pre-order next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-mar29-1-feature-zxuteex6pa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
