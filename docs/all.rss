@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 06 Apr 2026 14:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 13:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[What to add next to your Legio Custodes army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wp4l9fyo/what-to-add-next-to-your-legio-custodes-army</link>
+            <guid>wp4l9fyo</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer: The Horus Heresy studio gives advice on building your force]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_legiocustodes-apr07-1-feature-8uvojlhvyk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Vanguard Veteran Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6du3q10d/new40k-vanguard-veteran-revealed</link>
@@ -266,16 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-ddo1vp3nwz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 523: Imperial Knights, Defilers and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tuuxdman/inside-white-dwarf-523-imperial-knights-defilers-and-more</link>
-            <guid>tuuxdman</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s coming in April’s edition of White Dwarf magazine.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd523-mar30-1-feature-r9c4raacqe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
