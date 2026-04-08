@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Apr 2026 09:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 12:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Behind the scenes with Wētā Workshop on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qcdprwci/behind-the-scenes-with-weta-workshop-on-warhammer-tv</link>
+            <guid>qcdprwci</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how they created Mephiston, and check out the other new episodes releasing this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr08-1-feature-ociy0o0tj2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – AdeptiCon finalists part one]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0itotcz4/golden-demon-2026-adepticon-finalists-part-one</link>
@@ -265,17 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_orks-apr02-1-feature-lthqeif2l9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perturabo’s grand plan revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/krrfctul/perturabos-grand-plan-revealed</link>
-            <guid>krrfctul</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Daemon Primarch of the Iron Warriors has a new purpose – the greatest siege in history.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_perturabolore-apr02-1-feature-lohmjrj0mw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
