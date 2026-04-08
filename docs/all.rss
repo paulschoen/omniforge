@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Apr 2026 12:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 14:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Take cover with updated terrain rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xlppkx5s/new40k-take-cover-with-updated-terrain-rules</link>
+            <guid>xlppkx5s</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s not hiding, it’s tactical! See how rocks and ruins have changed in the new edition.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_terrain-apr08-1-feature-we7yivqflx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Behind the scenes with Wētā Workshop on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qcdprwci/behind-the-scenes-with-weta-workshop-on-warhammer-tv</link>
@@ -263,18 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-a6zbo2dpzw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed – New Ork fiction from Black Library]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ommuil43/revealed-new-ork-fiction-from-black-library</link>
-            <guid>ommuil43</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for a good fight with books featuring Freebooterz, prophets, and Old Bale Eye.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_orks-apr02-1-feature-lthqeif2l9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
