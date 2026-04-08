@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 07 Apr 2026 14:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 09:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2026 – AdeptiCon finalists part one]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0itotcz4/golden-demon-2026-adepticon-finalists-part-one</link>
+            <guid>0itotcz4</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at the work of the talented painters who earned a Finalist pin.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_finalists-apr08-1-feature-mpjy3undw4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint Sylvaneth Soulpods | Grove Guardian | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/aipdnyna/how-to-paint-sylvaneth-soulpods-grove-guardian-warhammer-age-of-sigmar</link>
+            <guid>aipdnyna</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Keepers of the soulpod groves, Sylvaneth Grove Guardians grant life to spirits so they may be born to fight for the Everqueen. The bodies of these towering priestesses are formed from a genesis tree, which protects the soulpods – amniotic pods from which Revenants grow. In today’s video, Ollie’s showing you how to paint the unique soulpods of the Grove Guardian model, at every stage of their growth cycle.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/soulpods-tumbnail-4kalypjmku.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Lore of Armageddon Part 1 – The Armageddon System]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1ukaglxy/lore-of-armageddon-part-1-the-armageddon-system</link>
@@ -253,28 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_perturabolore-apr02-1-feature-lohmjrj0mw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore: Where has Commissar Yarrick been lately?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z9key2tp/lore-where-has-commissar-yarrick-been-lately</link>
-            <guid>z9key2tp</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out why everyone thought the Astra Militarum legend had met his demise.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_yarricklore-mar31-1-feature-syythgpgbm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon Show Review from Adepticon 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rmkyz4tq/golden-demon-show-review-from-adepticon-2026</link>
-            <guid>rmkyz4tq</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Golden Demon 2026 hosted superlative painters from around the world as they competed in this prestigious painting competition. In this video, the Warhammer team debrief after the judging, discuss the winners, and take a look at some of the highlights from the event.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/golden-demon-cta-zumr0ryjz2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
