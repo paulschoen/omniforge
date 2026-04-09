@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Apr 2026 14:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 13:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Word Bearers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mq2bsjkb/pages-from-the-black-books-the-word-bearers</link>
+            <guid>mq2bsjkb</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the sons of Lorgar and how they fell from the Emperor’s light.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore13-apr09-1-feature-fjtpu9pw4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Take cover with updated terrain rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xlppkx5s/new40k-take-cover-with-updated-terrain-rules</link>
@@ -263,16 +274,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-apr01-1-feature-m7brl2zrjb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer as you’ve never heard it before]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qpeszcaf/warhammer-as-youve-never-heard-it-before</link>
-            <guid>qpeszcaf</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today we’re announcing The Emperor Protects: A Warhammer 40,000 Musical!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-a6zbo2dpzw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
