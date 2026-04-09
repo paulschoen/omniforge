@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Apr 2026 13:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 17:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[First look: New characters and enemies for Warhammer Survivors]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sxfxzwun/first-look-new-characters-and-enemies-for-warhammer-survivors</link>
+            <guid>sxfxzwun</guid>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[An action-packed game is coming to PlayStation 5, Xbox Series X|S, and Nintendo Switch, as well as Steam.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whsurvivors-apr09-1-feature-73uiyr32rf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Word Bearers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mq2bsjkb/pages-from-the-black-books-the-word-bearers</link>
@@ -263,17 +275,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr01-1-feature-dwehbsdltw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – Battlescroll Updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5qkftvcy/warhammer-age-of-sigmar-battlescroll-updates</link>
-            <guid>5qkftvcy</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what changes the first balance updates of 2026 are bringing.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_balanceupdate-apr01-1-feature-m7brl2zrjb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
