@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Apr 2026 12:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 13:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[We take on the Legio Custodes painting challenge]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kdczha3h/we-take-on-the-legio-custodes-painting-challenge</link>
+            <guid>kdczha3h</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Members of the Warhammer: The Horus Heresy studio and Warhammer Community team paint the Emperor’s bodyguard.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_paintedcustodes-apr10-1-feature-tcvmqb0lhe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Sylvaneth]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qrwbuq7f/warhammer-art-through-the-years-sylvaneth</link>
@@ -264,18 +276,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore12-apr02-1-feature-gz5z3hl6kh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 World Champion’s tactical insights on new Adeptus Mechanicus units]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kkqyzq5d/warhammer-40000-world-champions-tactical-insights-on-new-adeptus-mechanicus-units</link>
-            <guid>kkqyzq5d</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Richard Siegler explains how he would use Thulia Ghuld and Hastarii in his all-conquering army]]></description>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wcadmech-apr02-1-feature-ozemsbxe3v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
