@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Apr 2026 17:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 12:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Sylvaneth]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qrwbuq7f/warhammer-art-through-the-years-sylvaneth</link>
+            <guid>qrwbuq7f</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The light of the Everqueen shines through the glades upon this glorious artwork.]]></description>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart28-apr10-1-feature-9npavpfoxf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[First look: New characters and enemies for Warhammer Survivors]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sxfxzwun/first-look-new-characters-and-enemies-for-warhammer-survivors</link>
@@ -265,16 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wcadmech-apr02-1-feature-ozemsbxe3v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive interviews with Golden Demon winners on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dtbofqtu/exclusive-interviews-with-golden-demon-winners-on-warhammer</link>
-            <guid>dtbofqtu</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer+ sits down with some of the best painters in the world, plus more new episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr01-1-feature-dwehbsdltw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
