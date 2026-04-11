@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Apr 2026 14:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 17:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Defend the Emperor with new Legio Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vnmssr1i/saturday-pre-orders-defend-the-emperor-with-new-legio-custodes</link>
+            <guid>vnmssr1i</guid>
+            <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reinforcements arrive for the golden 10,000.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-apr11-1-feature-b1oxbzoooo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Terrain objectives make the battlefield your mission]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lxzwueun/new40k-terrain-objectives-make-the-battlefield-your-mission</link>
@@ -264,17 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_armybuilding-apr2-1-feature-f5c8rb70xi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eye of Terror Detachments – Knights and Warp portals galore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z4ippqsy/eye-of-terror-detachments-knights-and-warp-portals-galore</link>
-            <guid>z4ippqsy</guid>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What can the new Warhammer 40,000 Detachments do for you?]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eotdetachments-apr02-1-feature-hi0s1egtnx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
