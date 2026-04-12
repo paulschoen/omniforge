@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 11 Apr 2026 17:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 17:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Chaos and Order battle in the City of Ash]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cqdcnxdx/sunday-preview-chaos-and-order-battle-in-the-city-of-ash</link>
+            <guid>cqdcnxdx</guid>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr12-1-feature-rkshgr5ehy.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Defend the Emperor with new Legio Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vnmssr1i/saturday-pre-orders-defend-the-emperor-with-new-legio-custodes</link>
@@ -266,16 +279,6 @@
             <category domain="adepticon">Adepticon</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_slayersword-apr03-1-feature-g0zi8st5y5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building an army in the new edition of Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/95fucn12/building-an-army-in-the-new-edition-of-warhammer-40000</link>
-            <guid>95fucn12</guid>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about how Detachments work in the new edition, and how they can be used to create your custom force.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_armybuilding-apr2-1-feature-f5c8rb70xi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
