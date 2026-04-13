@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Apr 2026 14:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 17:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Classics brings legendary games back to your PC]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ud4dbah1/warhammer-classics-brings-legendary-games-back-to-your-pc</link>
+            <guid>ud4dbah1</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Shadow of the Horned Rat, Chaos Gate, Dark Omen, Fire Warrior and more have returned.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whclassics_apr13-1-feature-njx4mpfsaz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Ork Weirdboy Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o4fnl43s/new40k-ork-weirdboy-revealed</link>
@@ -269,16 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_defilerkitfocus-apr02-1-feature-nj3dsyiuz0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Apocalypse rules make gigantic battles easy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/di79mrzj/new-apocalypse-rules-make-gigantic-battles-easy</link>
-            <guid>di79mrzj</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Titans, tanks, and massed infantry formations smash together in Eye of Terror: Reign of Iron.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eotapocalypserules-apr03-1-feature-bv9hxiygpe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
