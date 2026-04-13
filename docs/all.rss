@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Apr 2026 13:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 14:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Ork Weirdboy Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o4fnl43s/new40k-ork-weirdboy-revealed</link>
+            <guid>o4fnl43s</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unleash the raw power of Waaagh! energy and get ready to burst some ’eads.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-qjmicpxznv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Commissar Yarrick Rules – Lead your Guardsmen to victory on Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sccdyetm/commissar-yarrick-rules-lead-your-guardsmen-to-victory-on-armageddon</link>
@@ -267,17 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_eotapocalypserules-apr03-1-feature-bv9hxiygpe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Slaves to Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hsxyww8f/warhammer-art-through-the-years-slaves-to-darkness</link>
-            <guid>hsxyww8f</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Praise the Dark Gods with awesome art from the Warhammer archives.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="slaves-to-darkness">Slaves to Darkness</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart27-apr03-1-feature-ufj0ixsdzb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
