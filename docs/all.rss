@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 12 Apr 2026 17:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 12:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Past, Present, Future]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iqvtvqgk/chronicles-of-ruin-past-present-future</link>
+            <guid>iqvtvqgk</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Disciples of Tzeentch demonstrate their mastery of what has been, what is, and what is yet to come.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_dotfiction-apr13-1-feature-dnoj6bjoez.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Chaos and Order battle in the City of Ash]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cqdcnxdx/sunday-preview-chaos-and-order-battle-in-the-city-of-ash</link>
@@ -268,17 +280,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v02005_thumbnail-zznig3giru.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Closer look at the Golden Demon Slayer Sword winner from AdeptiCon 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nnhxviir/closer-look-at-the-golden-demon-slayer-sword-winner-from-adepticon-2026</link>
-            <guid>nnhxviir</guid>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[David Arroba speaks to Warhammer TV about his winning Prince Vhordrai miniature]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="adepticon">Adepticon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_slayersword-apr03-1-feature-g0zi8st5y5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
