@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Apr 2026 13:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 14:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tabletop Titans’ top tips for Spearhead: City of Ash]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/abi61d19/tabletop-titans-top-tips-for-spearhead-city-of-ash</link>
+            <guid>abi61d19</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top Skaven and Cities of Sigmar player gives us the lowdown on the two new Spearheads for Warhammer Age of Sigmar.]]></description>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="skaven">Skaven</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_coainfluencertips-apr14-1-feature-dq176w9zpi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lore of Armageddon Part 2 – The surface of Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uhmcsz3s/lore-of-armageddon-part-2-the-surface-of-armageddon</link>
@@ -270,16 +283,6 @@
             <category domain="pre-orders">Pre-orders</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-apr4-1-feature-twgaoultwp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – How your army affects your mission]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oefzq9fg/new40k-how-your-army-affects-your-mission</link>
-            <guid>oefzq9fg</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how your army choices affect your missions in the new edition.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_missions-apr2-1-feature-hnqmhptdnk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
