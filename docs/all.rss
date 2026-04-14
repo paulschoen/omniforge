@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Apr 2026 17:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 13:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Lore of Armageddon Part 2 – The surface of Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uhmcsz3s/lore-of-armageddon-part-2-the-surface-of-armageddon</link>
+            <guid>uhmcsz3s</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn all about the storied regions of the planet on which the major conflicts are taking place.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="orks">Orks</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore2-apr14-1-feature-9s6jzcjryx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Classics brings legendary games back to your PC]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ud4dbah1/warhammer-classics-brings-legendary-games-back-to-your-pc</link>
@@ -268,17 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_missions-apr2-1-feature-hnqmhptdnk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Inside the incredible new Defiler kit]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tgz401zu/revealed-inside-the-incredible-new-defiler-kit</link>
-            <guid>tgz401zu</guid>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sorry… how many heads do you get?]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_defilerkitfocus-apr02-1-feature-nj3dsyiuz0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
