@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Apr 2026 14:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 15:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Wazdakka Gutsmek rules revealed – Launch your own Speedwaaagh!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh</link>
+            <guid>g6f0lbmk</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lead your Warbikers to the biggest and best fights around.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wazdakkarules-apr14-1-feature-pkpy3mvhdb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tabletop Titans’ top tips for Spearhead: City of Ash]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/abi61d19/tabletop-titans-top-tips-for-spearhead-city-of-ash</link>
@@ -33,6 +44,17 @@
             <category domain="astra-militarum">Astra Militarum</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore2-apr14-1-feature-9s6jzcjryx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Classics | Steam Event Announcement Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/yulkae3d/warhammer-classics-steam-event-announcement-trailer</link>
+            <guid>yulkae3d</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Shadow of the Horned Rat, Chaos Gate, Dark Omen, Fire Warrior and more have returned!
+Warhammer Classics is a collection of much-loved titles from Warhammer video game history, brought back to life as a series to celebrate their iconic legacy.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/13-04_classics_thumbnail-pnp4omyo2r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer Classics brings legendary games back to your PC]]></title>
@@ -257,32 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/empprotectbts-apr6-1-feature_video-mj9vmivmuo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – New Legio Custodes incoming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iewdkefd/sunday-preview-new-legio-custodes-incoming</link>
-            <guid>iewdkefd</guid>
-            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr5-1-feature-savlm0wyxw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Enter the Eye of Terror]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sfmkyzel/saturday-pre-orders-enter-the-eye-of-terror</link>
-            <guid>sfmkyzel</guid>
-            <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New releases for Chaos Space Marines, Adeptus Mechanicus, and Imperial Knights.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="pre-orders">Pre-orders</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-apr4-1-feature-twgaoultwp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
