@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Apr 2026 15:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 09:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Corax swoops in with a new JOYTOY figure]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/acqxxwsw/corax-swoops-in-with-a-new-joytoy-figure</link>
+            <guid>acqxxwsw</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Corvus Corax, the Primarch of the Raven Guard Legion, is the next legendary character to get the JOYTOY treatment.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/joytoy_corax-apr15-1-feature-wrdhw4glnt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wazdakka Gutsmek rules revealed – Launch your own Speedwaaagh!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh</link>
@@ -269,16 +281,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_maggotkinfiction-apr06-1-feature-esqslr57nm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Behind the Scenes of The Emperor Protects: A Warhammer 40,000 Musical]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vckormcg/behind-the-scenes-of-the-emperor-protects-a-warhammer-40000-musical</link>
-            <guid>vckormcg</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[How do you bring the grim darkness of the far future to life on stage?]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/empprotectbts-apr6-1-feature_video-mj9vmivmuo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
