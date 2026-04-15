@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Apr 2026 09:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 12:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Arena of Death – monsters maul on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pqomtm52/arena-of-death-monsters-maul-on-warhammer-tv</link>
+            <guid>pqomtm52</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Big guys from across the Mortal Realms bash each other to bits, plus more new episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr15-1-feature-atzagskteu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Corax swoops in with a new JOYTOY figure]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/acqxxwsw/corax-swoops-in-with-a-new-joytoy-figure</link>
@@ -38,6 +48,7 @@
             <guid>abi61d19</guid>
             <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[A top Skaven and Cities of Sigmar player gives us the lowdown on the two new Spearheads for Warhammer Age of Sigmar.]]></description>
+            <category domain="interviews">Interviews</category>
             <category domain="spearhead">Spearhead</category>
             <category domain="cities-of-sigmar">Cities of Sigmar</category>
             <category domain="skaven">Skaven</category>
@@ -269,18 +280,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-4gi1p8i5ko.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – Heart of Blight]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hvfv4cnz/chronicles-of-ruin-heart-of-blight</link>
-            <guid>hvfv4cnz</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Maggotkin of Nurgle are reaping a terrible harvest in the Jade Realm in this short story.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_maggotkinfiction-apr06-1-feature-esqslr57nm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
