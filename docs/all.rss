@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Apr 2026 13:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 14:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2026 – AdeptiCon finalists part two]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4xazizwg/golden-demon-2026-adepticon-finalists-part-two</link>
+            <guid>4xazizwg</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at the work of the other talented painters who earned a coveted Finalist pin.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_finalists-apr08-1-feature_2-m7jt5toetq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Light the bomb rat fuse with new Clans Eshin rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zx7girl2/light-the-bomb-rat-fuse-with-new-clans-eshin-rules</link>
@@ -269,17 +280,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore-apr07-1-feature-btihjhqomk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What to add next to your Legio Custodes army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wp4l9fyo/what-to-add-next-to-your-legio-custodes-army</link>
-            <guid>wp4l9fyo</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer: The Horus Heresy studio gives advice on building your force]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_legiocustodes-apr07-1-feature-8uvojlhvyk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
