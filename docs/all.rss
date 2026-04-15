@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Apr 2026 14:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 15:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Combat changes shake up fighting in the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m3son4il/new40k-combat-changes-shake-up-fighting-in-the-new-edition</link>
+            <guid>m3son4il</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Charges, pile-ins, and close combat all get an update in Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_combat-apr15-1-feature-6x0mg7xphk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – AdeptiCon finalists part two]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4xazizwg/golden-demon-2026-adepticon-finalists-part-two</link>
@@ -270,16 +280,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/soulpods-tumbnail-4kalypjmku.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore of Armageddon Part 1 – The Armageddon System]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1ukaglxy/lore-of-armageddon-part-1-the-armageddon-system</link>
-            <guid>1ukaglxy</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armageddon isn’t the only planet dragged into the war – learn more about its neighbours.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore-apr07-1-feature-btihjhqomk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
