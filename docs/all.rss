@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Apr 2026 12:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 13:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Light the bomb rat fuse with new Clans Eshin rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zx7girl2/light-the-bomb-rat-fuse-with-new-clans-eshin-rules</link>
+            <guid>zx7girl2</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deathmaster Crixxit, his Gutter Runners, Night Runners, and their bomb rats ensure no Hero is safe.]]></description>
+            <category domain="skaven">Skaven</category>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_coaskavenrules-apr15-1-feature-k4uybpnghr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arena of Death – monsters maul on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pqomtm52/arena-of-death-monsters-maul-on-warhammer-tv</link>
@@ -268,18 +280,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_legiocustodes-apr07-1-feature-8uvojlhvyk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Vanguard Veteran Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6du3q10d/new40k-vanguard-veteran-revealed</link>
-            <guid>6du3q10d</guid>
-            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[An aerial elite swoops in to turn the tide of battle.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-4gi1p8i5ko.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
