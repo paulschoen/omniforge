@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Apr 2026 15:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 12:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Space Wolves]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vrydjkpw/pages-from-the-black-books-the-space-wolves</link>
+            <guid>vrydjkpw</guid>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the history of the VI Legion and their role as the Emperor’s hunters.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore14-apr16-1-feature-yqlxx7kjit.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Combat changes shake up fighting in the new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m3son4il/new40k-combat-changes-shake-up-fighting-in-the-new-edition</link>
@@ -268,18 +279,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_finalists-apr08-1-feature-mpjy3undw4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Sylvaneth Soulpods | Grove Guardian | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/aipdnyna/how-to-paint-sylvaneth-soulpods-grove-guardian-warhammer-age-of-sigmar</link>
-            <guid>aipdnyna</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Keepers of the soulpod groves, Sylvaneth Grove Guardians grant life to spirits so they may be born to fight for the Everqueen. The bodies of these towering priestesses are formed from a genesis tree, which protects the soulpods – amniotic pods from which Revenants grow. In today’s video, Ollie’s showing you how to paint the unique soulpods of the Grove Guardian model, at every stage of their growth cycle.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/soulpods-tumbnail-4kalypjmku.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
