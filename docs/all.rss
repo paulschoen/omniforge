@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Apr 2026 14:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 15:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Astra Militarum rules revealed – Commissar Graves and new vehicles]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/olcxm67r/astra-militarum-rules-revealed-commissar-graves-and-new-vehicles</link>
+            <guid>olcxm67r</guid>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Armoured vehicles rumble from the hives of Armageddon to open up new tactics in Warhammer 40,000.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_amtanksrules-apr16-1-feature-akdro5ssat.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Claim relics in the City of Ash]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xlf44b0c/claim-relics-in-the-city-of-ash</link>
@@ -271,16 +282,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_terrain-apr08-1-feature-we7yivqflx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Behind the scenes with Wētā Workshop on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qcdprwci/behind-the-scenes-with-weta-workshop-on-warhammer-tv</link>
-            <guid>qcdprwci</guid>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how they created Mephiston, and check out the other new episodes releasing this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr08-1-feature-ociy0o0tj2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
