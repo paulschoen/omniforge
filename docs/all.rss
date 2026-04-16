@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Apr 2026 12:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 14:35:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Claim relics in the City of Ash]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xlf44b0c/claim-relics-in-the-city-of-ash</link>
+            <guid>xlf44b0c</guid>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the new battle tactics, commands, and twists in the Spearhead: City of Ash boxed set.]]></description>
+            <category domain="spearhead">Spearhead</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="skaven">Skaven</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_coaspearheadrules-apr16-1-feature-6ntxhmw2sl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Space Wolves]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vrydjkpw/pages-from-the-black-books-the-space-wolves</link>
@@ -268,17 +281,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr08-1-feature-ociy0o0tj2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 – AdeptiCon finalists part one]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0itotcz4/golden-demon-2026-adepticon-finalists-part-one</link>
-            <guid>0itotcz4</guid>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a look at the work of the talented painters who earned a Finalist pin.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gd_finalists-apr08-1-feature-mpjy3undw4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
