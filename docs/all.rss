@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Apr 2026 15:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 13:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Skaven]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kbyqkk5e/warhammer-art-through-the-years-skaven</link>
+            <guid>kbyqkk5e</guid>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy a selection of Warhammer Age of Sigmar art focused on the children of the Horned Rat.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="skaven">Skaven</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart29-apr17-1-feature-s6ullpfzop.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Astra Militarum rules revealed – Commissar Graves and new vehicles]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/olcxm67r/astra-militarum-rules-revealed-commissar-graves-and-new-vehicles</link>
@@ -200,7 +211,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <description><![CDATA[What’s coming up next week?]]></description>
             <category domain="sunday-preview">Sunday preview</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr12-1-feature-rkshgr5ehy.png" length="0" type="image/png"/>
@@ -272,16 +282,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore13-apr09-1-feature-fjtpu9pw4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Take cover with updated terrain rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xlppkx5s/new40k-take-cover-with-updated-terrain-rules</link>
-            <guid>xlppkx5s</guid>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s not hiding, it’s tactical! See how rocks and ruins have changed in the new edition.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_terrain-apr08-1-feature-we7yivqflx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
