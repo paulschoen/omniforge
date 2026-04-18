@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Apr 2026 15:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 17:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Enter the City of Ash]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9wvklxil/saturday-pre-orders-enter-the-city-of-ash</link>
+            <guid>9wvklxil</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Spearhead expansion and Ossiarch Bonereapers reinforcements are available to pre-order now.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-apr18-1-feature-vptugocjxz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 rules reveal – Shoot from the saddle with Inquisitor Kroyle and Intranzia Fraye]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lgjzyr7m/warhammer-40000-rules-reveal-shoot-from-the-saddle-with-inquisitor-kroyle-and-intranzia-fraye</link>
@@ -271,18 +282,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart28-apr10-1-feature-9npavpfoxf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[First look: New characters and enemies for Warhammer Survivors]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sxfxzwun/first-look-new-characters-and-enemies-for-warhammer-survivors</link>
-            <guid>sxfxzwun</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[An action-packed game is coming to PlayStation 5, Xbox Series X|S, and Nintendo Switch, as well as Steam.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whsurvivors-apr09-1-feature-73uiyr32rf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
