@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 18 Apr 2026 17:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 17:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Yarrick returns to Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kvkfu6pq/sunday-preview-yarrick-returns-to-armageddon</link>
+            <guid>kvkfu6pq</guid>
+            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up for pre-order next week!]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr19-1-feature-bghgvagxgj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Enter the City of Ash]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9wvklxil/saturday-pre-orders-enter-the-city-of-ash</link>
@@ -271,17 +284,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_paintedcustodes-apr10-1-feature-tcvmqb0lhe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Sylvaneth]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qrwbuq7f/warhammer-art-through-the-years-sylvaneth</link>
-            <guid>qrwbuq7f</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The light of the Everqueen shines through the glades upon this glorious artwork.]]></description>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart28-apr10-1-feature-9npavpfoxf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
