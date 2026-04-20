@@ -4,14 +4,14 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 20 Apr 2026 09:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 12:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[test-for-mon-20-april]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ii931tqg/test-for-mon-20-april</link>
+            <title><![CDATA[Chronicles of Ruin – The Nature of Light]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ii931tqg/chronicles-of-ruin-the-nature-of-light</link>
             <guid>ii931tqg</guid>
             <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Lyrior Uthralle muses on the nature of aelfdom.]]></description>
