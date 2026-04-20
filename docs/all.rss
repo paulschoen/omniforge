@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 19 Apr 2026 17:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 09:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[test-for-mon-20-april]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ii931tqg/test-for-mon-20-april</link>
+            <guid>ii931tqg</guid>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lyrior Uthralle muses on the nature of aelfdom.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_luminethfiction-apr20-1-feature-nm37wfaomv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Yarrick returns to Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kvkfu6pq/sunday-preview-yarrick-returns-to-armageddon</link>
@@ -272,18 +284,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_objectives-apr10-1-feature-2q6ntgklyk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We take on the Legio Custodes painting challenge]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kdczha3h/we-take-on-the-legio-custodes-painting-challenge</link>
-            <guid>kdczha3h</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Members of the Warhammer: The Horus Heresy studio and Warhammer Community team paint the Emperor’s bodyguard.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_paintedcustodes-apr10-1-feature-tcvmqb0lhe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
