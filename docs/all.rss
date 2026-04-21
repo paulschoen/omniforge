@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Apr 2026 14:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 15:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Da Speedwaaagh! begins with two new Ork Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments</link>
+            <guid>zd2usx9o</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join Wazdakka’s lads for a high-speed krumpin’ with new Warhammer 40,000 rules.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="orks">Orks</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Middle-earth™ Strategy Battle Game Grand Tournament Report]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qk71xr72/the-middle-earthtm-strategy-battle-game-grand-tournament-report</link>
@@ -272,18 +283,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="video-games">Video Games</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whclassics_apr13-1-feature-njx4mpfsaz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Ork Weirdboy Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o4fnl43s/new40k-ork-weirdboy-revealed</link>
-            <guid>o4fnl43s</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unleash the raw power of Waaagh! energy and get ready to burst some ’eads.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-qjmicpxznv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
