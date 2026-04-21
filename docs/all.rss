@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Apr 2026 13:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 14:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Middle-earth™ Strategy Battle Game Grand Tournament Report]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qk71xr72/the-middle-earthtm-strategy-battle-game-grand-tournament-report</link>
+            <guid>qk71xr72</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[One of the Middle-earth™ Strategy Battle Game studio’s top players headed down to Warhammer World with two armies, their dice, and some lembas bread.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/me_gtreport-apr21-1-feature-v4vqae6xx2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lore of Armageddon Part 3 – Ghazghkull’s grand plan]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0gmcnp9x/lore-of-armageddon-part-3-ghazghkulls-grand-plan</link>
@@ -272,17 +284,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-qjmicpxznv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Commissar Yarrick Rules – Lead your Guardsmen to victory on Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sccdyetm/commissar-yarrick-rules-lead-your-guardsmen-to-victory-on-armageddon</link>
-            <guid>sccdyetm</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Command and kill with the toughest Commissar in the galaxy – check out his new Warhammer 40,000 rules.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_yarrickrules-apr13-1-feature-u863svgzmk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
