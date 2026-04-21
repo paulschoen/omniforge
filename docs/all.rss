@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 20 Apr 2026 14:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 13:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Lore of Armageddon Part 3 – Ghazghkull’s grand plan]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0gmcnp9x/lore-of-armageddon-part-3-ghazghkulls-grand-plan</link>
+            <guid>0gmcnp9x</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is Ghazghkull Thraka up to, and who are his most trusted Bosses?]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore-apr21-1-feature-3odwj5m2jx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV | Adeptus Mechanicus CGI Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/re9k8c8f/warhammer-40000-dawn-of-war-iv-adeptus-mechanicus-cgi-trailer</link>
+            <guid>re9k8c8f</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <category domain="video-games">Video Games</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dawn-of-war-iv-oaotozuhun.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Chaplain with Jump Pack Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/y3qjzfux/new40k-chaplain-with-jump-pack-revealed</link>
@@ -261,30 +283,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_yarrickrules-apr13-1-feature-u863svgzmk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – Past, Present, Future]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/iqvtvqgk/chronicles-of-ruin-past-present-future</link>
-            <guid>iqvtvqgk</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Disciples of Tzeentch demonstrate their mastery of what has been, what is, and what is yet to come.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_dotfiction-apr13-1-feature-dnoj6bjoez.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Chaos and Order battle in the City of Ash]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cqdcnxdx/sunday-preview-chaos-and-order-battle-in-the-city-of-ash</link>
-            <guid>cqdcnxdx</guid>
-            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr12-1-feature-rkshgr5ehy.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
