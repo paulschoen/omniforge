@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Apr 2026 12:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 14:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Zoom across Armageddon with new Space Marine Detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ubr2cptv/zoom-across-armageddon-with-new-space-marine-detachments</link>
+            <guid>ubr2cptv</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All-vehicle armies and mounted Space Marine infantry? Yes, please!]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_smdetachments-apr22-1-feature-xzsmmz7lvq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Captain Titus comes to Warhammer TV, and the Thousand Sons want revenge]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/50yihhjg/captain-titus-comes-to-warhammer-tv-and-the-thousand-sons-want-revenge</link>
@@ -273,18 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_coainfluencertips-apr14-1-feature-dq176w9zpi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore of Armageddon Part 2 – The surface of Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uhmcsz3s/lore-of-armageddon-part-2-the-surface-of-armageddon</link>
-            <guid>uhmcsz3s</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn all about the storied regions of the planet on which the major conflicts are taking place.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore2-apr14-1-feature-9s6jzcjryx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
