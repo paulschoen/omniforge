@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Apr 2026 15:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 10:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint Commissar Yarrick | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xjukqfmh/how-to-paint-commissar-yarrick-warhammer-40000</link>
+            <guid>xjukqfmh</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Long years of darkness and blood have passed since Commissar Yarrick was first hailed as a hero of the Imperium. Twice instrumental in saving Armageddon from Ghazghkull Thraka, Yarrick’s scarred mind and body once more answer the call to war, driven by his iron will and unshakeable sense of duty. In this video, Ollie takes you through painting the epic new Yarrick model from start to finish.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/yarrick_thumb_a-wrtw9ofxmv.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Da Speedwaaagh! begins with two new Ork Detachments]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments</link>
@@ -273,16 +286,6 @@ Warhammer Classics is a collection of much-loved titles from Warhammer video gam
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/13-04_classics_thumbnail-pnp4omyo2r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Classics brings legendary games back to your PC]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ud4dbah1/warhammer-classics-brings-legendary-games-back-to-your-pc</link>
-            <guid>ud4dbah1</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Shadow of the Horned Rat, Chaos Gate, Dark Omen, Fire Warrior and more have returned.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whclassics_apr13-1-feature-njx4mpfsaz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
