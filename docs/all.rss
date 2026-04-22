@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Apr 2026 10:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 12:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Captain Titus comes to Warhammer TV, and the Thousand Sons want revenge]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/50yihhjg/captain-titus-comes-to-warhammer-tv-and-the-thousand-sons-want-revenge</link>
+            <guid>50yihhjg</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The sons of Magnus have it out for Titus in a new Battle Report, plus more new episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr22-1-feature-iqluebti2o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint Commissar Yarrick | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/xjukqfmh/how-to-paint-commissar-yarrick-warhammer-40000</link>
@@ -275,17 +285,6 @@
             <category domain="astra-militarum">Astra Militarum</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore2-apr14-1-feature-9s6jzcjryx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Classics | Steam Event Announcement Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/yulkae3d/warhammer-classics-steam-event-announcement-trailer</link>
-            <guid>yulkae3d</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Shadow of the Horned Rat, Chaos Gate, Dark Omen, Fire Warrior and more have returned!
-Warhammer Classics is a collection of much-loved titles from Warhammer video game history, brought back to life as a series to celebrate their iconic legacy.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/13-04_classics_thumbnail-pnp4omyo2r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
