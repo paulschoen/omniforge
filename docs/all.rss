@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Apr 2026 14:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Alpha Legion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d9b0hkdk/pages-from-the-black-books-the-alpha-legion</link>
+            <guid>d9b0hkdk</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[With their usual subterfuge, the sons of Alpharius take the spotlight this week.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore15-apr23-1-feature-b9bdjlimwt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zoom across Armageddon with new Space Marine Detachments]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ubr2cptv/zoom-across-armageddon-with-new-space-marine-detachments</link>
@@ -270,20 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wazdakkarules-apr14-1-feature-pkpy3mvhdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tabletop Titans’ top tips for Spearhead: City of Ash]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/abi61d19/tabletop-titans-top-tips-for-spearhead-city-of-ash</link>
-            <guid>abi61d19</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top Skaven and Cities of Sigmar player gives us the lowdown on the two new Spearheads for Warhammer Age of Sigmar.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="skaven">Skaven</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_coainfluencertips-apr14-1-feature-dq176w9zpi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
