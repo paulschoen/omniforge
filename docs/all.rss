@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Apr 2026 13:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 14:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Apocrypha Necromunda – Wheels of Fury]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hl7ejjmp/apocrypha-necromunda-wheels-of-fury</link>
+            <guid>hl7ejjmp</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Let your inner Tech-Priest run wild with free vehicle customisation rules.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/nec_wheelsfury-apr23-1-feature-w5zxn1zhp8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Alpha Legion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d9b0hkdk/pages-from-the-black-books-the-alpha-legion</link>
@@ -270,17 +281,6 @@
             <category domain="raven-guard">Raven Guard</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/joytoy_corax-apr15-1-feature-wrdhw4glnt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wazdakka Gutsmek rules revealed – Launch your own Speedwaaagh!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh</link>
-            <guid>g6f0lbmk</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lead your Warbikers to the biggest and best fights around.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wazdakkarules-apr14-1-feature-pkpy3mvhdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
