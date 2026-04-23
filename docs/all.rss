@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Apr 2026 14:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 15:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ace tanks spearhead vehicular carnage with new Armoured Gauntlet rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/apbymsj6/ace-tanks-spearhead-vehicular-carnage-with-new-armoured-gauntlet-rules</link>
+            <guid>apbymsj6</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight big armoured battles with the new Armageddon: The Return of Yarrick expansion.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_amarmouredgauntletrules-apr23-1-feature-tmuxrlm2xk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Apocrypha Necromunda – Wheels of Fury]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hl7ejjmp/apocrypha-necromunda-wheels-of-fury</link>
@@ -269,18 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr15-1-feature-atzagskteu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Corax swoops in with a new JOYTOY figure]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/acqxxwsw/corax-swoops-in-with-a-new-joytoy-figure</link>
-            <guid>acqxxwsw</guid>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Corvus Corax, the Primarch of the Raven Guard Legion, is the next legendary character to get the JOYTOY treatment.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/joytoy_corax-apr15-1-feature-wrdhw4glnt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
