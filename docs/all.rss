@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Apr 2026 14:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 15:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chaplains through the ages]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sipva676/chaplains-through-the-ages</link>
+            <guid>sipva676</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new Chaplain with Jump Pack has a long line of illustrious ancestors – here’s a nostalgic look through them.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chaplainretrospective-apr24-1-feature-0rutquqpdn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community painters enter the City of Ash]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/duqtqeo3/community-painters-enter-the-city-of-ash</link>
@@ -271,17 +282,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_coaspearheadrules-apr16-1-feature-6ntxhmw2sl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Space Wolves]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vrydjkpw/pages-from-the-black-books-the-space-wolves</link>
-            <guid>vrydjkpw</guid>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the history of the VI Legion and their role as the Emperor’s hunters.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore14-apr16-1-feature-yqlxx7kjit.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
