@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Apr 2026 15:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 11:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint a Hippogriff AFV | Astra Militarum | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/7xbkrlp3/how-to-paint-a-hippogriff-afv-astra-militarum-warhammer-40000</link>
+            <guid>7xbkrlp3</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Hippogriff Armoured Fighting Vehicle (AFV) combines speed and agility with a range of turret-mounted weapon loadouts, capable of handling almost any battlefield situation. Excellent rapid-response vehicles well suited to escort duties, reconnaissance, and countercharges, these armoured vehicles have been the bane of foes many times their size! In this video, Ollie will be painting a Hippogriff AFV in the camo pattern commonly used by regiments of Cadian Shock Troops.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/pv01334-how-to-paint-hyppogriff-afv-thumbnail-landscape-kjv8bmzi1l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ace tanks spearhead vehicular carnage with new Armoured Gauntlet rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/apbymsj6/ace-tanks-spearhead-vehicular-carnage-with-new-armoured-gauntlet-rules</link>
@@ -269,16 +281,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_coaskavenrules-apr15-1-feature-k4uybpnghr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arena of Death – monsters maul on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pqomtm52/arena-of-death-monsters-maul-on-warhammer-tv</link>
-            <guid>pqomtm52</guid>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Big guys from across the Mortal Realms bash each other to bits, plus more new episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr15-1-feature-atzagskteu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
