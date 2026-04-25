@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Apr 2026 15:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 17:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Reclaim Armageddon with Commissar Yarrick]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8qvxr2ay/saturday-pre-orders-reclaim-armageddon-with-commissar-yarrick</link>
+            <guid>8qvxr2ay</guid>
+            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New miniatures, rules, dice, and fiction are available to pre-order now.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gw_preorders-apr25-1-feature-jpm4ovmres.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chaplains through the ages]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sipva676/chaplains-through-the-ages</link>
@@ -269,19 +281,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_amtanksrules-apr16-1-feature-akdro5ssat.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Claim relics in the City of Ash]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xlf44b0c/claim-relics-in-the-city-of-ash</link>
-            <guid>xlf44b0c</guid>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the new battle tactics, commands, and twists in the Spearhead: City of Ash boxed set.]]></description>
-            <category domain="spearhead">Spearhead</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="skaven">Skaven</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_coaspearheadrules-apr16-1-feature-6ntxhmw2sl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
