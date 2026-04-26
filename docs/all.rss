@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 25 Apr 2026 17:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 17:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Grand Cathay Levies and Solar Auxilia reinforcements]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6l0ru1k2/sunday-preview-grand-cathay-levies-and-solar-auxilia-reinforcements</link>
+            <guid>6l0ru1k2</guid>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New releases coming in next week’s pre-orders.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr26-1-feature-lqvhvmmmcq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Reclaim Armageddon with Commissar Yarrick]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8qvxr2ay/saturday-pre-orders-reclaim-armageddon-with-commissar-yarrick</link>
@@ -270,17 +284,6 @@
             <category domain="skaven">Skaven</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart29-apr17-1-feature-s6ullpfzop.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astra Militarum rules revealed – Commissar Graves and new vehicles]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/olcxm67r/astra-militarum-rules-revealed-commissar-graves-and-new-vehicles</link>
-            <guid>olcxm67r</guid>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Armoured vehicles rumble from the hives of Armageddon to open up new tactics in Warhammer 40,000.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_amtanksrules-apr16-1-feature-akdro5ssat.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
