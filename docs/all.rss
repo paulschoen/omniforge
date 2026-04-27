@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Apr 2026 14:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 15:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – 1 May 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9b3pet5i/warhammer-40000-armageddon-unboxing-1-may-2026</link>
+            <guid>9b3pet5i</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us to see all of the miniatures, cards, books, and more!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40kunboxing_incoming-apr27-1-feature-rrfbpztdkg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Join Us – Warhammer 40,000: Armageddon LIVE Unboxing Show | #New40k]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/uflg08us/join-us-warhammer-40000-armageddon-live-unboxing-show-new40k</link>
+            <guid>uflg08us</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Live unboxing incoming! Adam and Eddie open up the Warhammer 40,000 new edition launch set live at 7pm UK time on 1 May 2026 – we'll see you there.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01938-unboxing-invite-thumbnail-pi41lob9m8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Grot Week reveals: Day 1]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zkictn6p/new40k-grot-week-reveals-day-1</link>
@@ -51,6 +72,7 @@
             <category domain="sunday-preview">Sunday preview</category>
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
             <category domain="white-dwarf">White Dwarf</category>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
@@ -259,31 +281,6 @@
             <category domain="astra-militarum">Astra Militarum</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_amdetachments-apr20-1-feature-rabzub1rsh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Nature of Light]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ii931tqg/chronicles-of-ruin-the-nature-of-light</link>
-            <guid>ii931tqg</guid>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lyrior Uthralle muses on the nature of aelfdom.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_luminethfiction-apr20-1-feature-nm37wfaomv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Yarrick returns to Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kvkfu6pq/sunday-preview-yarrick-returns-to-armageddon</link>
-            <guid>kvkfu6pq</guid>
-            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up for pre-order next week!]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr19-1-feature-bghgvagxgj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
