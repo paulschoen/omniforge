@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 26 Apr 2026 17:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 12:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Inside White Dwarf 524: It’s magic!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s1hnzquy/inside-white-dwarf-524-its-magic</link>
+            <guid>s1hnzquy</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s coming in May’s edition of White Dwarf magazine.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd524-apr27-1-feature-cp8exdhdii.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Grand Cathay Levies and Solar Auxilia reinforcements]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6l0ru1k2/sunday-preview-grand-cathay-levies-and-solar-auxilia-reinforcements</link>
@@ -87,6 +97,7 @@
             <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The Hippogriff Armoured Fighting Vehicle (AFV) combines speed and agility with a range of turret-mounted weapon loadouts, capable of handling almost any battlefield situation. Excellent rapid-response vehicles well suited to escort duties, reconnaissance, and countercharges, these armoured vehicles have been the bane of foes many times their size! In this video, Ollie will be painting a Hippogriff AFV in the camo pattern commonly used by regiments of Cadian Shock Troops.]]></description>
             <category domain="painting">Painting</category>
+            <category domain="astra-militarum">Astra Militarum</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category domain="videos">Videos</category>
             <category>videos</category>
@@ -273,17 +284,6 @@
             <category domain="imperial-agents">Imperial Agents</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_kroylefraye-apr17-1-feature-f5wrkxi19u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Skaven]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kbyqkk5e/warhammer-art-through-the-years-skaven</link>
-            <guid>kbyqkk5e</guid>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy a selection of Warhammer Age of Sigmar art focused on the children of the Horned Rat.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="skaven">Skaven</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart29-apr17-1-feature-s6ullpfzop.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
