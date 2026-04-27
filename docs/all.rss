@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Apr 2026 12:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 13:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[May’s Miniature of the Month will make your ancestors proud]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/94dddyr7/mays-miniature-of-the-month-will-make-your-ancestors-proud</link>
+            <guid>94dddyr7</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what coin and miniature you could claim next month in your local Warhammer store.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/motm-apr27-1-feature-fpjgxosvkq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside White Dwarf 524: It’s magic!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s1hnzquy/inside-white-dwarf-524-its-magic</link>
@@ -272,18 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-apr18-1-feature-vptugocjxz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 rules reveal – Shoot from the saddle with Inquisitor Kroyle and Intranzia Fraye]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lgjzyr7m/warhammer-40000-rules-reveal-shoot-from-the-saddle-with-inquisitor-kroyle-and-intranzia-fraye</link>
-            <guid>lgjzyr7m</guid>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We continue our look at the rules of units released alongside Armageddon: The Return of Yarrick.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="imperial-agents">Imperial Agents</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_kroylefraye-apr17-1-feature-f5wrkxi19u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
