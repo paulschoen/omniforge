@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Apr 2026 15:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 12:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 28th of April]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-28th-of-april</link>
+            <guid>ffoxoqw9</guid>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr28-1-feature-sjskqno4rs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – 1 May 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9b3pet5i/warhammer-40000-armageddon-unboxing-1-may-2026</link>
@@ -270,17 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/20-04_1-feature-s3d2dglsgx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unleash the Astra Militarum motor pool with new Detachments from Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mnliauvn/unleash-the-astra-militarum-motor-pool-with-new-detachments-from-armageddon</link>
-            <guid>mnliauvn</guid>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Big tanks and light vehicles get their spotlights with new Warhammer 40,000 rules.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_amdetachments-apr20-1-feature-rabzub1rsh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
