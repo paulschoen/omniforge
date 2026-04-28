@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Apr 2026 12:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 15:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[What is a Cogfort?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/paeb02ns/what-is-a-cogfort</link>
+            <guid>paeb02ns</guid>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get inside the lore and design of these Cities of Sigmar war machines.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_cogforts-apr28-1-feature-b97fmlty3w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – Grot Week reveals: Day 2]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/upxjoira/new40k-grot-week-reveals-day-2</link>
+            <guid>upxjoira</guid>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[They’re multiplying! Get a look at the second Gretchin from Warhammer 40,000: Armageddon.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-featureb-evg6vdwjhm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 28th of April]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-28th-of-april</link>
@@ -257,29 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore-apr21-1-feature-3odwj5m2jx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV | Adeptus Mechanicus CGI Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/re9k8c8f/warhammer-40000-dawn-of-war-iv-adeptus-mechanicus-cgi-trailer</link>
-            <guid>re9k8c8f</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <category domain="video-games">Video Games</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dawn-of-war-iv-oaotozuhun.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Chaplain with Jump Pack Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/y3qjzfux/new40k-chaplain-with-jump-pack-revealed</link>
-            <guid>y3qjzfux</guid>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Recite the Litany of Hate with the new Chaplain miniature for Warhammer 40,000.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/20-04_1-feature-s3d2dglsgx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
