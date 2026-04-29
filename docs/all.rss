@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Apr 2026 09:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 12:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Astra Militarum vs. Tyranids in Trazyn’s Prismatic Galleries]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ai1xywzl/astra-militarum-vs-tyranids-in-trazyns-prismatic-galleries</link>
+            <guid>ai1xywzl</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New episodes of Trazyn’s Tesseract Trials, Da Mekboy’s Workshop, and Loremasters are live now.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-apr29-1-feature-ohqghh84gw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kill Team Balance Update – Battleclade gets software upgrades]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j4ztdm9i/kill-team-balance-update-battleclade-gets-software-upgrades</link>
@@ -268,18 +278,6 @@
             <category domain="orks">Orks</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Middle-earth™ Strategy Battle Game Grand Tournament Report]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qk71xr72/the-middle-earthtm-strategy-battle-game-grand-tournament-report</link>
-            <guid>qk71xr72</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[One of the Middle-earth™ Strategy Battle Game studio’s top players headed down to Warhammer World with two armies, their dice, and some lembas bread.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/me_gtreport-apr21-1-feature-v4vqae6xx2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
