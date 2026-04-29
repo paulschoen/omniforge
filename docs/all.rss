@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Apr 2026 15:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 09:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Kill Team Balance Update – Battleclade gets software upgrades]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j4ztdm9i/kill-team-balance-update-battleclade-gets-software-upgrades</link>
+            <guid>j4ztdm9i</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Kill Team studio talks us through the latest changes, including Space Wolves getting toned down.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_update-apr28-1-feature-pv0a322qr0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What is a Cogfort?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/paeb02ns/what-is-a-cogfort</link>
@@ -269,17 +280,6 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/me_gtreport-apr21-1-feature-v4vqae6xx2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore of Armageddon Part 3 – Ghazghkull’s grand plan]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0gmcnp9x/lore-of-armageddon-part-3-ghazghkulls-grand-plan</link>
-            <guid>0gmcnp9x</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What is Ghazghkull Thraka up to, and who are his most trusted Bosses?]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_armageddonlore-apr21-1-feature-3odwj5m2jx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
