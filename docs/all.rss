@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Apr 2026 13:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 14:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Grot Week reveals: Day 3]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/doy5k5za/new40k-grot-week-reveals-day-3</link>
+            <guid>doy5k5za</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wednesday’s Grot is full of Waaagh!.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-featurec-e5nh58w9km.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kit Focus – Defiler | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4n6zlgtz/kit-focus-defiler-warhammer-40000</link>
+            <guid>4n6zlgtz</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Defilers stalk into battle on six segmented legs, and have two gigantic claws capable of snatching up and bisecting a Space Marine or shearing through the hull of an armoured vehicle. The Defiler kit has a huge array of options to choose from. With that in mind, we thought it’d be really fun to go through the process of building it and showcase some of those awesome options. Tune in and follow along as Ollie builds this incredible miniature.]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/landscape-kit-focus-defiler-jnyp90zfit.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Armageddon: Trench warfare animation]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ls1yl0tk/armageddon-trench-warfare-animation</link>
@@ -256,29 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_smdetachments-apr22-1-feature-xzsmmz7lvq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Captain Titus comes to Warhammer TV, and the Thousand Sons want revenge]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/50yihhjg/captain-titus-comes-to-warhammer-tv-and-the-thousand-sons-want-revenge</link>
-            <guid>50yihhjg</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The sons of Magnus have it out for Titus in a new Battle Report, plus more new episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr22-1-feature-iqluebti2o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint Commissar Yarrick | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xjukqfmh/how-to-paint-commissar-yarrick-warhammer-40000</link>
-            <guid>xjukqfmh</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Long years of darkness and blood have passed since Commissar Yarrick was first hailed as a hero of the Imperium. Twice instrumental in saving Armageddon from Ghazghkull Thraka, Yarrick’s scarred mind and body once more answer the call to war, driven by his iron will and unshakeable sense of duty. In this video, Ollie takes you through painting the epic new Yarrick model from start to finish.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/yarrick_thumb_a-wrtw9ofxmv.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
