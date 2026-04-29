@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Apr 2026 12:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 13:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armageddon: Trench warfare animation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ls1yl0tk/armageddon-trench-warfare-animation</link>
+            <guid>ls1yl0tk</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything is better in slow motion.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_trenchanimation-apr29-1-feature-juax9o4vxt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Astra Militarum vs. Tyranids in Trazyn’s Prismatic Galleries]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ai1xywzl/astra-militarum-vs-tyranids-in-trazyns-prismatic-galleries</link>
@@ -267,17 +279,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/yarrick_thumb_a-wrtw9ofxmv.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Da Speedwaaagh! begins with two new Ork Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments</link>
-            <guid>zd2usx9o</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join Wazdakka’s lads for a high-speed krumpin’ with new Warhammer 40,000 rules.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
