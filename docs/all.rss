@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Apr 2026 14:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 11:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Take the fight to Tallarn with the new Journal Tactica]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rlbelsyl/take-the-fight-to-tallarn-with-the-new-journal-tactica</link>
+            <guid>rlbelsyl</guid>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get the lowdown on Journal Tactica: The Battle of Tallarn directly from the Warhammer: The Horus Heresy studio.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_tallarn-apr30-1-feature-lcn0zz54bs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Grot Week reveals: Day 3]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/doy5k5za/new40k-grot-week-reveals-day-3</link>
@@ -269,17 +279,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore15-apr23-1-feature-b9bdjlimwt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zoom across Armageddon with new Space Marine Detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ubr2cptv/zoom-across-armageddon-with-new-space-marine-detachments</link>
-            <guid>ubr2cptv</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All-vehicle armies and mounted Space Marine infantry? Yes, please!]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_smdetachments-apr22-1-feature-xzsmmz7lvq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
