@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 01 May 2026 17:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 18:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Everything else]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rzocwxgt/warhammer-40000-armageddon-unboxing-everything-else</link>
+            <guid>rzocwxgt</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules! Cards! More! See what else you get in the Armageddon box.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-q04pcrd9nl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon – The Operation Imperator book]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fow4v06z/warhammer-40000-armageddon-the-operation-imperator-book</link>
+            <guid>fow4v06z</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is Operation Imperator, and what’s brought the Space Marines to the blasted wastes of Armageddon]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-66amnsr3oz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Live]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/afuxmemv/warhammer-40000-armageddon-unboxing-live</link>
+            <guid>afuxmemv</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us live for all the big reveals.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/hub-1-feature-jrl6irzgpt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Open series heads to the UK]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4izjgea7/warhammer-open-series-heads-to-the-uk</link>
@@ -245,42 +278,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr26-1-feature-lqvhvmmmcq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Reclaim Armageddon with Commissar Yarrick]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8qvxr2ay/saturday-pre-orders-reclaim-armageddon-with-commissar-yarrick</link>
-            <guid>8qvxr2ay</guid>
-            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New miniatures, rules, dice, and fiction are available to pre-order now.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/gw_preorders-apr25-1-feature-jpm4ovmres.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chaplains through the ages]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sipva676/chaplains-through-the-ages</link>
-            <guid>sipva676</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new Chaplain with Jump Pack has a long line of illustrious ancestors – here’s a nostalgic look through them.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_chaplainretrospective-apr24-1-feature-0rutquqpdn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community painters enter the City of Ash]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/duqtqeo3/community-painters-enter-the-city-of-ash</link>
-            <guid>duqtqeo3</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer hobby community has painted the new Skaven and Cities of Sigmar miniatures.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_coainfluencers-apr24-1-feature-0bluvj6xpz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
