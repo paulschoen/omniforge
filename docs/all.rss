@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 01 May 2026 12:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 13:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Everything you need to know for Golden Demon at SPIEL in 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tfua3rlo/everything-you-need-to-know-for-golden-demon-at-spiel-in-2026</link>
+            <guid>tfua3rlo</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Grab your brushes and enter Warhammer’s ultimate painting competition.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/gd_spielannounce-apr30-1-feature-sqm3u8qrqa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Gloomspite Gitz]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zhnlrwxe/warhammer-art-through-the-years-gloomspite-gitz</link>
@@ -269,17 +281,6 @@
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bb_event-apr24-1-feature-mwlrl76u0u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Nighthaunt]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/c2z4ymd0/warhammer-art-through-the-years-nighthaunt</link>
-            <guid>c2z4ymd0</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy some spooky Warhammer Age of Sigmar artwork focused on the ethereal horrors of Nagash.]]></description>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart30-apr24-1-feature-o8eomohsps.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
