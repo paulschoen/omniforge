@@ -4,11 +4,47 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 01 May 2026 18:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 21:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon – What’s in the box?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x2allqya/warhammer-40000-armageddon-whats-in-the-box</link>
+            <guid>x2allqya</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Orks, Space Marines, and more – see what’s inside the launch box for the new edition of Warhammer 40,000.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-mzclkncuk0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – The Space Marines]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines</link>
+            <guid>kunoahk1</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What are the Angels of Death bringing to Armageddon?]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – The Orks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dmmfaihb/warhammer-40000-armageddon-unboxing-the-orks</link>
+            <guid>dmmfaihb</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s krumpin’ time! Check out the Orks from the #New40k launch set.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-dqwijuzfwn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Everything else]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rzocwxgt/warhammer-40000-armageddon-unboxing-everything-else</link>
@@ -242,42 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-featurea-hvjpmpphca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[May’s Miniature of the Month will make your ancestors proud]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/94dddyr7/mays-miniature-of-the-month-will-make-your-ancestors-proud</link>
-            <guid>94dddyr7</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what coin and miniature you could claim next month in your local Warhammer store.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/motm-apr27-1-feature-fpjgxosvkq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 524: It’s magic!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s1hnzquy/inside-white-dwarf-524-its-magic</link>
-            <guid>s1hnzquy</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s coming in May’s edition of White Dwarf magazine.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd524-apr27-1-feature-cp8exdhdii.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Grand Cathay Levies and Solar Auxilia reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6l0ru1k2/sunday-preview-grand-cathay-levies-and-solar-auxilia-reinforcements</link>
-            <guid>6l0ru1k2</guid>
-            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New releases coming in next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-apr26-1-feature-lqvhvmmmcq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
