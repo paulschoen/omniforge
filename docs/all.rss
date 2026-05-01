@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 30 Apr 2026 14:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 09:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Grot Week reveals: Day 5]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5ym3r2rt/new40k-grot-week-reveals-day-5</link>
+            <guid>5ym3r2rt</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thank Grot it’s Friday! Check out our fifth Gretchin.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-featuree-wfg4vyxx3n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Grot Week reveals: Day 4]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ixcvohlb/new40k-grot-week-reveals-day-4</link>
@@ -270,16 +282,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/pv01334-how-to-paint-hyppogriff-afv-thumbnail-landscape-kjv8bmzi1l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ace tanks spearhead vehicular carnage with new Armoured Gauntlet rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/apbymsj6/ace-tanks-spearhead-vehicular-carnage-with-new-armoured-gauntlet-rules</link>
-            <guid>apbymsj6</guid>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fight big armoured battles with the new Armageddon: The Return of Yarrick expansion.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_amarmouredgauntletrules-apr23-1-feature-tmuxrlm2xk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
