@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 01 May 2026 09:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 12:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Gloomspite Gitz]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zhnlrwxe/warhammer-art-through-the-years-gloomspite-gitz</link>
+            <guid>zhnlrwxe</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore some dark, dank, and delightful artworks of the grots and their deadly beasts.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart31-may01-1-feature-3fjhu65u7v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Grot Week reveals: Day 5]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5ym3r2rt/new40k-grot-week-reveals-day-5</link>
@@ -269,19 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart30-apr24-1-feature-o8eomohsps.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint a Hippogriff AFV | Astra Militarum | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/7xbkrlp3/how-to-paint-a-hippogriff-afv-astra-militarum-warhammer-40000</link>
-            <guid>7xbkrlp3</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Hippogriff Armoured Fighting Vehicle (AFV) combines speed and agility with a range of turret-mounted weapon loadouts, capable of handling almost any battlefield situation. Excellent rapid-response vehicles well suited to escort duties, reconnaissance, and countercharges, these armoured vehicles have been the bane of foes many times their size! In this video, Ollie will be painting a Hippogriff AFV in the camo pattern commonly used by regiments of Cadian Shock Troops.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/pv01334-how-to-paint-hyppogriff-afv-thumbnail-landscape-kjv8bmzi1l.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
