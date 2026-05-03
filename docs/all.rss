@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 02 May 2026 17:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 17:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Take on the Red Terror]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror</link>
+            <guid>mmvq6nnx</guid>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sunday Preview – Take on the Red Terror]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may03-1-feature-yfywhjaw0q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Grand Cathay and Solar Auxilia Reinforcements]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/k3qwksjs/saturday-pre-orders-grand-cathay-and-solar-auxilia-reinforcements</link>
@@ -269,17 +282,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40kunboxing_incoming-apr27-1-feature-rrfbpztdkg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join Us – Warhammer 40,000: Armageddon LIVE Unboxing Show | #New40k]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/uflg08us/join-us-warhammer-40000-armageddon-live-unboxing-show-new40k</link>
-            <guid>uflg08us</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Live unboxing incoming! Adam and Eddie open up the Warhammer 40,000 new edition launch set live at 7pm UK time on 1 May 2026 – we'll see you there.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01938-unboxing-invite-thumbnail-pi41lob9m8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
