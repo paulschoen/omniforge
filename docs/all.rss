@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 May 2026 14:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 15:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Orks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ahlcjhn0/warhammer-40000-faction-focus-orks</link>
+            <guid>ahlcjhn0</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready to Waaagh! with a first look at the new Detachments for Orks.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orksfaction-may04-1-feature-jctatiekxt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Novel Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wbxczgef/new40k-novel-revealed</link>
@@ -272,16 +283,6 @@
             <category domain="astra-militarum">Astra Militarum</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_trenchanimation-apr29-1-feature-juax9o4vxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astra Militarum vs. Tyranids in Trazyn’s Prismatic Galleries]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ai1xywzl/astra-militarum-vs-tyranids-in-trazyns-prismatic-galleries</link>
-            <guid>ai1xywzl</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New episodes of Trazyn’s Tesseract Trials, Da Mekboy’s Workshop, and Loremasters are live now.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-apr29-1-feature-ohqghh84gw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
