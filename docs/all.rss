@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 May 2026 12:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 13:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Red Terror rules revealed for Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fituxx6v/red-terror-rules-revealed-for-warhammer-40000</link>
+            <guid>fituxx6v</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chow down for the Hive Mind as we look at the monstrous bioform’s new rules]]></description>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_redterrorrules-may04-1-feature-bkiee5zdvl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mountainside Tabletop take on the Red Terror]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/asdz24ro/mountainside-tabletop-take-on-the-red-terror</link>
@@ -272,16 +283,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-featureb-evg6vdwjhm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 28th of April]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-28th-of-april</link>
-            <guid>ffoxoqw9</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-apr28-1-feature-sjskqno4rs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
