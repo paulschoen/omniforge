@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 03 May 2026 17:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 12:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Mountainside Tabletop take on the Red Terror]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/asdz24ro/mountainside-tabletop-take-on-the-red-terror</link>
+            <guid>asdz24ro</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The team behind Mountainside Tabletop lead us on a tour of the Kill Team: Terror on Devlan boxed set.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_terrorondevlan-may04-1-feature-xw02cumpb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Take on the Red Terror]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror</link>
@@ -272,16 +282,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-apr28-1-feature-sjskqno4rs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – 1 May 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9b3pet5i/warhammer-40000-armageddon-unboxing-1-may-2026</link>
-            <guid>9b3pet5i</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us to see all of the miniatures, cards, books, and more!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40kunboxing_incoming-apr27-1-feature-rrfbpztdkg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
