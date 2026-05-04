@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 May 2026 13:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 14:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Novel Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wbxczgef/new40k-novel-revealed</link>
+            <guid>wbxczgef</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the intense fighting for Armageddon in the new Black Library novel.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_armageddon-may04-1-feature-a7vjijhisw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Terror rules revealed for Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fituxx6v/red-terror-rules-revealed-for-warhammer-40000</link>
@@ -56,6 +67,28 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may02-1-feature-toibhuuawv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Space Marines | #New40k]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/v9fcxhki/warhammer-40000-armageddon-unboxing-space-marines-new40k</link>
+            <guid>v9fcxhki</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reinforcements from the Adeptus Astartes approach Armageddon at full speed!]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_unboxing__space-marines_16x9-u2d3aldquj.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Orks | #New40k]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cclnt066/warhammer-40000-armageddon-unboxing-orks-new40k</link>
+            <guid>cclnt066</guid>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA['ERE WE GO! The entire Ork force from the Warhammer 40,000: Armageddon new edition launch box has been revealed]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_unboxing_orks_16x9-t34zhvl2fi.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Armageddon – What’s in the box?]]></title>
@@ -249,40 +282,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-apr29-1-feature-ohqghh84gw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Balance Update – Battleclade gets software upgrades]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j4ztdm9i/kill-team-balance-update-battleclade-gets-software-upgrades</link>
-            <guid>j4ztdm9i</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Kill Team studio talks us through the latest changes, including Space Wolves getting toned down.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_update-apr28-1-feature-pv0a322qr0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What is a Cogfort?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/paeb02ns/what-is-a-cogfort</link>
-            <guid>paeb02ns</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get inside the lore and design of these Cities of Sigmar war machines.]]></description>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cogforts-apr28-1-feature-b97fmlty3w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Grot Week reveals: Day 2]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/upxjoira/new40k-grot-week-reveals-day-2</link>
-            <guid>upxjoira</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[They’re multiplying! Get a look at the second Gretchin from Warhammer 40,000: Armageddon.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-featureb-evg6vdwjhm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
