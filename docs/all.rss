@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 May 2026 12:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 13:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sneak close and unleash hell with the Cadian Recon Squad]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqnpjfux/sneak-close-and-unleash-hell-with-the-cadian-recon-squad</link>
+            <guid>wqnpjfux</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules for using the Spectre Squad kill team in Warhammer 40,000.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_cadianreconrules-may05-1-feature-rdnacpxvov.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 5th of May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-5th-of-may</link>
@@ -269,18 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-featurec-e5nh58w9km.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kit Focus – Defiler | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4n6zlgtz/kit-focus-defiler-warhammer-40000</link>
-            <guid>4n6zlgtz</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Defilers stalk into battle on six segmented legs, and have two gigantic claws capable of snatching up and bisecting a Space Marine or shearing through the hull of an armoured vehicle. The Defiler kit has a huge array of options to choose from. With that in mind, we thought it’d be really fun to go through the process of building it and showcase some of those awesome options. Tune in and follow along as Ollie builds this incredible miniature.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/landscape-kit-focus-defiler-jnyp90zfit.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
