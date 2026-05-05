@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 04 May 2026 15:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 12:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 5th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-5th-of-may</link>
+            <guid>ffoxoqw9</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may05-1-feature-uuq9x7p34y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Orks]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ahlcjhn0/warhammer-40000-faction-focus-orks</link>
@@ -271,18 +281,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/landscape-kit-focus-defiler-jnyp90zfit.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Armageddon: Trench warfare animation]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ls1yl0tk/armageddon-trench-warfare-animation</link>
-            <guid>ls1yl0tk</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything is better in slow motion.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_trenchanimation-apr29-1-feature-juax9o4vxt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
