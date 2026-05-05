@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 05 May 2026 13:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 15:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Space Marines]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xiczsalv/warhammer-40000-faction-focus-space-marines</link>
+            <guid>xiczsalv</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what the Angels of Death can do with their new detachments.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_smfaction-may05-1-feature-mqrygwdrhy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Lore – What is Operation Imperator?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hfd3qxcr/warhammer-40000-lore-what-is-operation-imperator</link>
+            <guid>hfd3qxcr</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next great campaign for Armageddon begins as the Angels of Death swoop in.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_operationimperatorlore-may05-1-feature-fmyqs8v7sm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sneak close and unleash hell with the Cadian Recon Squad]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqnpjfux/sneak-close-and-unleash-hell-with-the-cadian-recon-squad</link>
@@ -29,6 +50,18 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-may05-1-feature-uuq9x7p34y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Orks in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/pwbjtqhb/faction-focus-orks-in-new40k-warhammer-40000</link>
+            <guid>pwbjtqhb</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Are Orks melee monsters in the new edition of Warhammer 40,000? A Warhammer 40,000 studio Ork-expert talks rules.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-byoytc23l8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Orks]]></title>
@@ -247,39 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-featured-omw3eut6po.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Raven Guard]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bcrnlxqp/pages-from-the-black-books-the-raven-guard</link>
-            <guid>bcrnlxqp</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this extensive collection of lore about the sons of Corax in the Age of Darkness.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore16-apr30-1-feature-lw3rmnaew2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take the fight to Tallarn with the new Journal Tactica]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rlbelsyl/take-the-fight-to-tallarn-with-the-new-journal-tactica</link>
-            <guid>rlbelsyl</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the lowdown on Journal Tactica: The Battle of Tallarn directly from the Warhammer: The Horus Heresy studio.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_tallarn-apr30-1-feature-lcn0zz54bs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Grot Week reveals: Day 3]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/doy5k5za/new40k-grot-week-reveals-day-3</link>
-            <guid>doy5k5za</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wednesday’s Grot is full of Waaagh!.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-featurec-e5nh58w9km.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
