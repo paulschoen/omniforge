@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 May 2026 13:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 14:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Vostroyan Firstborn return for a Made to Order muster]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gpaqpfb5/the-vostroyan-firstborn-return-for-a-made-to-order-muster</link>
+            <guid>gpaqpfb5</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic Astra Militarum kits can be yours.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_vosmto-may06-1-feature-aemmoldz4v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How do you kill a tank-sized monster in Kill Team?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ij95ia48/how-do-you-kill-a-tank-sized-monster-in-kill-team</link>
@@ -264,19 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-66amnsr3oz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Live]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/afuxmemv/warhammer-40000-armageddon-unboxing-live</link>
-            <guid>afuxmemv</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us live for all the big reveals.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/hub-1-feature-jrl6irzgpt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
