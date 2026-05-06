@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 May 2026 09:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 10:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Astra Militarum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p9kg7edm/warhammer-40000-faction-focus-astra-militarum</link>
+            <guid>p9kg7edm</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a first look at new detachments as auxiliary regiments shore up the armies of Humanity.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_amfaction-may06-1-feature-y2ug3wclna.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus: Space Marines in #New40k | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/hokvg2gg/faction-focus-space-marines-in-new40k-warhammer-40000</link>
@@ -268,18 +279,6 @@
             <category domain="gloomspite-gitz">Gloomspite Gitz</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart31-may01-1-feature-3fjhu65u7v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Grot Week reveals: Day 5]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5ym3r2rt/new40k-grot-week-reveals-day-5</link>
-            <guid>5ym3r2rt</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Thank Grot it’s Friday! Check out our fifth Gretchin.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-featuree-wfg4vyxx3n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
