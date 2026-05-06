@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 06 May 2026 10:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 12:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Multiple Golden Demon Winner, Martin Peterson, chats to Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ye4qmcxf/multiple-golden-demon-winner-martin-peterson-chats-to-warhammer-tv</link>
+            <guid>ye4qmcxf</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how a master painter picks their projects, and see what other new episodes land today.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may06-1-feature-v8lsdw27b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Astra Militarum]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p9kg7edm/warhammer-40000-faction-focus-astra-militarum</link>
@@ -268,17 +278,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/gd_spielannounce-apr30-1-feature-sqm3u8qrqa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Gloomspite Gitz]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zhnlrwxe/warhammer-art-through-the-years-gloomspite-gitz</link>
-            <guid>zhnlrwxe</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Explore some dark, dank, and delightful artworks of the grots and their deadly beasts.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart31-may01-1-feature-3fjhu65u7v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
