@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 May 2026 14:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 15:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Tyranids]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pqhie6ax/warhammer-40000-faction-focus-tyranids</link>
+            <guid>pqhie6ax</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Consume every scrap of biomass with Tyranid detachments for the new edition.]]></description>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_tyranidsfaction-may07-1-feature-ppqithevwh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community Painting – The Red Terror burrows into our hearts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l4ao9v9p/community-painting-the-red-terror-burrows-into-our-hearts</link>
@@ -266,17 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-mzclkncuk0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – The Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines</link>
-            <guid>kunoahk1</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What are the Angels of Death bringing to Armageddon?]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
