@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 May 2026 13:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 14:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community Painting – The Red Terror burrows into our hearts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l4ao9v9p/community-painting-the-red-terror-burrows-into-our-hearts</link>
+            <guid>l4ao9v9p</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new-old Tyranid nightmare, as painted by the wider Warhammer community.]]></description>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_-redterrorinfluencer-may07-1-feature-ad3anwu2np.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Win a huge Armageddon-themed bundle]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tkb1k1ui/win-a-huge-armageddon-themed-bundle</link>
@@ -17,7 +30,7 @@
             <description><![CDATA[Sign up, and seven Warhammer 40,000 characters could be yours.]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bobbycomp-may07-1-feature-lp9egoigoy.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/bobbycomp-may07-1-feature-5rpnfqehfk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Victory is Vengeance]]></title>
@@ -264,18 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – The Orks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dmmfaihb/warhammer-40000-armageddon-unboxing-the-orks</link>
-            <guid>dmmfaihb</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s krumpin’ time! Check out the Orks from the #New40k launch set.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-dqwijuzfwn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
