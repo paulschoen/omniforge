@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 May 2026 12:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 13:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Win a huge Armageddon-themed bundle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tkb1k1ui/win-a-huge-armageddon-themed-bundle</link>
+            <guid>tkb1k1ui</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sign up, and seven Warhammer 40,000 characters could be yours.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bobbycomp-may07-1-feature-lp9egoigoy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Victory is Vengeance]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xnfm6dn3/pages-from-the-black-books-victory-is-vengeance</link>
@@ -266,16 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-dqwijuzfwn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Everything else]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rzocwxgt/warhammer-40000-armageddon-unboxing-everything-else</link>
-            <guid>rzocwxgt</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules! Cards! More! See what else you get in the Armageddon box.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-q04pcrd9nl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
