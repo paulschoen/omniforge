@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 May 2026 15:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 16:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: Chaos Space Marines and Chaos Daemons in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tycytiho/faction-focus-chaos-space-marines-and-chaos-daemons-in-new40k-warhammer-40000</link>
+            <guid>tycytiho</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <category domain="chaos-daemons">Chaos Daemons</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_chaos-space-marins_thumbnail-kagrjmzrgr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons</link>
@@ -42,6 +53,16 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart32-may08-1-feature-c2rew8kif5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Tyranids in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6clqsyle/faction-focus-tyranids-in-new40k-warhammer-40000</link>
+            <guid>6clqsyle</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="tyranids">Tyranids</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_tyranid_thumbnail-wc58zlfli4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Tyranids]]></title>
@@ -249,33 +270,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_terrorondevlan-may04-1-feature-xw02cumpb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Take on the Red Terror]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror</link>
-            <guid>mmvq6nnx</guid>
-            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sunday Preview – Take on the Red Terror]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may03-1-feature-yfywhjaw0q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Grand Cathay and Solar Auxilia Reinforcements]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k3qwksjs/saturday-pre-orders-grand-cathay-and-solar-auxilia-reinforcements</link>
-            <guid>k3qwksjs</guid>
-            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Add artillery and Astromancers to your armies in Warhammer: The Old World and Warhammer: The Horus Heresy.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-may02-1-feature-toibhuuawv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
