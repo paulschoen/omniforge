@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 07 May 2026 15:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 12:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Blades of Khorne]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dhbmm0ws/warhammer-art-through-the-years-blades-of-khorne</link>
+            <guid>dhbmm0ws</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Give in to rage and pure fury as you look at our selection of artwork dedicated to the followers of the Blood God.]]></description>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart32-may08-1-feature-c2rew8kif5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Tyranids]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pqhie6ax/warhammer-40000-faction-focus-tyranids</link>
@@ -264,19 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_unboxing_orks_16x9-t34zhvl2fi.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon – What’s in the box?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x2allqya/warhammer-40000-armageddon-whats-in-the-box</link>
-            <guid>x2allqya</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Orks, Space Marines, and more – see what’s inside the launch box for the new edition of Warhammer 40,000.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-mzclkncuk0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
