@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 May 2026 12:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 13:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Community Painting – Getting sneaky with the Spectre Squad]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u0sbzthr/community-painting-getting-sneaky-with-the-spectre-squad</link>
+            <guid>u0sbzthr</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer community paints the elite recon squads of Cadia.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/kt_-cadianinfluencer-may08-1-feature-wtub6vraug.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Blades of Khorne]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dhbmm0ws/warhammer-art-through-the-years-blades-of-khorne</link>
@@ -264,17 +275,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_unboxing__space-marines_16x9-u2d3aldquj.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Orks | #New40k]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/cclnt066/warhammer-40000-armageddon-unboxing-orks-new40k</link>
-            <guid>cclnt066</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA['ERE WE GO! The entire Ork force from the Warhammer 40,000: Armageddon new edition launch box has been revealed]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_unboxing_orks_16x9-t34zhvl2fi.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
