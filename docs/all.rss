@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 May 2026 13:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 15:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons</link>
+            <guid>ztuwo7gs</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All hail the Dark Gods – the forces of Chaos get new detachments.]]></description>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="chaos-daemons">Chaos Daemons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_csmfaction-may08-1-feature-2xb9ixoyio.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Community Painting – Getting sneaky with the Spectre Squad]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u0sbzthr/community-painting-getting-sneaky-with-the-spectre-squad</link>
@@ -264,17 +276,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may02-1-feature-toibhuuawv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Armageddon Unboxing – Space Marines | #New40k]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/v9fcxhki/warhammer-40000-armageddon-unboxing-space-marines-new40k</link>
-            <guid>v9fcxhki</guid>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reinforcements from the Adeptus Astartes approach Armageddon at full speed!]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_unboxing__space-marines_16x9-u2d3aldquj.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
