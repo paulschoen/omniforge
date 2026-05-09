@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 08 May 2026 16:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 17:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Face the Terror on Devlan]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rbcrabee/saturday-pre-orders-face-the-terror-on-devlan</link>
+            <guid>rbcrabee</guid>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New pre-orders for Kill Team and officially licensed plushies.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may09-1-feature-pzp92ki0ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus: Chaos Space Marines and Chaos Daemons in #New40k | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/tycytiho/faction-focus-chaos-space-marines-and-chaos-daemons-in-new40k-warhammer-40000</link>
@@ -260,16 +272,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_redterrorrules-may04-1-feature-bkiee5zdvl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mountainside Tabletop take on the Red Terror]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/asdz24ro/mountainside-tabletop-take-on-the-red-terror</link>
-            <guid>asdz24ro</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The team behind Mountainside Tabletop lead us on a tour of the Kill Team: Terror on Devlan boxed set.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_terrorondevlan-may04-1-feature-xw02cumpb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
