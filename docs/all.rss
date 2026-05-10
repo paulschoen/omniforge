@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 09 May 2026 17:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 17:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – March out with the Cities of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar</link>
+            <guid>9idi5uub</guid>
+            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Massive Warhammer Age of Sigmar pre-orders incoming, alongside Made to Order classics.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may10-1-feature-azq89fzpp2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Face the Terror on Devlan]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rbcrabee/saturday-pre-orders-face-the-terror-on-devlan</link>
@@ -261,17 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_armageddon-may04-1-feature-a7vjijhisw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Terror rules revealed for Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fituxx6v/red-terror-rules-revealed-for-warhammer-40000</link>
-            <guid>fituxx6v</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chow down for the Hive Mind as we look at the monstrous bioform’s new rules]]></description>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_redterrorrules-may04-1-feature-bkiee5zdvl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
