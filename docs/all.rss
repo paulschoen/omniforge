@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 10 May 2026 17:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 12:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cities of Sigmar rules – The mighty Cogfort]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gyfmfcvt/cities-of-sigmar-rules-the-mighty-cogfort</link>
+            <guid>gyfmfcvt</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the rules for the Cogfort and learn how you can add one to any army.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_cogfortrules-may11-1-feature-fpgxvchk0i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harness the wind to claim glory with Thyrielle's Zephyrites]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/grfcurdu/harness-the-wind-to-claim-glory-with-thyrielles-zephyrites</link>
+            <guid>grfcurdu</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how the new Warhammer Underworlds warband plays.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whuw_thyriellezephyrites-may11-1-feature-xxijohdr1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – March out with the Cities of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar</link>
@@ -253,29 +273,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-byoytc23l8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Orks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ahlcjhn0/warhammer-40000-faction-focus-orks</link>
-            <guid>ahlcjhn0</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready to Waaagh! with a first look at the new Detachments for Orks.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orksfaction-may04-1-feature-jctatiekxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Novel Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wbxczgef/new40k-novel-revealed</link>
-            <guid>wbxczgef</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the intense fighting for Armageddon in the new Black Library novel.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_armageddon-may04-1-feature-a7vjijhisw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
