@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 11 May 2026 12:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 15:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: Adepta Sororitas in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ysfxgf5x/adepta-sororitas</link>
+            <guid>ysfxgf5x</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Descend from the skies to assault the Emperor’s enemies, dominate key parts of the battlefield with Celestian Sacresancts, and inspire even greater acts of faith from your Adepta Sororitas forces with three fresh detachments and expert advice from our Warhammer 40,000 studio expert.]]></description>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_adepta-sororitas_thumbnail-beqgsabzy4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Adepta Sororitas]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1zvyawig/warhammer-40000-faction-focus-adepta-sororitas</link>
+            <guid>1zvyawig</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Faith and fire reign supreme with new detachments.]]></description>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_sobfaction-may11-1-feature-xezesdfr3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – More new edition releases for Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dcnhuoit/new40k-more-new-edition-releases-for-warhammer-40000</link>
+            <guid>dcnhuoit</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Add to your collection with useful terrain accessories and a new companion guide.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-zu9gnp0j6j.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cities of Sigmar rules – The mighty Cogfort]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gyfmfcvt/cities-of-sigmar-rules-the-mighty-cogfort</link>
@@ -240,39 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_operationimperatorlore-may05-1-feature-fmyqs8v7sm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sneak close and unleash hell with the Cadian Recon Squad]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqnpjfux/sneak-close-and-unleash-hell-with-the-cadian-recon-squad</link>
-            <guid>wqnpjfux</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules for using the Spectre Squad kill team in Warhammer 40,000.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_cadianreconrules-may05-1-feature-rdnacpxvov.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 5th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-5th-of-may</link>
-            <guid>ffoxoqw9</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may05-1-feature-uuq9x7p34y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Orks in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pwbjtqhb/faction-focus-orks-in-new40k-warhammer-40000</link>
-            <guid>pwbjtqhb</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Are Orks melee monsters in the new edition of Warhammer 40,000? A Warhammer 40,000 studio Ork-expert talks rules.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-byoytc23l8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
