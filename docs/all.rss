@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 11 May 2026 15:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 12:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 12th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may</link>
+            <guid>xjxezlin</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may12-1-feature-l6laraggyi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus: Adepta Sororitas in #New40k | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ysfxgf5x/adepta-sororitas</link>
@@ -263,16 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_smfaction-may05-1-feature-mqrygwdrhy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Lore – What is Operation Imperator?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hfd3qxcr/warhammer-40000-lore-what-is-operation-imperator</link>
-            <guid>hfd3qxcr</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The next great campaign for Armageddon begins as the Angels of Death swoop in.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_operationimperatorlore-may05-1-feature-fmyqs8v7sm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
