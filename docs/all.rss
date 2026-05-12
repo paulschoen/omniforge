@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 12 May 2026 12:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 13:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cities of Sigmar – Faction rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a0rblnjj/cities-of-sigmar-faction-rules</link>
+            <guid>a0rblnjj</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new tricks the followers of the God-King have up their sleeves in Warhammer Age of Sigmar.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_cosfactionrules-may12-1-feature-yawzoqcoxh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 12th of May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may</link>
@@ -262,17 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_space-marines_thumbnail-kbrtuqtz0k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xiczsalv/warhammer-40000-faction-focus-space-marines</link>
-            <guid>xiczsalv</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what the Angels of Death can do with their new detachments.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_smfaction-may05-1-feature-mqrygwdrhy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
