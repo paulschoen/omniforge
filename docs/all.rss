@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 12 May 2026 13:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 14:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: World Eaters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ujj4g76g/warhammer-40000-faction-focus-world-eaters</link>
+            <guid>ujj4g76g</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kill, maim and burn with three new detachments.]]></description>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wefaction-may12-1-feature-li00qzrjtm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cities of Sigmar – Faction rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/a0rblnjj/cities-of-sigmar-faction-rules</link>
@@ -262,17 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_amfaction-may06-1-feature-y2ug3wclna.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Space Marines in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hokvg2gg/faction-focus-space-marines-in-new40k-warhammer-40000</link>
-            <guid>hokvg2gg</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get expert advice direct from the Warhammer 40,000 studio covering new Detachments for each and every variety of Space Marines in the new edition, including Space Wolves, Blood Angels, Dark Angels, and Black Templars!]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_space-marines_thumbnail-kbrtuqtz0k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
