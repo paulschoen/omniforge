@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 12 May 2026 14:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 15:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: World Eaters in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/luehpw6y/faction-focus-world-eaters-in-new40k-warhammer-40000</link>
+            <guid>luehpw6y</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Want to inspire your foes with the brutal leadership of an Archslaughterer, wrathfully crush foes with brazen Daemon Engines, and butcher the weak with gore-stained Terminator squads? Our Warhammer 40,000 expert returns to take you through three fresh World Eaters detachments that will let you do exactly this, and more!]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-5nvur1k2no.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: World Eaters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ujj4g76g/warhammer-40000-faction-focus-world-eaters</link>
@@ -262,17 +274,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-may06-1-feature-v8lsdw27b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Astra Militarum]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p9kg7edm/warhammer-40000-faction-focus-astra-militarum</link>
-            <guid>p9kg7edm</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a first look at new detachments as auxiliary regiments shore up the armies of Humanity.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_amfaction-may06-1-feature-y2ug3wclna.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
