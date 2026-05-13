@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 May 2026 15:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Colour us surprised?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fonzhtcp/colour-us-surprised</link>
+            <guid>fonzhtcp</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s our wheely good leak response video]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/terrain-feat-tgpvohpde0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Skulls video game festival returns this month]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qxyddr1b/warhammer-skulls-video-game-festival-returns-this-month</link>
@@ -266,16 +276,6 @@
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/kt_-redterrorinfluencer-may07-1-feature-ad3anwu2np.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Win a huge Armageddon-themed bundle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tkb1k1ui/win-a-huge-armageddon-themed-bundle</link>
-            <guid>tkb1k1ui</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sign up, and seven Warhammer 40,000 characters could be yours.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bobbycomp-may07-1-feature-5rpnfqehfk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
