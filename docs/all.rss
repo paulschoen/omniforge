@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 May 2026 13:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 15:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: T’au Empire in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kjngjb8j/tau</link>
+            <guid>kjngjb8j</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our Warhammer 40,000 expert returns to take you through three #New40k detachments for T’au Empire armies. Players can remain hidden for longer, boost the hunting effectiveness of Kroot and Vespid units, and deploy experimental battlesuit prototypes for even more punch.]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_tau_thumbnails-rnr0wapbsn.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: T’au Empire]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jmtd7k9g/warhammer-40000-faction-focus-tau-empire</link>
+            <guid>jmtd7k9g</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New detachments, for the Greater Good!]]></description>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_taufaction-may13-1-feature-ixewqurv5x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run a campaign in a weekend with the Dominatus deck]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kjdzbnvr/run-a-campaign-in-a-weekend-with-the-dominatus-deck</link>
+            <guid>kjdzbnvr</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All action, no bookkeeping, with the new Warhammer 40,000 campaign system.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dominatus-may14-1-feature-vwp6bvwjd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cities of Sigmar rules – New units]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m2dw9uao/cities-of-sigmar-rules-new-units</link>
@@ -243,38 +276,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore17-may07-1-feature-brnlm1ilg9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Vostroyan Firstborn return for a Made to Order muster]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gpaqpfb5/the-vostroyan-firstborn-return-for-a-made-to-order-muster</link>
-            <guid>gpaqpfb5</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic Astra Militarum kits can be yours.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_vosmto-may06-1-feature-aemmoldz4v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How do you kill a tank-sized monster in Kill Team?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ij95ia48/how-do-you-kill-a-tank-sized-monster-in-kill-team</link>
-            <guid>ij95ia48</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take on the Red Terror with new rules and missions.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_bossbattles-may06-1-feature-jnxapkzp6v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Astra Militarum in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ks4pkrwe/faction-focus-astra-militarum-in-new40k-warhammer-40000</link>
-            <guid>ks4pkrwe</guid>
-            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[In today’s Faction Focus, a Warhammer 40,000 studio expert explores the tactical options for Astra Militarum players in the new edition of the game, including three new Detachments perfect for making the most out of your abhuman auxiliaries, Militarum Tempestus units, and scouting regiments.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_astra-militarum_thumbnail-yeaaalt611.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
