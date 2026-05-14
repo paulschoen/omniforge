@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 13 May 2026 21:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 12:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ultimate Paint-off tackles the ’Eavy Metal style in a gripping series finale]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4znevndn/ultimate-paint-off-tackles-the-eavy-metal-style-in-a-gripping-series-finale</link>
+            <guid>4znevndn</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three new episodes join Warhammer TV today.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature-xsfh7l2dfw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Hour of the Warmaster]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/c1n0bymf/pages-from-the-black-books-the-hour-of-the-warmaster</link>
+            <guid>c1n0bymf</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Dropsite Massacre is over – see what Horus did next.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore18-may14-1-feature-utdjo3gzly.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Colour us surprised?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fonzhtcp/colour-us-surprised</link>
@@ -252,30 +273,6 @@
             <category domain="tyranids">Tyranids</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_tyranid_thumbnail-wc58zlfli4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Tyranids]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pqhie6ax/warhammer-40000-faction-focus-tyranids</link>
-            <guid>pqhie6ax</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Consume every scrap of biomass with Tyranid detachments for the new edition.]]></description>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_tyranidsfaction-may07-1-feature-ppqithevwh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community Painting – The Red Terror burrows into our hearts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l4ao9v9p/community-painting-the-red-terror-burrows-into-our-hearts</link>
-            <guid>l4ao9v9p</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new-old Tyranid nightmare, as painted by the wider Warhammer community.]]></description>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_-redterrorinfluencer-may07-1-feature-ad3anwu2np.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
