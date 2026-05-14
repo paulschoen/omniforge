@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 May 2026 12:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 13:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[AoS Coach delves into the Cities of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ee4zr2ce/aos-coach-delves-into-the-cities-of-sigmar</link>
+            <guid>ee4zr2ce</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get an in-depth look at the new battletome with a Warhammer Age of Sigmar expert.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature-xsfh7l2dfw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ultimate Paint-off tackles the ’Eavy Metal style in a gripping series finale]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4znevndn/ultimate-paint-off-tackles-the-eavy-metal-style-in-a-gripping-series-finale</link>
@@ -263,16 +275,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart32-may08-1-feature-c2rew8kif5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Tyranids in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6clqsyle/faction-focus-tyranids-in-new40k-warhammer-40000</link>
-            <guid>6clqsyle</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="tyranids">Tyranids</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_tyranid_thumbnail-wc58zlfli4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
