@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 May 2026 13:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 15:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: Adeptus Custodes in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6p2jo71i/faction-focus-adeptus-custodes-in-new40k-warhammer-40000</link>
+            <guid>6p2jo71i</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our Warhammer 40,000 expert returns to take you through three fresh detachments for Adeptus Custodes armies in #New40k. With these you can smash through opponents with Dreadnoughts, enhance the killing abilities of your Sisters of Silence, and much more.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_custodes_thumbnail-wksxoahkxq.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Adeptus Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1j6efpun/warhammer-40000-faction-focus-adeptus-custodes</link>
+            <guid>1j6efpun</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wield the might of the Ten Thousand with three new detachments.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_custodesfaction-may14-1-feature-leiy6kegto.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AoS Coach delves into the Cities of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ee4zr2ce/aos-coach-delves-into-the-cities-of-sigmar</link>
@@ -19,7 +40,7 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category domain="interviews">Interviews</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature-xsfh7l2dfw.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/aos_cosinfluencer-may14-1-feature-afzfblvdfs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ultimate Paint-off tackles the ’Eavy Metal style in a gripping series finale]]></title>
@@ -253,28 +274,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_csmfaction-may08-1-feature-2xb9ixoyio.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community Painting – Getting sneaky with the Spectre Squad]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u0sbzthr/community-painting-getting-sneaky-with-the-spectre-squad</link>
-            <guid>u0sbzthr</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer community paints the elite recon squads of Cadia.]]></description>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/kt_-cadianinfluencer-may08-1-feature-wtub6vraug.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Blades of Khorne]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dhbmm0ws/warhammer-art-through-the-years-blades-of-khorne</link>
-            <guid>dhbmm0ws</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Give in to rage and pure fury as you look at our selection of artwork dedicated to the followers of the Blood God.]]></description>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart32-may08-1-feature-c2rew8kif5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
