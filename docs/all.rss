@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 May 2026 14:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 15:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Death Guard]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9em1bqf9/warhammer-40000-faction-focus-death-guard</link>
+            <guid>9em1bqf9</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New detachments claim glory for Grandfather Nurgle]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="death-guard">Death Guard</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dgfaction-may15-1-feature-s7cjukrsnh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aelves and Duardin in the Cities of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fjoetakr/aelves-and-duardin-in-the-cities-of-sigmar</link>
@@ -256,21 +267,6 @@
             <category domain="warhammer-underworlds">Warhammer Underworlds</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whuw_thyriellezephyrites-may11-1-feature-xxijohdr1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – March out with the Cities of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9idi5uub/sunday-preview-march-out-with-the-cities-of-sigmar</link>
-            <guid>9idi5uub</guid>
-            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Massive Warhammer Age of Sigmar pre-orders incoming, alongside Made to Order classics.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may10-1-feature-azq89fzpp2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
