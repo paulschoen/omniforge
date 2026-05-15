@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 14 May 2026 15:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 11:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Cities of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bwt3p6e5/warhammer-art-through-the-years-cities-of-sigmar</link>
+            <guid>bwt3p6e5</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy a selection of artwork focused on those that put ‘mortal’ into the Mortal Realms.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart33-may15-1-feature-p6jafmc7j8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus: Adeptus Custodes in #New40k | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/6p2jo71i/faction-focus-adeptus-custodes-in-new40k-warhammer-40000</link>
@@ -262,18 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_chaos-space-marins_thumbnail-kagrjmzrgr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons</link>
-            <guid>ztuwo7gs</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All hail the Dark Gods – the forces of Chaos get new detachments.]]></description>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="chaos-daemons">Chaos Daemons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_csmfaction-may08-1-feature-2xb9ixoyio.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
