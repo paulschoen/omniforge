@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 May 2026 11:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 13:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Converting the Cogfort]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ntd1gm7z/converting-the-cogfort</link>
+            <guid>ntd1gm7z</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what talented hobbyists did with the colossal walking fortress.]]></description>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_warcomcogforts-mar15-1-feature-dqjqjkpgh2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Cities of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bwt3p6e5/warhammer-art-through-the-years-cities-of-sigmar</link>
@@ -262,17 +273,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may09-1-feature-pzp92ki0ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Chaos Space Marines and Chaos Daemons in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tycytiho/faction-focus-chaos-space-marines-and-chaos-daemons-in-new40k-warhammer-40000</link>
-            <guid>tycytiho</guid>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-            <category domain="chaos-daemons">Chaos Daemons</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_chaos-space-marins_thumbnail-kagrjmzrgr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
