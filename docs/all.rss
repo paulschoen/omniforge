@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 15 May 2026 18:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 17:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Cities of Sigmar, Cogforts, and Vostroyans]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rga3be6u/saturday-pre-orders-cities-of-sigmar-cogforts-and-vostroyans</link>
+            <guid>rga3be6u</guid>
+            <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of today’s pre-orders, including the God-King’s followers, a Warhammer Underworlds warband, and a Warhammer 40,000 Made to Order.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may16-1-feature-txvcbgf2fs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – We answer your burning questions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fbfuptye/new40k-we-answer-your-burning-questions</link>
@@ -257,16 +268,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-zu9gnp0j6j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cities of Sigmar rules – The mighty Cogfort]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gyfmfcvt/cities-of-sigmar-rules-the-mighty-cogfort</link>
-            <guid>gyfmfcvt</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the rules for the Cogfort and learn how you can add one to any army.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cogfortrules-may11-1-feature-fpgxvchk0i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
