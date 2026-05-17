@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 16 May 2026 17:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 17:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Mighty war machines in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cbleac3a/sunday-preview-mighty-war-machines-in-the-age-of-darkness</link>
+            <guid>cbleac3a</guid>
+            <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tracked reinforcements arrive for the Legiones Astartes in next week’s pre-orders.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may17-1-feature-ifjjkfax2x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Cities of Sigmar, Cogforts, and Vostroyans]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rga3be6u/saturday-pre-orders-cities-of-sigmar-cogforts-and-vostroyans</link>
@@ -258,16 +269,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_sobfaction-may11-1-feature-xezesdfr3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – More new edition releases for Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dcnhuoit/new40k-more-new-edition-releases-for-warhammer-40000</link>
-            <guid>dcnhuoit</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Add to your collection with useful terrain accessories and a new companion guide.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-zu9gnp0j6j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
