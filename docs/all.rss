@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 May 2026 13:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 15:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Imperial and Chaos Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pqqff7as/warhammer-40000-faction-focus-imperial-and-chaos-knights</link>
+            <guid>pqqff7as</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Six titanic detachments. Two titanic factions. One titanic showdown. No titanic mercy.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_knightsfaction-may18-1-feature-i0nviissvt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Commissar Cain comes to the tabletop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xordlfvg/commissar-cain-comes-to-the-tabletop</link>
+            <guid>xordlfvg</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The legendary Black Library character gets a plastic miniature for the first time.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-(1)-eck1wgfj1u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k rules– More dakka than you can shake a rig at]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/begrgyld/new40k-rules-more-dakka-than-you-can-shake-a-rig-at</link>
@@ -249,28 +274,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_cosfactionrules-may12-1-feature-yawzoqcoxh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 12th of May]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may</link>
-            <guid>xjxezlin</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-may12-1-feature-l6laraggyi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Adepta Sororitas in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ysfxgf5x/adepta-sororitas</link>
-            <guid>ysfxgf5x</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Descend from the skies to assault the Emperor’s enemies, dominate key parts of the battlefield with Celestian Sacresancts, and inspire even greater acts of faith from your Adepta Sororitas forces with three fresh detachments and expert advice from our Warhammer 40,000 studio expert.]]></description>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_adepta-sororitas_thumbnail-beqgsabzy4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
