@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 May 2026 15:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 16:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – See the game played LIVE]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r6uuwtf3/new40k-see-the-game-played-live</link>
+            <guid>r6uuwtf3</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us for the first live games of the new edition of Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_livegamesincoming-may18-1-feature-zb3m5wyvwd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Imperial and Chaos Knights]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pqqff7as/warhammer-40000-faction-focus-imperial-and-chaos-knights</link>
@@ -263,17 +274,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_wefaction-may12-1-feature-li00qzrjtm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cities of Sigmar – Faction rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/a0rblnjj/cities-of-sigmar-faction-rules</link>
-            <guid>a0rblnjj</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what new tricks the followers of the God-King have up their sleeves in Warhammer Age of Sigmar.]]></description>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cosfactionrules-may12-1-feature-yawzoqcoxh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
