@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 17 May 2026 17:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 13:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k rules– More dakka than you can shake a rig at]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/begrgyld/new40k-rules-more-dakka-than-you-can-shake-a-rig-at</link>
+            <guid>begrgyld</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules for the spectacular Big Mek Dakkarig.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_dakkrigrules-may18-1-feature-awzjxmhokn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Mighty war machines in the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cbleac3a/sunday-preview-mighty-war-machines-in-the-age-of-darkness</link>
@@ -26,8 +37,10 @@
             <guid>rga3be6u</guid>
             <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Check out all of today’s pre-orders, including the God-King’s followers, a Warhammer Underworlds warband, and a Warhammer 40,000 Made to Order.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may16-1-feature-txvcbgf2fs.jpg" length="0" type="image/jpg"/>
         </item>
@@ -258,17 +271,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_adepta-sororitas_thumbnail-beqgsabzy4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Adepta Sororitas]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1zvyawig/warhammer-40000-faction-focus-adepta-sororitas</link>
-            <guid>1zvyawig</guid>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Faith and fire reign supreme with new detachments.]]></description>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_sobfaction-may11-1-feature-xezesdfr3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
