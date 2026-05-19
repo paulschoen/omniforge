@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 May 2026 14:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 16:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Emperor’s Children]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d7cmuzbg/warhammer-40000-faction-focus-emperors-children</link>
+            <guid>d7cmuzbg</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how the chosen of Slaanesh fight in #New40k.]]></description>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_ecfaction-may19-1-feature-mtsgwlplhl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k rules – Zoom across the battlefield in the updated Land Speeder]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fvbmcs1u/new40k-rules-zoom-across-the-battlefield-in-the-updated-land-speeder</link>
@@ -261,17 +272,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_dominatus-may14-1-feature-vwp6bvwjd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cities of Sigmar rules – New units]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m2dw9uao/cities-of-sigmar-rules-new-units</link>
-            <guid>m2dw9uao</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a glimpse at some of the rules for the new Warhammer Age of Sigmar miniatures.]]></description>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cosnewunits-may13-1-feature-2ppjhf6aqn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
