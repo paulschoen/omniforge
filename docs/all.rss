@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 18 May 2026 16:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 13:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 19th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-19th-of-may</link>
+            <guid>xjxezlin</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may19-1-feature-ictlcynctu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – See the game played LIVE]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r6uuwtf3/new40k-see-the-game-played-live</link>
@@ -263,17 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-5nvur1k2no.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: World Eaters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ujj4g76g/warhammer-40000-faction-focus-world-eaters</link>
-            <guid>ujj4g76g</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kill, maim and burn with three new detachments.]]></description>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_wefaction-may12-1-feature-li00qzrjtm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
