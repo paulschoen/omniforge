@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 May 2026 13:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 14:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k rules – Zoom across the battlefield in the updated Land Speeder]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fvbmcs1u/new40k-rules-zoom-across-the-battlefield-in-the-updated-land-speeder</link>
+            <guid>fvbmcs1u</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Warhammer 40,000 rules for the classic Space Marine vehicle.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_landspeederrules-may19-1-feature-kn3mhrbsnz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 19th of May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-19th-of-may</link>
@@ -261,18 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_cosnewunits-may13-1-feature-2ppjhf6aqn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: World Eaters in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/luehpw6y/faction-focus-world-eaters-in-new40k-warhammer-40000</link>
-            <guid>luehpw6y</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Want to inspire your foes with the brutal leadership of an Archslaughterer, wrathfully crush foes with brazen Daemon Engines, and butcher the weak with gore-stained Terminator squads? Our Warhammer 40,000 expert returns to take you through three fresh World Eaters detachments that will let you do exactly this, and more!]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_orks_thumbnail-5nvur1k2no.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
