@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 19 May 2026 16:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 10:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Blood Bowl FAQs – Games Designer’s Notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqewdcvv/blood-bowl-faqs-games-designers-notes</link>
+            <guid>wqewdcvv</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the latest changes to the game of fantasy football.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bb_faq-may20-1-feature-yemgmnp1sn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Emperor’s Children]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d7cmuzbg/warhammer-40000-faction-focus-emperors-children</link>
@@ -262,16 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_taufaction-may13-1-feature-ixewqurv5x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run a campaign in a weekend with the Dominatus deck]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kjdzbnvr/run-a-campaign-in-a-weekend-with-the-dominatus-deck</link>
-            <guid>kjdzbnvr</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All action, no bookkeeping, with the new Warhammer 40,000 campaign system.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_dominatus-may14-1-feature-vwp6bvwjd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
