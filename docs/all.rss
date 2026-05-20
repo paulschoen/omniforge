@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 20 May 2026 10:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 12:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cogforts march to battle on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f2nqcu4x/cogforts-march-to-battle-on-warhammer-tv</link>
+            <guid>f2nqcu4x</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the new Cities of Sigmar miniature in action against the Sons of Behemat.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may20-1-feature-ykubldwvty.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blood Bowl FAQs – Games Designer’s Notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqewdcvv/blood-bowl-faqs-games-designers-notes</link>
@@ -107,6 +117,8 @@
             <description><![CDATA[Tracked reinforcements arrive for the Legiones Astartes in next week’s pre-orders.]]></description>
             <category domain="sunday-preview">Sunday preview</category>
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-may17-1-feature-ifjjkfax2x.jpg" length="0" type="image/jpg"/>
         </item>
@@ -262,17 +274,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_tau_thumbnails-rnr0wapbsn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: T’au Empire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jmtd7k9g/warhammer-40000-faction-focus-tau-empire</link>
-            <guid>jmtd7k9g</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New detachments, for the Greater Good!]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_taufaction-may13-1-feature-ixewqurv5x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
