@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 20 May 2026 12:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 15:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Grey Knights]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/twdi1vya/warhammer-40000-faction-focus-grey-knights</link>
+            <guid>twdi1vya</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New detachments revealed for the Knights of Titan.]]></description>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_gkfaction-may20-1-feature-ydnruyashp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40K – Da Trakk is Back]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pwjpxpeu/new40k-da-trakk-is-back</link>
+            <guid>pwjpxpeu</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer 40,000 rules for the new-ish Ork Wartrakk.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_wartrakkrules-may20-1-feature-2xrsozweju.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cogforts march to battle on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f2nqcu4x/cogforts-march-to-battle-on-warhammer-tv</link>
@@ -251,29 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/terrain-feat-tgpvohpde0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Skulls video game festival returns this month]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qxyddr1b/warhammer-skulls-video-game-festival-returns-this-month</link>
-            <guid>qxyddr1b</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out when the massive annual video games celebration will be this year.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/skullsannounce-may13-1-feature-bbileetjbk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: T’au Empire in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kjngjb8j/tau</link>
-            <guid>kjngjb8j</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our Warhammer 40,000 expert returns to take you through three #New40k detachments for T’au Empire armies. Players can remain hidden for longer, boost the hunting effectiveness of Kroot and Vespid units, and deploy experimental battlesuit prototypes for even more punch.]]></description>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_tau_thumbnails-rnr0wapbsn.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
