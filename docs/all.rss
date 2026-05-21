@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 21 May 2026 13:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 15:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Drukhari]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/7sbdglda/warhammer-40000-faction-focus-drukhari</link>
+            <guid>7sbdglda</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[These new detachments will have you praying even harder that the Drukhari don’t take you alive.]]></description>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_drukharifaction-may21-1-feature-nut6dzwibe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k rules – Eradicators bring death to horde Infantry]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ljjrhwi0/new40k-rules-eradicators-bring-death-to-horde-infantry</link>
+            <guid>ljjrhwi0</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mulch scores of enemies in Warhammer 40,000 with massed heavy bolter fire.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_eradicatorsrules-may21-1-feature-lhcyqeryr9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Wars of Retribution]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ancuvzia/pages-from-the-black-books-the-wars-of-retribution</link>
@@ -253,27 +275,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_cosinfluencer-may14-1-feature-afzfblvdfs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultimate Paint-off tackles the ’Eavy Metal style in a gripping series finale]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4znevndn/ultimate-paint-off-tackles-the-eavy-metal-style-in-a-gripping-series-finale</link>
-            <guid>4znevndn</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three new episodes join Warhammer TV today.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may14-1-feature-xsfh7l2dfw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Hour of the Warmaster]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/c1n0bymf/pages-from-the-black-books-the-hour-of-the-warmaster</link>
-            <guid>c1n0bymf</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Dropsite Massacre is over – see what Horus did next.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore18-may14-1-feature-utdjo3gzly.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
