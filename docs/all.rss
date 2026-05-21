@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 20 May 2026 15:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 13:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Wars of Retribution]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ancuvzia/pages-from-the-black-books-the-wars-of-retribution</link>
+            <guid>ancuvzia</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow the action from some of the earliest battles in the Age of Darkness.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore19-may21-1-feature-3kyjxofioe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Grey Knights]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/twdi1vya/warhammer-40000-faction-focus-grey-knights</link>
@@ -263,16 +274,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore18-may14-1-feature-utdjo3gzly.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colour us surprised?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fonzhtcp/colour-us-surprised</link>
-            <guid>fonzhtcp</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here’s our wheely good leak response video]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/terrain-feat-tgpvohpde0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
