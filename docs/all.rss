@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 21 May 2026 15:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 16:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Skulls 2026 – The Warhammer video games festival]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2eknkrto/skulls-2026-the-warhammer-video-games-festival</link>
+            <guid>2eknkrto</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See all the new reveals.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/skulls-may21-1-feature-wbiw89hpyi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Drukhari]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/7sbdglda/warhammer-40000-faction-focus-drukhari</link>
@@ -263,18 +274,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_custodesfaction-may14-1-feature-leiy6kegto.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AoS Coach delves into the Cities of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ee4zr2ce/aos-coach-delves-into-the-cities-of-sigmar</link>
-            <guid>ee4zr2ce</guid>
-            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get an in-depth look at the new battletome with a Warhammer Age of Sigmar expert.]]></description>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cosinfluencer-may14-1-feature-afzfblvdfs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
