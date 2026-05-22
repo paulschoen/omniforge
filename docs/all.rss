@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 22 May 2026 13:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 15:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Thousand Sons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ka6kjyka/warhammer-40000-faction-focus-thousand-sons</link>
+            <guid>ka6kjyka</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wield the might of Tzeentch with three new detachments – just as planned.]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_tsfaction-may22-1-feature-e77xgrodah.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k rules – Da biggest and best Orks in da box]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uwdimgen/new40k-rules-da-biggest-and-best-orks-in-da-box</link>
+            <guid>uwdimgen</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are new Warhammer 40,000 rules for Ork characters.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orkrules-may22-1-feature-mcfsvz3occ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chocks away! New Aeronautica Imperialis trailer comes in to land]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uhwk90dw/chocks-away-new-aeronautica-imperialis-trailer-comes-in-to-land</link>
@@ -348,33 +370,6 @@ Warhammer 40,000: Speed Freeks delivers high-orktane combat racing in the Warham
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/skulls-2026-trailers-thumbnails_rogue-trader-dlc-iii-release-date-k0mv516jhz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dark Heresy Collector's Edition Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rpujjqcz/warhammer-40000-dark-heresy-collectors-edition-trailer-warhammer-skulls-2026</link>
-            <guid>rpujjqcz</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Become a founder and get the Collector's Edition, which includes physical and digital items, plus access to the Warhammer 40,000: Dark Heresy beta through the website:
-https://darkheresy.owlcat.games/
-
-Embrace the role of an Inquisitor in a grimdark cRPG set in the Warhammer 40K universe. Investigate heresy, command a diverse warband, and shape the fate of the Imperium in a story-rich experience where every decision has weight. Be the conduit of the Emperor’s will in a place where all hope was lost decades ago, justice is ruthless, and the line between salvation and damnation is razor-thin. Explore the mysteries of maddening Tyrant Star and overcome the worst horrors thrown at you by the Long Night.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-2026-trailers-thumbnails_collector-s-edition-video-wnhnaqgeuz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dark Heresy Beta Gameplay Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/iaezuqz8/warhammer-40000-dark-heresy-beta-gameplay-trailer-warhammer-skulls-2026</link>
-            <guid>iaezuqz8</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Owlcat Games, alongside the launch of the beta, is showcasing a new gameplay trailer for the upcoming Warhammer 40,000: Dark Heresy, narrated by Saro, a sanctioned psyker in your retinue. Become an acolyte of the Inquisition in this grimdark, party-based, story-driven cRPG. Lead investigations, uncover grand conspiracies, master tactical combat, and wage a secret war against heresy.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-2026-trailers-thumbnails_dark-heresy-beta-trailer_1-desq44ldii.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
