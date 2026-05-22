@@ -4,11 +4,87 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 22 May 2026 10:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 11:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Orruk Warclans]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gmuscolv/warhammer-art-through-the-years-orruk-warclans</link>
+            <guid>gmuscolv</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s mean, it’s green, and it needs to be seen – check out this collection of classic artwork.]]></description>
+            <category domain="orruk-warclans">Orruk Warclans</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart34-may22-1-feature-n2vj0nrjdi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Chaos Gate – Deathwatch Announce Trailer | Warhammer Skulls 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/nhorledz/warhammer-40000-chaos-gate-deathwatch-announce-trailer-warhammer-skulls-2026</link>
+            <guid>nhorledz</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take direct command of an elite Deathwatch Kill Team in the next chapter of the brutal, turn-based tactical RPG Chaos Gate saga! Lead your Deathwatch Space Marines into battle against the enemies of Humanity, supported by devoted agents of the Inquisition and Astra Militarum. Wage eternal war across hostile worlds, drive back deadly xenos hordes and resist the insidious and corrupting forces of Chaos.
+
+In the grim darkness of the far future, every decision matters.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/1920x1080_en-hc1be76sfo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster – Reveal Teaser | Warhammer Skulls 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/urnvo45j/warhammer-age-of-sigmar-deathmaster-reveal-teaser-warhammer-skulls-2026</link>
+            <guid>urnvo45j</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Play a sneaky & brutal Skaven Assassin in this new, refreshing but gritty take on the 2D Action platformer genre.
+
+Escape, kill, ascend and become a Deathmaster.
+Coming 2027.
+
+Wishlist Warhammer Age of Sigmar: Deathmaster now: https://store.steampowered.com/app/37...]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh_dm_thumbnail_1920x1080-7bgzgz3jco.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Darktide Devs Talk Skitarii Class | Warhammer Skulls 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/shh1nhkf/warhammer-40000-darktide-devs-talk-skitarii-class-warhammer-skulls-2026</link>
+            <guid>shh1nhkf</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Skitarii class is coming to Warhammer 40,000: Darktide 23 June! Hear from Fatshark devs on the latest addition to the game.
+
+Wishlist now
+► https://fatshark.games/08TKqZ
+
+The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the hands of heretics, the Skitarii Alpha Primus are elite operatives devoted to serving the will of the Omnissiah. They will annihilate all who stand in their way.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dt-interview_1280_720_2-b0wt4ifp8u.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Darktide – Skitarii Class Reveal Trailer | Warhammer Skulls 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/70ih53fg/warhammer-40000-darktide-skitarii-class-reveal-trailer-warhammer-skulls-2026</link>
+            <guid>70ih53fg</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Skitarii class is coming to Warhammer 40,000: Darktide 23 June.
+
+Wishlist now
+► https://fatshark.games/08TKqZ
+
+The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the hands of heretics, the Skitarii Alpha Primus are elite operatives devoted to serving the will of the Omnissiah. They will annihilate all who stand in their way.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/skulls-reveal-trailer-thumbnail-fq44ilg8r5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Space Marine 2 – Purgation Update Trailer | Warhammer Skulls 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ba5zauik/warhammer-40000-space-marine-2-purgation-update-trailer-warhammer-skulls-2026</link>
@@ -300,62 +376,6 @@ Embrace the role of an Inquisitor in a grimdark cRPG set in the Warhammer 40K un
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_drukhari_thumbnail-fnvmaxhb06.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Drukhari]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7sbdglda/warhammer-40000-faction-focus-drukhari</link>
-            <guid>7sbdglda</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[These new detachments will have you praying even harder that the Drukhari don’t take you alive.]]></description>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_drukharifaction-may21-1-feature-nut6dzwibe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k rules – Eradicators bring death to horde Infantry]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ljjrhwi0/new40k-rules-eradicators-bring-death-to-horde-infantry</link>
-            <guid>ljjrhwi0</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mulch scores of enemies in Warhammer 40,000 with massed heavy bolter fire.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_eradicatorsrules-may21-1-feature-lhcyqeryr9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Wars of Retribution]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ancuvzia/pages-from-the-black-books-the-wars-of-retribution</link>
-            <guid>ancuvzia</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow the action from some of the earliest battles in the Age of Darkness.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore19-may21-1-feature-3kyjxofioe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Skulls Showcase 2026 | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dyqommuq/warhammer-skulls-showcase-2026-warhammer</link>
-            <guid>dyqommuq</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our Warhammer Skulls 2026 showcase is here! Tune in for all the latest Warhammer video games announcements, reveals, offers, and more.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-may21-2-share-4yshphuzbj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Grey Knights in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ecqlatnw/faction-focus-grey-knights-in-new40k-warhammer-40000</link>
-            <guid>ecqlatnw</guid>
-            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out three fresh detachment rules that the secretive Grey Knights Space Marines can deploy to devastate Daemons and more in #New40k.]]></description>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_grey-knights_thumbnail-5ugbdv6j6g.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
