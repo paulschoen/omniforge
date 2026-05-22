@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 22 May 2026 12:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 13:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chocks away! New Aeronautica Imperialis trailer comes in to land]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uhwk90dw/chocks-away-new-aeronautica-imperialis-trailer-comes-in-to-land</link>
+            <guid>uhwk90dw</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new Warhammer 40,000 animated trailer.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aeronauticaimperialistrailer-may22-1-feature-rzxikn9fbv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Death from the skies – Looking back at a legacy of Land Speeders]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/focsgyaf/death-from-the-skies-looking-back-at-a-legacy-of-land-speeders</link>
@@ -364,17 +375,6 @@ Embrace the role of an Inquisitor in a grimdark cRPG set in the Warhammer 40K un
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/skulls-2026-trailers-thumbnails_dark-heresy-beta-trailer_1-desq44ldii.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skulls 2026 – The Warhammer video games festival]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2eknkrto/skulls-2026-the-warhammer-video-games-festival</link>
-            <guid>2eknkrto</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See all the new reveals.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-may21-1-feature-wbiw89hpyi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
