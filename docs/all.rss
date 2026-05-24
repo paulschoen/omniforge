@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 23 May 2026 17:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 17:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Prepare to enter the Hive]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/okslab8z/sunday-preview-prepare-to-enter-the-hive</link>
+            <guid>okslab8z</guid>
+            <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how you can get hold of the Special Edition of Dan Abnett’s new Warhammer 40,000 novel.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may24-1-feature-ne70flmpuq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Shake the battlefield with new tanks]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3cak2ho1/saturday-pre-orders-shake-the-battlefield-with-new-tanks</link>
@@ -356,20 +368,6 @@ Featuring turn-based tactical combat, strategic campaign decisions and the retur
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 : Speed Freeks Console Launch Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/akwbvxms/warhammer-40000-speed-freeks-console-launch-trailer-warhammer-skulls-2026</link>
-            <guid>akwbvxms</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[OI! GITZ! The SPEEDWAAAGH! is NOW AVAILABLE ON PS5 and Xbox Series S|X!
-
-Warhammer 40,000: Speed Freeks delivers high-orktane combat racing in the Warhammer 40,000 universe!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/consoletrailer_thumb3-sfk12xyxne.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
