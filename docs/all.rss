@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 May 2026 13:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 15:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Genestealer Cults]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/n2o417rj/warhammer-40000-faction-focus-genestealer-cults</link>
+            <guid>n2o417rj</guid>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Praise the Four-armed Emperor! It’s time to see the new detachments for the Genestealer Cults.]]></description>
+            <category domain="genestealer-cults">Genestealer Cults</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_gscfaction-may25-1-feature-fri8cyrqyh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – The Big Games LIVE]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hcmr1szw/new40k-the-big-games-live</link>
+            <guid>hcmr1szw</guid>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the new edition of Warhammer 40,000 in action for the first time.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_livegames-may25-1-feature-ehe6r0nsgf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Begin the revels with new Hedonites of Slaanesh reveals]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jvdwomhj/begin-the-revels-with-new-hedonites-of-slaanesh-reveals</link>
@@ -334,40 +356,6 @@ Thrust into a universe of relentless war, become the embodiment of bullet hell i
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wilson_skulls-trailer_thumbnail_social_1920x1080-0fxj0cdgea.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Mechanicus II – Launch Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pvkvbdcq/warhammer-40000-mechanicus-ii-launch-trailer-warhammer-skulls-2026</link>
-            <guid>pvkvbdcq</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Two factions, two campaigns, one epic conflict. Out now on Windows PC, PlayStation®5 & Xbox Series X|S.
-
-Steam: https://store.steampowered.com/app/25...
-PlayStation 5: https://store.playstation.com/en-us/c...
-Xbox: https://www.microsoft.com/store/produ...
-Epic: https://store.epicgames.com/p/warhamm...
-
-Watch the official launch trailer for Warhammer 40,000: Mechanicus II, centred on the bitter rivalry between Magos Dominus Faustinius and Vargard Nefershah as the Adeptus Mechanicus and the Necrons collide in a war for the fate of a world.
-
-Command the techno-religious forces of the Adeptus Mechanicus or lead the deathless legions of the Necrons across two full narrative campaigns, each offering its own distinct tactical and strategic challenges.
-
-Featuring turn-based tactical combat, strategic campaign decisions and the return of the acclaimed Mechanicus atmosphere and soundtrack.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/m2-launch-trailer-thumbnail-rvwrti978s.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Combat Cards | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xhz2xahj/warhammer-combat-cards-warhammer-skulls-2026</link>
-            <guid>xhz2xahj</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the fighting on Armageddon with a new Draft mode, new campaign, and Yarrick and Wazdakka Gutsmek arriving in-game. Download now, and use the code SKULLS26 to access some goodies!]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammercombatcards_skulls2026_thumbnail_02-mootkwiamc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
