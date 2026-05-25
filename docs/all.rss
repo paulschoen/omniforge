@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 24 May 2026 17:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 13:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Begin the revels with new Hedonites of Slaanesh reveals]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jvdwomhj/begin-the-revels-with-new-hedonites-of-slaanesh-reveals</link>
+            <guid>jvdwomhj</guid>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Seek more thrills with a new miniature, battletome, and boxed sets for Warhammer Age of Sigmar.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/25-05-1-feature-mofueghb8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Prepare to enter the Hive]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/okslab8z/sunday-preview-prepare-to-enter-the-hive</link>
@@ -356,18 +368,6 @@ Featuring turn-based tactical combat, strategic campaign decisions and the retur
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammercombatcards_skulls2026_thumbnail_02-mootkwiamc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Rust Console Edition - Warhammer 40,000 Pack Release Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/yif71lgg/rust-console-edition-warhammer-40000-pack-release-trailer-warhammer-skulls-2026</link>
-            <guid>yif71lgg</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rust Console Edition gets a new DLC inspired by the Death Korps of Krieg from Warhammer 40,000!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/null" length="0" type="image//null"/>
         </item>
     </channel>
 </rss>
