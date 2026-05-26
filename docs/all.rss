@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 25 May 2026 15:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 12:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 26th of May]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-26th-of-may</link>
+            <guid>xjxezlin</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-may26-1-feature-cpkqgc5z31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Genestealer Cults in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/1sh4mimv/faction-focus-genestealer-cults-in-new40k-warhammer-40000</link>
+            <guid>1sh4mimv</guid>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore three #New40k detachments for Genestealer Cult forces with our Warhammer 40,000 studio expert. These fresh rules will help you sneak entire hordes of faithful Neophytes towards your foes, as well as enhancing the lethality of your Purestrain Genestealers and more.]]></description>
+            <category domain="genestealer-cults">Genestealer Cults</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_genestealer-cults_thumbnail-bjtorqlmfz.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Genestealer Cults]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/n2o417rj/warhammer-40000-faction-focus-genestealer-cults</link>
@@ -66,6 +88,18 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may23-1-feature-4wjygo6wtw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Thousand Sons in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ovhcrwgu/faction-focus-thousand-sons-in-new40k-warhammer-40000</link>
+            <guid>ovhcrwgu</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our Warhammer 40,000 expert is back to guide Thousand Sons fans through three fresh #New40k detachments. Invigorate your sorcerers, flood the battlefield with mutants, and protect your forces with the power of the Warp – just as planned.]]></description>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_thousand-sons_thumbnail-q0cxfwijsc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Thousand Sons]]></title>
@@ -307,55 +341,6 @@ The Ultramarines have arrived in Warhammer 40,000: Battlesector. This legendary 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh40k_battlesector_yt_thumb-hjbl6a35ql.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Boltgun Boom – Reveal Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/f4osyrn3/warhammer-40000-boltgun-boom-reveal-trailer-warhammer-skulls-2026</link>
-            <guid>f4osyrn3</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer 40,000: Boltgun Boom is coming to iOS and Android in 2026.
-
-Fight through a massive single-player campaign across multiple worlds in this intense retro-inspired FPS set in the Warhammer 40,000 universe. Blast through relentless enemies with iconic weapons, brutal combat, fast movement, and non-stop action, fully optimised for mobile.
-
-• Intense retro-inspired FPS combat
-• Massive single-player campaign
-• Iconic Warhammer 40,000 weapons and enemies
-• Fast movement and brutal firefights
-• Mobile-optimised controls and gameplay
-• Premium experience with no ads or energy systems]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer_40000_boltgun_boom_thumbnail_eng-ixeyefzpoz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Boltgun 2 Demo OUT NOW | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/gr8hnshn/warhammer-40000-boltgun-2-demo-out-now-warhammer-skulls-2026</link>
-            <guid>gr8hnshn</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to
-purge!
-
-Warhammer 40,000 Boltgun 2 is coming to PC, PS5 & Xbox Series X|S in 2026.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/1920-x-1080-kalopdikeb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Survivors Skulls trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hkr2lfym/warhammer-survivors-skulls-trailer-warhammer-skulls-2026</link>
-            <guid>hkr2lfym</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[WISHLIST NOW - https://store.steampowered.com/app/36...
-
-Thrust into a universe of relentless war, become the embodiment of bullet hell in Warhammer Survivors, a fast-paced roguelite survivors game. Play as characters from the Warhammer 40,000 and Warhammer: Age of Sigmar universes, collect and upgrade iconic weapons and destroy endless swarms of enemies. Coming soon in 2026 on Steam, GOG, PlayStation 5, Xbox Series X|S, Nintendo Switch 1 and 2, Android and iOS devices.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wilson_skulls-trailer_thumbnail_social_1920x1080-0fxj0cdgea.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
