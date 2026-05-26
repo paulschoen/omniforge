@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 May 2026 14:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 16:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Faction Focus: Aeldari in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/kjxpyb8c/faction-focus-aeldari-in-new40k-warhammer-40000</link>
+            <guid>kjxpyb8c</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Leaping Harlequins, sniping rangers, fresh vehicle rules, and more – our Warhammer 40,000 expert guides you through #New40k detachments for Aeldari forces.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_aeldari_thumbnail-xpnalftuj5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Aeldari]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mf5t32uk/warhammer-40000-faction-focus-aeldari</link>
+            <guid>mf5t32uk</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The craftworlds sing, the Harlequins dance, and we respond with new detachments.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_aeldarifaction-may26-1-feature-qsguhwvet5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Kit Focus – Da Boyz of Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rhjzi8m0/new40k-kit-focus-da-boyz-of-armageddon</link>
@@ -295,46 +318,6 @@ Build up your warband, enter new battles and face the evolving threats. Will you
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ua_trailers_dow4_thumbnail-(1)-6jcfe3orxt.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV - Release Date & Post-Launch Roadmap Reveal Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bzxxllqq/warhammer-40000-dawn-of-war-iv-release-date-post-launch-roadmap-reveal-trailer</link>
-            <guid>bzxxllqq</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[PRE-ORDER NOW on Steam: https://store.steampowered.com/app/22...
-
-Just announced at Warhammer Skulls 2026, Warhammer 40,000: Dawn of War IV launches on September 17th, 2026!
-
-Join us as we break down everything you need to know, from release date and pre-orders to the different game editions available, plus a look ahead at the exciting content coming your way in our Year One Expansion Roadmap.
-
-Alongside two paid DLCs, The Blood Ravens Story Prologue and AFTERMATH, you can also expect a range of free post-launch content updates, including the return of fan-favourite Crusade mode later this year! 
-
-The Commander Edition includes:
-3-day early unlock (play starting September 14th)
-The Warhammer 40,000: Dawn of War IV Digital soundtrack
-Access to both upcoming paid DLCs (The Blood Ravens Story Prologue and AFTERMATH)
-
-Pre-orders are now live with a special 10% discount on both the Standard and Commander Editions, so be sure to secure your copy: 
-https://store.steampowered.com/app/22...]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/16x9-g3pkuotzke.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HELLDIVERS™ 2 x WARHAMMER 40,000 Announcement | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/2r0njk2j/helldiverstm-2-x-warhammer-40000-announcement-warhammer-skulls-2026</link>
-            <guid>2r0njk2j</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’re excited to announce a collaboration between HELLDIVERS™ 2 and Warhammer 40,000, bringing the next Legendary Warbond to the Galactic War later this year.
-
-More details coming soon.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/shark-warbond-announce-trailer-thumbnail-ysohml7o8q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
