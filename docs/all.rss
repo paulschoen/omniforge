@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 May 2026 12:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 14:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Kit Focus – Da Boyz of Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rhjzi8m0/new40k-kit-focus-da-boyz-of-armageddon</link>
+            <guid>rhjzi8m0</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look inside the new Ork Boyz kit from Warhammer 40,000: Armageddon.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orkboyzkitfocus-may26-1-feature-26pj2g7dpl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 26th of May]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-26th-of-may</link>
@@ -324,23 +335,6 @@ More details coming soon.]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/shark-warbond-announce-trailer-thumbnail-ysohml7o8q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Battlesector - Free to Try | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/powesv5w/warhammer-40000-battlesector-free-to-try-warhammer-skulls-2026</link>
-            <guid>powesv5w</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[To celebrate the launch of the new DLC and the Crusade 1.0 update, the Warhammer 40,000: Battlesector base game will be available to try on Steam for free from May 21st to May 28th and on Xbox and Windows store from May 21st to May 24th. This period allows all players to discover the game's evolving universe.
-
-Warhammer 40,000: Battlesector is a fast-paced turn-based strategy game set in the grim, dark universe of the 41st Millennium. Pick your force, develop your army, field mighty heroes and fight for victory using superior strategy, awesome abilities, and devastating weaponry.
-
-Ultramarines DLC:
-The Ultramarines have arrived in Warhammer 40,000: Battlesector. This legendary Chapter brings a massive roster of eighteen new units to the battlefield, embodying tactical perfection and unwavering discipline.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh40k_battlesector_yt_thumb-hjbl6a35ql.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
