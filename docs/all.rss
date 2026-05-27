@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 27 May 2026 15:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 16:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Hive premium edition and hardback update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r8x8lgfa/hive-premium-edition-and-hardback-update</link>
+            <guid>r8x8lgfa</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dan Abnett’s latest novel will be available on a print-on-demand basis]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/bl_hiveupdate-may27-1-feature-vzbsy1g3mg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Leagues of Votann]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/x94potly/warhammer-40000-faction-focus-leagues-of-votann</link>
@@ -282,23 +292,6 @@ The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the ha
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dt-interview_1280_720_2-b0wt4ifp8u.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide – Skitarii Class Reveal Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/70ih53fg/warhammer-40000-darktide-skitarii-class-reveal-trailer-warhammer-skulls-2026</link>
-            <guid>70ih53fg</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Skitarii class is coming to Warhammer 40,000: Darktide 23 June.
-
-Wishlist now
-► https://fatshark.games/08TKqZ
-
-The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the hands of heretics, the Skitarii Alpha Primus are elite operatives devoted to serving the will of the Omnissiah. They will annihilate all who stand in their way.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/skulls-reveal-trailer-thumbnail-fq44ilg8r5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
