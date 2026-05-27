@@ -4,11 +4,56 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 26 May 2026 16:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 15:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Leagues of Votann]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x94potly/warhammer-40000-faction-focus-leagues-of-votann</link>
+            <guid>x94potly</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Ancestors grant the Kin three new detachments.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_lovfaction-may27-1-feature-sfsfnlsevg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV Summer Season 2026 Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/mrx58eka/warhammer-tv-summer-season-2026-trailer-warhammer</link>
+            <guid>mrx58eka</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[🎬 The Warhammer+ summer season features awesome new animations, even more tabletop action, exclusive behind-the-scenes insights, and SO. MUCH. MORE.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Armageddon Battle Report Teaser | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/34ab4sao/new40k-armageddon-battle-report-teaser-warhammer-40000</link>
+            <guid>34ab4sao</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Battle Report’s first game of #New40k is FREE for every one on Warhammer TV! Experience every bit of this glorious new edition showdown – featuring every miniature from the Warhammer 40,000: Armageddon set, plus new terrain, and more – at WarhammerTV.com. 
+
+Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v02051-bobby-battle-report_16x9-byxaczcq0u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Battle Report FREE on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/icrokhmd/new40k-battle-report-free-on-warhammer-tv</link>
+            <guid>icrokhmd</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Head to Armageddon with new episodes of Battle Report, Brainboyz, and Black Library Book Club.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-may27-1-feature-z8j9a2g4ym.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Faction Focus: Aeldari in #New40k | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/kjxpyb8c/faction-focus-aeldari-in-new40k-warhammer-40000</link>
@@ -254,70 +299,6 @@ The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the ha
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/skulls-reveal-trailer-thumbnail-fq44ilg8r5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Space Marine 2 – Purgation Update Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ba5zauik/warhammer-40000-space-marine-2-purgation-update-trailer-warhammer-skulls-2026</link>
-            <guid>ba5zauik</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today’s Patch 13 comes with a new PvE mission, a major update to Siege Mode, and whole new sets of weapon and armour cosmetics, both free and paid.
-
-Focus Entertainment and Saber Interactive are excited to announce the release of the Purgation Update for their 2024 action game Warhammer 40,000: Space Marine 2 at today’s Warhammer Skulls festival. Available now free for all PlayStation 5, Xbox Series, and PC players, this update brings a host of free content and the long-awaited Iron Hands Chapter Pack.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_thumbnail_purgation_update_thumb_1920x1080-6z3jmymmmq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOTAL WAR: WARHAMMER 40,000 – INCOMING BROADCAST | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rjteocvf/total-war-warhammer-40000-incoming-broadcast-warhammer-skulls-2026</link>
-            <guid>rjteocvf</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[AUDIO LOG RECEIVED – ARMAGEDDON SECTOR UNDER XENOS INCURSION. THREAT LEVEL: TOTAL. WAR IS UPON US.
-// 17 CYCLES TO NEXT TRANSMISSION //
-
-=-=-=-=-=-=-=-=
-
-Revealed at WARHAMMER SKULLS – a critical sector of the Imperium and some familiar faces. Journey with us to our next reveal of information and gameplay for Total War: WARHAMMER 40,000
-
-Wishlist Total War: Warhammer 40,000 now:
-Steam – https://store.steampowered.com/app/41...  
-Xbox – https://www.microsoft.com/store/produ...   
-PlayStation – https://store.playstation.com/concept...]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/16x9-(1)-yksrlltaei.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Total War: WARHAMMER III – Bhashiva Character Pack | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/btmd85gj/total-war-warhammer-iii-bhashiva-character-pack-warhammer-skulls-2026</link>
-            <guid>btmd85gj</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The recently announced Bhashiva Character Pack for Total War: WARHAMMER III is live now!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/twwh3-bhashiva_launch-thumbnail-social_16x9-g9xdilckbv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Video Game Crossover Event – Tacticus and Dawn of War IV | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/6qylarrs/warhammer-40000-video-game-crossover-event-tacticus-and-dawn-of-war-iv-warhammer-skulls-2026</link>
-            <guid>6qylarrs</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[War escalates in Warhammer 40,000: Tacticus with the Warhammer 40,000: Dawn of War IV crossover!
-
-Take on the Primarch of the Dark Angels, Lion El’Jonson, as he enters the fray as a new Guild Raid boss in Warhammer 40,000: Tacticus. Plus, characters from Warhammer 40,000: Dawn of War IV arrive as playable Champions with Blood Ravens Scout Master, Captain Cyrus, and the time-bending Necron Chronomancer Thothmek.
-
-Build up your warband, enter new battles and face the evolving threats. Will you end the Necron threat in time or see the organic invaders purged? Play now!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ua_trailers_dow4_thumbnail-(1)-6jcfe3orxt.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
