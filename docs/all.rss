@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 28 May 2026 13:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 15:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Adeptus Mechanicus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/extdvyea/warhammer-40000-faction-focus-adeptus-mechanicus</link>
+            <guid>extdvyea</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s only logical to check out the new detachments for the followers of the Omnissiah.]]></description>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_admechfaction-may28-1-feature-kser6r1bos.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Chapter Approved deck – What is it and how does it work?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p3i6aa3h/the-chapter-approved-deck-what-is-it-and-how-does-it-work</link>
+            <guid>p3i6aa3h</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wage war your way in the new edition of Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_chapterapproved-may28-1-feature-e4zf7nv8lo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Conquest of the Coronid Deeps]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mhqof4kv/pages-from-the-black-books-the-conquest-of-the-coronid-deeps</link>
@@ -29,6 +50,18 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/bl_hiveupdate-may27-1-feature-vzbsy1g3mg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Leagues of Votann in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/dn9aaql5/faction-focus-leagues-of-votann-in-new40k-warhammer-40000</link>
+            <guid>dn9aaql5</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our Warhammer 40,000 studio expert takes you through three #New40k detachments that will see you deploying Sagitaurs, Hernkyn, Hearthguard, and more with increased battlefield effectiveness.]]></description>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_leagues-of-votann_thumbnail-y2frocowha.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Leagues of Votann]]></title>
@@ -244,48 +277,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_landspeederretrospective-may22-1-feature-uax1hcvhg2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Orruk Warclans]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gmuscolv/warhammer-art-through-the-years-orruk-warclans</link>
-            <guid>gmuscolv</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s mean, it’s green, and it needs to be seen – check out this collection of classic artwork.]]></description>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart34-may22-1-feature-n2vj0nrjdi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Chaos Gate – Deathwatch Announce Trailer | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nhorledz/warhammer-40000-chaos-gate-deathwatch-announce-trailer-warhammer-skulls-2026</link>
-            <guid>nhorledz</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take direct command of an elite Deathwatch Kill Team in the next chapter of the brutal, turn-based tactical RPG Chaos Gate saga! Lead your Deathwatch Space Marines into battle against the enemies of Humanity, supported by devoted agents of the Inquisition and Astra Militarum. Wage eternal war across hostile worlds, drive back deadly xenos hordes and resist the insidious and corrupting forces of Chaos.
-
-In the grim darkness of the far future, every decision matters.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/1920x1080_en-hc1be76sfo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster – Reveal Teaser | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/urnvo45j/warhammer-age-of-sigmar-deathmaster-reveal-teaser-warhammer-skulls-2026</link>
-            <guid>urnvo45j</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Play a sneaky & brutal Skaven Assassin in this new, refreshing but gritty take on the 2D Action platformer genre.
-
-Escape, kill, ascend and become a Deathmaster.
-Coming 2027.
-
-Wishlist Warhammer Age of Sigmar: Deathmaster now: https://store.steampowered.com/app/37...]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh_dm_thumbnail_1920x1080-7bgzgz3jco.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
