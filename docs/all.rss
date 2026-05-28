@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 27 May 2026 16:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 13:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Conquest of the Coronid Deeps]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mhqof4kv/pages-from-the-black-books-the-conquest-of-the-coronid-deeps</link>
+            <guid>mhqof4kv</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Horus takes his next steps on the long road to Terra.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore20-may28-1-feature-xfxivrxovm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hive premium edition and hardback update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r8x8lgfa/hive-premium-edition-and-hardback-update</link>
@@ -275,23 +286,6 @@ Wishlist Warhammer Age of Sigmar: Deathmaster now: https://store.steampowered.co
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh_dm_thumbnail_1920x1080-7bgzgz3jco.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide Devs Talk Skitarii Class | Warhammer Skulls 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/shh1nhkf/warhammer-40000-darktide-devs-talk-skitarii-class-warhammer-skulls-2026</link>
-            <guid>shh1nhkf</guid>
-            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Skitarii class is coming to Warhammer 40,000: Darktide 23 June! Hear from Fatshark devs on the latest addition to the game.
-
-Wishlist now
-► https://fatshark.games/08TKqZ
-
-The Adeptus Mechanicus will not see the secrets of Hive Tertium fall into the hands of heretics, the Skitarii Alpha Primus are elite operatives devoted to serving the will of the Omnissiah. They will annihilate all who stand in their way.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dt-interview_1280_720_2-b0wt4ifp8u.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
