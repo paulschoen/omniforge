@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 29 May 2026 13:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 16:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Faction Focus: Necrons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/numknigp/warhammer-40000-faction-focus-necrons</link>
+            <guid>numknigp</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new detachments the Crypteks have cooked up.]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_necronsfaction-may29-1-feature-030g76iyee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – The Steel Baron]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qngawnvx/chronicles-of-ruin-the-steel-baron</link>
@@ -267,18 +278,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may23-1-feature-4wjygo6wtw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Thousand Sons in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ovhcrwgu/faction-focus-thousand-sons-in-new40k-warhammer-40000</link>
-            <guid>ovhcrwgu</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our Warhammer 40,000 expert is back to guide Thousand Sons fans through three fresh #New40k detachments. Invigorate your sorcerers, flood the battlefield with mutants, and protect your forces with the power of the Warp – just as planned.]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_thousand-sons_thumbnail-q0cxfwijsc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
