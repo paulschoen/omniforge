@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 28 May 2026 15:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 11:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Disciples of Tzeentch]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f5q4wa26/warhammer-art-through-the-years-disciples-of-tzeentch</link>
+            <guid>f5q4wa26</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The only certainty is change. And great artwork.]]></description>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_whart35-may29-1-feature-aajuywgxnh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Adeptus Mechanicus]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/extdvyea/warhammer-40000-faction-focus-adeptus-mechanicus</link>
@@ -266,17 +277,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aeronauticaimperialistrailer-may22-1-feature-rzxikn9fbv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Death from the skies – Looking back at a legacy of Land Speeders]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/focsgyaf/death-from-the-skies-looking-back-at-a-legacy-of-land-speeders</link>
-            <guid>focsgyaf</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A short history of the Space Marines’ classic attack craft.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_landspeederretrospective-may22-1-feature-uax1hcvhg2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
