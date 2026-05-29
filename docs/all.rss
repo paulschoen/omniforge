@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 29 May 2026 11:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 13:01:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – The Steel Baron]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qngawnvx/chronicles-of-ruin-the-steel-baron</link>
+            <guid>qngawnvx</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Has the crew of a Cogfort bitten off more than it can chew? Find out in this free Warhammer Age of Sigmar fiction.]]></description>
+            <category domain="fiction">Fiction</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_cosfiction-mar15-1-feature-g6ganngoql.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch the first episode of Aeronautica Imperialis now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b3wnzkvn/watch-the-first-episode-of-aeronautica-imperialis-now</link>
+            <guid>b3wnzkvn</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take to the skies with the new Warhammer 40,000 animation.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aeronauticaimperialistrailer-may22-1-feature-8qegtlisqt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Disciples of Tzeentch]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f5q4wa26/warhammer-art-through-the-years-disciples-of-tzeentch</link>
@@ -19,6 +42,18 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart35-may29-1-feature-aajuywgxnh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faction Focus: Adeptus Mechanicus in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/keruacpb/mechanicus</link>
+            <guid>keruacpb</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ff_adeptus-mechanicus_thumbnail-hjqtf1ejqi.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Adeptus Mechanicus]]></title>
@@ -244,39 +279,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_thousand-sons_thumbnail-q0cxfwijsc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Thousand Sons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ka6kjyka/warhammer-40000-faction-focus-thousand-sons</link>
-            <guid>ka6kjyka</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wield the might of Tzeentch with three new detachments – just as planned.]]></description>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_tsfaction-may22-1-feature-e77xgrodah.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k rules – Da biggest and best Orks in da box]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uwdimgen/new40k-rules-da-biggest-and-best-orks-in-da-box</link>
-            <guid>uwdimgen</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[There are new Warhammer 40,000 rules for Ork characters.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orkrules-may22-1-feature-mcfsvz3occ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chocks away! New Aeronautica Imperialis trailer comes in to land]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uhwk90dw/chocks-away-new-aeronautica-imperialis-trailer-comes-in-to-land</link>
-            <guid>uhwk90dw</guid>
-            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the new Warhammer 40,000 animated trailer.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aeronauticaimperialistrailer-may22-1-feature-rzxikn9fbv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
