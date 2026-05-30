@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 29 May 2026 16:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 17:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Get ready for Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ot9sb3qu/get-ready-for-armageddon</link>
+            <guid>ot9sb3qu</guid>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prepare for the new edition of Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-may30-1-feature-otqr9rvimc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Necrons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/numknigp/warhammer-40000-faction-focus-necrons</link>
@@ -266,18 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-may24-1-feature-ne70flmpuq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Shake the battlefield with new tanks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3cak2ho1/saturday-pre-orders-shake-the-battlefield-with-new-tanks</link>
-            <guid>3cak2ho1</guid>
-            <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Add the Spartan Prometheus and Falchion to your Legiones Astartes army in Warhammer: The Horus Heresy.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-may23-1-feature-4wjygo6wtw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
