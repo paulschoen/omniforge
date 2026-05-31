@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 31 May 2026 16:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 17:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armageddon Interviews Incoming!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/7ahjc6bn/armageddon-interviews-incoming-warhammer-40000</link>
+            <guid>7ahjc6bn</guid>
+            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/teaser-thumbnail-qlpdjpsmxw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunday Preview – It’s almost Armageddon time]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lbzougdt/sunday-preview-its-almost-armageddon-time</link>
+            <guid>lbzougdt</guid>
+            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer 40,000: Armageddon boxed set is available for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may31-1-feature-cvwfeq7ydv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – New cinematic trailer drops]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/b0ic7nin/new40k-new-cinematic-trailer-drops</link>
@@ -251,29 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_gscfaction-may25-1-feature-fri8cyrqyh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – The Big Games LIVE]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hcmr1szw/new40k-the-big-games-live</link>
-            <guid>hcmr1szw</guid>
-            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the new edition of Warhammer 40,000 in action for the first time.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_livegames-may25-1-feature-ehe6r0nsgf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Begin the revels with new Hedonites of Slaanesh reveals]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jvdwomhj/begin-the-revels-with-new-hedonites-of-slaanesh-reveals</link>
-            <guid>jvdwomhj</guid>
-            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Seek more thrills with a new miniature, battletome, and boxed sets for Warhammer Age of Sigmar.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/25-05-1-feature-mofueghb8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
