@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 30 May 2026 17:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 16:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – New cinematic trailer drops]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b0ic7nin/new40k-new-cinematic-trailer-drops</link>
+            <guid>b0ic7nin</guid>
+            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the battle across the galaxy with an action-packed animated trailer for the new edition of Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_trailer-may31-1-feature-wzsf4qko17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get ready for Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ot9sb3qu/get-ready-for-armageddon</link>
@@ -264,18 +274,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/25-05-1-feature-mofueghb8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Prepare to enter the Hive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/okslab8z/sunday-preview-prepare-to-enter-the-hive</link>
-            <guid>okslab8z</guid>
-            <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how you can get hold of the Special Edition of Dan Abnett’s new Warhammer 40,000 novel.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may24-1-feature-ne70flmpuq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
