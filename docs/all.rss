@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 31 May 2026 17:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 11:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[June’s Miniature of the Month and collectible coin revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed</link>
+            <guid>q17dwwtt</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your free coin and miniature in store this month.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armageddon Interviews Incoming!]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/7ahjc6bn/armageddon-interviews-incoming-warhammer-40000</link>
@@ -265,17 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_genestealer-cults_thumbnail-bjtorqlmfz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Genestealer Cults]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n2o417rj/warhammer-40000-faction-focus-genestealer-cults</link>
-            <guid>n2o417rj</guid>
-            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Praise the Four-armed Emperor! It’s time to see the new detachments for the Genestealer Cults.]]></description>
-            <category domain="genestealer-cults">Genestealer Cults</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_gscfaction-may25-1-feature-fri8cyrqyh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
