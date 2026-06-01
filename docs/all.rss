@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 01 Jun 2026 14:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Decide the Fate of Hive Death Mire]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l8mt72x5/new40k-decide-the-fate-of-hive-death-mire</link>
+            <guid>l8mt72x5</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take part in the Global Battle for the chance to win a new army!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_deathmire-jun01-1-feature-lfv6o3zmag.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Round Table – Behind the scenes of the Space Marines]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wbgcleta/new40k-round-table-behind-the-scenes-of-the-space-marines</link>
+            <guid>wbgcleta</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how designers created the new miniatures.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun01-1-feature-wnwcsymgyk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Rules – Download the free Core Rules now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nhqt9wx3/new40k-rules-download-the-free-core-rules-now</link>
@@ -253,28 +275,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/ff_aeldari_thumbnail-xpnalftuj5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Aeldari]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mf5t32uk/warhammer-40000-faction-focus-aeldari</link>
-            <guid>mf5t32uk</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The craftworlds sing, the Harlequins dance, and we respond with new detachments.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_aeldarifaction-may26-1-feature-qsguhwvet5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Kit Focus – Da Boyz of Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rhjzi8m0/new40k-kit-focus-da-boyz-of-armageddon</link>
-            <guid>rhjzi8m0</guid>
-            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A look inside the new Ork Boyz kit from Warhammer 40,000: Armageddon.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orkboyzkitfocus-may26-1-feature-26pj2g7dpl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
