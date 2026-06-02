@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Jun 2026 13:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Round Table – Big thinkin’ about da Ork models]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fdmnvt1m/new40k-round-table-big-thinkin-about-da-ork-models</link>
+            <guid>fdmnvt1m</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Studio designers discuss the new Orks from Warhammer 40,000: Armageddon.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun02-1-feature-143qhfeft2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Rules – Ork datasheets from Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rtgp72pg/new40k-rules-ork-datasheets-from-armageddon</link>
+            <guid>rtgp72pg</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download the full package of Ork rules from the new boxed set.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_orkdatacards-jun02-1-feature-l4cfszrsc0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 2nd of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-2nd-of-june</link>
@@ -249,30 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Armageddon Battle Report Teaser | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/34ab4sao/new40k-armageddon-battle-report-teaser-warhammer-40000</link>
-            <guid>34ab4sao</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Battle Report’s first game of #New40k is FREE for every one on Warhammer TV! Experience every bit of this glorious new edition showdown – featuring every miniature from the Warhammer 40,000: Armageddon set, plus new terrain, and more – at WarhammerTV.com. 
-
-Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v02051-bobby-battle-report_16x9-byxaczcq0u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Battle Report FREE on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/icrokhmd/new40k-battle-report-free-on-warhammer-tv</link>
-            <guid>icrokhmd</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Head to Armageddon with new episodes of Battle Report, Brainboyz, and Black Library Book Club.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-may27-1-feature-z8j9a2g4ym.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
