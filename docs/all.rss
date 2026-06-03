@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Jun 2026 10:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 13:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Inside White Dwarf 525: Walking towers and towering walkers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/koczm3mk/inside-white-dwarf-525-walking-towers-and-towering-walkers</link>
+            <guid>koczm3mk</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cogforts and Dominus Knights rule the roost in June’s issue of the official Warhammer magazine.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wd525-june03-1-feature-bao1ac6mnl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV goes to Armageddon with three new episodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3igubyxf/warhammer-tv-goes-to-armageddon-with-three-new-episodes</link>
+            <guid>3igubyxf</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for #New40k with painting, rules, and lore.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whplus-jun03-1-feature-pmzmbv8y6i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Round Table – Part 2: The Orks Miniatures | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ijszsvtf/new40k-round-table-part-2-the-orks-miniatures-warhammer-40000</link>
@@ -258,28 +278,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_cosfiction-mar15-1-feature-g6ganngoql.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch the first episode of Aeronautica Imperialis now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b3wnzkvn/watch-the-first-episode-of-aeronautica-imperialis-now</link>
-            <guid>b3wnzkvn</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take to the skies with the new Warhammer 40,000 animation.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aeronauticaimperialistrailer-may22-1-feature-8qegtlisqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Disciples of Tzeentch]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f5q4wa26/warhammer-art-through-the-years-disciples-of-tzeentch</link>
-            <guid>f5q4wa26</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The only certainty is change. And great artwork.]]></description>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_whart35-may29-1-feature-aajuywgxnh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
