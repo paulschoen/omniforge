@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Jun 2026 13:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 15:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Round Table – Part 3: The Lore of Armageddon | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/y32gnzqe/new40k-round-table-part-3-the-lore-of-armageddon-warhammer-40000</link>
+            <guid>y32gnzqe</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore Operation Imperator and the latest Armageddon lore updates with the Warhammer 40,000 Studio team in today’s behind the scenes round table interview.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_thumbnail_armageddon_lore-pulfg5xu4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Round Table – The lore of Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wmgvv3rx/new40k-round-table-the-lore-of-armageddon</link>
+            <guid>wmgvv3rx</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What happens in Operation Imperator?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo3-jun03-1-feature-isfharxmax.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside White Dwarf 525: Walking towers and towering walkers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/koczm3mk/inside-white-dwarf-525-walking-towers-and-towering-walkers</link>
@@ -255,29 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/faction_focus_necrons_thumbnail-knhnpoiced.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Necrons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/numknigp/warhammer-40000-faction-focus-necrons</link>
-            <guid>numknigp</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what new detachments the Crypteks have cooked up.]]></description>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_necronsfaction-may29-1-feature-030g76iyee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Steel Baron]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qngawnvx/chronicles-of-ruin-the-steel-baron</link>
-            <guid>qngawnvx</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Has the crew of a Cogfort bitten off more than it can chew? Find out in this free Warhammer Age of Sigmar fiction.]]></description>
-            <category domain="fiction">Fiction</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_cosfiction-mar15-1-feature-g6ganngoql.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
