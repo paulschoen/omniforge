@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 02 Jun 2026 15:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 10:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Round Table – Part 2: The Orks Miniatures | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ijszsvtf/new40k-round-table-part-2-the-orks-miniatures-warhammer-40000</link>
+            <guid>ijszsvtf</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Part two of this five-part interview series sees the Warhammer 40,000 studio team discuss what went into designing the Ork miniatures inside the Warhammer 40,000: Armageddon new edition launch set.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_thumbnail_orks-6c9i7liopr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Round Table – Big thinkin’ about da Ork models]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fdmnvt1m/new40k-round-table-big-thinkin-about-da-ork-models</link>
@@ -20,6 +33,16 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun02-1-feature-143qhfeft2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer TV Summer Season 2026 Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/mrx58eka/warhammer-tv-summer-season-2026-trailer-warhammer</link>
+            <guid>mrx58eka</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[🎬 The Warhammer+ summer season features awesome new animations, even more tabletop action, exclusive behind-the-scenes insights, and SO. MUCH. MORE.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[#New40k Rules – Ork datasheets from Armageddon]]></title>
@@ -34,6 +57,19 @@
             <enclosure url="https://assets.warhammer-community.com/40k_orkdatacards-jun02-1-feature-l4cfszrsc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kit Focus – Cogfort | Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ljd8eye6/kit-focus-cogfort-warhammer-age-of-sigmar</link>
+            <guid>ljd8eye6</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cogforts are hulking, mobile towers, carrying massive cannons and a highly trained crew that are ready to crush their foes under iron feet.
+The Cogfort has a huge array of options to choose from in the box. With that in mind, we thought it’d be really fun to go through the process of building it and showcase some of those awesome options. Tune in and follow along as Ollie builds this incredible miniature.
+If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/cogfort-kit-focus-thumbnail-dvhugiiqkn.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[The Rumour Engine – 2nd of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-2nd-of-june</link>
             <guid>xjxezlin</guid>
@@ -42,6 +78,17 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/rumourengine-jun02-1-feature-fmyaksuh7i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Siege of Death Mire – #New40k Global Battle Announcement | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ofek1ofr/the-siege-of-death-mire-new40k-global-battle-announcement-warhammer-40000</link>
+            <guid>ofek1ofr</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Help determine the fate of a vital hive city on Armageddon – and get a chance to win a new army – with the Siege of Death Mire,  a new Warhammer 40,000 Global Battle event.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_deathmire_16x9-cud86fzo3d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#New40k – Decide the Fate of Hive Death Mire]]></title>
@@ -66,6 +113,19 @@
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun01-1-feature-wnwcsymgyk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#New40k Round Table – Part 1: The Space Marines Miniatures | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/d7nlzf7o/new40k-round-table-part-1-the-space-marines-miniatures-warhammer-40000</link>
+            <guid>d7nlzf7o</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[In part one of this five-part series, the Warhammer 40,000 studio team chats about the awesome new Space Marines inside the Warhammer 40,000: Armageddon new edition launch set.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_round_table_spacemarines_thumbnail_ep1-lwlifuvgtd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#New40k Rules – Download the free Core Rules now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nhqt9wx3/new40k-rules-download-the-free-core-rules-now</link>
             <guid>nhqt9wx3</guid>
@@ -87,6 +147,17 @@
             <enclosure url="https://assets.warhammer-community.com/aos_ghb-jun01-1-feature-wvho2hkagr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#New40k Core Rules – What's Changed? | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/dbzrfuew/new40k-core-rules-whats-changed-warhammer-40000</link>
+            <guid>dbzrfuew</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Eddie talks through some of the key changes to the Warhammer 40,000 new edition Core Rules, including updates to missions, movement, and loads more!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_whats_changed_rules_thumbnail-2tl2j3gw9l.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[June’s Miniature of the Month and collectible coin revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed</link>
             <guid>q17dwwtt</guid>
@@ -96,6 +167,17 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Peace Amongst the Stars | Warhammer 40,000 Official Cinematic Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/i9xszdnf/no-peace-amongst-the-stars-warhammer-40000-official-cinematic-trailer</link>
+            <guid>i9xszdnf</guid>
+            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the 41st Millennium, there is no peace amongst the stars – only an eternity of carnage and slaughter, and the laughter of thirsting gods. Forget the power of technology and science. Forget the promise of progress and understanding. In the grim darkness of the far future, there is only war.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_cinematic_thumbnail_16x9-i1rovh283x.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Armageddon Interviews Incoming!]]></title>
@@ -143,6 +225,18 @@
             <enclosure url="https://assets.warhammer-community.com/preorders-may30-1-feature-otqr9rvimc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Faction Focus: Necrons in #New40k | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tnlm4b0a/faction-focus-necrons-in-new40k-warhammer-40000</link>
+            <guid>tnlm4b0a</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rouse your Necron dynasties from their slumber with all new Protocols, Empowered Engines, and more. Our Warhammer 40,000 expert takes you through three #New40k detachments you can unleash with your Necron forces.]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/faction_focus_necrons_thumbnail-knhnpoiced.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Warhammer 40,000 Faction Focus: Necrons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/numknigp/warhammer-40000-faction-focus-necrons</link>
             <guid>numknigp</guid>
@@ -186,93 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_whart35-may29-1-feature-aajuywgxnh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Adeptus Mechanicus in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/keruacpb/mechanicus</link>
-            <guid>keruacpb</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_adeptus-mechanicus_thumbnail-hjqtf1ejqi.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Adeptus Mechanicus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/extdvyea/warhammer-40000-faction-focus-adeptus-mechanicus</link>
-            <guid>extdvyea</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s only logical to check out the new detachments for the followers of the Omnissiah.]]></description>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_admechfaction-may28-1-feature-kser6r1bos.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Chapter Approved deck – What is it and how does it work?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p3i6aa3h/the-chapter-approved-deck-what-is-it-and-how-does-it-work</link>
-            <guid>p3i6aa3h</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wage war your way in the new edition of Warhammer 40,000.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_chapterapproved-may28-1-feature-e4zf7nv8lo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Conquest of the Coronid Deeps]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mhqof4kv/pages-from-the-black-books-the-conquest-of-the-coronid-deeps</link>
-            <guid>mhqof4kv</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Horus takes his next steps on the long road to Terra.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/thh_blackbookslore20-may28-1-feature-xfxivrxovm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hive premium edition and hardback update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r8x8lgfa/hive-premium-edition-and-hardback-update</link>
-            <guid>r8x8lgfa</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dan Abnett’s latest novel will be available on a print-on-demand basis]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/bl_hiveupdate-may27-1-feature-vzbsy1g3mg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Leagues of Votann in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dn9aaql5/faction-focus-leagues-of-votann-in-new40k-warhammer-40000</link>
-            <guid>dn9aaql5</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Our Warhammer 40,000 studio expert takes you through three #New40k detachments that will see you deploying Sagitaurs, Hernkyn, Hearthguard, and more with increased battlefield effectiveness.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ff_leagues-of-votann_thumbnail-y2frocowha.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Faction Focus: Leagues of Votann]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x94potly/warhammer-40000-faction-focus-leagues-of-votann</link>
-            <guid>x94potly</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Ancestors grant the Kin three new detachments.]]></description>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_lovfaction-may27-1-feature-sfsfnlsevg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Summer Season 2026 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/mrx58eka/warhammer-tv-summer-season-2026-trailer-warhammer</link>
-            <guid>mrx58eka</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[🎬 The Warhammer+ summer season features awesome new animations, even more tabletop action, exclusive behind-the-scenes insights, and SO. MUCH. MORE.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
