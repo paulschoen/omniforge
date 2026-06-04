@@ -4,11 +4,48 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Jun 2026 14:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 16:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Rules – Space Marines datasheets from Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nnyskcbr/new40k-rules-space-marines-datasheets-from-armageddon</link>
+            <guid>nnyskcbr</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download the full package of Space Marines rules from the new Warhammer 40,000 boxed set.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_smdatacards-jun04-1-feature-cqg2vuqf9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Round Table – Part 4: Painting the Armageddon Miniatures | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/m0kxwtvv/new40k-round-table-part-4-painting-the-armageddon-miniatures-warhammer-40000</link>
+            <guid>m0kxwtvv</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today’s round table interview brings you top painting tips for the Warhammer 40,000: Armageddon new edition launch set directly from the ’Eavy Metal team.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/new40k_roundtable_thumbnail_painting-cnlzb4bre9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Round Table – Painting the Armageddon miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6jlnkwlr/new40k-round-table-painting-the-armageddon-miniatures</link>
+            <guid>6jlnkwlr</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The ’Eavy Metal team discuss the new Warhammer 40,000 boxed set.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo4-jun04-1-feature-vmazhyfjft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Blanche]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/956mm03t/john-blanche</link>
@@ -240,41 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_cinematic_thumbnail_16x9-i1rovh283x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armageddon Interviews Incoming!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/7ahjc6bn/armageddon-interviews-incoming-warhammer-40000</link>
-            <guid>7ahjc6bn</guid>
-            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/teaser-thumbnail-qlpdjpsmxw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – It’s almost Armageddon time]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lbzougdt/sunday-preview-its-almost-armageddon-time</link>
-            <guid>lbzougdt</guid>
-            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer 40,000: Armageddon boxed set is available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-may31-1-feature-cvwfeq7ydv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – New cinematic trailer drops]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b0ic7nin/new40k-new-cinematic-trailer-drops</link>
-            <guid>b0ic7nin</guid>
-            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the battle across the galaxy with an action-packed animated trailer for the new edition of Warhammer 40,000.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_trailer-may31-1-feature-wzsf4qko17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
