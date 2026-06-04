@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 03 Jun 2026 15:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 12:59:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Opens in Kraków, Atlanta, and Palm Springs announced]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9bi6zsmk/warhammer-opens-in-krakow-atlanta-and-palm-springs-announced</link>
+            <guid>9bi6zsmk</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Grand Narrative details, and the first-ever Warhammer Open in Poland.]]></description>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whopens-jun03-1-feature-n6dbwkbmpk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Round Table – Part 3: The Lore of Armageddon | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/y32gnzqe/new40k-round-table-part-3-the-lore-of-armageddon-warhammer-40000</link>
@@ -265,18 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-may30-1-feature-otqr9rvimc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Faction Focus: Necrons in #New40k | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tnlm4b0a/faction-focus-necrons-in-new40k-warhammer-40000</link>
-            <guid>tnlm4b0a</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rouse your Necron dynasties from their slumber with all new Protocols, Empowered Engines, and more. Our Warhammer 40,000 expert takes you through three #New40k detachments you can unleash with your Necron forces.]]></description>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/faction_focus_necrons_thumbnail-knhnpoiced.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
