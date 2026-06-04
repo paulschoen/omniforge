@@ -4,11 +4,19 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Jun 2026 12:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 14:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[John Blanche]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/956mm03t/john-blanche</link>
+            <guid>956mm03t</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/jb-tribute-feat2-9yjcbolmt7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Opens in Kraków, Atlanta, and Palm Springs announced]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9bi6zsmk/warhammer-opens-in-krakow-atlanta-and-palm-springs-announced</link>
@@ -267,16 +275,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_trailer-may31-1-feature-wzsf4qko17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get ready for Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ot9sb3qu/get-ready-for-armageddon</link>
-            <guid>ot9sb3qu</guid>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Prepare for the new edition of Warhammer 40,000.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-may30-1-feature-otqr9rvimc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
