@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 04 Jun 2026 16:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 11:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scramble! New Aeronautica Imperialis trailer incoming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/klqaquux/scramble-new-aeronautica-imperialis-trailer-incoming</link>
+            <guid>klqaquux</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new Warhammer 40,000 animated trailer.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/wh-_aeroep2trailer-jun05-1-feature-b6mtiacfia.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Rules – Space Marines datasheets from Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nnyskcbr/new40k-rules-space-marines-datasheets-from-armageddon</link>
@@ -266,17 +277,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Peace Amongst the Stars | Warhammer 40,000 Official Cinematic Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/i9xszdnf/no-peace-amongst-the-stars-warhammer-40000-official-cinematic-trailer</link>
-            <guid>i9xszdnf</guid>
-            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[In the 41st Millennium, there is no peace amongst the stars – only an eternity of carnage and slaughter, and the laughter of thirsting gods. Forget the power of technology and science. Forget the promise of progress and understanding. In the grim darkness of the far future, there is only war.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_cinematic_thumbnail_16x9-i1rovh283x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
