@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Jun 2026 12:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 13:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Warhammer staff paint Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/z6nokepr/new40k-warhammer-staff-paint-armageddon</link>
+            <guid>z6nokepr</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We pinched our co-workers' Warhammer 40,000 projects. For fun. Take a look!]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_staffpainted-jun05-1-feature-qzgxupkg40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeronautica Imperialis – Episode 2: Official Trailer – Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/yqhtvnlp/aeronautica-imperialis-episode-2-official-trailer-warhammer</link>
@@ -267,17 +279,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_ghb-jun01-1-feature-wvho2hkagr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Core Rules – What's Changed? | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dbzrfuew/new40k-core-rules-whats-changed-warhammer-40000</link>
-            <guid>dbzrfuew</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Eddie talks through some of the key changes to the Warhammer 40,000 new edition Core Rules, including updates to missions, movement, and loads more!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_whats_changed_rules_thumbnail-2tl2j3gw9l.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
