@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Jun 2026 13:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 15:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k Round Table – Part 5: Creating a New Edition | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/iadkgt9j/new40k-round-table-part-5-creating-a-new-edition-warhammer-40000</link>
+            <guid>iadkgt9j</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get behind-the-scenes insights into #New40k rules direct from the team that wrote them in today's round table interview!]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/thumbnail_roundtable_new40k_rules-fftqvkiwgm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k Round Table – Creating a new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jntx2tfu/new40k-round-table-creating-a-new-edition</link>
+            <guid>jntx2tfu</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer studio designers discuss new rules from the 11th edition of Warhammer 40,000.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo5-jun05-1-feature-xmnv44nlsc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Warhammer staff paint Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/z6nokepr/new40k-warhammer-staff-paint-armageddon</link>
@@ -258,27 +281,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_round_table_spacemarines_thumbnail_ep1-lwlifuvgtd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Rules – Download the free Core Rules now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nhqt9wx3/new40k-rules-download-the-free-core-rules-now</link>
-            <guid>nhqt9wx3</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the 11th edition Core Rules today.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_corerulesdownload-jun01-1-feature-glxi5sdzjr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Head to Aqshy with the new General’s Handbook]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yb8viq2m/head-to-aqshy-with-the-new-generals-handbook</link>
-            <guid>yb8viq2m</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Conquer the Realm of Fire with new rules, battleplans, battle tactics, and more.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_ghb-jun01-1-feature-wvho2hkagr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
