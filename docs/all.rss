@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Jun 2026 11:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 12:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aeronautica Imperialis – Episode 2: Official Trailer – Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/yqhtvnlp/aeronautica-imperialis-episode-2-official-trailer-warhammer</link>
+            <guid>yqhtvnlp</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imperial pilots must turn the tables on a seemingly unstoppable enemy in episode 2 of Aeronautica Imperialis.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-ep-2-trailer-thumbnail-ffotiv13jm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scramble! New Aeronautica Imperialis trailer incoming]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/klqaquux/scramble-new-aeronautica-imperialis-trailer-incoming</link>
@@ -266,17 +278,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_whats_changed_rules_thumbnail-2tl2j3gw9l.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[June’s Miniature of the Month and collectible coin revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed</link>
-            <guid>q17dwwtt</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your free coin and miniature in store this month.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
