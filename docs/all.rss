@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 05 Jun 2026 15:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 09:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Warhammer 40,000: Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hjdxp86f/saturday-pre-orders-warhammer-40000-armageddon</link>
+            <guid>hjdxp86f</guid>
+            <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pre-order the launch box for the new edition today.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="orks">Orks</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/preorders-jun06-1-feature-z0m7odk4ua.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k Round Table – Part 5: Creating a New Edition | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/iadkgt9j/new40k-round-table-part-5-creating-a-new-edition-warhammer-40000</link>
@@ -268,19 +283,6 @@ If you enjoyed this and want to learn more, our YouTube channel has an array of 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun01-1-feature-wnwcsymgyk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Part 1: The Space Marines Miniatures | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/d7nlzf7o/new40k-round-table-part-1-the-space-marines-miniatures-warhammer-40000</link>
-            <guid>d7nlzf7o</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[In part one of this five-part series, the Warhammer 40,000 studio team chats about the awesome new Space Marines inside the Warhammer 40,000: Armageddon new edition launch set.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_round_table_spacemarines_thumbnail_ep1-lwlifuvgtd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
