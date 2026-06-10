@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Jun 2026 03:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 15:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – World Champion’s top 5 changes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8dl5ikuv/new40k-world-champions-top-5-changes</link>
+            <guid>8dl5ikuv</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Richard Siegler talks through his favourite rules changes for Warhammer 40,000.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_champ-jun10-1-feature-n8dwsyezwc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can Eldrad Ulthran overcome Mortarion on Battle Report?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ee4cxlyn/can-eldrad-ulthran-overcome-mortarion-on-battle-report</link>
@@ -276,18 +287,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Rules – Ork datasheets from Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rtgp72pg/new40k-rules-ork-datasheets-from-armageddon</link>
-            <guid>rtgp72pg</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the full package of Ork rules from the new boxed set.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_orkdatacards-jun02-1-feature-l4cfszrsc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
