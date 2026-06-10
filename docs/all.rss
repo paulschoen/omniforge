@@ -4,11 +4,72 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 06 Jun 2026 09:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 03:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Can Eldrad Ulthran overcome Mortarion on Battle Report?]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ee4cxlyn/can-eldrad-ulthran-overcome-mortarion-on-battle-report</link>
+            <guid>ee4cxlyn</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New episodes drop on Warhammer TV, including a game of Warhammer 40,000, Commissar Yarrick lore, and more.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_jun09-1-feature-feawh0lcjg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 9th of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-9th-of-june</link>
+            <guid>kpd1gsu5</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/rumourengine-jun09-1-feature-b0xlgln0w6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – Download new Space Marine Faction Packs today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2ekfivpk/new40k-download-new-space-marine-faction-packs-today</link>
+            <guid>2ekfivpk</guid>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Warhammer 40,000 detachments and rules updates for Space Marine factions.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="grey-knights">Grey Knights</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download1_marines-jun08-1-feature-htvfzngnnn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New MkIV Space Marines deploy to the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy</link>
+            <guid>egzsv8co</guid>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic power armour reborn with updated miniatures for Warhammer: The Horus Heresy.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/thh_mkivgroup-jun08-1-feature-6ijfrdra5r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunday Preview – Dawn of the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition</link>
+            <guid>s7gr9dmd</guid>
+            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun07-1-feature-tdyld0rp59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Warhammer 40,000: Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hjdxp86f/saturday-pre-orders-warhammer-40000-armageddon</link>
@@ -227,62 +288,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_orkdatacards-jun02-1-feature-l4cfszrsc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kit Focus – Cogfort | Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ljd8eye6/kit-focus-cogfort-warhammer-age-of-sigmar</link>
-            <guid>ljd8eye6</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cogforts are hulking, mobile towers, carrying massive cannons and a highly trained crew that are ready to crush their foes under iron feet.
-The Cogfort has a huge array of options to choose from in the box. With that in mind, we thought it’d be really fun to go through the process of building it and showcase some of those awesome options. Tune in and follow along as Ollie builds this incredible miniature.
-If you enjoyed this and want to learn more, our YouTube channel has an array of beginner-friendly videos to get you started.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/cogfort-kit-focus-thumbnail-dvhugiiqkn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 2nd of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-2nd-of-june</link>
-            <guid>xjxezlin</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-jun02-1-feature-fmyaksuh7i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire – #New40k Global Battle Announcement | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ofek1ofr/the-siege-of-death-mire-new40k-global-battle-announcement-warhammer-40000</link>
-            <guid>ofek1ofr</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Help determine the fate of a vital hive city on Armageddon – and get a chance to win a new army – with the Siege of Death Mire,  a new Warhammer 40,000 Global Battle event.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_deathmire_16x9-cud86fzo3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Decide the Fate of Hive Death Mire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l8mt72x5/new40k-decide-the-fate-of-hive-death-mire</link>
-            <guid>l8mt72x5</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take part in the Global Battle for the chance to win a new army!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_deathmire-jun01-1-feature-lfv6o3zmag.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Behind the scenes of the Space Marines]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wbgcleta/new40k-round-table-behind-the-scenes-of-the-space-marines</link>
-            <guid>wbgcleta</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how designers created the new miniatures.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun01-1-feature-wnwcsymgyk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
