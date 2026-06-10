@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Jun 2026 16:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 21:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -37,6 +37,25 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_champ-jun10-1-feature-n8dwsyezwc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – Download new Xenos Faction Packs today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fchkklcq/new40k-download-new-xenos-faction-packs-today</link>
+            <guid>fchkklcq</guid>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Updated Warhammer 40,000 rules for Orks, Aeldari, T’au Empire, and more.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="drukhari">Drukhari</category>
+            <category domain="genestealer-cults">Genestealer Cults</category>
+            <category domain="leagues-of-votann">Leagues of Votann</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="orks">Orks</category>
+            <category domain="tau-empire">T'au Empire</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download2_xenos-jun09-1-feature-xytynmb4lg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Can Eldrad Ulthran overcome Mortarion on Battle Report?]]></title>
@@ -283,18 +302,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_thumbnail_orks-6c9i7liopr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Big thinkin’ about da Ork models]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fdmnvt1m/new40k-round-table-big-thinkin-about-da-ork-models</link>
-            <guid>fdmnvt1m</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer Studio designers discuss the new Orks from Warhammer 40,000: Armageddon.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun02-1-feature-143qhfeft2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
