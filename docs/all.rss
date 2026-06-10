@@ -4,11 +4,29 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Jun 2026 15:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 16:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Download new Chaos Faction Packs today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2wzoc1fz/new40k-download-new-chaos-faction-packs-today</link>
+            <guid>2wzoc1fz</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get updated Warhammer 40,000 rules for Chaos Space Marines, Daemons, Chaos Knights, and more.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="chaos-daemons">Chaos Daemons</category>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="emperors-children">Emperor's Children</category>
+            <category domain="death-guard">Death Guard</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download3_chaos-jun10-1-feature-9epbqkzawz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – World Champion’s top 5 changes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8dl5ikuv/new40k-world-champions-top-5-changes</link>
@@ -277,16 +295,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo1-jun02-1-feature-143qhfeft2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Summer Season 2026 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/mrx58eka/warhammer-tv-summer-season-2026-trailer-warhammer</link>
-            <guid>mrx58eka</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[🎬 The Warhammer+ summer season features awesome new animations, even more tabletop action, exclusive behind-the-scenes insights, and SO. MUCH. MORE.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/image-jibmhz0wxa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
