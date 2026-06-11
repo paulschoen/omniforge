@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 10 Jun 2026 21:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 13:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The White Scars]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fzsbcntg/pages-from-the-black-books-the-white-scars</link>
+            <guid>fzsbcntg</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get on your bike and learn more about the V Legion.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/thh_blackbookslore21-jun11-1-feature-3gy6j2b8eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – Download new Chaos Faction Packs today]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2wzoc1fz/new40k-download-new-chaos-faction-packs-today</link>
@@ -289,19 +300,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whplus-jun03-1-feature-pmzmbv8y6i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Part 2: The Orks Miniatures | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ijszsvtf/new40k-round-table-part-2-the-orks-miniatures-warhammer-40000</link>
-            <guid>ijszsvtf</guid>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Part two of this five-part interview series sees the Warhammer 40,000 studio team discuss what went into designing the Ork miniatures inside the Warhammer 40,000: Armageddon new edition launch set.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_thumbnail_orks-6c9i7liopr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
