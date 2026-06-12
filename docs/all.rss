@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 11 Jun 2026 13:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 13:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Kharadron Overlords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ymcjqltb/warhammer-art-through-the-years-kharadron-overlords</link>
+            <guid>ymcjqltb</guid>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Code demands that you look at these classic pieces of artwork.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/aos_whart36-jun12-1-feature-aqz3evulg3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aeronautica Imperialis episode two, reporting in]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eenpekmy/aeronautica-imperialis-episode-two-reporting-in</link>
+            <guid>eenpekmy</guid>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the Imperial Navy take to the skies again in the second episode of the animated series.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_aeroep2trailer-jul05-1-feature-8iggpxlupa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The White Scars]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fzsbcntg/pages-from-the-black-books-the-white-scars</link>
@@ -280,26 +302,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo3-jun03-1-feature-isfharxmax.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 525: Walking towers and towering walkers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/koczm3mk/inside-white-dwarf-525-walking-towers-and-towering-walkers</link>
-            <guid>koczm3mk</guid>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cogforts and Dominus Knights rule the roost in June’s issue of the official Warhammer magazine.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wd525-june03-1-feature-bao1ac6mnl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV goes to Armageddon with three new episodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3igubyxf/warhammer-tv-goes-to-armageddon-with-three-new-episodes</link>
-            <guid>3igubyxf</guid>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for #New40k with painting, rules, and lore.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whplus-jun03-1-feature-pmzmbv8y6i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
