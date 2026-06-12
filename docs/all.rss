@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 12 Jun 2026 13:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 15:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Download the new Event Companions today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lszdpzmc/new40k-download-the-new-event-companions-today</link>
+            <guid>lszdpzmc</guid>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Event rules and terrain layouts for the new edition of Warhammer 40,000.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="events">Events</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Kharadron Overlords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ymcjqltb/warhammer-art-through-the-years-kharadron-overlords</link>
@@ -291,17 +303,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/new40k_thumbnail_armageddon_lore-pulfg5xu4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – The lore of Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wmgvv3rx/new40k-round-table-the-lore-of-armageddon</link>
-            <guid>wmgvv3rx</guid>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What happens in Operation Imperator?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo3-jun03-1-feature-isfharxmax.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
