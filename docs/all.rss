@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 13 Jun 2026 17:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 17:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Hedonites head into battle along with a new General’s Handbook]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook</link>
+            <guid>0y4dh0xg</guid>
+            <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Next week’s pre-orders include Hedonites of Slaanesh, Skaven, and a new edition of False Gods.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – #New40k rules, card packs, and more]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/adciuo3f/saturday-pre-orders-new40k-rules-card-packs-and-more</link>
@@ -292,18 +305,6 @@
             <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/jb-tribute-feat2-9yjcbolmt7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Opens in Kraków, Atlanta, and Palm Springs announced]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9bi6zsmk/warhammer-opens-in-krakow-atlanta-and-palm-springs-announced</link>
-            <guid>9bi6zsmk</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Grand Narrative details, and the first-ever Warhammer Open in Poland.]]></description>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whopens-jun03-1-feature-n6dbwkbmpk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
