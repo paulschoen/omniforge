@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 15 Jun 2026 15:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 16:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer World unveils a #New40k diorama]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l7rtsi47/warhammer-world-unveils-a-new40k-diorama</link>
+            <guid>l7rtsi47</guid>
+            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the Space Marines as they go on the offensive against the Orks.]]></description>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_whwdiorama-jun15-1-feature-9bljh7vexm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Warhammer 40,000 Battleforces Revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/n5pspedx/new-warhammer-40000-battleforces-revealed</link>
@@ -296,18 +309,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/wh-_aeroep2trailer-jun05-1-feature-b6mtiacfia.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Rules – Space Marines datasheets from Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nnyskcbr/new40k-rules-space-marines-datasheets-from-armageddon</link>
-            <guid>nnyskcbr</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the full package of Space Marines rules from the new Warhammer 40,000 boxed set.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_smdatacards-jun04-1-feature-cqg2vuqf9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
