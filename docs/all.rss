@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 14 Jun 2026 17:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 12:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[#New40k – Points, apps, and updates incoming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8wi6x7nq/new40k-points-apps-and-updates-incoming</link>
+            <guid>8wi6x7nq</guid>
+            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming for the new edition of Warhammer 40,000.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Hedonites head into battle along with a new General’s Handbook]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook</link>
@@ -297,14 +307,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo4-jun04-1-feature-vmazhyfjft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Blanche]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/956mm03t/john-blanche</link>
-            <guid>956mm03t</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/jb-tribute-feat2-9yjcbolmt7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
