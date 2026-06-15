@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 15 Jun 2026 14:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 15:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Warhammer 40,000 Battleforces Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/n5pspedx/new-warhammer-40000-battleforces-revealed</link>
+            <guid>n5pspedx</guid>
+            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kick off the new edition with a host of reinforcements.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="tyranids">Tyranids</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_battleforces-jun15-1-feature-2ja28ws5ll.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Succumb to Temptation with Hedonites of Slaanesh]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/75cyi2wg/succumb-to-temptation</link>
@@ -293,19 +308,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_smdatacards-jun04-1-feature-cqg2vuqf9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Part 4: Painting the Armageddon Miniatures | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/m0kxwtvv/new40k-round-table-part-4-painting-the-armageddon-miniatures-warhammer-40000</link>
-            <guid>m0kxwtvv</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Today’s round table interview brings you top painting tips for the Warhammer 40,000: Armageddon new edition launch set directly from the ’Eavy Metal team.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/new40k_roundtable_thumbnail_painting-cnlzb4bre9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
