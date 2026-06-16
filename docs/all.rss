@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Jun 2026 10:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 11:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 16th of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-16th-of-june</link>
+            <guid>kpd1gsu5</guid>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/rumourengine-jun16-1-feature-fcnnml7a4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Building the Battle of Grendel’s Lock – Diorama | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/q1oimjyb/building-the-battle-of-grendels-lock-diorama-warhammer-40000</link>
@@ -298,18 +308,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_staffpainted-jun05-1-feature-qzgxupkg40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeronautica Imperialis – Episode 2: Official Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/yqhtvnlp/aeronautica-imperialis-episode-2-official-trailer-warhammer</link>
-            <guid>yqhtvnlp</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Imperial pilots must turn the tables on a seemingly unstoppable enemy in episode 2 of Aeronautica Imperialis.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-ep-2-trailer-thumbnail-ffotiv13jm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
