@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 15 Jun 2026 16:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 10:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Building the Battle of Grendel’s Lock – Diorama | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/q1oimjyb/building-the-battle-of-grendels-lock-diorama-warhammer-40000</link>
+            <guid>q1oimjyb</guid>
+            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Battle of Grendel’s Lock is a new diorama going on display at Warhammer World in Nottingham, UK. It features over 800 miniatures, including some things which have simply never been explored before (Orks have submarines!?). Catch a glimpse of what went into making this staggering new Armageddon-themed diorama with commentary from the people who made it.]]></description>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammer-world-making-the-display-thumbnail-1badjwjtcv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer World unveils a #New40k diorama]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/l7rtsi47/warhammer-world-unveils-a-new40k-diorama</link>
@@ -298,17 +310,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-ep-2-trailer-thumbnail-ffotiv13jm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scramble! New Aeronautica Imperialis trailer incoming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/klqaquux/scramble-new-aeronautica-imperialis-trailer-incoming</link>
-            <guid>klqaquux</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the new Warhammer 40,000 animated trailer.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/wh-_aeroep2trailer-jun05-1-feature-b6mtiacfia.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
