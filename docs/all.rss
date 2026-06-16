@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Jun 2026 11:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 13:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The preening prince of perfection]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6edn7i2q/the-preening-prince-of-perfection</link>
+            <guid>6edn7i2q</guid>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stride across the battlefield with contempt thanks to Sigvald’s new Army of Renown for Warhammer Age of Sigmar.]]></description>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules2-jun16-1-feature-ci9sms1dpr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get Lootin’ on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tbvbkm2w/get-lootin-on-warhammer-tv</link>
+            <guid>tbvbkm2w</guid>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[This week on Warhammer TV: Looted wagons, Armageddon lore, and more.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/whplus_lootedwagons-jun16-1-feature-cjqaaengwc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 16th of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-16th-of-june</link>
@@ -138,6 +159,23 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_aeroep2trailer-jul05-1-feature-8iggpxlupa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – Download new Imperial Faction Packs today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8nrrdlgr/new40k-download-new-imperial-faction-packs-today</link>
+            <guid>8nrrdlgr</guid>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Warhammer 40,000 rules updates for the Astra Militarum, Imperial Knights, and more.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category domain="imperial-agents">Imperial Agents</category>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download4_imperium-jun11-1-feature-rowl1xe42u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The White Scars]]></title>
@@ -273,41 +311,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/preorders-jun06-1-feature-z0m7odk4ua.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Part 5: Creating a New Edition | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/iadkgt9j/new40k-round-table-part-5-creating-a-new-edition-warhammer-40000</link>
-            <guid>iadkgt9j</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get behind-the-scenes insights into #New40k rules direct from the team that wrote them in today's round table interview!]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_roundtable_new40k_rules-fftqvkiwgm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k Round Table – Creating a new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jntx2tfu/new40k-round-table-creating-a-new-edition</link>
-            <guid>jntx2tfu</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer studio designers discuss new rules from the 11th edition of Warhammer 40,000.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_roundtablevideo5-jun05-1-feature-xmnv44nlsc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Warhammer staff paint Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/z6nokepr/new40k-warhammer-staff-paint-armageddon</link>
-            <guid>z6nokepr</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We pinched our co-workers' Warhammer 40,000 projects. For fun. Take a look!]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_staffpainted-jun05-1-feature-qzgxupkg40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
