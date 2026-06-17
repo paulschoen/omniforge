@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Jun 2026 10:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 13:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Start an Aqshian Crusade with the new General’s Handbook]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ri4x59d9/start-an-aqshian-crusade-with-the-new-generals-handbook</link>
+            <guid>ri4x59d9</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fight your way through the Realm of Fire with new Warhammer Age of Sigmar rules.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_ghb-june17-1-feature-yinh4mr5te.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#New40k – New app for a new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dv1aslrr/new40k-new-app-for-a-new-edition</link>
@@ -294,18 +304,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/thh_mkivgroup-jun08-1-feature-6ijfrdra5r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Dawn of the new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition</link>
-            <guid>s7gr9dmd</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun07-1-feature-tdyld0rp59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
