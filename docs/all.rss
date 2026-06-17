@@ -4,13 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 16 Jun 2026 13:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 10:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[The preening prince of perfection]]></title>
+            <title><![CDATA[#New40k – New app for a new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dv1aslrr/new40k-new-app-for-a-new-edition</link>
+            <guid>dv1aslrr</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Share army rules and track game scores in the updated Warhammer 40,000 app.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40kapp-jun17-1-feature-8bbncqfda9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The preening prince of perfection gets an Army of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6edn7i2q/the-preening-prince-of-perfection</link>
             <guid>6edn7i2q</guid>
             <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
@@ -296,21 +306,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/sundaypreview-jun07-1-feature-tdyld0rp59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Warhammer 40,000: Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hjdxp86f/saturday-pre-orders-warhammer-40000-armageddon</link>
-            <guid>hjdxp86f</guid>
-            <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pre-order the launch box for the new edition today.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="orks">Orks</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/preorders-jun06-1-feature-z0m7odk4ua.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
