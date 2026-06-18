@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Jun 2026 13:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 15:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warriors of Armageddon – Painted by the Warhammer community]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community</link>
+            <guid>gksheuhx</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See community painters tackle new Orks and Space Marines miniatures for Warhammer 40,000.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="community-showcase">Community showcase</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_inflarmageddon-jun18-1-feature-kuuxtxkhvd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chronicles of Ruin – Passions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/20rph39a/chronicles-of-ruin-passions</link>
@@ -289,16 +303,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download2_xenos-jun09-1-feature-xytynmb4lg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Eldrad Ulthran overcome Mortarion on Battle Report?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ee4cxlyn/can-eldrad-ulthran-overcome-mortarion-on-battle-report</link>
-            <guid>ee4cxlyn</guid>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New episodes drop on Warhammer TV, including a game of Warhammer 40,000, Commissar Yarrick lore, and more.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_jun09-1-feature-feawh0lcjg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
