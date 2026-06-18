@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Jun 2026 10:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 13:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Passions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/20rph39a/chronicles-of-ruin-passions</link>
+            <guid>20rph39a</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take your seats, take your seats, the Hedonites of Slaanesh play has already begun!]]></description>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosfiction-jun19-1-feature-z3rczzbrux.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Betrayal at Chondax]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/9wh4zb5f/pages-from-the-black-books-the-betrayal-at-chondax</link>
@@ -287,16 +299,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_jun09-1-feature-feawh0lcjg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 9th of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-9th-of-june</link>
-            <guid>kpd1gsu5</guid>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/rumourengine-jun09-1-feature-b0xlgln0w6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
