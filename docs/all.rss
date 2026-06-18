@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 17 Jun 2026 15:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 10:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Betrayal at Chondax]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9wh4zb5f/pages-from-the-black-books-the-betrayal-at-chondax</link>
+            <guid>9wh4zb5f</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the White Scars as they head into the Chondax system.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/thh_blackbookslore22-jun18-1-feature-quc1knicr5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Start an Aqshian Crusade with the new General’s Handbook]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ri4x59d9/start-an-aqshian-crusade-with-the-new-generals-handbook</link>
@@ -286,24 +297,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/rumourengine-jun09-1-feature-b0xlgln0w6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Download new Space Marine Faction Packs today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2ekfivpk/new40k-download-new-space-marine-faction-packs-today</link>
-            <guid>2ekfivpk</guid>
-            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Warhammer 40,000 detachments and rules updates for Space Marine factions.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="grey-knights">Grey Knights</category>
-            <category domain="deathwatch">Deathwatch</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download1_marines-jun08-1-feature-htvfzngnnn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
