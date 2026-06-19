@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Jun 2026 13:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 15:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aeronautica Imperialis – Episode 3: Official Trailer – Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zvc2cis4/aeronautica-imperialis-episode-3-official-trailer-warhammer</link>
+            <guid>zvc2cis4</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A dramatic final battle for survival leads to an impossible decision for Kae. Check out the trailer for Episode 3 of this incredible new animation now!]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-ep-3-trailer-thumbnail-1oliwglhzj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 o’clock high! New Aeronautica Imperialis trailer flies into view]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gntldhwv/10-oclock-high-new-aeronautica-imperialis-trailer-flies-into-view</link>
+            <guid>gntldhwv</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the Imperial Navy as they take to the skies against the Aeldari for the final showdown.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/wh-_aeroep3trailer-jun19-1-feature-vpwmpulr2g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Hedonites of Slaanesh]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tr7sa5ct/warhammer-art-through-the-years-hedonites-of-slaanesh</link>
@@ -266,35 +289,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/thh_blackbookslore21-jun11-1-feature-3gy6j2b8eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Download new Chaos Faction Packs today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2wzoc1fz/new40k-download-new-chaos-faction-packs-today</link>
-            <guid>2wzoc1fz</guid>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get updated Warhammer 40,000 rules for Chaos Space Marines, Daemons, Chaos Knights, and more.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="chaos-daemons">Chaos Daemons</category>
-            <category domain="chaos-knights">Chaos Knights</category>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="emperors-children">Emperor's Children</category>
-            <category domain="death-guard">Death Guard</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download3_chaos-jun10-1-feature-9epbqkzawz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – World Champion’s top 5 changes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8dl5ikuv/new40k-world-champions-top-5-changes</link>
-            <guid>8dl5ikuv</guid>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Richard Siegler talks through his favourite rules changes for Warhammer 40,000.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_champ-jun10-1-feature-n8dwsyezwc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
