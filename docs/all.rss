@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 18 Jun 2026 15:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 13:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Hedonites of Slaanesh]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tr7sa5ct/warhammer-art-through-the-years-hedonites-of-slaanesh</link>
+            <guid>tr7sa5ct</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us as we tempt you in with enthralling Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_whart37-jun19-1-feature-2wkie93gbs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warriors of Armageddon – Painted by the Warhammer community]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community</link>
@@ -284,25 +295,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_champ-jun10-1-feature-n8dwsyezwc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Download new Xenos Faction Packs today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fchkklcq/new40k-download-new-xenos-faction-packs-today</link>
-            <guid>fchkklcq</guid>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Updated Warhammer 40,000 rules for Orks, Aeldari, T’au Empire, and more.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="drukhari">Drukhari</category>
-            <category domain="genestealer-cults">Genestealer Cults</category>
-            <category domain="leagues-of-votann">Leagues of Votann</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="orks">Orks</category>
-            <category domain="tau-empire">T'au Empire</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download2_xenos-jun09-1-feature-xytynmb4lg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
