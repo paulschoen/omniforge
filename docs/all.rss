@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Jun 2026 15:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 16:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Threshold Tactics on the new General’s Handbook]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ilauiwfp/threshold-tactics-on-the-new-generals-handbook</link>
+            <guid>ilauiwfp</guid>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top Warhammer Age of Sigmar player gets ready for the new season.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_ghbinfl-jun19-1-feature-zduzyeuj9s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aeronautica Imperialis – Episode 3: Official Trailer – Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/zvc2cis4/aeronautica-imperialis-episode-3-official-trailer-warhammer</link>
@@ -278,17 +288,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="astra-militarum">Astra Militarum</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download4_imperium-jun11-1-feature-rowl1xe42u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The White Scars]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fzsbcntg/pages-from-the-black-books-the-white-scars</link>
-            <guid>fzsbcntg</guid>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get on your bike and learn more about the V Legion.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/thh_blackbookslore21-jun11-1-feature-3gy6j2b8eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
