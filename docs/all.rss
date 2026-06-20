@@ -4,11 +4,36 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 19 Jun 2026 16:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 10:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[How to Paint a Blood Angels Intercessor | Warhammer 40,000 | Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/5pnporyi/how-to-paint-a-blood-angels-intercessor-warhammer-40000-armageddon</link>
+            <guid>5pnporyi</guid>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Intercessors are the backbone of many Space Marine armies, serving as the mainstay of the Chapter's battle line. They are tough, flexible, highly skilled and capable of laying down withering hails of fire. In this video, Ollie shows you how to paint one in the colours of the Blood Angels Chapter.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ba-intercessor-thumbnail-op7xyfl6tq.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Paint an Ork Boy | Warhammer 40,000 | Armageddon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/5fojqola/how-to-paint-an-ork-boy-warhammer-40000-armageddon</link>
+            <guid>5fojqola</guid>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Boyz charge forward in large, tide-like mobs led by hulking Boss Nobs. Laying down hails of inaccurate, but enthusiastic, dakka, they dash towards the enemy before hurling themselves into close-quarters combat, where their sheer muscles, ferocity and vicious choppas help them make short work of the foe. In this video, Ollie shows you how to paint one in the colours of the Goff Clan.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ork-boyz-thumbnail-nwyfbzob7k.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Threshold Tactics on the new General’s Handbook]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ilauiwfp/threshold-tactics-on-the-new-generals-handbook</link>
@@ -260,34 +285,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="kharadron-overlords">Kharadron Overlords</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/aos_whart36-jun12-1-feature-aqz3evulg3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeronautica Imperialis episode two, reporting in]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eenpekmy/aeronautica-imperialis-episode-two-reporting-in</link>
-            <guid>eenpekmy</guid>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the Imperial Navy take to the skies again in the second episode of the animated series.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/wh-_aeroep2trailer-jul05-1-feature-8iggpxlupa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Download new Imperial Faction Packs today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8nrrdlgr/new40k-download-new-imperial-faction-packs-today</link>
-            <guid>8nrrdlgr</guid>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Warhammer 40,000 rules updates for the Astra Militarum, Imperial Knights, and more.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adeptus-mechanicus">Adeptus Mechanicus</category>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="imperial-knights">Imperial Knights</category>
-            <category domain="imperial-agents">Imperial Agents</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_download4_imperium-jun11-1-feature-rowl1xe42u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
