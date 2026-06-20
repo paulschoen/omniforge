@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 20 Jun 2026 10:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 17:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Hedonites, Handbooks, and the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dk7bqpnk/saturday-pre-orders-hedonites-handbooks-and-the-horus-heresy</link>
+            <guid>dk7bqpnk</guid>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out today’s pre-orders, including new releases for Warhammer Age of Sigmar.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/preorders-jun20-1-feature-zvqrdgvzzc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint a Blood Angels Intercessor | Warhammer 40,000 | Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/5pnporyi/how-to-paint-a-blood-angels-intercessor-warhammer-40000-armageddon</link>
@@ -274,17 +287,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Kharadron Overlords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ymcjqltb/warhammer-art-through-the-years-kharadron-overlords</link>
-            <guid>ymcjqltb</guid>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Code demands that you look at these classic pieces of artwork.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/aos_whart36-jun12-1-feature-aqz3evulg3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
