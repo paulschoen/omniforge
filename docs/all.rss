@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 20 Jun 2026 17:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 17:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Battleforces, MkIV Space Marines, and a Hero of the Imperium]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium</link>
+            <guid>ezb6qskh</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up next week for Warhammer 40,000, Warhammer: The Horus Heresy, and Black Library.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/sundaypreview-jun21-1-feature-gdtgcopgf1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Hedonites, Handbooks, and the Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dk7bqpnk/saturday-pre-orders-hedonites-handbooks-and-the-horus-heresy</link>
@@ -275,18 +289,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/preorders-jun13-1-feature-nqbuthpuae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Download the new Event Companions today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lszdpzmc/new40k-download-the-new-event-companions-today</link>
-            <guid>lszdpzmc</guid>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Event rules and terrain layouts for the new edition of Warhammer 40,000.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="events">Events</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
