@@ -4,11 +4,41 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Jun 2026 13:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 16:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Big Summer Warhammer Preview Show 2026 Announced | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wdxbhveb/the-big-summer-warhammer-preview-show-2026-announced-warhammer</link>
+            <guid>wdxbhveb</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Big Summer Warhammer Preview Show 2026 is happening at 7pm BST on Friday 26 June 2026.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v02015_thumbnail_16x9-df1bchbn77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Warhammer Preview – Tune in on Friday]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kbdkr6ir/the-big-summer-warhammer-preview-tune-in-on-friday</link>
+            <guid>kbdkr6ir</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the latest reveals as they happen on Friday 26 June.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/summerpreview_incoming-jun22-1-feature-ewnsvudper.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#New40k – The Siege of Death Mire Begins | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/sdgxpt50/new40k-the-siege-of-death-mire-begins-warhammer-40000</link>
+            <guid>sdgxpt50</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Siege of Death Mire is underway! Enter your results to help influence the lore of Armageddon, unlock new unit reveals each week, and win brand-new miniatures! Head to the Warhammer Community site to find out more: https://ow.ly/HxPj50Zf6K4]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v01976_deathmire_16x9-2vj2dgea8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Embolden your Guardsmen with Ciaphas Cain rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ysvas9bc/embolden-your-guardsmen-with-ciaphas-cain-rules</link>
@@ -249,42 +279,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_whwdiorama-jun15-1-feature-9bljh7vexm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Warhammer 40,000 Battleforces Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n5pspedx/new-warhammer-40000-battleforces-revealed</link>
-            <guid>n5pspedx</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kick off the new edition with a host of reinforcements.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="tyranids">Tyranids</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_battleforces-jun15-1-feature-2ja28ws5ll.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Succumb to Temptation with Hedonites of Slaanesh]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/75cyi2wg/succumb-to-temptation</link>
-            <guid>75cyi2wg</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar.]]></description>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules-jun15-1-feature-nvsn7fh4iw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – Points, apps, and updates incoming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8wi6x7nq/new40k-points-apps-and-updates-incoming</link>
-            <guid>8wi6x7nq</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming for the new edition of Warhammer 40,000.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
