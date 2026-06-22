@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 21 Jun 2026 17:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 13:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Embolden your Guardsmen with Ciaphas Cain rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ysvas9bc/embolden-your-guardsmen-with-ciaphas-cain-rules</link>
+            <guid>ysvas9bc</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Add Commissar Cain and Jurgen to your Astra Militarum army in Warhammer 40,000.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/40k_ciaphasrules-jun23-1-feature-whu6svtfyl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Siege of Death Mire begins: Submit your results]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zzci8mep/the-siege-of-death-mire-begins-submit-your-results</link>
+            <guid>zzci8mep</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Help to decide the fate of a key Armageddon hive.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/40k_deathmireopen-jun22-1-feature-tcmquuqxup.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Battleforces, MkIV Space Marines, and a Hero of the Imperium]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium</link>
@@ -264,31 +285,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Hedonites head into battle along with a new General’s Handbook]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook</link>
-            <guid>0y4dh0xg</guid>
-            <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Next week’s pre-orders include Hedonites of Slaanesh, Skaven, and a new edition of False Gods.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – #New40k rules, card packs, and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/adciuo3f/saturday-pre-orders-new40k-rules-card-packs-and-more</link>
-            <guid>adciuo3f</guid>
-            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for the new edition of Warhammer 40,000 with this week’s pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/preorders-jun13-1-feature-nqbuthpuae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
