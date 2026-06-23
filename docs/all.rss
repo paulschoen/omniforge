@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 22 Jun 2026 16:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 11:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 23rd of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-23rd-of-june</link>
+            <guid>fnkjbbfu</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/rumourengine-jun23-1-feature-obm4akbl2g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Big Summer Warhammer Preview Show 2026 Announced | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/wdxbhveb/the-big-summer-warhammer-preview-show-2026-announced-warhammer</link>
@@ -266,19 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer-world-making-the-display-thumbnail-1badjwjtcv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer World unveils a #New40k diorama]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l7rtsi47/warhammer-world-unveils-a-new40k-diorama</link>
-            <guid>l7rtsi47</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the Space Marines as they go on the offensive against the Orks.]]></description>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_whwdiorama-jun15-1-feature-9bljh7vexm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
