@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Jun 2026 11:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 12:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Writing Mad Doks and ace pilots – Warhammer TV meets Denny Flowers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pyxdb9zn/writing-mad-doks-and-ace-pilots-warhammer-tv-meets-denny-flowers</link>
+            <guid>pyxdb9zn</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s new Warhammer TV episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/whplus-jun23-1-feature-hizkk7dlsg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 23rd of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-23rd-of-june</link>
@@ -264,18 +274,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/rumourengine-jun16-1-feature-fcnnml7a4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building the Battle of Grendel’s Lock – Diorama | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/q1oimjyb/building-the-battle-of-grendels-lock-diorama-warhammer-40000</link>
-            <guid>q1oimjyb</guid>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Battle of Grendel’s Lock is a new diorama going on display at Warhammer World in Nottingham, UK. It features over 800 miniatures, including some things which have simply never been explored before (Orks have submarines!?). Catch a glimpse of what went into making this staggering new Armageddon-themed diorama with commentary from the people who made it.]]></description>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer-world-making-the-display-thumbnail-1badjwjtcv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
