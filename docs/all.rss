@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Jun 2026 12:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 13:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Studio goes super-heavy for an Age of Darkness tank war]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</link>
+            <guid>jomldqhy</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fellblade, Glaive, or Falchion – which is your favourite Warhammer: The Horus Heresy super-heavy tank?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_superheavysds-jun23-1-feature-7l7q5badoj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Writing Mad Doks and ace pilots – Warhammer TV meets Denny Flowers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pyxdb9zn/writing-mad-doks-and-ace-pilots-warhammer-tv-meets-denny-flowers</link>
@@ -264,16 +275,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/whplus_lootedwagons-jun16-1-feature-cjqaaengwc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 16th of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-16th-of-june</link>
-            <guid>kpd1gsu5</guid>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/rumourengine-jun16-1-feature-fcnnml7a4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
