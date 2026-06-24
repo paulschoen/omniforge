@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 24 Jun 2026 12:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 14:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Mix and match your kits with the new MkIV Space Marines]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rsaprnhx/mix-and-match-your-kits-with-the-new-mkiv-space-marines</link>
+            <guid>rsaprnhx</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mix your kit with a wide range of Warhammer: The Horus Heresy parts to make a variety of units.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_mkivcomp-jun24-1-feature-nq0xzshrgn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Library Reveals – Cadian sniper sequels and more]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ny1ljcbz/black-library-reveals-cadian-sniper-sequels-and-more</link>
+            <guid>ny1ljcbz</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at some new Warhammer 40,000 novels and returning classics.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/bl_reveals-jun24-1-feature-lws7ehz7sr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enter the Zone Mortalis with new Age of Darkness rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sjmnfka8/enter-the-zone-mortalis-with-new-age-of-darkness-rules</link>
@@ -254,27 +274,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/40k-app_thumbnail_16x9-dj0sa85noj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#New40k – New app for a new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dv1aslrr/new40k-new-app-for-a-new-edition</link>
-            <guid>dv1aslrr</guid>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Share army rules and track game scores in the updated Warhammer 40,000 app.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40kapp-jun17-1-feature-8bbncqfda9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The preening prince of perfection gets an Army of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6edn7i2q/the-preening-prince-of-perfection</link>
-            <guid>6edn7i2q</guid>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stride across the battlefield with contempt thanks to Sigvald’s new Army of Renown for Warhammer Age of Sigmar.]]></description>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules2-jun16-1-feature-ci9sms1dpr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
