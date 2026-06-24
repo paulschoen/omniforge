@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 23 Jun 2026 13:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 12:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Enter the Zone Mortalis with new Age of Darkness rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sjmnfka8/enter-the-zone-mortalis-with-new-age-of-darkness-rules</link>
+            <guid>sjmnfka8</guid>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Head into close confines in Warhammer: The Horus Heresy.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_zonemortalis-jun24-1-feature-qhzmzhb7xh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Studio goes super-heavy for an Age of Darkness tank war]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</link>
@@ -265,16 +275,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules2-jun16-1-feature-ci9sms1dpr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Lootin’ on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tbvbkm2w/get-lootin-on-warhammer-tv</link>
-            <guid>tbvbkm2w</guid>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[This week on Warhammer TV: Looted wagons, Armageddon lore, and more.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/whplus_lootedwagons-jun16-1-feature-cjqaaengwc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
