@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 24 Jun 2026 14:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 12:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – Warhammer: The Old World Made to Order miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures</link>
+            <guid>bfjhjmvu</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic baby Dragons, Ogres, and more return to the World of Legend.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/tow_mto-jun25-1-feature-ksz1uxiqog.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mix and match your kits with the new MkIV Space Marines]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rsaprnhx/mix-and-match-your-kits-with-the-new-mkiv-space-marines</link>
@@ -263,17 +273,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_ghb-june17-1-feature-yinh4mr5te.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: The App Explained!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/geu9vxsh/warhammer-40000-the-app-explained</link>
-            <guid>geu9vxsh</guid>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer 40,000 app has been updated for the new edition, and it's packed full of new features. Find out exactly what you can do with the app in this handy explainer video.
-Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/40k-app_thumbnail_16x9-dj0sa85noj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
