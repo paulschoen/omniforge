@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 25 Jun 2026 13:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 14:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The World Champion on the new Hedonites of Slaanesh battletome]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ug2gbe8f/the-world-champion-on-the-new-hedonites-of-slaanesh-battletome</link>
+            <guid>ug2gbe8f</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what an incredible player makes of the new Warhammer Age of Sigmar rules.]]></description>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/aos_inflhedonites-jun26-1-feature-w0g5y81pyn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Ultramarines]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kfmzztfg/pages-from-the-black-books-the-ultramarines</link>
@@ -263,17 +275,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosfiction-jun19-1-feature-z3rczzbrux.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Betrayal at Chondax]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9wh4zb5f/pages-from-the-black-books-the-betrayal-at-chondax</link>
-            <guid>9wh4zb5f</guid>
-            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the White Scars as they head into the Chondax system.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/thh_blackbookslore22-jun18-1-feature-quc1knicr5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
