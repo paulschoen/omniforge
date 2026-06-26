@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Jun 2026 11:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Ossiarch Bonereapers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dovxaado/warhammer-art-through-the-years-ossiarch-bonereapers</link>
+            <guid>dovxaado</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the undead legions of Nagash as they march through a collection of classic Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/aos_whart38-jun26-1-feature-r0o2zdtud3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch every episode of Aeronautica Imperialis, now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6cy0ersn/watch-every-episode-of-aeronautica-imperialis-now</link>
@@ -260,17 +271,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/wh-_aeroep3trailer-jun19-1-feature-vpwmpulr2g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Hedonites of Slaanesh]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tr7sa5ct/warhammer-art-through-the-years-hedonites-of-slaanesh</link>
-            <guid>tr7sa5ct</guid>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us as we tempt you in with enthralling Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_whart37-jun19-1-feature-2wkie93gbs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
