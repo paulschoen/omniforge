@@ -4,11 +4,77 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Jun 2026 13:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 18:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Chaos Arrives in the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6ypk8cdw/the-big-summer-preview-chaos-arrives-in-the-old-world</link>
+            <guid>6ypk8cdw</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New miniatures, rules, and more revealed for Warhammer: The Old World.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04_1-feature04-ff2ekidclb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – Warhammer Academy is the perfect way to start your hobby journey]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bt2ouv2n/the-big-summer-preview-warhammer-academy-is-the-perfect-way-to-start-your-hobby-journey</link>
+            <guid>bt2ouv2n</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about everything from lore and collecting to painting and gameplay]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature03-4dykuekpud.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – New Ork miniatures and codex are coming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming</link>
+            <guid>6pvhlvqm</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Updated Trukk, Mek and Warboss are on the horizon.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_02_1-feature02-2nlq3zv783.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – New Starter Sets and ready painted terrain]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain</link>
+            <guid>1abmqefl</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dive into Warhammer 40,000, and fight on the battlefields of Armageddon with new terrain kits.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_01_1-feature01-4k9fojekm7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Summer Preview – See all the reveals here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yl6fxh65/the-big-summer-preview-see-all-the-reveals-here</link>
+            <guid>yl6fxh65</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New reveals for Warhammer 40,000, Kill Team, Age of Sigmar, and more.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature00-nuhvo8lx7p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Ossiarch Bonereapers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dovxaado/warhammer-art-through-the-years-ossiarch-bonereapers</link>
@@ -213,64 +279,6 @@
             <category domain="licensed-products">Licensed Products</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/preorders-jun20-1-feature-zvqrdgvzzc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint a Blood Angels Intercessor | Warhammer 40,000 | Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/5pnporyi/how-to-paint-a-blood-angels-intercessor-warhammer-40000-armageddon</link>
-            <guid>5pnporyi</guid>
-            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Intercessors are the backbone of many Space Marine armies, serving as the mainstay of the Chapter's battle line. They are tough, flexible, highly skilled and capable of laying down withering hails of fire. In this video, Ollie shows you how to paint one in the colours of the Blood Angels Chapter.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ba-intercessor-thumbnail-op7xyfl6tq.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint an Ork Boy | Warhammer 40,000 | Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/5fojqola/how-to-paint-an-ork-boy-warhammer-40000-armageddon</link>
-            <guid>5fojqola</guid>
-            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Boyz charge forward in large, tide-like mobs led by hulking Boss Nobs. Laying down hails of inaccurate, but enthusiastic, dakka, they dash towards the enemy before hurling themselves into close-quarters combat, where their sheer muscles, ferocity and vicious choppas help them make short work of the foe. In this video, Ollie shows you how to paint one in the colours of the Goff Clan.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ork-boyz-thumbnail-nwyfbzob7k.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Threshold Tactics on the new General’s Handbook]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ilauiwfp/threshold-tactics-on-the-new-generals-handbook</link>
-            <guid>ilauiwfp</guid>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top Warhammer Age of Sigmar player gets ready for the new season.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_ghbinfl-jun19-1-feature-zduzyeuj9s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aeronautica Imperialis – Episode 3: Official Trailer – Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zvc2cis4/aeronautica-imperialis-episode-3-official-trailer-warhammer</link>
-            <guid>zvc2cis4</guid>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A dramatic final battle for survival leads to an impossible decision for Kae. Check out the trailer for Episode 3 of this incredible new animation now!]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/aeronautica-imperialis-ep-3-trailer-thumbnail-1oliwglhzj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10 o’clock high! New Aeronautica Imperialis trailer flies into view]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gntldhwv/10-oclock-high-new-aeronautica-imperialis-trailer-flies-into-view</link>
-            <guid>gntldhwv</guid>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the Imperial Navy as they take to the skies against the Aeldari for the final showdown.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/wh-_aeroep3trailer-jun19-1-feature-vpwmpulr2g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
