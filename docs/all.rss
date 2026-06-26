@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Jun 2026 10:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 11:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Watch every episode of Aeronautica Imperialis, now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6cy0ersn/watch-every-episode-of-aeronautica-imperialis-now</link>
+            <guid>6cy0ersn</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The third instalment of the Warhammer 40,000 animation has landed on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/wh-_aeroe3-jun26-1-feature-bp4fnktqoe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Paint a Blood Angels Vanguard Veteran | Warhammer 40,000 | Armageddon]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/kqxsfg3q/how-to-paint-a-blood-angels-vanguard-veteran-warhammer-40000-armageddon</link>
@@ -261,20 +271,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_whart37-jun19-1-feature-2wkie93gbs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warriors of Armageddon – Painted by the Warhammer community]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community</link>
-            <guid>gksheuhx</guid>
-            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See community painters tackle new Orks and Space Marines miniatures for Warhammer 40,000.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="community-showcase">Community showcase</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_inflarmageddon-jun18-1-feature-kuuxtxkhvd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
