@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 26 Jun 2026 21:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 17:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders: Battleforces, Ciaphas Cain, and the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ileev0sj/saturday-pre-orders-battleforces-ciaphas-cain-and-the-age-of-darkness</link>
+            <guid>ileev0sj</guid>
+            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of today’s new pre-orders for Warhammer 40,000, Warhammer: The Horus Heresy, and Black Library.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/preorders-jun27-1-feature-keralhiw4k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Massive Ogor Mawtribes Reveals | Big Summer Preview 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qy1jyubz/massive-ogor-mawtribes-reveals-big-summer-preview-2026</link>
@@ -298,18 +311,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/vanguard-veteran-thumbnail-dducc2n8wr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Champion on the new Hedonites of Slaanesh battletome]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ug2gbe8f/the-world-champion-on-the-new-hedonites-of-slaanesh-battletome</link>
-            <guid>ug2gbe8f</guid>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what an incredible player makes of the new Warhammer Age of Sigmar rules.]]></description>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/aos_inflhedonites-jun26-1-feature-w0g5y81pyn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
