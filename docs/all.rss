@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 27 Jun 2026 17:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Claim the Old World with a new Core Set]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4o8ihwtm/sunday-preview-claim-the-old-world-with-a-new-core-set</link>
+            <guid>4o8ihwtm</guid>
+            <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s available for pre-order next week for Warhammer: The Old World, Middle-earth™ Strategy Battle Game, and more.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/sundaypreview-jun28-1-feature-g0wpdz5zbd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders: Battleforces, Ciaphas Cain, and the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ileev0sj/saturday-pre-orders-battleforces-ciaphas-cain-and-the-age-of-darkness</link>
@@ -299,18 +314,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/wh-_aeroe3-jun26-1-feature-bp4fnktqoe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Paint a Blood Angels Vanguard Veteran | Warhammer 40,000 | Armageddon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/kqxsfg3q/how-to-paint-a-blood-angels-vanguard-veteran-warhammer-40000-armageddon</link>
-            <guid>kqxsfg3q</guid>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The jump packs of Vanguard Veterans allow them to bound across the battlefield in a series of jet-propelled leaps or drop into the fight from the holds of circling gunships. This helps them counter the gravest threats, fighting with peerless skill and wielding punishing close-quarters weaponry to devastating effect. These elite warriors are a great fit in any Space Marine army and in today’s video, Ollie shows you how to paint them in the colours of the Blood Angels Chapter.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/vanguard-veteran-thumbnail-dducc2n8wr.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
