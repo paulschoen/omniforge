@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Jun 2026 10:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 13:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Prepare for the new General’s Handbook with Scourge of Aqshy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yqfizsmh/prepare-for-the-new-generals-handbook-with-scourge-of-aqshy</link>
+            <guid>yqfizsmh</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for a week of free Warhammer Age of Sigmar rules.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa-jun29-1-feature-xqmpyhhff9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[July’s Miniature of the Month and collectable coin revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/va1s3sfx/julys-miniature-of-the-month-and-collectable-coin-revealed</link>
+            <guid>va1s3sfx</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what you can get if you head to your local Warhammer store in July.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/motm-jun29-1-feature-p2xaxue9go.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dwshnd8s/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
@@ -47,6 +68,17 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/preorders-jun27-1-feature-keralhiw4k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Summer Preview 2026 Recap | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ml4jdmbm/big-summer-preview-2026-recap-warhammer</link>
+            <guid>ml4jdmbm</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Missed the live stream? Fear not – Adam's here with all the headlines from an absolutely MAMMOTH Big Summer Preview 2026. Expect Orks and starter sets for Warhammer 40,000, tonnes of new miniatures for Warhammer Age of Sigmar, new core sets for both Necromunda and Warhammer: The Old World – and that's just the beginning!]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/june-preview-round-up-thumbnail-16x9-woj7cnfnft.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Massive Ogor Mawtribes Reveals | Big Summer Preview 2026]]></title>
@@ -273,48 +305,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_02_1-feature02-2nlq3zv783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – New Starter Sets and ready painted terrain]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain</link>
-            <guid>1abmqefl</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dive into Warhammer 40,000, and fight on the battlefields of Armageddon with new terrain kits.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_01_1-feature01-4k9fojekm7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – See all the reveals here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yl6fxh65/the-big-summer-preview-see-all-the-reveals-here</link>
-            <guid>yl6fxh65</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New reveals for Warhammer 40,000, Kill Team, Age of Sigmar, and more.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature00-nuhvo8lx7p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Ossiarch Bonereapers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dovxaado/warhammer-art-through-the-years-ossiarch-bonereapers</link>
-            <guid>dovxaado</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the undead legions of Nagash as they march through a collection of classic Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/aos_whart38-jun26-1-feature-r0o2zdtud3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
