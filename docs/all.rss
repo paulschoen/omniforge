@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 28 Jun 2026 17:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 10:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dwshnd8s/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
+            <guid>dwshnd8s</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get the latest game updates now.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_quarterly-jun29-1-feature-48bmpyxmnl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Claim the Old World with a new Core Set]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/4o8ihwtm/sunday-preview-claim-the-old-world-with-a-new-core-set</link>
@@ -304,16 +315,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/aos_whart38-jun26-1-feature-r0o2zdtud3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch every episode of Aeronautica Imperialis, now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6cy0ersn/watch-every-episode-of-aeronautica-imperialis-now</link>
-            <guid>6cy0ersn</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The third instalment of the Warhammer 40,000 animation has landed on Warhammer TV.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/wh-_aeroe3-jun26-1-feature-bp4fnktqoe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
