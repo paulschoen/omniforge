@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Jun 2026 13:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 15:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Stalk, shoot, and skin with brand new Ogor Hunters]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j9tyypbg/stalk-shoot-and-skin-with-brand-new-ogor-hunters</link>
+            <guid>j9tyypbg</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Even more ogors are on the way for Warhammer Age of Sigmar.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/1-feature-irpx52diok.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Siege of Death Mire – Week 1 Results]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k6fjovqr/the-siege-of-death-mire-week-1-results</link>
+            <guid>k6fjovqr</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Imperial Victory! New Warhammer 40,000 miniatures revealed!]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/40k_deathmireresults1-jun29-1-feature-klsyrxrl0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prepare for the new General’s Handbook with Scourge of Aqshy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yqfizsmh/prepare-for-the-new-generals-handbook-with-scourge-of-aqshy</link>
@@ -282,29 +304,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04_1-feature04-ff2ekidclb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Warhammer Academy is the perfect way to start your hobby journey]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bt2ouv2n/the-big-summer-preview-warhammer-academy-is-the-perfect-way-to-start-your-hobby-journey</link>
-            <guid>bt2ouv2n</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about everything from lore and collecting to painting and gameplay]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature03-4dykuekpud.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – New Ork miniatures and codex are coming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming</link>
-            <guid>6pvhlvqm</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Updated Trukk, Mek and Warboss are on the horizon.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_02_1-feature02-2nlq3zv783.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
