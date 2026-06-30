@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 29 Jun 2026 15:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 10:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Siege of Death Mire Week 1 – RESULTS | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/pz4spvhv/the-siege-of-death-mire-week-1-results-warhammer-40000</link>
+            <guid>pz4spvhv</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/deathmire_16x9_space-marines-aw6fiucgvw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stalk, shoot, and skin with brand new Ogor Hunters]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/j9tyypbg/stalk-shoot-and-skin-with-brand-new-ogor-hunters</link>
@@ -292,18 +303,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="blood-bowl">Blood Bowl</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_05_1-feature05-zy62l3aj5g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Chaos Arrives in the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6ypk8cdw/the-big-summer-preview-chaos-arrives-in-the-old-world</link>
-            <guid>6ypk8cdw</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New miniatures, rules, and more revealed for Warhammer: The Old World.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04_1-feature04-ff2ekidclb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
