@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Jun 2026 10:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 11:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 30th of June]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-30th-of-june</link>
+            <guid>fnkjbbfu</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-1-feature-dpzuh5zzvn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Siege of Death Mire Week 1 – RESULTS | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/pz4spvhv/the-siege-of-death-mire-week-1-results-warhammer-40000</link>
@@ -291,18 +301,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature06-9nob9bfx4o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Blood Bowl Big Guys and Fast Games]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zkipgd5s/the-big-summer-preview-blood-bowl-big-guys-and-fast-games</link>
-            <guid>zkipgd5s</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the latest Blood Bowl reveals.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_05_1-feature05-zy62l3aj5g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
