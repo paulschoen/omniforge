@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Jun 2026 11:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 13:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Inside White Dwarf 526: A Dawn of War IV special]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ddtxjn5x/inside-white-dwarf-526-a-dawn-of-war-iv-special</link>
+            <guid>ddtxjn5x</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dawn of War, Genestealer Cults, and a Battle Report from the World of Legend.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/wd526-june30-1-feature-ogiwzwl7kh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dig into the forbidden lore of the Word Bearers on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zpfhnhti/dig-into-the-forbidden-lore-of-the-word-bearers-on-warhammer-tv</link>
@@ -285,18 +295,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_08_1-feature08-frjadfd3oo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – New weapons for your Titan legions]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zo5dydws/the-big-summer-preview-new-weapons-for-your-titan-legions</link>
-            <guid>zo5dydws</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Outfit your Legions Imperialis god-machines with the latest in destructive firepower.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_07_1-feature07-cgkpvfutnf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
