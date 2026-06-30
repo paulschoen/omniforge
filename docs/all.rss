@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Jun 2026 13:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 14:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Order]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dtgjfnjo/scourge-of-aqshy-free-rules-for-the-forces-of-order</link>
+            <guid>dtgjfnjo</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Defend the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="daughters-of-khaine">Daughters of Khaine</category>
+            <category domain="fyreslayers">Fyreslayers</category>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category domain="sylvaneth">Sylvaneth</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa1-jun30-1-feature-snrkz1kzr5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside White Dwarf 526: A Dawn of War IV special]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ddtxjn5x/inside-white-dwarf-526-a-dawn-of-war-iv-special</link>
@@ -281,20 +301,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature09-2wmerk9g8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – A New Animation: The Butcher’s Nails]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ptsxrlfg/the-big-summer-preview-a-new-animation-the-butchers-nails</link>
-            <guid>ptsxrlfg</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Witness a World Eater in the grip of the Butcher’s Nails.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="animations">Animations</category>
-            <category domain="world-eaters">World Eaters</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_08_1-feature08-frjadfd3oo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
