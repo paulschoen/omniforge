@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Jun 2026 11:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 11:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Dig into the forbidden lore of the Word Bearers on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zpfhnhti/dig-into-the-forbidden-lore-of-the-word-bearers-on-warhammer-tv</link>
+            <guid>zpfhnhti</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming to Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/whplus-jun30-1-feature-oltu0wunuw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 30th of June]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-30th-of-june</link>
@@ -287,20 +297,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="legions-imperialis">Legions Imperialis</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_07_1-feature07-cgkpvfutnf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – New Plastic Custodians Incoming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/syfufbyf/the-big-summer-preview-new-plastic-custodians-incoming</link>
-            <guid>syfufbyf</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New jetbikes, grav vehicles and Dreadnoughts revealed for Warhammer 40,000 AND Warhammer: The Horus Heresy.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature06-9nob9bfx4o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
