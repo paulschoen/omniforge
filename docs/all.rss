@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 30 Jun 2026 14:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 12:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer: The Old World Battle March – Designer’s Notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2fhitgkn/warhammer-the-old-world-battle-march-designers-notes</link>
+            <guid>2fhitgkn</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get the lowdown on the fast-paced game mode set in the World of Legend.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/tow_battlemarch-jul01-1-feature-f012gieuej.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Order]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dtgjfnjo/scourge-of-aqshy-free-rules-for-the-forces-of-order</link>
@@ -288,19 +299,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_10_1-feature10-rsv1xq6r18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – New Ogors revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/njwcaq6t/the-big-summer-preview-new-ogors-revealed</link>
-            <guid>njwcaq6t</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Devour the Mortal Realms with a host of new Mawtribes miniatures.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature09-2wmerk9g8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
