@@ -4,11 +4,40 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Jul 2026 12:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 14:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Burning of the Westfold™ – Designer’s Notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/imohkigk/the-burning-of-the-westfoldtm-designers-notes</link>
+            <guid>imohkigk</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Design Studio talks about the forthcoming supplement for the Middle-earth™ Strategy Battle Game.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_burningwestfold-jul01-1-feature-0qszq9ra22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Chaos]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/igh8r0ju/scourge-of-aqshy-free-rules-for-the-forces-of-chaos</link>
+            <guid>igh8r0ju</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claim the Realm of Fire for the Dark Gods with free Warhammer Age of Sigmar rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="blades-of-khorne">Blades of Khorne</category>
+            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
+            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="skaven">Skaven</category>
+            <category domain="slaves-to-darkness">Slaves to Darkness</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa2-jul01-1-feature-9ho3asoybh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer: The Old World Battle March – Designer’s Notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2fhitgkn/warhammer-the-old-world-battle-march-designers-notes</link>
@@ -274,31 +303,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/june-preview-video-tow-thumbnail-uag3vpidvd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Exodites revealed!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/skdmgaln/the-big-summer-preview-exodites-revealed</link>
-            <guid>skdmgaln</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[They’re finally coming! Get a first look at new Aeldari Exodite miniatures.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/1-feature11-atq2nsrhwk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Summer Preview – Back to the Underhive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9er1rhow/the-big-summer-preview-back-to-the-underhive</link>
-            <guid>9er1rhow</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the new edition of Necromunda revealed, including miniatures, rules, and more.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_10_1-feature10-rsv1xq6r18.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
