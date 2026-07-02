@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 01 Jul 2026 14:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 12:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Middle-earth™ Strategy Battle Game FAQ – Designers’ Notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oi0rwqds/middle-earthtm-strategy-battle-game-faq-designers-notes</link>
+            <guid>oi0rwqds</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read what the Design Studio has to say about the latest rules changes to the game.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_faq-jul02-1-feature-lvctyxpesc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Burning of the Westfold™ – Designer’s Notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/imohkigk/the-burning-of-the-westfoldtm-designers-notes</link>
@@ -291,18 +303,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/june-preview-video-custodes-16x9-nuhn3uk6m2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chaos Dragon, Core Box, and More for Warhammer: The Old World | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/lymdhitc/chaos-dragon-core-box-and-more-for-warhammer-the-old-world-big-summer-preview-2026</link>
-            <guid>lymdhitc</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The forces of Chaos are getting reinforcements in Warhammer: The Old World, including new Warriors and Knights in a brand-new starter set, and a ferocious two-headed Chaos Dragon!]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/june-preview-video-tow-thumbnail-uag3vpidvd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
