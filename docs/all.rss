@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Jul 2026 12:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 13:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The War at Calth]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2e8yrxjj/pages-from-the-black-books-the-war-at-calth</link>
+            <guid>2e8yrxjj</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how the Ultramarines were betrayed by the Word Bearers during the Horus Heresy.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/thh_blackbookslore23-jul02-1-feature-m7dulkxzd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle-earth™ Strategy Battle Game FAQ – Designers’ Notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oi0rwqds/middle-earthtm-strategy-battle-game-faq-designers-notes</link>
@@ -289,20 +301,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/landscape-zovlljxpo8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Custodes Dreadnought, Jetbikes, and More REVEALED | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/xkl4p5kb/custodes-dreadnought-jetbikes-and-more-revealed-big-summer-preview-2026</link>
-            <guid>xkl4p5kb</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Custodes Support Battle Group, revealed at The Big Summer Warhammer Preview Show 2026, features sleek and swift Gyrfalcon Jetbikes, the rapid and heavily armed Pallas Grav-attack, and a hulking Telemon Dreadnought rendered anew in plastic. AND they can be used in Warhammer 40,000!]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/june-preview-video-custodes-16x9-nuhn3uk6m2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
