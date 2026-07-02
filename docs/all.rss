@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 02 Jul 2026 13:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 14:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Death]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ed5uvcl0/scourge-of-aqshy-free-rules-for-the-forces-of-death</link>
+            <guid>ed5uvcl0</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Claim souls in the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa3-jul02-1-feature-v3zdcmogbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The War at Calth]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2e8yrxjj/pages-from-the-black-books-the-war-at-calth</link>
@@ -290,17 +305,6 @@ Visit Warhammer-Community.com for more info on Kill Team: Exodite and all the ot
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v02002-june-preview-video-kill-team-thumbnail-v-1-mvcbgwbtyu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Announcing the Warhammer Academy | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/q42mlvcb/announcing-the-warhammer-academy-big-summer-preview-2026</link>
-            <guid>q42mlvcb</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We all start somewhere. The official digital learning experience for the Warhammer hobby is coming soon.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/landscape-zovlljxpo8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
