@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Jul 2026 13:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 14:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Destruction]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bobwu6bk/scourge-of-aqshy-free-rules-for-the-forces-of-destruction</link>
+            <guid>bobwu6bk</guid>
+            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tear apart the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="orruk-warclans">Orruk Warclans</category>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa4-jul03-1-feature-bxipmx45xc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – Warriors of Chaos designers’ notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sybfdsyw/old-world-almanack-warriors-of-chaos-designers-notes</link>
@@ -288,18 +303,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v02025_necromunda_thumbnail-copy-44rxoggcbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hammer and Bolter: The Butcher's Nails Trailer | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/3n3dz6na/hammer-and-bolter-the-butchers-nails-trailer-big-summer-preview-2026</link>
-            <guid>3n3dz6na</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[KILL! MAIM! BURN! A Khorne Berzerker goes on a rampage in this brand new trailer for Hammer and Bolter: The Butcher's Nails – coming to Warhammer+ soon.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v02022-butchers-nails-teaser-thumbnail-16x9-wkcgzqpsl4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
