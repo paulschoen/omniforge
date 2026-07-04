@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 03 Jul 2026 14:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 17:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Grand Cathay and Chaos clash in the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f3j99ywf/saturday-pre-orders-grand-cathay-and-chaos-clash-in-the-old-world</link>
+            <guid>f3j99ywf</guid>
+            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of today’s pre-orders for Warhammer: The Old World, Black Library, and more.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/preorders-jul04-1-feature-wayn6wto1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Destruction]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bobwu6bk/scourge-of-aqshy-free-rules-for-the-forces-of-destruction</link>
@@ -291,18 +305,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v02001_ogors_thumbnail_16x9-1fnvqzmx3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skirmish In the Underhive – Necromunda Reveals | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4ucymlsl/skirmish-in-the-underhive-necromunda-reveals-big-summer-preview-2026</link>
-            <guid>4ucymlsl</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gang war ignites anew in the Necromunda Skirmish Core Set, packed with new miniatures, terrain, a new core book, and loads more – revealed at the Big Summer Preview 2026! Discover a new era for the Underhive]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v02025_necromunda_thumbnail-copy-44rxoggcbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
