@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 04 Jul 2026 17:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 17:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – New Warhammer 40,000 starter sets are coming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qqcxxrmm/sunday-preview-new-warhammer-40000-starter-sets-are-coming</link>
+            <guid>qqcxxrmm</guid>
+            <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up next week.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/sundaypreview-jul05-1-feature-hhfjb6piv9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Grand Cathay and Chaos clash in the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f3j99ywf/saturday-pre-orders-grand-cathay-and-chaos-clash-in-the-old-world</link>
@@ -293,18 +305,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/june-preview-round-up-thumbnail-16x9-woj7cnfnft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Massive Ogor Mawtribes Reveals | Big Summer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qy1jyubz/massive-ogor-mawtribes-reveals-big-summer-preview-2026</link>
-            <guid>qy1jyubz</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The ever-hungry servants of the Gulping God have a whole new range of miniatures, including fresh takes on old favourite units, brand-new characters and more, plus a lore-packed battletome and an army set – all revealed at the Big Summer Preview 2026. Hungry for more information?]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v02001_ogors_thumbnail_16x9-1fnvqzmx3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
