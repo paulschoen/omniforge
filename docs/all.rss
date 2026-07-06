@@ -4,11 +4,46 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 05 Jul 2026 17:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 15:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ogor Mawtribes Reveal – Grell Firefist brings a cannon to a knife fight]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ufqekjyz/ogor-mawtribes-reveal-grell-firefist-brings-a-cannon-to-a-knife-fight</link>
+            <guid>ufqekjyz</guid>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unleash massive ogor firepower in Warhammer Age of Sigmar with a giant portable cannon.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/06-07-1-feature-6yrqsgw5lb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Siege of Death Mire Week 2 – RESULTS | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/q7k3crpi/the-siege-of-death-mire-week-2-results-warhammer-40000</link>
+            <guid>q7k3crpi</guid>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who took the win in week two of the Siege of Death Mire? This week, Ork attackers and Imperial defenders clashed for control of the Cloisters – see the results and new miniatures revealed for the victors at Warhammer-Community.com!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/deathmire-week-2-results-thumbnail-bk5rm9jits.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Siege of Death Mire – Week 2 Results]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/25o4kiij/the-siege-of-death-mire-week-2-results</link>
+            <guid>25o4kiij</guid>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Space Marines win – new Warhammer 40,000 miniature revealed!]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_deathmireresults2-jul06-1-feature-g94xtm3mga.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – New Warhammer 40,000 starter sets are coming]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qqcxxrmm/sunday-preview-new-warhammer-40000-starter-sets-are-coming</link>
@@ -266,45 +301,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_quarterly-jun29-1-feature-48bmpyxmnl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Claim the Old World with a new Core Set]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4o8ihwtm/sunday-preview-claim-the-old-world-with-a-new-core-set</link>
-            <guid>4o8ihwtm</guid>
-            <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s available for pre-order next week for Warhammer: The Old World, Middle-earth™ Strategy Battle Game, and more.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/sundaypreview-jun28-1-feature-g0wpdz5zbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders: Battleforces, Ciaphas Cain, and the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ileev0sj/saturday-pre-orders-battleforces-ciaphas-cain-and-the-age-of-darkness</link>
-            <guid>ileev0sj</guid>
-            <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out all of today’s new pre-orders for Warhammer 40,000, Warhammer: The Horus Heresy, and Black Library.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/preorders-jun27-1-feature-keralhiw4k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big Summer Preview 2026 Recap | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ml4jdmbm/big-summer-preview-2026-recap-warhammer</link>
-            <guid>ml4jdmbm</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Missed the live stream? Fear not – Adam's here with all the headlines from an absolutely MAMMOTH Big Summer Preview 2026. Expect Orks and starter sets for Warhammer 40,000, tonnes of new miniatures for Warhammer Age of Sigmar, new core sets for both Necromunda and Warhammer: The Old World – and that's just the beginning!]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/june-preview-round-up-thumbnail-16x9-woj7cnfnft.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
