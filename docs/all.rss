@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 06 Jul 2026 15:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 12:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 7th of July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oeyrac1k/the-rumour-engine-7th-of-july</link>
+            <guid>oeyrac1k</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/rumourengine-jul07-1-feature-wfab1u7lrv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ogor Mawtribes Reveal – Grell Firefist brings a cannon to a knife fight]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ufqekjyz/ogor-mawtribes-reveal-grell-firefist-brings-a-cannon-to-a-knife-fight</link>
@@ -39,6 +49,7 @@
             <guid>25o4kiij</guid>
             <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Space Marines win – new Warhammer 40,000 miniature revealed!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="space-marines">Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
@@ -265,6 +276,7 @@
             <guid>k6fjovqr</guid>
             <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Imperial Victory! New Warhammer 40,000 miniatures revealed!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="space-marines">Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
@@ -290,17 +302,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/motm-jun29-1-feature-p2xaxue9go.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dwshnd8s/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
-            <guid>dwshnd8s</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the latest game updates now.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_quarterly-jun29-1-feature-48bmpyxmnl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
