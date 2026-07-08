@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Jul 2026 09:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 12:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Wisdom of a Slayer Sword winner – Richard Gray on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/d8rynuzo/wisdom-of-a-slayer-sword-winner-richard-gray-on-warhammer-tv</link>
+            <guid>d8rynuzo</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, new episodes looking at Sigmar’s Toll, and a Warhammer Age of Sigmar Battle Report.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/wh-_jul07-1-feature-actwybgfiu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Scourge of Aqshy now on the Age of Sigmar app]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/syhssuyr/the-scourge-of-aqshy-now-on-the-age-of-sigmar-app</link>
@@ -291,18 +301,6 @@
             <category domain="ogor-mawtribes">Ogor Mawtribes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/1-feature-irpx52diok.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire – Week 1 Results]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k6fjovqr/the-siege-of-death-mire-week-1-results</link>
-            <guid>k6fjovqr</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Imperial Victory! New Warhammer 40,000 miniatures revealed!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/40k_deathmireresults1-jun29-1-feature-klsyrxrl0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
