@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Jul 2026 12:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 13:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Trazyn and Orikan return in The Wicked and the Warped]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qxwbjvs8/trazyn-and-orikan-return-in-the-wicked-and-the-warped</link>
+            <guid>qxwbjvs8</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next Black Library novel by Robert Rath is coming.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="necrons">Necrons</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/bl_wickedwarped-jun08-1-feature-due2chqrqq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wisdom of a Slayer Sword winner – Richard Gray on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/d8rynuzo/wisdom-of-a-slayer-sword-winner-richard-gray-on-warhammer-tv</link>
@@ -290,17 +301,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/deathmire_16x9_space-marines-aw6fiucgvw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stalk, shoot, and skin with brand new Ogor Hunters]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j9tyypbg/stalk-shoot-and-skin-with-brand-new-ogor-hunters</link>
-            <guid>j9tyypbg</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Even more ogors are on the way for Warhammer Age of Sigmar.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/1-feature-irpx52diok.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
