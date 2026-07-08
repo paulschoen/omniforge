@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 07 Jul 2026 15:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 09:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Scourge of Aqshy now on the Age of Sigmar app]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/syhssuyr/the-scourge-of-aqshy-now-on-the-age-of-sigmar-app</link>
+            <guid>syhssuyr</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new season of Warhammer Age of Sigmar comes to your phone.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/aos_soaapp-jul08-1-feature-4lqvwxdpxt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer: The Old World FAQ – Designer’s Notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wtwhpcco/warhammer-the-old-world-faq-designers-notes</link>
@@ -292,16 +303,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/40k_deathmireresults1-jun29-1-feature-klsyrxrl0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prepare for the new General’s Handbook with Scourge of Aqshy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yqfizsmh/prepare-for-the-new-generals-handbook-with-scourge-of-aqshy</link>
-            <guid>yqfizsmh</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for a week of free Warhammer Age of Sigmar rules.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa-jun29-1-feature-xqmpyhhff9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
