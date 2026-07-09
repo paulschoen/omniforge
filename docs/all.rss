@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Jul 2026 12:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 12:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Board games coming to America, Germany, and Australia]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mnlml6ai/board-games-coming-to-america-germany-and-australia</link>
+            <guid>mnlml6ai</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Jump into quick and fun games with friends and family.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/nrp_reveals-jul09-1-feature-nxmxbkvebe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Mechanicum Taghmata of the Calth Muster]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zlncl7ik/pages-from-the-black-books-the-mechanicum-taghmata-of-the-calth-muster</link>
@@ -291,16 +302,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/whplus-jun30-1-feature-oltu0wunuw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 30th of June]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-30th-of-june</link>
-            <guid>fnkjbbfu</guid>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-1-feature-dpzuh5zzvn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
