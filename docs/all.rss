@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Jul 2026 12:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 13:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 experts expand Space Marine starter sets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bgttowto/warhammer-40000-experts-expand-space-marine-starter-sets</link>
+            <guid>bgttowto</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Army advice from Richard Siegler and John Lennon.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_marinesnextstep-jul08-1-feature-ulebjrh44r.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Board games coming to America, Germany, and Australia]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mnlml6ai/board-games-coming-to-america-germany-and-australia</link>
@@ -292,16 +303,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/wd526-june30-1-feature-ogiwzwl7kh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dig into the forbidden lore of the Word Bearers on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zpfhnhti/dig-into-the-forbidden-lore-of-the-word-bearers-on-warhammer-tv</link>
-            <guid>zpfhnhti</guid>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming to Warhammer TV this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/whplus-jun30-1-feature-oltu0wunuw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
