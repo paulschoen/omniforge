@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 08 Jul 2026 13:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 12:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Mechanicum Taghmata of the Calth Muster]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zlncl7ik/pages-from-the-black-books-the-mechanicum-taghmata-of-the-calth-muster</link>
+            <guid>zlncl7ik</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The tech-magi of Mars pitch into one of the most apocalyptic battles of the Horus Heresy.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/thh_blackbookslore24-jul09-1-feature-eubwyxop0g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Trazyn and Orikan return in The Wicked and the Warped]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qxwbjvs8/trazyn-and-orikan-return-in-the-wicked-and-the-warped</link>
@@ -290,17 +301,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-1-feature-dpzuh5zzvn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire Week 1 – RESULTS | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pz4spvhv/the-siege-of-death-mire-week-1-results-warhammer-40000</link>
-            <guid>pz4spvhv</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/deathmire_16x9_space-marines-aw6fiucgvw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
