@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Jul 2026 16:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 18:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Your Warhammer questions answered]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nc9lowmt/your-warhammer-questions-answered</link>
+            <guid>nc9lowmt</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Eddie and Adam open the Warhammer Community mail bag]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/summerqa-jul10-1-feature-ywpme6xkvh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More Warhammer Events. More Often.]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rkqhcfo1/more-warhammer-events-more-often</link>
@@ -276,17 +285,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_faq-jul02-1-feature-lvctyxpesc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Burning of the Westfold™ – Designer’s Notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/imohkigk/the-burning-of-the-westfoldtm-designers-notes</link>
-            <guid>imohkigk</guid>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Design Studio talks about the forthcoming supplement for the Middle-earth™ Strategy Battle Game.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_burningwestfold-jul01-1-feature-0qszq9ra22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
