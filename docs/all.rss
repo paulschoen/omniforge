@@ -4,13 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 09 Jul 2026 13:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 12:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Warhammer 40,000 experts expand Space Marine starter sets]]></title>
+            <title><![CDATA[Important updates for Warhammer 40,000 players at the Tacoma Open]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hkjbvun1/tacoma</link>
+            <guid>hkjbvun1</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[FAQ and scenery news for those attending.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/eventstacinfo-jul10-1-feature-zeobkkl3ot.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two Warhammer champions show their favourite ways to expand Space Marine starter sets]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bgttowto/warhammer-40000-experts-expand-space-marine-starter-sets</link>
             <guid>bgttowto</guid>
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
@@ -293,16 +304,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa1-jun30-1-feature-snrkz1kzr5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 526: A Dawn of War IV special]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ddtxjn5x/inside-white-dwarf-526-a-dawn-of-war-iv-special</link>
-            <guid>ddtxjn5x</guid>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dawn of War, Genestealer Cults, and a Battle Report from the World of Legend.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/wd526-june30-1-feature-ogiwzwl7kh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
