@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Jul 2026 14:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 16:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[More Warhammer Events. More Often.]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rkqhcfo1/more-warhammer-events-more-often</link>
+            <guid>rkqhcfo1</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Events are going on the road around the UK, get all the details here.]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/1-feature-(3)-0xa3zojudf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Building your Ork Waaagh! around army dispositions, with Adrian from Tabletop Titans]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lyqxdhrh/building-your-ork-waaagh-around-army-dispositions-with-adrian-from-tabletop-titans</link>
@@ -277,24 +287,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_burningwestfold-jul01-1-feature-0qszq9ra22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Chaos]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/igh8r0ju/scourge-of-aqshy-free-rules-for-the-forces-of-chaos</link>
-            <guid>igh8r0ju</guid>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Claim the Realm of Fire for the Dark Gods with free Warhammer Age of Sigmar rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="blades-of-khorne">Blades of Khorne</category>
-            <category domain="disciples-of-tzeentch">Disciples of Tzeentch</category>
-            <category domain="hedonites-of-slaanesh">Hedonites of Slaanesh</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="skaven">Skaven</category>
-            <category domain="slaves-to-darkness">Slaves to Darkness</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa2-jul01-1-feature-9ho3asoybh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
