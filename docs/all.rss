@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Jul 2026 13:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 14:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Building your Ork Waaagh! around army dispositions, with Adrian from Tabletop Titans]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lyqxdhrh/building-your-ork-waaagh-around-army-dispositions-with-adrian-from-tabletop-titans</link>
+            <guid>lyqxdhrh</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Where do you go next from the Starter Set?]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_orksnextstep-jul10-1-feature-pvl1f3144a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Idoneth Deepkin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f7ho93kz/warhammer-art-through-the-years-idoneth-deepkin</link>
@@ -284,17 +295,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa2-jul01-1-feature-9ho3asoybh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: The Old World Battle March – Designer’s Notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2fhitgkn/warhammer-the-old-world-battle-march-designers-notes</link>
-            <guid>2fhitgkn</guid>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the lowdown on the fast-paced game mode set in the World of Legend.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/tow_battlemarch-jul01-1-feature-f012gieuej.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
