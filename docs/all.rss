@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Jul 2026 12:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 13:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Idoneth Deepkin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f7ho93kz/warhammer-art-through-the-years-idoneth-deepkin</link>
+            <guid>f7ho93kz</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy some undersea artwork from Warhammer Age of Sigmar.]]></description>
+            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/aos_whart40-jul10-1-feature-zozbnjwb1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Important updates for Warhammer 40,000 players at the Tacoma Open]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hkjbvun1/tacoma</link>
@@ -284,26 +295,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/tow_battlemarch-jul01-1-feature-f012gieuej.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dtgjfnjo/scourge-of-aqshy-free-rules-for-the-forces-of-order</link>
-            <guid>dtgjfnjo</guid>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Defend the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="daughters-of-khaine">Daughters of Khaine</category>
-            <category domain="fyreslayers">Fyreslayers</category>
-            <category domain="idoneth-deepkin">Idoneth Deepkin</category>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="seraphon">Seraphon</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category domain="sylvaneth">Sylvaneth</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa1-jun30-1-feature-snrkz1kzr5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
