@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 10 Jul 2026 18:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 17:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – New starter sets for Warhammer newcomers]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tpq1ctqn/saturday-pre-orders-new-starter-sets-for-warhammer-newcomers</link>
+            <guid>tpq1ctqn</guid>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders for Warhammer 40,000 and Black Library.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/preorders-jul11-1-feature-bfqt6yhrgn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Your Warhammer questions answered]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nc9lowmt/your-warhammer-questions-answered</link>
@@ -273,18 +285,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/thh_blackbookslore23-jul02-1-feature-m7dulkxzd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ Strategy Battle Game FAQ – Designers’ Notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oi0rwqds/middle-earthtm-strategy-battle-game-faq-designers-notes</link>
-            <guid>oi0rwqds</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Read what the Design Studio has to say about the latest rules changes to the game.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/me_faq-jul02-1-feature-lvctyxpesc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
