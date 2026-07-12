@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 11 Jul 2026 17:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 17:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Ogor Mawtribes on the warpath]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p0r8elbp/sunday-preview-ogor-mawtribes-on-the-warpath</link>
+            <guid>p0r8elbp</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up next week for Warhammer Age of Sigmar, Legions Imperialis, and more.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/sundaypreview-jul12-1-feature-19p4ko8ekz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – New starter sets for Warhammer newcomers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tpq1ctqn/saturday-pre-orders-new-starter-sets-for-warhammer-newcomers</link>
@@ -273,18 +288,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa3-jul02-1-feature-v3zdcmogbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The War at Calth]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2e8yrxjj/pages-from-the-black-books-the-war-at-calth</link>
-            <guid>2e8yrxjj</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how the Ultramarines were betrayed by the Word Bearers during the Horus Heresy.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/thh_blackbookslore23-jul02-1-feature-m7dulkxzd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
