@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 12 Jul 2026 17:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 13:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Eat the Mortal Realms with new Ogor Mawtribes rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lvu56agm/eat-the-mortal-realms-with-new-ogor-mawtribes-rules</link>
+            <guid>lvu56agm</guid>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how the hungriest faction is going to work in games of Warhammer Age of Sigmar.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules-jul13-1-feature-upwq4wap08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Ogor Mawtribes on the warpath]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p0r8elbp/sunday-preview-ogor-mawtribes-on-the-warpath</link>
@@ -273,21 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_whart39-jul03-1-feature-bbfs6izuyl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Death]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ed5uvcl0/scourge-of-aqshy-free-rules-for-the-forces-of-death</link>
-            <guid>ed5uvcl0</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Claim souls in the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="ossiarch-bonereapers">Ossiarch Bonereapers</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa3-jul02-1-feature-v3zdcmogbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
