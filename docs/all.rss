@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Jul 2026 13:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 14:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – Morga the Mighty stomps into view]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gkzepeuo/revealed-morga-the-mighty-stomps-into-view</link>
+            <guid>gkzepeuo</guid>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lead your Mawtribe with the legendary Overtyrant.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/1-feature-jqc5rxwuqk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Create Horus Heresy veterans with new combi-weapons and shotguns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dgulc48x/create-horus-heresy-veterans-with-new-combi-weapons-and-shotguns</link>
+            <guid>dgulc48x</guid>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new upgrade kit of combi-weapons and pouches for your troops in Warhammer: The Horus Heresy.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_combiweapons-jul13-1-feature-usib7chxre.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eat the Mortal Realms with new Ogor Mawtribes rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lvu56agm/eat-the-mortal-realms-with-new-ogor-mawtribes-rules</link>
@@ -261,29 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa4-jul03-1-feature-bxipmx45xc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – Warriors of Chaos designers’ notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sybfdsyw/old-world-almanack-warriors-of-chaos-designers-notes</link>
-            <guid>sybfdsyw</guid>
-            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the design of the new Warhammer: The Old World miniatures.]]></description>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/tow_chaosminis-jul03-1-feature-qcyw2jv1tl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Lumineth Realm-lords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/joqokny4/warhammer-art-through-the-years-lumineth-realm-lords</link>
-            <guid>joqokny4</guid>
-            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a look at some awesome aelven artwork from Warhammer Age of Sigmar.]]></description>
-            <category domain="lumineth-realm-lords">Lumineth Realm-lords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_whart39-jul03-1-feature-bbfs6izuyl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
