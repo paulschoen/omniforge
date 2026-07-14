@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 14 Jul 2026 12:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 13:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ogor Mawtribes rules – eat, smash, and bellow with the best of them]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dse1gbw5/ogor-mawtribes-rules-eat-smash-and-bellow-with-the-best-of-them</link>
+            <guid>dse1gbw5</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules for Morga the Mighty, Redd the Maw, and others.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules2-jul14-1-feature-wjzcjavbtm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ogors and kitbashed Guardsmen on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kgjj4xlk/ogors-and-kitbashed-guardsmen-on-warhammer-tv</link>
@@ -263,18 +274,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_deathmireresults2-jul06-1-feature-g94xtm3mga.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – New Warhammer 40,000 starter sets are coming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qqcxxrmm/sunday-preview-new-warhammer-40000-starter-sets-are-coming</link>
-            <guid>qqcxxrmm</guid>
-            <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up next week.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/sundaypreview-jul05-1-feature-hhfjb6piv9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
