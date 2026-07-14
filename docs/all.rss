@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 13 Jul 2026 14:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 11:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 14th of July]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2ypwivjr/the-rumour-engine-14th-of-july</link>
+            <guid>2ypwivjr</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/rumourengine-jul14-1-feature-1vdnfdcmhc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed – Morga the Mighty stomps into view]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gkzepeuo/revealed-morga-the-mighty-stomps-into-view</link>
@@ -269,21 +279,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/preorders-jul04-1-feature-wayn6wto1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scourge of Aqshy – Free rules for the forces of Destruction]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bobwu6bk/scourge-of-aqshy-free-rules-for-the-forces-of-destruction</link>
-            <guid>bobwu6bk</guid>
-            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tear apart the Realm of Fire with free Warhammer Age of Sigmar rules.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/aos_soa4-jul03-1-feature-bxipmx45xc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
