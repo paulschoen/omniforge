@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 15 Jul 2026 12:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 13:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Your ogors, your way, with new Armies of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4d4hweha/your-ogors-your-way-with-new-armies-of-renown</link>
+            <guid>4d4hweha</guid>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the flavourful Warhammer Age of Sigmar rules from the new battletome.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules3-jul15-1-feature-zbkl9so6qb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raldoron returns in a new Blood Angels novel from the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bchx6vzo/raldoron-returns-in-a-new-blood-angels-novel-from-the-age-of-darkness</link>
@@ -261,18 +272,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/06-07-1-feature-6yrqsgw5lb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire Week 2 – RESULTS | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/q7k3crpi/the-siege-of-death-mire-week-2-results-warhammer-40000</link>
-            <guid>q7k3crpi</guid>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who took the win in week two of the Siege of Death Mire? This week, Ork attackers and Imperial defenders clashed for control of the Cloisters – see the results and new miniatures revealed for the victors at Warhammer-Community.com!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/deathmire-week-2-results-thumbnail-bk5rm9jits.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
