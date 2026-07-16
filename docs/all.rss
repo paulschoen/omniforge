@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Jul 2026 12:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 13:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Gut-busting abilities make the Ogor Mawtribes dangerous]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5vgsmbci/gut-busting-abilities-make-the-ogor-mawtribes-dangerous</link>
+            <guid>5vgsmbci</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules from the upcoming battletome.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorminisrules-jul16-1-feature-kzplyukgcj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Oathbound Vassal Households of the Mechanicum]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dgfvziwa/pages-from-the-black-books-oathbound-vassal-households-of-the-mechanicum</link>
@@ -262,17 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/wh-_jul07-1-feature-actwybgfiu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Scourge of Aqshy now on the Age of Sigmar app]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/syhssuyr/the-scourge-of-aqshy-now-on-the-age-of-sigmar-app</link>
-            <guid>syhssuyr</guid>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new season of Warhammer Age of Sigmar comes to your phone.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/aos_soaapp-jul08-1-feature-4lqvwxdpxt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
