@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Jul 2026 09:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 12:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – Oathbound Vassal Households of the Mechanicum]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dgfvziwa/pages-from-the-black-books-oathbound-vassal-households-of-the-mechanicum</link>
+            <guid>dgfvziwa</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[More lore from Warhammer: The Horus Heresy.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_blackbookslore25-jul16-1-feature-vxija1dn1g.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Siege of Death Mire ends – who won?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qbmycfzj/the-siege-of-death-mire-ends-who-won</link>
@@ -262,17 +273,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/aos_soaapp-jul08-1-feature-4lqvwxdpxt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: The Old World FAQ – Designer’s Notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wtwhpcco/warhammer-the-old-world-faq-designers-notes</link>
-            <guid>wtwhpcco</guid>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Read what the Design Studio has to say about the latest rules changes to the game.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/tow_update-jul07-1-feature-hqllw6hqmr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
