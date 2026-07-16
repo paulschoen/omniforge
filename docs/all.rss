@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 16 Jul 2026 13:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 15:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Hone your skills with the Warhammer Academy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/htyubijb/hone-your-skills-with-the-warhammer-academy</link>
+            <guid>htyubijb</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The ultimate online beginner’s resource, for free.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whafeatures-jul16-1-feature-jaxqnxbjzu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gut-busting abilities make the Ogor Mawtribes dangerous]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5vgsmbci/gut-busting-abilities-make-the-ogor-mawtribes-dangerous</link>
@@ -263,16 +272,6 @@
             <category domain="necrons">Necrons</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/bl_wickedwarped-jun08-1-feature-due2chqrqq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wisdom of a Slayer Sword winner – Richard Gray on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/d8rynuzo/wisdom-of-a-slayer-sword-winner-richard-gray-on-warhammer-tv</link>
-            <guid>d8rynuzo</guid>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, new episodes looking at Sigmar’s Toll, and a Warhammer Age of Sigmar Battle Report.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/wh-_jul07-1-feature-actwybgfiu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
