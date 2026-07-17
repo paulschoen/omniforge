@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Jul 2026 12:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 13:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – The Law of Meat]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u7whapmk/chronicles-of-ruin-the-law-of-meat</link>
+            <guid>u7whapmk</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy some free gutbusting Warhammer Age of Sigmar fiction.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorfiction-jul17-1-feature-cv38nq1ovq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Ogor Mawtribes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yviynxmi/warhammer-art-through-the-years-ogor-mawtribes</link>
@@ -261,17 +273,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/nrp_reveals-jul09-1-feature-nxmxbkvebe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Mechanicum Taghmata of the Calth Muster]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zlncl7ik/pages-from-the-black-books-the-mechanicum-taghmata-of-the-calth-muster</link>
-            <guid>zlncl7ik</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The tech-magi of Mars pitch into one of the most apocalyptic battles of the Horus Heresy.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/thh_blackbookslore24-jul09-1-feature-eubwyxop0g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
