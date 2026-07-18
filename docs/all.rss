@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 17 Jul 2026 15:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 17:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Ogors, Titans, and Uruk-hai™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eunv0igl/saturday-pre-orders-ogors-titans-and-uruk-haitm</link>
+            <guid>eunv0igl</guid>
+            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up for pre-order this week?]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/preorders-jul18-1-feature-cpnxnzrtss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Battle March boxes bring compact fantasy warfare to the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5fnlyqhl/new-battle-march-boxes-bring-compact-fantasy-warfare-to-the-old-world</link>
@@ -261,17 +275,6 @@
             <category domain="warhammer-open-series">Warhammer Open Series</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/eventstacinfo-jul10-1-feature-zeobkkl3ot.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer World Champion shows his favourite ways to expand Space Marine starter sets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bgttowto/warhammer-40000-experts-expand-space-marine-starter-sets</link>
-            <guid>bgttowto</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Army advice from Richard Siegler]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_marinesnextstep-jul08-1-feature-ulebjrh44r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
