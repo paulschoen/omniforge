@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 18 Jul 2026 17:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 17:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Exodites leap from the jungle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cfauyhwi/sunday-preview-exodites-leap-from-the-jungle</link>
+            <guid>cfauyhwi</guid>
+            <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/sundaypreview-jul19-1-feature-vgbrdjgsx6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Ogors, Titans, and Uruk-hai™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eunv0igl/saturday-pre-orders-ogors-titans-and-uruk-haitm</link>
@@ -264,17 +278,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/aos_whart40-jul10-1-feature-zozbnjwb1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Important updates for Warhammer 40,000 players at the Tacoma Open]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hkjbvun1/important-updates-for-warhammer-40000-players-at-the-tacoma-open</link>
-            <guid>hkjbvun1</guid>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[FAQ and scenery news for those attending.]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/eventstacinfo-jul10-1-feature-zeobkkl3ot.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
