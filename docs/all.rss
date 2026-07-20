@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 20 Jul 2026 15:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 16:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Necrons Narrative Trailer | Warhammer 40,000: Dawn of War]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hndmjnhm/necrons-narrative-trailer-warhammer-40000-dawn-of-war</link>
+            <guid>hndmjnhm</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The world of Kronus once harboured millions of sleeping Necrons, until their tombs were destroyed in Dawn of War: Dark Crusade. Now, the Szarekhan Dynasty has returned, and they want what’s rightfully theirs.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/16x9-svextgtqys.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Necrons return to Kronus in a new Dawn of War IV trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/t0ci7spd/necrons-return-to-kronus-in-a-new-dawn-of-war-iv-trailer</link>
+            <guid>t0ci7spd</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new faction trailer.]]></description>
+            <category domain="necrons">Necrons</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/dow_necrontrailer-jul20-1-feature-v9fasoy97o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed: Nazdreg's BACK | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/nshwsfyb/revealed-nazdregs-back-warhammer-40000</link>
@@ -261,27 +284,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/sundaypreview-jul12-1-feature-19p4ko8ekz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – New starter sets for Warhammer newcomers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tpq1ctqn/saturday-pre-orders-new-starter-sets-for-warhammer-newcomers</link>
-            <guid>tpq1ctqn</guid>
-            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders for Warhammer 40,000 and Black Library.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/preorders-jul11-1-feature-bfqt6yhrgn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your Warhammer questions answered]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nc9lowmt/your-warhammer-questions-answered</link>
-            <guid>nc9lowmt</guid>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Eddie and Adam open the Warhammer Community mail bag]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/summerqa-jul10-1-feature-ywpme6xkvh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
