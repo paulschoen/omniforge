@@ -4,13 +4,38 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 20 Jul 2026 13:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Kill Team Exodites master draconic steeds to outfox the opposition]]></title>
+            <title><![CDATA[Revealed: Nazdreg's BACK | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/nshwsfyb/revealed-nazdregs-back-warhammer-40000</link>
+            <guid>nshwsfyb</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA['E's flash. 'E's clevva. 'E wants your loot.
+Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/v02055-nazdreg-reveal-total-war-40k-video-thumbnail-_v2-5wblqxbv9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Baddest Bad Moon is coming to Warhammer 40,000 AND Total War]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5vutonxu/the-baddest-bad-moon-is-coming-to-warhammer-40000-and-total-war</link>
+            <guid>5vutonxu</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nazdreg's triumphant return]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-htlhpboctf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Team Exodites use draconic steeds to outfox the opposition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/efwtfy5j/kill-team-exodites-master-draconic-steeds-to-outfox-the-opposition</link>
             <guid>efwtfy5j</guid>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
@@ -257,27 +282,6 @@
             <description><![CDATA[Eddie and Adam open the Warhammer Community mail bag]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/summerqa-jul10-1-feature-ywpme6xkvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Warhammer Events. More Often.]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rkqhcfo1/more-warhammer-events-more-often</link>
-            <guid>rkqhcfo1</guid>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer Events are going on the road around the UK, get all the details here.]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/1-feature-(3)-0xa3zojudf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building your Ork Waaagh! around army dispositions, with Adrian from Tabletop Titans]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lyqxdhrh/building-your-ork-waaagh-around-army-dispositions-with-adrian-from-tabletop-titans</link>
-            <guid>lyqxdhrh</guid>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Where do you go next from the Starter Set?]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/40k_orksnextstep-jul10-1-feature-pvl1f3144a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
