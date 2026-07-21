@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Jul 2026 13:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 15:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Welcome to Warhammer Academy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tz94wgny/welcome-to-warhammer-academy</link>
+            <guid>tz94wgny</guid>
+            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Academy is the essential online resource for anyone who wants to build confidence in their Warhammer skills – and the site is now live.
+
+The Academy is a perfect jumping-on point for those new to the hobby, or anyone coming back to it after a short break, so if you’ve got a mate that has been wanting to get involved but isn’t sure where to start, this is the place to send them. https://ow.ly/Tb3f50ZqA1w]]></description>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/academy-thumbnail_welcome-ijalde3n3y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Academy is now live!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/msenltde/warhammer-academy-is-now-live</link>
@@ -265,16 +276,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whplus-jul14-1-feature-akqvwrnccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 14th of July]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2ypwivjr/the-rumour-engine-14th-of-july</link>
-            <guid>2ypwivjr</guid>
-            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/rumourengine-jul14-1-feature-1vdnfdcmhc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
