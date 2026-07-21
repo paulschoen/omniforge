@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Jul 2026 11:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 12:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Ogors thunder onto Warhammer TV in a new Battle Report]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/of9pw7yk/ogors-thunder-onto-warhammer-tv-in-a-new-battle-report</link>
+            <guid>of9pw7yk</guid>
+            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out what’s on Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/whplus-jul21-1-feature-p4gdrcrhsu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 21st of July]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-21st-of-july</link>
@@ -268,17 +278,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_combiweapons-jul13-1-feature-usib7chxre.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eat the Mortal Realms with new Ogor Mawtribes rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lvu56agm/eat-the-mortal-realms-with-new-ogor-mawtribes-rules</link>
-            <guid>lvu56agm</guid>
-            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how the hungriest faction is going to work in games of Warhammer Age of Sigmar.]]></description>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules-jul13-1-feature-upwq4wap08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
