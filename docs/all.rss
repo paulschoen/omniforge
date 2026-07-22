@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 21 Jul 2026 15:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 09:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 July Update – what you need to know!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rgqanids/warhammer-40000-july-update-what-you-need-to-know</link>
+            <guid>rgqanids</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules updates for your games.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_balanceupdate-jul22-1-feature-i6gy3p7he9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Welcome to Warhammer Academy]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/tz94wgny/welcome-to-warhammer-academy</link>
@@ -266,16 +277,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules2-jul14-1-feature-wjzcjavbtm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ogors and kitbashed Guardsmen on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kgjj4xlk/ogors-and-kitbashed-guardsmen-on-warhammer-tv</link>
-            <guid>kgjj4xlk</guid>
-            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch new episodes of Loremasters and Scrap Demon.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whplus-jul14-1-feature-akqvwrnccf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
