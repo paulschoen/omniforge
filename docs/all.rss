@@ -4,21 +4,11 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Jul 2026 12:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 13:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
-        <item>
-            <title><![CDATA[Combat Patrol is now live in your app!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dr0owwky/combat-patrol-is-now-live-in-your-app</link>
-            <guid>dr0owwky</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything you need to play fast-paced games is now in the Warhammer 40,000 app.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_combatpatrol-jul22-1-feature-zuywg6nfx5.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 July Update – what you need to know!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rgqanids/warhammer-40000-july-update-what-you-need-to-know</link>
@@ -276,6 +266,17 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/bl_raldoron-jul15-1-feature-w6pj461y6j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ogor Mawtribes rules – eat, smash, and bellow with the best of them]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dse1gbw5/ogor-mawtribes-rules-eat-smash-and-bellow-with-the-best-of-them</link>
+            <guid>dse1gbw5</guid>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules for Morga the Mighty, Redd the Maw, and others.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules2-jul14-1-feature-wjzcjavbtm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
