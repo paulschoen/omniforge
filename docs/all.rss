@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 22 Jul 2026 15:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 04:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bow down to Archaon – the new statue from Wētā Workshop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u3xqe7ts/bow-down-to-archaon-the-new-statue-from-weta-workshop</link>
+            <guid>u3xqe7ts</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Lord of the End Times in 1:10 scale.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/wetaarchaon-jul23-1-feature-2lkzhjfcvl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed – The new Galaxy in Flames cover for the Horus Heresy Saga]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zwh5vyt8/revealed-the-new-galaxy-in-flames-cover-for-the-horus-heresy-saga</link>
@@ -266,17 +276,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v01979_deathmire_16x9_thumbnail-sec2opkar6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your ogors, your way, with new Armies of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4d4hweha/your-ogors-your-way-with-new-armies-of-renown</link>
-            <guid>4d4hweha</guid>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the flavourful Warhammer Age of Sigmar rules from the new battletome.]]></description>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorrules3-jul15-1-feature-zbkl9so6qb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
