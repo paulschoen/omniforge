@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Jul 2026 10:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 12:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – Upon the Anvil of War]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/o8hrtd9w/pages-from-the-black-books-upon-the-anvil-of-war</link>
+            <guid>o8hrtd9w</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow the Salamanders as they seek vengeance in the Age of Darkness.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/thh_blackbookslore25-jul23-1-feature-zlzunuphvh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Combat Patrol is now live in your app!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2akzkx92/combat-patrol-is-now-live-in-your-app</link>
@@ -263,18 +274,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_blackbookslore25-jul16-1-feature-vxija1dn1g.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire ends – who won?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qbmycfzj/the-siege-of-death-mire-ends-who-won</link>
-            <guid>qbmycfzj</guid>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The massive global campaign comes to an explosive conclusion.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/40k_deathmireresults3-jul15-1-feature-q6zszvovfy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
