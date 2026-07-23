@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Jul 2026 13:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 14:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Build your own Exodite terrain with free templates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s3ejhhhv/build-your-own-exodite-terrain-with-free-templates</link>
+            <guid>s3ejhhhv</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create your own maiden world for your Kill Team games.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeterrain-jul24-1-feature-udk0c6ismz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lore of the Exodites: Reject Decadence and Ride Dragons]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nx7ifif4/reject-decadence-and-ride-dragons</link>
@@ -263,17 +275,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <description><![CDATA[The ultimate online beginner’s resource, for free.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whafeatures-jul16-1-feature-jaxqnxbjzu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gut-busting abilities make the Ogor Mawtribes dangerous]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5vgsmbci/gut-busting-abilities-make-the-ogor-mawtribes-dangerous</link>
-            <guid>5vgsmbci</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules from the upcoming battletome.]]></description>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorminisrules-jul16-1-feature-kzplyukgcj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
