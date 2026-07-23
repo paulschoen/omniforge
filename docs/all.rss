@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Jul 2026 04:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 10:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Combat Patrol is now live in your app!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2akzkx92/combat-patrol-is-now-live-in-your-app</link>
+            <guid>2akzkx92</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everything you need to play fast-paced games is now in the Warhammer 40,000 app.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_combatpatrol-jul22-1-feature-zuywg6nfx5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bow down to Archaon – the new statue from Wētā Workshop]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/u3xqe7ts/bow-down-to-archaon-the-new-statue-from-weta-workshop</link>
@@ -265,17 +275,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="space-marines">Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/40k_deathmireresults3-jul15-1-feature-q6zszvovfy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Siege of Death Mire Week 3 – FINAL RESULTS | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hbiwinjh/the-siege-of-death-mire-week-3-final-results-warhammer-40000</link>
-            <guid>hbiwinjh</guid>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Siege of Death Mire is at an end, the hive city's fate decided by brutal Ork assaults on the Hive Heart and Gallows Spaceport.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v01979_deathmire_16x9_thumbnail-sec2opkar6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
