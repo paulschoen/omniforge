@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Jul 2026 12:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 13:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Lore of the Exodites: Reject Decadence and Ride Dragons]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nx7ifif4/reject-decadence-and-ride-dragons</link>
+            <guid>nx7ifif4</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn the history and ways of the Aeldari Exodites.]]></description>
+            <category domain="aeldari">Aeldari</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeslore-jul23-1-feature-bewsov27gr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Upon the Anvil of War]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/o8hrtd9w/pages-from-the-black-books-upon-the-anvil-of-war</link>
@@ -263,17 +274,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorminisrules-jul16-1-feature-kzplyukgcj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Oathbound Vassal Households of the Mechanicum]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dgfvziwa/pages-from-the-black-books-oathbound-vassal-households-of-the-mechanicum</link>
-            <guid>dgfvziwa</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[More lore from Warhammer: The Horus Heresy.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_blackbookslore25-jul16-1-feature-vxija1dn1g.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
