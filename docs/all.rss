@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Jul 2026 12:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 14:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Classic Skaven miniatures return via Made to Order]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kmgdy8ll/classic-skaven-miniatures-return-via-made-to-order</link>
+            <guid>kmgdy8ll</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Snap up some sneaky skaven from yesteryear.]]></description>
+            <category domain="skaven">Skaven</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/aos_skavenmto-jul24-1-feature-eteo29ciks.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Soulblight Gravelords]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rzquehhx/warhammer-art-through-the-years-soulblight-gravelords</link>
@@ -266,17 +277,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorfiction-jul17-1-feature-cv38nq1ovq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Ogor Mawtribes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yviynxmi/warhammer-art-through-the-years-ogor-mawtribes</link>
-            <guid>yviynxmi</guid>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the ravenous Mawtribes in all their gluttonous glory.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_whart41-jul17-1-feature-psxyiq9mpf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
