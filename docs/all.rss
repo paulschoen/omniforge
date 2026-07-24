@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Jul 2026 14:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 15:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A New Year of Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/tq3ylxx9/a-new-year-of-warhammer</link>
+            <guid>tq3ylxx9</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[TWO amazing miniatures, a new yearbook, and so much more we can't fit it all in this caption! But hold up, was that ... an Astartes II teaser?
+
+You'll have to watch the video to see everything crammed into your Warhammer+ subscription for our 5th anniversary celebration.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammerplus_thumbnail-zkdzz6y4sl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Warhammer+ miniatures revealed – subscribers now get both!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uhr5gtx8/new-warhammer-miniatures-revealed-subscribers-now-get-both</link>
+            <guid>uhr5gtx8</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Your 2026 subscription will net you two commemorative miniatures.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-qncimu9vi5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Classic Skaven miniatures return via Made to Order]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kmgdy8ll/classic-skaven-miniatures-return-via-made-to-order</link>
@@ -255,28 +279,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/preorders-jul18-1-feature-cpnxnzrtss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Battle March boxes bring compact fantasy warfare to the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5fnlyqhl/new-battle-march-boxes-bring-compact-fantasy-warfare-to-the-old-world</link>
-            <guid>5fnlyqhl</guid>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the fight with five new box sets.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/tow_battlemarchboxes-jul17-1-feature-b0h7nlkxig.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Law of Meat]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u7whapmk/chronicles-of-ruin-the-law-of-meat</link>
-            <guid>u7whapmk</guid>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy some free gutbusting Warhammer Age of Sigmar fiction.]]></description>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_ogorfiction-jul17-1-feature-cv38nq1ovq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
