@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 23 Jul 2026 14:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 12:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Soulblight Gravelords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rzquehhx/warhammer-art-through-the-years-soulblight-gravelords</link>
+            <guid>rzquehhx</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy some classic Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/aos_whart42-jul24-1-feature-mtqmnr1lcw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Build your own Exodite terrain with free templates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/s3ejhhhv/build-your-own-exodite-terrain-with-free-templates</link>
@@ -266,15 +277,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="ogor-mawtribes">Ogor Mawtribes</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/aos_whart41-jul17-1-feature-psxyiq9mpf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hone your skills with the Warhammer Academy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/htyubijb/hone-your-skills-with-the-warhammer-academy</link>
-            <guid>htyubijb</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The ultimate online beginner’s resource, for free.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whafeatures-jul16-1-feature-jaxqnxbjzu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
