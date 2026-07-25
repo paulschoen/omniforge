@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 24 Jul 2026 15:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 17:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Aeldari Exodites in Kill Team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mnh7tmla/saturday-pre-orders-aeldari-exodites-in-kill-team</link>
+            <guid>mnh7tmla</guid>
+            <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of this week’s pre-orders.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/preorders-jul25-1-feature-hs6q8zwchj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A New Year of Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/tq3ylxx9/a-new-year-of-warhammer</link>
@@ -265,20 +279,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/sundaypreview-jul19-1-feature-vgbrdjgsx6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Ogors, Titans, and Uruk-hai™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eunv0igl/saturday-pre-orders-ogors-titans-and-uruk-haitm</link>
-            <guid>eunv0igl</guid>
-            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up for pre-order this week?]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="legions-imperialis">Legions Imperialis</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/preorders-jul18-1-feature-cpnxnzrtss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
