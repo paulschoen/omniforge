@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 25 Jul 2026 17:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 17:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The new edition of Necromunda emerges from the Underhive]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ek1kn9kh/sunday-preview-the-new-edition-of-necromunda-emerges-from-the-underhive</link>
+            <guid>ek1kn9kh</guid>
+            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s coming up next week?]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/sundaypreview-jul26-1-feature-7vq7nfrqsk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Aeldari Exodites in Kill Team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mnh7tmla/saturday-pre-orders-aeldari-exodites-in-kill-team</link>
@@ -265,20 +278,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditerules1-jul20-1-feature-jpxzieuxa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Exodites leap from the jungle]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cfauyhwi/sunday-preview-exodites-leap-from-the-jungle</link>
-            <guid>cfauyhwi</guid>
-            <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/sundaypreview-jul19-1-feature-vgbrdjgsx6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
