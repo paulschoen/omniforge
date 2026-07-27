@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 26 Jul 2026 17:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 13:01:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Necromunda – Rules changes in the new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uv8w6shq/necromunda-rules-changes-in-the-new-edition</link>
+            <guid>uv8w6shq</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What can you expect from the biggest rules update in years?]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_rules-jul27-1-feature-h5o9hea4nk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[August’s Miniature of the Month and Collectable Coin Revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/t8wdopoj/augusts-miniature-of-the-month-and-collectable-coin-revealed</link>
+            <guid>t8wdopoj</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what goodies you can grab next month in your local Warhammer store.]]></description>
+            <category domain="miniature-of-the-month">Miniature of the Month</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/motm-jul27-1-feature-6ouxlxdjti.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The new edition of Necromunda emerges from the Underhive]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ek1kn9kh/sunday-preview-the-new-edition-of-necromunda-emerges-from-the-underhive</link>
@@ -255,29 +276,6 @@ Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></descrip
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/v02055-nazdreg-reveal-total-war-40k-video-thumbnail-_v2-5wblqxbv9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Baddest Bad Moon is coming to Warhammer 40,000 AND Total War]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5vutonxu/the-baddest-bad-moon-is-coming-to-warhammer-40000-and-total-war</link>
-            <guid>5vutonxu</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nazdreg's triumphant return]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-htlhpboctf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Exodites use draconic steeds to outfox the opposition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/efwtfy5j/kill-team-exodites-master-draconic-steeds-to-outfox-the-opposition</link>
-            <guid>efwtfy5j</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mix raw speed with fine control to use your Exodites to the fullest.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditerules1-jul20-1-feature-jpxzieuxa7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
