@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 27 Jul 2026 13:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 14:59:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Cleanse the Mortal Realms with the new Warhammer Heroes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes</link>
+            <guid>jgxqfhcz</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new season of Warhammer Heroes miniatures is revealed.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_1-feature-dicy5lxr6v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Necromunda – Rules changes in the new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/uv8w6shq/necromunda-rules-changes-in-the-new-edition</link>
@@ -263,19 +275,6 @@ The Academy is a perfect jumping-on point for those new to the hobby, or anyone 
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/dow_necrontrailer-jul20-1-feature-v9fasoy97o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Nazdreg's BACK | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nshwsfyb/revealed-nazdregs-back-warhammer-40000</link>
-            <guid>nshwsfyb</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA['E's flash. 'E's clevva. 'E wants your loot.
-Da legendary Bad Moons Flashboss is back with a brand-new miniature.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/v02055-nazdreg-reveal-total-war-40k-video-thumbnail-_v2-5wblqxbv9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
