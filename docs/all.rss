@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Jul 2026 11:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 12:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Master the Mortal Realms on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sgclfktm/master-the-mortal-realms-on-warhammer-tv</link>
+            <guid>sgclfktm</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out what’s new on Warhammer TV this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/whplus-jul28-1-feature-mmlh2nuipm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 28th of July]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-28th-of-july</link>
@@ -262,17 +272,6 @@ The Academy is a perfect jumping-on point for those new to the hobby, or anyone 
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/rumourengine-jul21-1-feature-e8yigmpiqn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Necrons Narrative Trailer | Warhammer 40,000: Dawn of War]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hndmjnhm/necrons-narrative-trailer-warhammer-40000-dawn-of-war</link>
-            <guid>hndmjnhm</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The world of Kronus once harboured millions of sleeping Necrons, until their tombs were destroyed in Dawn of War: Dark Crusade. Now, the Szarekhan Dynasty has returned, and they want what’s rightfully theirs.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/16x9-svextgtqys.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
