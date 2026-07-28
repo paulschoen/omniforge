@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 28 Jul 2026 12:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 14:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Huge new Space Marine 2 update out now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/spxoz2ne/huge-new-space-marine-2-update-out-now</link>
+            <guid>spxoz2ne</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New weapons, arenas, and a powerful new enemy to fight.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sm2_update-jul28-1-feature-ezyk91sfph.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Space Marine 2 Confrontation Update is LIVE | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/x1aqxkq5/space-marine-2-confrontation-update-is-live-warhammer-40000</link>
+            <guid>x1aqxkq5</guid>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Suit up as a Salamander and check out new weapons, arenas, and a powerful new enemy to fight!]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/sm2_update_thumbnail-vzmecimb6s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Master the Mortal Realms on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sgclfktm/master-the-mortal-realms-on-warhammer-tv</link>
@@ -252,26 +275,6 @@ The Academy is a perfect jumping-on point for those new to the hobby, or anyone 
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditerules2-jul21-1-feature-jbf8roqfft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ogors thunder onto Warhammer TV in a new Battle Report]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/of9pw7yk/ogors-thunder-onto-warhammer-tv-in-a-new-battle-report</link>
-            <guid>of9pw7yk</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out what’s on Warhammer TV this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/whplus-jul21-1-feature-p4gdrcrhsu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 21st of July]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-21st-of-july</link>
-            <guid>dz7jzsva</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/rumourengine-jul21-1-feature-e8yigmpiqn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
