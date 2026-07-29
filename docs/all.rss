@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Jul 2026 12:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 13:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Catch up with the lore of Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ufttvd2x/catch-up-with-the-lore-of-necromunda</link>
+            <guid>ufttvd2x</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s always something happening on one of the busiest planets of the 41st Millennium.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_lore-jul29-1-feature-rrfs1zfnjt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[White Dwarf 527: The Inside Scoop on Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000</link>
@@ -265,15 +276,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
 The Academy is a perfect jumping-on point for those new to the hobby, or anyone coming back to it after a short break, so if you’ve got a mate that has been wanting to get involved but isn’t sure where to start, this is the place to send them. https://ow.ly/Tb3f50ZqA1w]]></description>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/academy-thumbnail_welcome-ijalde3n3y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Academy is now live!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/msenltde/warhammer-academy-is-now-live</link>
-            <guid>msenltde</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out the official online beginner’s resource today.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/whalaunch-jul21-1-feature-ek2roqsmqv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
