@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Jul 2026 13:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 14:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Bjorn the Fell-handed stars in a new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/a6qbf0b4/bjorn-the-fell-handed-stars-in-a-new-black-library-novel</link>
+            <guid>a6qbf0b4</guid>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The iconic Space Wolves Dreadnought awakens to battle the Death Guard.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/bl_bjorn-jul29-1-feature-nwkircxs5x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Catch up with the lore of Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ufttvd2x/catch-up-with-the-lore-of-necromunda</link>
@@ -265,17 +279,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_balanceupdate-jul22-1-feature-i6gy3p7he9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Warhammer Academy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tz94wgny/welcome-to-warhammer-academy</link>
-            <guid>tz94wgny</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer Academy is the essential online resource for anyone who wants to build confidence in their Warhammer skills – and the site is now live.
-
-The Academy is a perfect jumping-on point for those new to the hobby, or anyone coming back to it after a short break, so if you’ve got a mate that has been wanting to get involved but isn’t sure where to start, this is the place to send them. https://ow.ly/Tb3f50ZqA1w]]></description>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/academy-thumbnail_welcome-ijalde3n3y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
