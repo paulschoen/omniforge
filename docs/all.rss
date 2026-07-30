@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 30 Jul 2026 12:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 13:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Classic characters are getting free Necromunda rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xxoq2ns3/classic-characters-are-getting-free-necromunda-rules</link>
+            <guid>xxoq2ns3</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how you’ll be able to use Bounty Hunters, Hangers-On, and more in your games of gang warfare.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_mostwanted-jul30-1-feature-3ml74r5ntg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Xana Incursion]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/spyj3dt5/pages-from-the-black-books-the-xana-incursion</link>
@@ -269,17 +279,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-8wjmdmlywe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exodites in Warhammer 40,000 – See the full rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bauwdcyl/40k</link>
-            <guid>bauwdcyl</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dragon Knights get ready to skewer the competition.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_exodites-jul22-1-feature-9vidj7dwqt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
