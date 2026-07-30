@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 29 Jul 2026 14:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 12:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Xana Incursion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/spyj3dt5/pages-from-the-black-books-the-xana-incursion</link>
+            <guid>spyj3dt5</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[An isolated Forge World is plunged into the Horus Heresy.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/thh_blackbookslore26-jul30-1-feature-3lmmycvmo8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bjorn the Fell-handed stars in a new Black Library novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/a6qbf0b4/bjorn-the-fell-handed-stars-in-a-new-black-library-novel</link>
@@ -268,17 +280,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_exodites-jul22-1-feature-9vidj7dwqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 July Update – what you need to know!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rgqanids/warhammer-40000-july-update-what-you-need-to-know</link>
-            <guid>rgqanids</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rules updates for your games.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_balanceupdate-jul22-1-feature-i6gy3p7he9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
