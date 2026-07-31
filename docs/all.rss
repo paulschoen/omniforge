@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Jul 2026 13:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 14:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Galadriel™ and the Elves of Lórien™ return as Made to Order miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oyphjk5b/galadrieltm-and-the-elves-of-lorientm-return-as-made-to-order-miniatures</link>
+            <guid>oyphjk5b</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready to add some classic Middle-earth Strategy Battle Game models to your collection.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/me_mto-jul31-1-feature-zjrgle9zfl.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside the underhive – The art of Necromunda’s new edition]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/kbxfnwu4/inside-the-underhive-the-art-of-necromundas-new-edition</link>
@@ -271,16 +281,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/thh_blackbookslore25-jul23-1-feature-zlzunuphvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Combat Patrol is now live in your app!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2akzkx92/combat-patrol-is-now-live-in-your-app</link>
-            <guid>2akzkx92</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Everything you need to play fast-paced games is now in the Warhammer 40,000 app.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_combatpatrol-jul22-1-feature-zuywg6nfx5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
