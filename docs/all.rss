@@ -4,13 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 30 Jul 2026 14:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 13:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Free extract from The Wicked and the Warped]]></title>
+            <title><![CDATA[Inside the underhive – The art of Necromunda’s new edition]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kbxfnwu4/inside-the-underhive-the-art-of-necromundas-new-edition</link>
+            <guid>kbxfnwu4</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out some of the fantastic new artwork from the Necromunda Core Rulebook.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_art-jul31-1-feature-ayje6wyrgi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get a first look at The Wicked and the Warped]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/suhmwju3/free-extract-from-the-wicked-and-the-warped</link>
             <guid>suhmwju3</guid>
             <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
@@ -23,7 +33,7 @@
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/bl_wwextract-jul30-1-feature-xi9rxrx2cp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Classic characters are getting free Necromunda rules]]></title>
+            <title><![CDATA[Classic characters are getting Necromunda rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xxoq2ns3/classic-characters-are-getting-free-necromunda-rules</link>
             <guid>xxoq2ns3</guid>
             <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
@@ -271,16 +281,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_combatpatrol-jul22-1-feature-zuywg6nfx5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bow down to Archaon – the new statue from Wētā Workshop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u3xqe7ts/bow-down-to-archaon-the-new-statue-from-weta-workshop</link>
-            <guid>u3xqe7ts</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Lord of the End Times in 1:10 scale.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/wetaarchaon-jul23-1-feature-2lkzhjfcvl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
