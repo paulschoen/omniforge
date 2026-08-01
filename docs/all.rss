@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 31 Jul 2026 14:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 17:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Gang warfare erupts in the underhive]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nl75icdx/saturday-pre-orders-gang-warfare-erupts-in-the-underhive</link>
+            <guid>nl75icdx</guid>
+            <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out all of today’s Necromunda and Black Library pre-orders.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/preorders-aug01-1-feature-a43g74odgf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Galadriel™ and the Elves of Lórien™ return as Made to Order miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oyphjk5b/galadrieltm-and-the-elves-of-lorientm-return-as-made-to-order-miniatures</link>
@@ -270,17 +282,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeslore-jul23-1-feature-bewsov27gr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Upon the Anvil of War]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/o8hrtd9w/pages-from-the-black-books-upon-the-anvil-of-war</link>
-            <guid>o8hrtd9w</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow the Salamanders as they seek vengeance in the Age of Darkness.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/thh_blackbookslore25-jul23-1-feature-zlzunuphvh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
