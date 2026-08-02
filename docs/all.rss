@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 01 Aug 2026 17:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 17:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Chaos reigns in the World of Legend]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wqyc09cx/sunday-preview-chaos-reigns-in-the-world-of-legend</link>
+            <guid>wqyc09cx</guid>
+            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warriors Chaos and Blood Bowl big guys – see what’s available for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sundaypreview-aug02-1-feature-tlimrqnjh8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Gang warfare erupts in the underhive]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nl75icdx/saturday-pre-orders-gang-warfare-erupts-in-the-underhive</link>
@@ -271,17 +286,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="kill-team">Kill Team</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeterrain-jul24-1-feature-udk0c6ismz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lore of the Exodites: Reject Decadence and Ride Dragons]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nx7ifif4/reject-decadence-and-ride-dragons</link>
-            <guid>nx7ifif4</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn the history and ways of the Aeldari Exodites.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeslore-jul23-1-feature-bewsov27gr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
