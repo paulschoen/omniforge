@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 02 Aug 2026 17:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 15:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Upcoming events – including the UK Tournament Series]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rkffleqs/upcoming-events-including-the-uk-tournament-series</link>
+            <guid>rkffleqs</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tickets are available now]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/events-jul31-1-feature-uukrsratod.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Claim the underhive for House Escher with new miniatures and rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ckfixbxu/claim-the-underhive-for-house-escher-with-new-miniatures-and-rules</link>
+            <guid>ckfixbxu</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Matriarchs, Phyrr Cats, and a new kind of rules supplement is coming to Necromunda.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/03-08_1-feature-kw4kziwnuu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designer’s Notes on Blood Bowl Sevens]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f0owm2ar/designers-notes-on-blood-bowl-sevens</link>
+            <guid>f0owm2ar</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get the inside track on the smaller sized, fast-paced game of fantasy football.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/bb_sevens-aug04-1-feature-6kxc0tcyb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Chaos reigns in the World of Legend]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wqyc09cx/sunday-preview-chaos-reigns-in-the-world-of-legend</link>
@@ -252,40 +284,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-qncimu9vi5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classic Skaven miniatures return via Made to Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kmgdy8ll/classic-skaven-miniatures-return-via-made-to-order</link>
-            <guid>kmgdy8ll</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Snap up some sneaky skaven from yesteryear.]]></description>
-            <category domain="skaven">Skaven</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/aos_skavenmto-jul24-1-feature-eteo29ciks.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Soulblight Gravelords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rzquehhx/warhammer-art-through-the-years-soulblight-gravelords</link>
-            <guid>rzquehhx</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy some classic Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="soulblight-gravelords">Soulblight Gravelords</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/aos_whart42-jul24-1-feature-mtqmnr1lcw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Build your own Exodite terrain with free templates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s3ejhhhv/build-your-own-exodite-terrain-with-free-templates</link>
-            <guid>s3ejhhhv</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Create your own maiden world for your Kill Team games.]]></description>
-            <category domain="aeldari">Aeldari</category>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeterrain-jul24-1-feature-udk0c6ismz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
