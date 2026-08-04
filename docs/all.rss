@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Aug 2026 11:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New terrain templates match your battlefields to your army]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/axyxpkg9/new-terrain-templates-match-your-battlefields-to-your-army</link>
+            <guid>axyxpkg9</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download and print new Warhammer 40,000 templates now.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/40k_altterrainmaps-aug04-1-feature-jg7ubqc35c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 4th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wy36xf7s/the-rumour-engine-4th-of-august</link>
@@ -270,19 +281,6 @@
             <category domain="pre-orders">Pre-orders</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/preorders-jul25-1-feature-hs6q8zwchj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A New Year of Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/tq3ylxx9/a-new-year-of-warhammer</link>
-            <guid>tq3ylxx9</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[TWO amazing miniatures, a new yearbook, and so much more we can't fit it all in this caption! But hold up, was that ... an Astartes II teaser?
-
-You'll have to watch the video to see everything crammed into your Warhammer+ subscription for our 5th anniversary celebration.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammerplus_thumbnail-zkdzz6y4sl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
