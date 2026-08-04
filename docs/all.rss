@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 03 Aug 2026 15:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 4th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wy36xf7s/the-rumour-engine-4th-of-august</link>
+            <guid>wy36xf7s</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/rumourengine-aug04-1-feature-tasfjadudz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Upcoming events – including the UK Tournament Series]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rkffleqs/upcoming-events-including-the-uk-tournament-series</link>
@@ -273,17 +283,6 @@ You'll have to watch the video to see everything crammed into your Warhammer+ su
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammerplus_thumbnail-zkdzz6y4sl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Warhammer+ miniatures revealed – subscribers now get both!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uhr5gtx8/new-warhammer-miniatures-revealed-subscribers-now-get-both</link>
-            <guid>uhr5gtx8</guid>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Your 2026 subscription will net you two commemorative miniatures.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/1-feature-qncimu9vi5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
