@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 04 Aug 2026 14:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 13:46:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Old World Almanack – The March of Chaos designer’s notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/koiqh5xv/old-world-almanack-the-march-of-chaos-designers-notes</link>
+            <guid>koiqh5xv</guid>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The team behind Warhammer: The Old World talk about the new rules supplement.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="old-world-almanack">Old World Almanack</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/tow_marchchaos-aug05-1-feature-pdwixexvkj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joshua Mallett talks painting on Warhammer TV this week]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ghakd9kg/joshua-mallett-talks-painting-on-warhammer-tv-this-week</link>
+            <guid>ghakd9kg</guid>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out about the fresh Warhammer TV episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/wh-_aug05-1-feature-jpukydzsow.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer: The Old World Battle March armies from the team behind the game]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xqrukoec/warhammer-the-old-world-battle-march-armies-from-the-team-behind-the-game</link>
@@ -255,30 +276,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_rules-jul27-1-feature-h5o9hea4nk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[August’s Miniature of the Month and Collectable Coin Revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/t8wdopoj/augusts-miniature-of-the-month-and-collectable-coin-revealed</link>
-            <guid>t8wdopoj</guid>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what goodies you can grab next month in your local Warhammer store.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/motm-jul27-1-feature-6ouxlxdjti.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The new edition of Necromunda emerges from the Underhive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ek1kn9kh/sunday-preview-the-new-edition-of-necromunda-emerges-from-the-underhive</link>
-            <guid>ek1kn9kh</guid>
-            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s coming up next week?]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/sundaypreview-jul26-1-feature-7vq7nfrqsk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
