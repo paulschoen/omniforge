@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Aug 2026 13:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 14:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed: Heldanarr Fall returns in Blood of the Godeater]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/5j5ev4yq/revealed-heldanarr-fall-returns-in-blood-of-the-godeater</link>
+            <guid>5j5ev4yq</guid>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The sequel to Godeater’s Son is on the way.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/bl_bloodgodeater-aug05-1-feature-exfreqkorz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old World Almanack – The March of Chaos designer’s notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/koiqh5xv/old-world-almanack-the-march-of-chaos-designers-notes</link>
@@ -266,16 +277,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_1-feature-dicy5lxr6v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Necromunda – Rules changes in the new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uv8w6shq/necromunda-rules-changes-in-the-new-edition</link>
-            <guid>uv8w6shq</guid>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What can you expect from the biggest rules update in years?]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_rules-jul27-1-feature-h5o9hea4nk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
