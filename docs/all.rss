@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Aug 2026 14:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 23:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Rules update for Titans in Legions Imperialis]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/weugytla/rules-update-for-titans-in-legions-imperialis</link>
+            <guid>weugytla</guid>
+            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New weapons for Reavers and updates for some Titans]]></description>
+            <category domain="legions-imperialis">Legions Imperialis</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/li_update-aug06-1-feature-avleyfvtf1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Morg 'n' Thorg – A Blood Bowl retrospective]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8k8p2xrd/morg-n-thorg-a-blood-bowl-retrospective</link>
@@ -267,16 +278,6 @@
             <category domain="video-games">Video Games</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/sm2_update_thumbnail-vzmecimb6s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Master the Mortal Realms on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sgclfktm/master-the-mortal-realms-on-warhammer-tv</link>
-            <guid>sgclfktm</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out what’s new on Warhammer TV this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/whplus-jul28-1-feature-mmlh2nuipm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
