@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 05 Aug 2026 14:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 11:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Forge World of Zhao-Arkhad]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/790jwdai/pages-from-the-black-books-the-forge-world-of-zhao-arkhad</link>
+            <guid>790jwdai</guid>
+            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the curious Forge World at the fringe of Humanity’s domain.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/thh_blackbookslore27-aug06-1-feature-o0qwjzmwax.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed: Heldanarr Fall returns in Blood of the Godeater]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/5j5ev4yq/revealed-heldanarr-fall-returns-in-blood-of-the-godeater</link>
@@ -265,18 +277,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/rumourengine-jul28-1-feature-lu7wcdrbrc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cleanse the Mortal Realms with the new Warhammer Heroes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes</link>
-            <guid>jgxqfhcz</guid>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new season of Warhammer Heroes miniatures is revealed.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_1-feature-dicy5lxr6v.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
