@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 06 Aug 2026 23:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 12:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Maggotkin of Nurgle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/y2rpnvem/warhammer-art-through-the-years-maggotkin-of-nurgle</link>
+            <guid>y2rpnvem</guid>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy some more classic Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/aos_whart43-aug07-2-share-0mnomws2lh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rules update for Titans in Legions Imperialis]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/weugytla/rules-update-for-titans-in-legions-imperialis</link>
@@ -267,17 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sm2_update-jul28-1-feature-ezyk91sfph.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marine 2 Confrontation Update is LIVE | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/x1aqxkq5/space-marine-2-confrontation-update-is-live-warhammer-40000</link>
-            <guid>x1aqxkq5</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Suit up as a Salamander and check out new weapons, arenas, and a powerful new enemy to fight!]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="video-games">Video Games</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_update_thumbnail-vzmecimb6s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
