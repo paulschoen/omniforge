@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 07 Aug 2026 12:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 17:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Chaos marches on the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/72b1m60j/saturday-pre-orders-chaos-marches-on-the-old-world</link>
+            <guid>72b1m60j</guid>
+            <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New pre-orders for Warhammer: The Old World, Blood Bowl, and more.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/preorders-aug08-1-feature-w0ufk8a7az.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Maggotkin of Nurgle]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/y2rpnvem/warhammer-art-through-the-years-maggotkin-of-nurgle</link>
@@ -266,18 +281,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/wd527-jul29-1-feature-j6bbqtvo9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Huge new Space Marine 2 update out now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/spxoz2ne/huge-new-space-marine-2-update-out-now</link>
-            <guid>spxoz2ne</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New weapons, arenas, and a powerful new enemy to fight.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sm2_update-jul28-1-feature-ezyk91sfph.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
