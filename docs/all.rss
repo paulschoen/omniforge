@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 08 Aug 2026 17:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 17:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The ogors are coming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fs17edqw/sunday-preview-the-ogors-are-coming</link>
+            <guid>fs17edqw</guid>
+            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New pre-orders coming next week for Warhammer Age of Sigmar and Black Library.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/sundaypreview-aug09-1-feature-ny33gznjog.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday pre-orders – Chaos marches on the Old World]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/72b1m60j/saturday-pre-orders-chaos-marches-on-the-old-world</link>
@@ -271,16 +284,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_lore-jul29-1-feature-rrfs1zfnjt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Dwarf 527: The Inside Scoop on Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000</link>
-            <guid>qx3hqwpl</guid>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Miniatures and rules for the new edition of Warhammer 40,000, solo missions in the Jade Abbey, and more.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/wd527-jul29-1-feature-j6bbqtvo9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
