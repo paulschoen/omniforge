@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Aug 2026 13:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – New Ork Nobz and Warbikes are coming]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ovhxxpnh/revealed-new-ork-nobz-and-warbikes-are-coming</link>
+            <guid>ovhxxpnh</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Elite Orks are coming for Warhammer 40,000.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/1-feature-2eppm5toka.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New House Goliath miniatures and rules for Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8zqejqld/new-house-goliath-miniatures-and-rules-for-necromunda</link>
@@ -270,20 +282,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/thh_blackbookslore26-jul30-1-feature-3lmmycvmo8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bjorn the Fell-handed stars in a new Black Library novel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/a6qbf0b4/bjorn-the-fell-handed-stars-in-a-new-black-library-novel</link>
-            <guid>a6qbf0b4</guid>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The iconic Space Wolves Dreadnought awakens to battle the Death Guard.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="deathwatch">Deathwatch</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/bl_bjorn-jul29-1-feature-nwkircxs5x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
