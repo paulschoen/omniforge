@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 11 Aug 2026 11:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 12:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Go behind the scenes of Penitence on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ipu3ivtu/go-behind-the-scenes-of-penitence-on-warhammer-tv</link>
+            <guid>ipu3ivtu</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the animation and find out about this week’s Warhammer TV episodes.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/wh-_aug11-1-feature-ysrknanqqq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 11th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-11th-of-august</link>
@@ -270,16 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/bl_wwextract-jul30-1-feature-xi9rxrx2cp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classic characters are getting Necromunda rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xxoq2ns3/classic-characters-are-getting-free-necromunda-rules</link>
-            <guid>xxoq2ns3</guid>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how you’ll be able to use Bounty Hunters, Hangers-On, and more in your games of gang warfare.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_mostwanted-jul30-1-feature-3ml74r5ntg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
