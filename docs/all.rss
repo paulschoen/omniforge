@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 10 Aug 2026 15:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 11th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-11th-of-august</link>
+            <guid>zdofpdp6</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/rumourengine-aug11-1-feature-pvmgafvwgz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed – New Ork Nobz and Warbikes are coming]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ovhxxpnh/revealed-new-ork-nobz-and-warbikes-are-coming</link>
@@ -270,18 +280,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_mostwanted-jul30-1-feature-3ml74r5ntg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Xana Incursion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/spyj3dt5/pages-from-the-black-books-the-xana-incursion</link>
-            <guid>spyj3dt5</guid>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[An isolated Forge World is plunged into the Horus Heresy.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/thh_blackbookslore26-jul30-1-feature-3lmmycvmo8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
