@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Aug 2026 13:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 14:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Huron Blackheart takes on Tyranids in a new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m9mejwhx/huron-blackheart-takes-on-tyranids-in-a-new-black-library-novel</link>
+            <guid>m9mejwhx</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Warhammer 40,000 novel emerges from the Maelstrom.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/bl_clawsofthemael-aug12-1-feature-vngps9kgqj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AoS Coach on the recipe for Ogor Mawtribes success]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eq3ukvvz/aos-coach-on-the-recipe-for-ogor-mawtribes-success</link>
@@ -268,16 +279,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/me_mto-jul31-1-feature-zjrgle9zfl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside the underhive – The art of Necromunda’s new edition]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kbxfnwu4/inside-the-underhive-the-art-of-necromundas-new-edition</link>
-            <guid>kbxfnwu4</guid>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out some of the fantastic new artwork from the Necromunda Core Rulebook.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/nec_art-jul31-1-feature-ayje6wyrgi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
