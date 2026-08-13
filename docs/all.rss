@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Aug 2026 13:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 14:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Four Lords of the End Times join Total War: Warhammer III]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cxeevstr/four-lords-of-the-end-times-join-total-war-warhammer-iii</link>
+            <guid>cxeevstr</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The largest DLC in Total War: Warhammer history comes out this September.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/twwh3-endtimes-aug13-1-feature-uo8idxkqor.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ork datasheets first look – Bigger, tougher Ghazghkull]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/s1rads41/ork-datasheets-first-look-bigger-tougher-ghazghkull</link>
+            <guid>s1rads41</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a sneak peek inside the new Warhammer 40,000 codex.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/40k_orkdatasheets-aug13-1-feature-q4egvfeq2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – The Edge of Ruin]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yl8fqevo/pages-from-the-black-books-the-edge-of-ruin</link>
@@ -254,31 +275,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/03-08_1-feature-kw4kziwnuu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designer’s Notes on Blood Bowl Sevens]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f0owm2ar/designers-notes-on-blood-bowl-sevens</link>
-            <guid>f0owm2ar</guid>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the inside track on the smaller sized, fast-paced game of fantasy football.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/bb_sevens-aug04-1-feature-6kxc0tcyb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Chaos reigns in the World of Legend]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wqyc09cx/sunday-preview-chaos-reigns-in-the-world-of-legend</link>
-            <guid>wqyc09cx</guid>
-            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warriors Chaos and Blood Bowl big guys – see what’s available for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sundaypreview-aug02-1-feature-tlimrqnjh8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
