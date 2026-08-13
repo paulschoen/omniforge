@@ -4,13 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 13 Aug 2026 11:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 13:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
         <item>
-            <title><![CDATA[Your new home for Warhammer Events]]></title>
+            <title><![CDATA[Pages from the Black Books – The Edge of Ruin]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yl8fqevo/pages-from-the-black-books-the-edge-of-ruin</link>
+            <guid>yl8fqevo</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plans and schemes from the dawn of the Horus Heresy.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/thh_blackbookslore28-aug13-1-feature-1pky6mjg8r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The new home for Warhammer Events]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bh7rr0ih/your-new-home-for-warhammer-events</link>
             <guid>bh7rr0ih</guid>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
@@ -268,18 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/sundaypreview-aug02-1-feature-tlimrqnjh8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Gang warfare erupts in the underhive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nl75icdx/saturday-pre-orders-gang-warfare-erupts-in-the-underhive</link>
-            <guid>nl75icdx</guid>
-            <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out all of today’s Necromunda and Black Library pre-orders.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/preorders-aug01-1-feature-a43g74odgf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
