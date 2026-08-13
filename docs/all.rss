@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 12 Aug 2026 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 11:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Your new home for Warhammer Events]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bh7rr0ih/your-new-home-for-warhammer-events</link>
+            <guid>bh7rr0ih</guid>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out the new section, right here on Warhammer Community]]></description>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/13-08_1-feature-dm7s97vur3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Huron Blackheart takes on Tyranids in a new Black Library novel]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m9mejwhx/huron-blackheart-takes-on-tyranids-in-a-new-black-library-novel</link>
@@ -26,6 +36,7 @@
             <guid>eq3ukvvz</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[We chew the fat with Anthony to get some top tips on army building in the new battletome.]]></description>
+            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category domain="interviews">Interviews</category>
             <category>articles</category>
@@ -269,16 +280,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/preorders-aug01-1-feature-a43g74odgf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Galadriel™ and the Elves of Lórien™ return as Made to Order miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oyphjk5b/galadrieltm-and-the-elves-of-lorientm-return-as-made-to-order-miniatures</link>
-            <guid>oyphjk5b</guid>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready to add some classic Middle-earth Strategy Battle Game models to your collection.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/me_mto-jul31-1-feature-zjrgle9zfl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
