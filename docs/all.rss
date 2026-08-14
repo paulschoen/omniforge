@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Aug 2026 13:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 14:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Codex: Orks army rules to get you riled up]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ckwgwgyx/new-codex-orks-army-rules-to-get-you-riled-up</link>
+            <guid>ckwgwgyx</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Holler, charge, and chop some gits good and proper.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/40k_orksarmyrules-aug14-1-feature-gyqgegdcn2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Fyreslayers]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mybvrrvz/warhammer-art-through-the-years-fyreslayers</link>
@@ -265,16 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/40k_altterrainmaps-aug04-1-feature-jg7ubqc35c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 4th of August]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wy36xf7s/the-rumour-engine-4th-of-august</link>
-            <guid>wy36xf7s</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/rumourengine-aug04-1-feature-tasfjadudz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
