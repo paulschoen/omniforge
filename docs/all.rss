@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 14 Aug 2026 14:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 17:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Devour the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6kyyf0sc/saturday-pre-orders-devour-the-mortal-realms</link>
+            <guid>6kyyf0sc</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celebrate dinner time with a whole smorgasbord of Ogor Mawtribes pre-orders for Warhammer Age of Sigmar this week.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/satpreorders-aug15-1-feature-8oylppddzu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Codex: Orks army rules to get you riled up]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ckwgwgyx/new-codex-orks-army-rules-to-get-you-riled-up</link>
@@ -265,17 +277,6 @@
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/tow_studiobattlemarch-aug04-1-feature-xpazxhfmdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New terrain templates match your battlefields to your army]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/axyxpkg9/new-terrain-templates-match-your-battlefields-to-your-army</link>
-            <guid>axyxpkg9</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download and print new Warhammer 40,000 templates now.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/40k_altterrainmaps-aug04-1-feature-jg7ubqc35c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
