@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 15 Aug 2026 17:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 17:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Orks rampage in next week]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sr4taoqg/sunday-preview-orks-rampage-in-next-week</link>
+            <guid>sr4taoqg</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Waaagh! – mean, green Warhammer 40,000 releases up for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/sundaypreview-aug16-1-feature-weqkiwp6me.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Devour the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6kyyf0sc/saturday-pre-orders-devour-the-mortal-realms</link>
@@ -265,18 +280,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/wh-_aug05-1-feature-jpukydzsow.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer: The Old World Battle March armies from the team behind the game]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xqrukoec/warhammer-the-old-world-battle-march-armies-from-the-team-behind-the-game</link>
-            <guid>xqrukoec</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for Battle March with some example forces.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/tow_studiobattlemarch-aug04-1-feature-xpazxhfmdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
