@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Aug 2026 14:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – New Gargant “miniatures”]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zarljpll/revealed-new-gargant-miniatures</link>
+            <guid>zarljpll</guid>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Sons of Behemat are coming to stomp the Mortal Realms with massive new models.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-1-feature-c1kwoybany.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Battlehosts revealed for Middle-Earth™]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ycytiwiv/new-battlehosts-revealed-for-middle-earthtm</link>
@@ -269,17 +281,6 @@
             <category domain="fiction">Fiction</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/thh_blackbookslore27-aug06-1-feature-o0qwjzmwax.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Heldanarr Fall returns in Blood of the Godeater]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/5j5ev4yq/revealed-heldanarr-fall-returns-in-blood-of-the-godeater</link>
-            <guid>5j5ev4yq</guid>
-            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The sequel to Godeater’s Son is on the way.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/bl_bloodgodeater-aug05-1-feature-exfreqkorz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
