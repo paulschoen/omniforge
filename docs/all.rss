@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 17 Aug 2026 13:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Battlehosts revealed for Middle-Earth™]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ycytiwiv/new-battlehosts-revealed-for-middle-earthtm</link>
+            <guid>ycytiwiv</guid>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Balanced boxed set armies incoming for Dol Guldur, Rohan, and Mirkwood.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/me_battlehosts-aug17-1-feature-biacnorqd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15 new Ork detachments let you build your perfect Waaagh!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nbdkvr51/15-new-ork-detachments-let-you-build-your-perfect-waaagh</link>
@@ -270,17 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/bl_bloodgodeater-aug05-1-feature-exfreqkorz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old World Almanack – The March of Chaos designer’s notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/koiqh5xv/old-world-almanack-the-march-of-chaos-designers-notes</link>
-            <guid>koiqh5xv</guid>
-            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The team behind Warhammer: The Old World talk about the new rules supplement.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="old-world-almanack">Old World Almanack</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/tow_marchchaos-aug05-1-feature-pdwixexvkj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
