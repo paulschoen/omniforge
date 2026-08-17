@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 16 Aug 2026 17:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 13:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[15 new Ork detachments let you build your perfect Waaagh!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nbdkvr51/15-new-ork-detachments-let-you-build-your-perfect-waaagh</link>
+            <guid>nbdkvr51</guid>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Conquer the galaxy your way with new rules in Codex: Orks.]]></description>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_orkdetachments-aug18-1-feature-prucayvjv2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Orks rampage in next week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sr4taoqg/sunday-preview-orks-rampage-in-next-week</link>
@@ -270,16 +281,6 @@
             <category domain="old-world-almanack">Old World Almanack</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/tow_marchchaos-aug05-1-feature-pdwixexvkj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joshua Mallett talks painting on Warhammer TV this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ghakd9kg/joshua-mallett-talks-painting-on-warhammer-tv-this-week</link>
-            <guid>ghakd9kg</guid>
-            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out about the fresh Warhammer TV episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/wh-_aug05-1-feature-jpukydzsow.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
