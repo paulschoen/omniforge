@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 19 Aug 2026 13:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 14:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Black Templars novel revealed as we chat to author Mike Vincent]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/uqsdtvd6/new-black-templars-novel-revealed-as-we-chat-to-author-mike-vincent</link>
+            <guid>uqsdtvd6</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can Helbrecht save the Imperium or will his unlikely alliance fail?]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/bl_helbrechtreveal-aug19-1-feature-vcwqfvz6ld.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anatomy of an 11th Edition Codex – What do you get?]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/axy3onye/anatomy-of-an-11th-edition-codex-what-do-you-get</link>
@@ -265,21 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/sundaypreview-aug09-1-feature-ny33gznjog.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Chaos marches on the Old World]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/72b1m60j/saturday-pre-orders-chaos-marches-on-the-old-world</link>
-            <guid>72b1m60j</guid>
-            <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New pre-orders for Warhammer: The Old World, Blood Bowl, and more.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/preorders-aug08-1-feature-w0ufk8a7az.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
