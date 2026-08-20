@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Aug 2026 13:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Learn painting skills from Golden Demon pros at Warhammer Open events]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xw8rinha/learn-painting-skills-from-golden-demon-pros-at-warhammer-open-events</link>
+            <guid>xw8rinha</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s loads more to do than just battling it out.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/events_paintingclasses-aug20-1-feature-cbared2dpw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pages from the Black Books – Warp Cults of the Age of Darkness]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ypyjmmxx/pages-from-the-black-books-warp-cults-of-the-age-of-darkness</link>
@@ -266,17 +278,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/1-feature-2eppm5toka.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New House Goliath miniatures and rules for Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8zqejqld/new-house-goliath-miniatures-and-rules-for-necromunda</link>
-            <guid>8zqejqld</guid>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plastic Forge Bosses and Sumpkrocs revealed, plus a new rules supplement is coming for Necromunda.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/1-feature-dynfadvfgr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
