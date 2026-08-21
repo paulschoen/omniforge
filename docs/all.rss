@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 20 Aug 2026 14:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 12:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Flesh-eater Courts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/8109tfoj/warhammer-art-through-the-years-flesh-eater-courts</link>
+            <guid>8109tfoj</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy a feast of classic Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whart45-aug21-1-feature-ni3ozz0ej9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Learn painting skills from Golden Demon pros at Warhammer Open events]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xw8rinha/learn-painting-skills-from-golden-demon-pros-at-warhammer-open-events</link>
@@ -266,18 +277,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/rumourengine-aug11-1-feature-pvmgafvwgz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed – New Ork Nobz and Warbikes are coming]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ovhxxpnh/revealed-new-ork-nobz-and-warbikes-are-coming</link>
-            <guid>ovhxxpnh</guid>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Elite Orks are coming for Warhammer 40,000.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/1-feature-2eppm5toka.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
