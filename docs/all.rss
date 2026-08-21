@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Aug 2026 12:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 13:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Build a better Waaagh! – Warhammer Community cooks up their ideal Ork armies]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fvsvtvtu/build-a-better-waaagh-warhammer-community-cooks-up-their-ideal-ork-armies</link>
+            <guid>fvsvtvtu</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+            <category domain="orks">Orks</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_orkarmies-aug21-1-feature-ms79fdb7dt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Flesh-eater Courts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/8109tfoj/warhammer-art-through-the-years-flesh-eater-courts</link>
@@ -267,16 +277,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/wh-_aug11-1-feature-ysrknanqqq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 11th of August]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-11th-of-august</link>
-            <guid>zdofpdp6</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/rumourengine-aug11-1-feature-pvmgafvwgz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
