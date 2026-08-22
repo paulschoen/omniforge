@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 21 Aug 2026 13:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 17:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – A new Waaagh! starts now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/onv8e6rq/saturday-pre-orders-a-new-waaagh-starts-now</link>
+            <guid>onv8e6rq</guid>
+            <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unleash a green tide in Warhammer 40,000, grab some classic kits, and enjoy the latest from Black Library.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/preorders-aug22-1-feature-oqlkcnuc72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Build a better Waaagh! – Warhammer Community cooks up their ideal Ork armies]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fvsvtvtu/build-a-better-waaagh-warhammer-community-cooks-up-their-ideal-ork-armies</link>
@@ -28,7 +42,7 @@
             <category domain="flesh-eater-courts">Flesh-eater Courts</category>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whart45-aug21-1-feature-ni3ozz0ej9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whart45-aug21-1-feature-7igro368oz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Learn painting skills from Golden Demon pros at Warhammer Open events]]></title>
@@ -267,16 +281,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/aos_inflogors-aug12-1-feature-nmhdithqkj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Go behind the scenes of Penitence on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ipu3ivtu/go-behind-the-scenes-of-penitence-on-warhammer-tv</link>
-            <guid>ipu3ivtu</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the animation and find out about this week’s Warhammer TV episodes.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/wh-_aug11-1-feature-ysrknanqqq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
