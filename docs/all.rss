@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 22 Aug 2026 17:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 17:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Wrath of the Ten Thousand]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eumgnilk/sunday-preview-wrath-of-the-ten-thousand</link>
+            <guid>eumgnilk</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/sundaypreview-aug23-1-feature-qxcwhadext.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – A new Waaagh! starts now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/onv8e6rq/saturday-pre-orders-a-new-waaagh-starts-now</link>
@@ -269,18 +284,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/bl_clawsofthemael-aug12-1-feature-vngps9kgqj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AoS Coach on the recipe for Ogor Mawtribes success]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eq3ukvvz/aos-coach-on-the-recipe-for-ogor-mawtribes-success</link>
-            <guid>eq3ukvvz</guid>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We chew the fat with Anthony to get some top tips on army building in the new battletome.]]></description>
-            <category domain="ogor-mawtribes">Ogor Mawtribes</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/aos_inflogors-aug12-1-feature-nmhdithqkj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
