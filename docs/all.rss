@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Aug 2026 12:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 13:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designer’s notes – Creating the Judgement of Valdor]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mj5mxl8d/designers-notes-creating-the-judgement-of-valdor</link>
+            <guid>mj5mxl8d</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how the studio created the latest Journal Tactica for Warhammer: The Horus Heresy.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_prosperoburns-aug25-1-feature-5sjiepnati.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A new year of Warhammer+ kicks off with TWO miniatures]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3t5i9dwx/a-new-year-of-warhammer-kicks-off-with-two-miniatures</link>
@@ -275,17 +286,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/aos_whart44-aug14-1-feature-enjcrcq3cp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Butcher’s Nails – Important information and new clip]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cjtdp4se/butchers-nails-important-information-and-new-clip</link>
-            <guid>cjtdp4se</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The latest update on the Warhammer TV animation.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/butchersnails-aug14-1-feature-4rbgllkxeh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
