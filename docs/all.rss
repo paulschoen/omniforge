@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Aug 2026 11:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[A new year of Warhammer+ kicks off with TWO miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3t5i9dwx/a-new-year-of-warhammer-kicks-off-with-two-miniatures</link>
+            <guid>3t5i9dwx</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Year six of incredible shows, animations, competitions, and more has begun.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whplus_renewal-aug25-1-feature-ijlkbae7gd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 25th of August]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-25th-of-august</link>
@@ -276,16 +286,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/butchersnails-aug14-1-feature-4rbgllkxeh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four Lords of the End Times join Total War: Warhammer III]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cxeevstr/four-lords-of-the-end-times-join-total-war-warhammer-iii</link>
-            <guid>cxeevstr</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The largest DLC in Total War: Warhammer history comes out this September.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/twwh3-endtimes-aug13-1-feature-uo8idxkqor.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
