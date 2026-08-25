@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 24 Aug 2026 15:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 11:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 25th of August]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-25th-of-august</link>
+            <guid>zdofpdp6</guid>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/rumourengine-aug25-1-feature-bju0not1nq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Big Space Marines News]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bbnskauh/big-space-marines-news</link>
@@ -276,17 +286,6 @@
             <category domain="video-games">Video Games</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/twwh3-endtimes-aug13-1-feature-uo8idxkqor.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ork datasheets first look – Bigger, tougher Ghazghkull]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/s1rads41/ork-datasheets-first-look-bigger-tougher-ghazghkull</link>
-            <guid>s1rads41</guid>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a sneak peek inside the new Warhammer 40,000 codex.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/40k_orkdatasheets-aug13-1-feature-q4egvfeq2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
