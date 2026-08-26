@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 25 Aug 2026 13:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer 40,000 August Update – Everything you need to know]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know</link>
+            <guid>b4zj2o7u</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New updates for points, maps, and detachments.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/40k_balanceupdate-aug26-1-feature-zgwhhbxovf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Team Balance Update – Frenzy, storms, and burrowing beasties]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1b6ozyec/kill-team-balance-update-frenzy-storms-and-burrowing-beasties</link>
+            <guid>1b6ozyec</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get the latest Kill Team rules updates here.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/kt_balanceupdate-aug26-1-feature-cs3wbsanek.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designer’s notes – Creating the Judgement of Valdor]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/mj5mxl8d/designers-notes-creating-the-judgement-of-valdor</link>
@@ -264,28 +286,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/satpreorders-aug15-1-feature-8oylppddzu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Codex: Orks army rules to get you riled up]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ckwgwgyx/new-codex-orks-army-rules-to-get-you-riled-up</link>
-            <guid>ckwgwgyx</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Holler, charge, and chop some gits good and proper.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/40k_orksarmyrules-aug14-1-feature-gyqgegdcn2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Fyreslayers]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mybvrrvz/warhammer-art-through-the-years-fyreslayers</link>
-            <guid>mybvrrvz</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy some more classic Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="fyreslayers">Fyreslayers</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/aos_whart44-aug14-1-feature-enjcrcq3cp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
