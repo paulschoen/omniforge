@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Aug 2026 09:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 13:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Fight over a mysterious tower in a free Battle March scenario]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xi4p6g2l/fight-over-a-mysterious-tower-in-a-free-battle-march-scenario</link>
+            <guid>xi4p6g2l</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can you claim the castle in Warhammer: The Old World?]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/tow_battlemarchscen-aug26-1-feature-9knipyuflu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer 40,000 August Update – Everything you need to know]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know</link>
@@ -274,18 +285,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/sundaypreview-aug16-1-feature-weqkiwp6me.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Devour the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6kyyf0sc/saturday-pre-orders-devour-the-mortal-realms</link>
-            <guid>6kyyf0sc</guid>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate dinner time with a whole smorgasbord of Ogor Mawtribes pre-orders for Warhammer Age of Sigmar this week.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/satpreorders-aug15-1-feature-8oylppddzu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
