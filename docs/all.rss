@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Aug 2026 13:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 20:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Visit the front lines in a trio of new Astra Militarum novels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tcdmprmg/visit-the-front-lines-in-a-trio-of-new-astra-militarum-novels</link>
+            <guid>tcdmprmg</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover upcoming Warhammer 40,000 titles from Black Library.]]></description>
+            <category domain="astra-militarum">Astra Militarum</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/bl_reveals-aug27-1-feature-t0cqkotmwf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Announcing Warhammer Open: Liverpool]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ndvctrf5/announcing-warhammer-open-liverpool</link>
@@ -271,18 +283,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/rumourengine-aug18-1-feature-b1jw1rothq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed – New Gargant “miniatures”]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zarljpll/revealed-new-gargant-miniatures</link>
-            <guid>zarljpll</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Sons of Behemat are coming to stomp the Mortal Realms with massive new models.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-1-feature-c1kwoybany.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
