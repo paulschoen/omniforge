@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 26 Aug 2026 19:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 13:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Announcing Warhammer Open: Liverpool]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ndvctrf5/announcing-warhammer-open-liverpool</link>
+            <guid>ndvctrf5</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s another major event in the UK coming in 2027…]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whopen_liverpool-aug27-1-feature-xbrbjmoii2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Hidden War]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ni4b4wpl/pages-from-the-black-books-the-hidden-war</link>
+            <guid>ni4b4wpl</guid>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Emperor lied – daemons do exist!]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_blackbookslore30-aug27-1-feature-wkofanyzpf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch explosive new trailers for Boltgun II and Deathmaster]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/i8yr0b1b/watch-explosive-new-trailers-for-boltgun-ii-and-deathmaster</link>
@@ -261,27 +283,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-1-feature-c1kwoybany.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Battlehosts revealed for Middle-Earth™]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ycytiwiv/new-battlehosts-revealed-for-middle-earthtm</link>
-            <guid>ycytiwiv</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Balanced boxed set armies incoming for Dol Guldur, Rohan, and Mirkwood.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/me_battlehosts-aug17-1-feature-biacnorqd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15 new Ork detachments let you build your perfect Waaagh!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nbdkvr51/15-new-ork-detachments-let-you-build-your-perfect-waaagh</link>
-            <guid>nbdkvr51</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Conquer the galaxy your way with new rules in Codex: Orks.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_orkdetachments-aug18-1-feature-prucayvjv2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
