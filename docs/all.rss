@@ -4,11 +4,53 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 27 Aug 2026 20:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 14:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designer’s notes – Tzeentch Daemons in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/h9lvvzpd/designers-notes-tzeentch-daemons-in-the-age-of-darkness</link>
+            <guid>h9lvvzpd</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how the Lord of Change is spreading confusion during the Horus Heresy.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_prosperoburns2-aug28-1-feature-ezxgzpaiyq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Seraphon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vo2nqge1/warhammer-art-through-the-years-seraphon</link>
+            <guid>vo2nqge1</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy more classic Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whart_46-aug28-1-feature-iyidpjjptx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Learn To Paint Ogor Skin | Warhammer Academy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/mm7s7lsz/learn-to-paint-ogor-skin-warhammer-academy</link>
+            <guid>mm7s7lsz</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn to paint the gnarly, mottled skin of ogors, Ogryns and other large humanoids in a new Warhammer Academy lesson. New lessons drop every month!]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/how-to-paint-skin-tones-ogors-thumbnail-r0rnfrdums.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Academy August content drop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mnklayun/warhammer-academy-august-content-drop</link>
+            <guid>mnklayun</guid>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whacademyupdate-aug28-1-feature-52c9ywpopw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Visit the front lines in a trio of new Astra Militarum novels]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tcdmprmg/visit-the-front-lines-in-a-trio-of-new-astra-militarum-novels</link>
@@ -42,6 +84,28 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_blackbookslore30-aug27-1-feature-wkofanyzpf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster | Gameplay Reveal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/0azpepjv/warhammer-age-of-sigmar-deathmaster-gameplay-reveal</link>
+            <guid>0azpepjv</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Feast your eyes-eyes on the new gameplay trailer for Warhammer Age of Sigmar: Deathmaster! Skitter through darkness, trick-fool the enemy, execute brutal moves, and slay-kill all who stand in your way! Escape. Kill. Ascend. Become a Deathmaster.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/deathmaster-thumbnail_gamplay_reveal-qzve7pbize.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Boltgun 2 Release Date Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fgqtwav8/warhammer-40000-boltgun-2-release-date-trailer</link>
+            <guid>fgqtwav8</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to purge!]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/boltgun-2-trailer-hpogpeqwe4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Watch explosive new trailers for Boltgun II and Deathmaster]]></title>
@@ -215,74 +279,6 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/events_paintingclasses-aug20-1-feature-cbared2dpw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Warp Cults of the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ypyjmmxx/pages-from-the-black-books-warp-cults-of-the-age-of-darkness</link>
-            <guid>ypyjmmxx</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Would you sell your soul to a creature from the Warp?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/thh_blackbookslore29-aug20-1-feature-10vuorhzxv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Black Templars novel revealed as we chat to author Mike Vincent]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/uqsdtvd6/new-black-templars-novel-revealed-as-we-chat-to-author-mike-vincent</link>
-            <guid>uqsdtvd6</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can Helbrecht save the Imperium or will his unlikely alliance fail?]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="black-templars">Black Templars</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/bl_helbrechtreveal-aug19-1-feature-vcwqfvz6ld.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anatomy of an 11th Edition Codex – What do you get?]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/axy3onye/anatomy-of-an-11th-edition-codex-what-do-you-get</link>
-            <guid>axy3onye</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Look inside Codex: Orks and see what your new book looks like.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_lookatcodex-aug20-1-feature-qbgdewikk6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mix and match your Ork bits in the new Boyz kit]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yld1t2w1/mix-and-match-your-ork-bits-in-the-new-boyz-kit</link>
-            <guid>yld1t2w1</guid>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Make all of your Painboy dreams come true with a look at how the new miniatures work.]]></description>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_boyzkitforcus-aug18-1-feature-bt9yrahk2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Orks Codex exclusive on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n3hnhwmv/new-orks-codex-exclusive-on-warhammer-tv</link>
-            <guid>n3hnhwmv</guid>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Battle Report team takes the brand new Orks rules out for a spin.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whplus-aug18-1-feature-i79fgno81q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 18th of August]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-18th-of-august</link>
-            <guid>zdofpdp6</guid>
-            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/rumourengine-aug18-1-feature-b1jw1rothq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
