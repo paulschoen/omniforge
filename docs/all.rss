@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 28 Aug 2026 21:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 18:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Might of the Ten Thousand]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lyxfxc2p/saturday-pre-orders-might-of-the-ten-thousand</link>
+            <guid>lyxfxc2p</guid>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out this week’s pre-orders for Warhammer 40,000, Warhammer: The Horus Heresy, and more.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/preorders-aug29-1-feature-plalix6naw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Submit your questions for the Space Marines Q&A]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/huu6ye7h/submit-your-questions-for-the-space-marines-q-and-a</link>
@@ -266,17 +280,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_orkarmies-aug21-1-feature-ms79fdb7dt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Flesh-eater Courts]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8109tfoj/warhammer-art-through-the-years-flesh-eater-courts</link>
-            <guid>8109tfoj</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy a feast of classic Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="flesh-eater-courts">Flesh-eater Courts</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whart45-aug21-1-feature-7igro368oz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
