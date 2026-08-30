@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 29 Aug 2026 18:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 18:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Goliath vs Escher showdown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zseghuho/sunday-preview-goliath-vs-escher-showdown</link>
+            <guid>zseghuho</guid>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New miniatures, rules, and more are incoming to help you rule the underhive.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sundaypreview-aug30-1-feature-dj1auc516i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Might of the Ten Thousand]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lyxfxc2p/saturday-pre-orders-might-of-the-ten-thousand</link>
@@ -270,16 +284,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/preorders-aug22-1-feature-oqlkcnuc72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Build a better Waaagh! – Warhammer Community cooks up their ideal Ork armies]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fvsvtvtu/build-a-better-waaagh-warhammer-community-cooks-up-their-ideal-ork-armies</link>
-            <guid>fvsvtvtu</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/40k_orkarmies-aug21-1-feature-ms79fdb7dt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
