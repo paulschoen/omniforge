@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 31 Aug 2026 12:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 17:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Space Marines infantry revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/betdve0h/new-space-marines-infantry-revealed</link>
+            <guid>betdve0h</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Multi-option Vanguard Veterans and Intercessors arrive with combat shields and back banners.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sminfantry-31-08-1-smfeature-bldgajcgyo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: The plastic Thunderhawk gunship]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oi7mdstl/revealed-the-plastic-thunderhawk-gunship</link>
+            <guid>oi7mdstl</guid>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The legendary Space Marine flyer finally crashes onto the scene.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/31-08-smterrain-1-terrainfeature-s81riw0zfv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[September’s Miniature of the Month and Collectible Coin revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qgmvkomp/septembers-miniature-of-the-month-and-collectible-coin-revealed</link>
@@ -254,33 +276,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/aos_24-08_1-feature-q4he1hirm5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Space Marine Captain on Bike revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kmcoobsz/new-space-marine-captain-on-bike-revealed</link>
-            <guid>kmcoobsz</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Burn rubber and heretics with this new Warhammer 40,000 miniature.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/24-08_1-feature-3p2d9cvvwy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Wrath of the Ten Thousand]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eumgnilk/sunday-preview-wrath-of-the-ten-thousand</link>
-            <guid>eumgnilk</guid>
-            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/sundaypreview-aug23-1-feature-qxcwhadext.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
