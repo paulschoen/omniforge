@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 01 Sep 2026 13:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 13:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New rules for House Goliath gangs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m1i0gxqo/new-rules-for-house-goliath-gangs</link>
+            <guid>m1i0gxqo</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Muscle your way to underhive victory with the new Underhive Journal]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_housegoliathrules-sep02-1-feature-jwdw6rzyek.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside White Dwarf 528: Ogors make a meal of the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/j1su5rhk/inside-white-dwarf-528-ogors-make-a-meal-of-the-mortal-realms</link>
+            <guid>j1su5rhk</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ogor Mawtribes, Cogforts, and Orky Titanic Duels in September's Warhammer magazine.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/wd528-sep02-1-feature-xw4ivedgt3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Codex: Orks points are live on the Munitorum Field Manual]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x82yzzth/codex-orks-points-are-live-on-the-munitorum-field-manual</link>
+            <guid>x82yzzth</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out updated points for new and improved units.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="orks">Orks</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/40k_mfm-sep02-1-feature-qescx3dv2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New rules for House Escher gangs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yv6wvhfx/new-rules-for-house-escher-gangs</link>
@@ -241,38 +273,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/40k_balanceupdate-aug26-1-feature-zgwhhbxovf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill Team Balance Update – Frenzy, storms, and burrowing beasties]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1b6ozyec/kill-team-balance-update-frenzy-storms-and-burrowing-beasties</link>
-            <guid>1b6ozyec</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get the latest Kill Team rules updates here.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/kt_balanceupdate-aug26-1-feature-cs3wbsanek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designer’s notes – Creating the Judgement of Valdor]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mj5mxl8d/designers-notes-creating-the-judgement-of-valdor</link>
-            <guid>mj5mxl8d</guid>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how the studio created the latest Journal Tactica for Warhammer: The Horus Heresy.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_prosperoburns-aug25-1-feature-5sjiepnati.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A new year of Warhammer+ kicks off with TWO miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3t5i9dwx/a-new-year-of-warhammer-kicks-off-with-two-miniatures</link>
-            <guid>3t5i9dwx</guid>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Year six of incredible shows, animations, competitions, and more has begun.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whplus_renewal-aug25-1-feature-ijlkbae7gd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
