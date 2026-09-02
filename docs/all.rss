@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Sep 2026 13:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 14:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Revealed – The first Black Library book set in Grand Cathay]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xu8t84x6/revealed-the-first-black-library-book-set-in-grand-cathay</link>
+            <guid>xu8t84x6</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We chat to author Evan Dicken about the Cathayan court]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/1-feature-qoz0x6fvxf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New rules for House Goliath gangs]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m1i0gxqo/new-rules-for-house-goliath-gangs</link>
@@ -262,17 +272,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/tow_battlemarchscen-aug26-1-feature-9knipyuflu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer 40,000 August Update – Everything you need to know]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know</link>
-            <guid>b4zj2o7u</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New updates for points, maps, and detachments.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/40k_balanceupdate-aug26-1-feature-zgwhhbxovf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
