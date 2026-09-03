@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 02 Sep 2026 14:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Escher Tactica – Advice from the Studio]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r5ycxgs9/escher-tactica-advice-from-the-studio</link>
+            <guid>r5ycxgs9</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to get the most out of the House of Blades.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_eschertac-sep03-1-feature-6lvb76jpmd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Sisters of Silence]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ktjrm3ky/pages-from-the-black-books-the-sisters-of-silence</link>
+            <guid>ktjrm3ky</guid>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Delve into the archives of the Imperium’s finest psyker-killers.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/thh_blackbookslore33-sep03-1-feature-jflysane5w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Revealed – The first Black Library book set in Grand Cathay]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xu8t84x6/revealed-the-first-black-library-book-set-in-grand-cathay</link>
@@ -16,6 +37,7 @@
             <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[We chat to author Evan Dicken about the Cathayan court]]></description>
             <category domain="black-library">Black Library</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/1-feature-qoz0x6fvxf.jpg" length="0" type="image/jpg"/>
         </item>
@@ -249,29 +271,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/boltgun-2-trailer-hpogpeqwe4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch explosive new trailers for Boltgun II and Deathmaster]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i8yr0b1b/watch-explosive-new-trailers-for-boltgun-ii-and-deathmaster</link>
-            <guid>i8yr0b1b</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Including music from a legendary boomer shooter songsmith.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/boltgun2update-aug26-1-feature-ptvi4qelj1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fight over a mysterious tower in a free Battle March scenario]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xi4p6g2l/fight-over-a-mysterious-tower-in-a-free-battle-march-scenario</link>
-            <guid>xi4p6g2l</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can you claim the castle in Warhammer: The Old World?]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/tow_battlemarchscen-aug26-1-feature-9knipyuflu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
