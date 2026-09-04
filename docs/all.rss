@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 03 Sep 2026 14:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 13:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Houses Escher and Goliath]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oxtznrop/warhammer-art-through-the-years-houses-escher-and-goliath</link>
+            <guid>oxtznrop</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out our gallery of stylish Necromunda artwork.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_art2-sep04-1-feature-torbkhix2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Build endlessly versatile Necromunda terrain with pipes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nmnqbpay/build-endlessly-versatile-necromunda-terrain-with-pipes</link>
+            <guid>nmnqbpay</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pipe down, naysayer! Pipes are more interesting than you think.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_pipes-sep04-1-feature-wmq4i8jehf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Escher Tactica – Advice from the Studio]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/r5ycxgs9/escher-tactica-advice-from-the-studio</link>
@@ -121,6 +142,8 @@
             <guid>oi7mdstl</guid>
             <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[The legendary Space Marine flyer finally crashes onto the scene.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="model-reveal">Model Reveal</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/31-08-smterrain-1-terrainfeature-s81riw0zfv.jpg" length="0" type="image/jpg"/>
@@ -249,28 +272,6 @@
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_blackbookslore30-aug27-1-feature-wkofanyzpf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster | Gameplay Reveal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/0azpepjv/warhammer-age-of-sigmar-deathmaster-gameplay-reveal</link>
-            <guid>0azpepjv</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Feast your eyes-eyes on the new gameplay trailer for Warhammer Age of Sigmar: Deathmaster! Skitter through darkness, trick-fool the enemy, execute brutal moves, and slay-kill all who stand in your way! Escape. Kill. Ascend. Become a Deathmaster.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/deathmaster-thumbnail_gamplay_reveal-qzve7pbize.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Boltgun 2 Release Date Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fgqtwav8/warhammer-40000-boltgun-2-release-date-trailer</link>
-            <guid>fgqtwav8</guid>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to purge!]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/boltgun-2-trailer-hpogpeqwe4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
