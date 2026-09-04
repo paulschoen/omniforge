@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Sep 2026 15:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 20:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 Q&A – Your Space Marines questions answered]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fll1wajw/warhammer-40000-qa-your-space-marines-questions-answered</link>
+            <guid>fll1wajw</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[You asked, we answered.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/40k_smq&a-aug28-1-feature-(1)-kjet09fot2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Goliath Tactica – Advice from the Studio]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eqvggxis/goliath-tactica-advice-from-the-studio</link>
@@ -261,17 +272,6 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/bl_reveals-aug27-1-feature-t0cqkotmwf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Warhammer Open: Liverpool]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ndvctrf5/announcing-warhammer-open-liverpool</link>
-            <guid>ndvctrf5</guid>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[There’s another major event in the UK coming in 2027…]]></description>
-            <category domain="events">Events</category>
-            <category domain="warhammer-open-series">Warhammer Open Series</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whopen_liverpool-aug27-1-feature-xbrbjmoii2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
