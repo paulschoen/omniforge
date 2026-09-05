@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 04 Sep 2026 20:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 17:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – More gangs inbound for Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hn5wdoez/saturday-pre-orders-more-gangs-inbound-for-necromunda</link>
+            <guid>hn5wdoez</guid>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New miniatures, rules, and accessories for Houses Goliath and Escher.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/preorders-sep05-1-feature-s9lgiovugm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 Q&A – Your Space Marines questions answered]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fll1wajw/warhammer-40000-qa-your-space-marines-questions-answered</link>
@@ -260,18 +273,6 @@
             <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whacademyupdate-aug28-1-feature-52c9ywpopw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Visit the front lines in a trio of new Astra Militarum novels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tcdmprmg/visit-the-front-lines-in-a-trio-of-new-astra-militarum-novels</link>
-            <guid>tcdmprmg</guid>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover upcoming Warhammer 40,000 titles from Black Library.]]></description>
-            <category domain="astra-militarum">Astra Militarum</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/bl_reveals-aug27-1-feature-t0cqkotmwf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
