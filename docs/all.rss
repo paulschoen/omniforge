@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 05 Sep 2026 17:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 17:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Shake the earth with the Sons of Behemat]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/krnawho8/sunday-preview-shake-the-earth-with-the-sons-of-behemat</link>
+            <guid>krnawho8</guid>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-1-feature-ruvlbihvfp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – More gangs inbound for Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hn5wdoez/saturday-pre-orders-more-gangs-inbound-for-necromunda</link>
@@ -264,15 +277,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/how-to-paint-skin-tones-ogors-thumbnail-r0rnfrdums.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Academy August content drop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mnklayun/warhammer-academy-august-content-drop</link>
-            <guid>mnklayun</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/whacademyupdate-aug28-1-feature-52c9ywpopw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
