@@ -4,11 +4,42 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 07 Sep 2026 15:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 14:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sons of Behemat unit rules updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/87mucjbz/sons-of-behemat-unit-rules-updates</link>
+            <guid>87mucjbz</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prepare to bless your gargants with almighty Bigness and sweep aside entire regiments.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobunitrules-sep08-1-feature-epr1oi59mf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A galaxy-shaking clash comes to Warhammer TV this week]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nbjctngk/a-galaxy-shaking-clash-comes-to-warhammer-tv-this-week</link>
+            <guid>nbjctngk</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Necron C’tan Shards and Tyranid monsters collide on Battle Report.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whplus-sep08-1-feature-kc8l1nyop8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 8th of September]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-8th-of-september</link>
+            <guid>ibkg5wrj</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/rumourengine-sep08-1-feature-6lf0tgsbn5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flex your almighty bigness with new Sons of Behemat battle traits]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/htcv9eyb/flex-your-almighty-bigness-with-new-sons-of-behemat-battle-traits</link>
@@ -242,41 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sundaypreview-aug30-1-feature-dj1auc516i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Might of the Ten Thousand]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lyxfxc2p/saturday-pre-orders-might-of-the-ten-thousand</link>
-            <guid>lyxfxc2p</guid>
-            <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out this week’s pre-orders for Warhammer 40,000, Warhammer: The Horus Heresy, and more.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/preorders-aug29-1-feature-plalix6naw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Submit your questions for the Space Marines Q&A]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/huu6ye7h/submit-your-questions-for-the-space-marines-q-and-a</link>
-            <guid>huu6ye7h</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_smq&a-aug28-1-feature-cldnxxtnzd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designer’s notes – Tzeentch Daemons in the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/h9lvvzpd/designers-notes-tzeentch-daemons-in-the-age-of-darkness</link>
-            <guid>h9lvvzpd</guid>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how the Lord of Change is spreading confusion during the Horus Heresy.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/thh_prosperoburns2-aug28-1-feature-ezxgzpaiyq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
