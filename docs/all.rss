@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 08 Sep 2026 14:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 14:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Armies of Renown – Gather your gargants around Ma Maegran]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f52zsuil/armies-of-renown-gather-your-gargants-around-ma-maegran</link>
+            <guid>f52zsuil</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, use a Mega-Gargant in every Warhammer Age of Sigmar army!]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobaor-sep10-1-feature-valr5757dx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: New Warhammer 40,000 novels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/30qnykae/revealed-new-warhammer-40000-novels</link>
+            <guid>30qnykae</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Black Library fiction inbound featuring the Astra Militarum and Adeptus Astartes.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/bl_reveals-sep09-1-feature-sn2ygz6mjs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Middle-earth™ Battlehosts rules available to download]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gezq0saf/middle-earthtm-battlehosts-rules-available-to-download</link>
+            <guid>gezq0saf</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download free rules and take your first steps with the Middle-earth Strategy Battle Game.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/me_batlhostguides-sep09-1-feature-69dhsmlzof.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sons of Behemat unit rules updates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/87mucjbz/sons-of-behemat-unit-rules-updates</link>
@@ -236,43 +269,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sminfantry-31-08-1-smfeature-bldgajcgyo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: The plastic Thunderhawk gunship]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oi7mdstl/revealed-the-plastic-thunderhawk-gunship</link>
-            <guid>oi7mdstl</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The legendary Space Marine flyer finally crashes onto the scene.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/31-08-smterrain-1-terrainfeature-s81riw0zfv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[September’s Miniature of the Month and Collectible Coin revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qgmvkomp/septembers-miniature-of-the-month-and-collectible-coin-revealed</link>
-            <guid>qgmvkomp</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what you can get in your local Warhammer store in September.]]></description>
-            <category domain="miniature-of-the-month">Miniature of the Month</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/motm-aug31-1-feature-npgwvvgvtp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Goliath vs Escher showdown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zseghuho/sunday-preview-goliath-vs-escher-showdown</link>
-            <guid>zseghuho</guid>
-            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New miniatures, rules, and more are incoming to help you rule the underhive.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sundaypreview-aug30-1-feature-dj1auc516i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
