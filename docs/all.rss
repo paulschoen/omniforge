@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 09 Sep 2026 14:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 13:59:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[See how Brawlers of Behemat works]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yiqybtvc/see-how-brawlers-of-behemat-works</link>
+            <guid>yiqybtvc</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s Mega-Gargant vs Mega-Gargant in the new boxed set.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_bobrules-sep10-1-feature-vbhoqrszwz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Space Marines rules – First look]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ifgezlgu/space-marines-rules-first-look</link>
+            <guid>ifgezlgu</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oath of Moment is gone from the new Codex – see what’s next.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smarmyrules-sep10-1-feature-b39lzh2sxk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – Eye of the Storm]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xtizwhko/pages-from-the-black-books-eye-of-the-storm</link>
+            <guid>xtizwhko</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Blackshields of the Dark Brotherhood go to war.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/thh_blackbookslore34-sep10-1-feature-mc4xxqi0cn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Armies of Renown – Gather your gargants around Ma Maegran]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f52zsuil/armies-of-renown-gather-your-gargants-around-ma-maegran</link>
@@ -237,38 +270,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_escherrules-sep01-1-feature-cdtvquz2gn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Great Game comes to Warhammer TV this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mbgefn6q/the-great-game-comes-to-warhammer-tv-this-week</link>
-            <guid>mbgefn6q</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nurgle’s foetid followers collide with the treacherous Skaven in a new episode of Battle Report.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/whplus_sep01-1-feature-zykiybf6tt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 1st of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p4xwxdoe/the-rumour-engine-1st-of-september</link>
-            <guid>p4xwxdoe</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/rumourengine-sep01-1-feature-hwarb9w7uz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Space Marines infantry revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/betdve0h/new-space-marines-infantry-revealed</link>
-            <guid>betdve0h</guid>
-            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Multi-option Vanguard Veterans and Intercessors arrive with combat shields and back banners.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/sminfantry-31-08-1-smfeature-bldgajcgyo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
