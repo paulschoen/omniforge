@@ -4,11 +4,57 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 10 Sep 2026 13:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 13:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Sons of Behemat]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tko2i6jm/warhammer-art-through-the-years-sons-of-behemat</link>
+            <guid>tko2i6jm</guid>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out some gargantuan artwork from around the Mortal Realms.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whart_48-sept11-1-feature-dpltczvtts.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AoS Coach on the new Sons of Behemat]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gkr7s1u7/aos-coach-on-the-new-sons-of-behemat</link>
+            <guid>gkr7s1u7</guid>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get some army building ideas from a top Warhammer Age of Sigmar player.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobinfl-sep11-1-feature-lurdlpa0zq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your first look at 15 new Space Marine detachments]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zcobdkzh/your-first-look-at-15-new-space-marine-detachments</link>
+            <guid>zcobdkzh</guid>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Build a better strike force with Codex: Space Marines.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smdetrules-sep11-1-feature-kclnjprwc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – King of the Bigs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xhj5rsbp/chronicles-of-ruin-king-of-the-bigs</link>
+            <guid>xhj5rsbp</guid>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy free Warhammer Age of Sigmar fiction.]]></description>
+            <category domain="sons-of-behemat">Sons of Behemat</category>
+            <category domain="fiction">Fiction</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobfiction-sep11-1-feature-4apjlfx9zw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[See how Brawlers of Behemat works]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yiqybtvc/see-how-brawlers-of-behemat-works</link>
@@ -228,48 +274,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/1-feature-qoz0x6fvxf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New rules for House Goliath gangs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m1i0gxqo/new-rules-for-house-goliath-gangs</link>
-            <guid>m1i0gxqo</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Muscle your way to underhive victory with the new Underhive Journal]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_housegoliathrules-sep02-1-feature-jwdw6rzyek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 528: Ogors make a meal of the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/j1su5rhk/inside-white-dwarf-528-ogors-make-a-meal-of-the-mortal-realms</link>
-            <guid>j1su5rhk</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ogor Mawtribes, Cogforts, and Orky Titanic Duels in September's Warhammer magazine.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/wd528-sep02-1-feature-xw4ivedgt3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Codex: Orks points are live on the Munitorum Field Manual]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x82yzzth/codex-orks-points-are-live-on-the-munitorum-field-manual</link>
-            <guid>x82yzzth</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out updated points for new and improved units.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="orks">Orks</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/40k_mfm-sep02-1-feature-qescx3dv2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New rules for House Escher gangs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yv6wvhfx/new-rules-for-house-escher-gangs</link>
-            <guid>yv6wvhfx</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unleash Wyld Hunts and Chem-Wytches with the new Underhive Journal.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_escherrules-sep01-1-feature-cdtvquz2gn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
