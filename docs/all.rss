@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 11 Sep 2026 13:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 18:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Sons of Behemat stomp the Mortal Realms]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2lm28g6g/saturday-pre-orders-sons-of-behemat-stomp-the-mortal-realms</link>
+            <guid>2lm28g6g</guid>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gargantuan pre-orders for Warhammer Age of Sigmar, and a new boxed set.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/preorders-sep12-1-feature-peftfewqh6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer art through the years: Sons of Behemat]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tko2i6jm/warhammer-art-through-the-years-sons-of-behemat</link>
@@ -263,17 +275,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/thh_blackbookslore33-sep03-1-feature-jflysane5w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed – The first Black Library book set in Grand Cathay]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xu8t84x6/revealed-the-first-black-library-book-set-in-grand-cathay</link>
-            <guid>xu8t84x6</guid>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We chat to author Evan Dicken about the Cathayan court]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/1-feature-qoz0x6fvxf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
