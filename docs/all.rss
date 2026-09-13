@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 12 Sep 2026 18:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 17:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Space Marines drop in from orbit]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit</link>
+            <guid>c4icjvyy</guid>
+            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out what’s coming up next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/sundaypreview-sep13-1-feature-seccrq0xmi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Sons of Behemat stomp the Mortal Realms]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2lm28g6g/saturday-pre-orders-sons-of-behemat-stomp-the-mortal-realms</link>
@@ -264,17 +277,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_eschertac-sep03-1-feature-6lvb76jpmd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Sisters of Silence]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ktjrm3ky/pages-from-the-black-books-the-sisters-of-silence</link>
-            <guid>ktjrm3ky</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Delve into the archives of the Imperium’s finest psyker-killers.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/thh_blackbookslore33-sep03-1-feature-jflysane5w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
