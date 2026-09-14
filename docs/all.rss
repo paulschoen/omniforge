@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 13 Sep 2026 17:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 16:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Big Autumn Warhammer Preview – Tune in on Friday!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pdrjlpou/the-big-autumn-warhammer-preview-tune-in-on-friday</link>
+            <guid>pdrjlpou</guid>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The next big Preview show is coming this week.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/autumnpreview_incoming-sep14-1-feature-jxmakvvvfi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First look: Space Marines datasheets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/paxsnmde/first-look-space-marines-datasheets</link>
+            <guid>paxsnmde</guid>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sternguard Veterans have every gun in new datasheet reveals from Codex: Space Marines.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smdatasheets-sep14-1-feature-m1jfgrn0dg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Space Marines drop in from orbit]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit</link>
@@ -256,27 +277,6 @@
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_art2-sep04-1-feature-torbkhix2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Build endlessly versatile Necromunda terrain with pipes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nmnqbpay/build-endlessly-versatile-necromunda-terrain-with-pipes</link>
-            <guid>nmnqbpay</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Pipe down, naysayer! Pipes are more interesting than you think.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_pipes-sep04-1-feature-wmq4i8jehf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Escher Tactica – Advice from the Studio]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r5ycxgs9/escher-tactica-advice-from-the-studio</link>
-            <guid>r5ycxgs9</guid>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how to get the most out of the House of Blades.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_eschertac-sep03-1-feature-6lvb76jpmd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
