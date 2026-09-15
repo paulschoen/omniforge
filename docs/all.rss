@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Sep 2026 11:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 14:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marines detachments – Blood Angels and Dark Angels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/voakmnny/space-marines-detachments-blood-angels-and-dark-angels</link>
+            <guid>voakmnny</guid>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Updated detachments for non-compliant Chapters are on the way.]]></description>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="dark-angels">Dark Angels</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_badadetach-sep15-1-feature-k72qsojy2y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 15th of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-15th-of-september</link>
@@ -266,17 +279,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/40k_smq&a-aug28-1-feature-(1)-kjet09fot2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goliath Tactica – Advice from the Studio]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eqvggxis/goliath-tactica-advice-from-the-studio</link>
-            <guid>eqvggxis</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how to get the most out of the House of Chains.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/nec_goliathtac-sept04-1-feature-eiotdzux5o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
