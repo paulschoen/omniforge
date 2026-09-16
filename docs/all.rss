@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 15 Sep 2026 14:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 14:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marines Detachments – Space Wolves, Black Templars, and Deathwatch]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xciydqwa/space-marines-detachments-space-wolves-black-templars-and-deathwatch</link>
+            <guid>xciydqwa</guid>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Updated detachments for non-compliant Chapters are coming.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="black-templars">Black Templars</category>
+            <category domain="deathwatch">Deathwatch</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_swbtdwdetach-sep16-1-feature-pcjzjo804x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global debut of Codex: Space Marines on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xsem3n2q/global-debut-of-codex-space-marines-on-warhammer-tv</link>
+            <guid>xsem3n2q</guid>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Adeptus Astartes star in both Battle Report and Painting Desk.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/whplus_sep15-1-feature-d8kifzwdyd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neave Blacktalon stars in new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/agovgmhm/neave-blacktalon-stars-in-new-black-library-novel</link>
+            <guid>agovgmhm</guid>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The legendary assassin faces her toughest challenge yet in the city of Greybank.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/bl_blacktalonreveal-sep16-1-feature-rqbrggkxxf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Marines detachments – Blood Angels and Dark Angels]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/voakmnny/space-marines-detachments-blood-angels-and-dark-angels</link>
@@ -242,43 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/07-09_smcodex_1-feature-v5tn6brgrp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Shake the earth with the Sons of Behemat]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/krnawho8/sunday-preview-shake-the-earth-with-the-sons-of-behemat</link>
-            <guid>krnawho8</guid>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-1-feature-ruvlbihvfp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – More gangs inbound for Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hn5wdoez/saturday-pre-orders-more-gangs-inbound-for-necromunda</link>
-            <guid>hn5wdoez</guid>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New miniatures, rules, and accessories for Houses Goliath and Escher.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="pre-orders">Pre-orders</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/preorders-sep05-1-feature-s9lgiovugm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 Q&A – Your Space Marines questions answered]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fll1wajw/warhammer-40000-qa-your-space-marines-questions-answered</link>
-            <guid>fll1wajw</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[You asked, we answered.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/40k_smq&a-aug28-1-feature-(1)-kjet09fot2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
