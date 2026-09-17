@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 17 Sep 2026 11:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 14:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Space Marines detachments – Salamanders, Raven Guard, and more]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more</link>
+            <guid>dhwqtqkc</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[More Warhammer 40,000 detachments for Codex-compliant Chapters.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="salamanders">Salamanders</category>
+            <category domain="raven-guard">Raven Guard</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_otherdetach-sep17-1-feature-id2c2kanqc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – The Scouring of the Nostramo Sector]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/b3jpf8hp/pages-from-the-black-books-the-scouring-of-the-nostramo-sector</link>
+            <guid>b3jpf8hp</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join us as we head to the north-eastern fringes to take on the Night Lords.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/thh_blackbookslore35-sep17-1-feature-kmmqexc7yg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miniatures Showcase – Cargo-8 Conversions]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6okloq9i/miniatures-showcase-cargo-8-conversions</link>
@@ -87,6 +111,17 @@
             <category domain="warhammer-preview-show">Warhammer Preview Show</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/autumnpreview_incoming-sep14-1-feature-jxmakvvvfi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Join Us – The Big Autumn Warhammer Preview 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ckbqinyq/join-us-the-big-autumn-warhammer-preview-2026</link>
+            <guid>ckbqinyq</guid>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Big Autumn Warhammer Preview kicks off at 7pm BST this Friday 18 September –  and you’re invited! Head to Warhammer-Community.com to find out more about what's in store.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/september-preview-invite-rbwismw9h2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[First look: Space Marines datasheets]]></title>
@@ -246,37 +281,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobunitrules-sep08-1-feature-epr1oi59mf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A galaxy-shaking clash comes to Warhammer TV this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nbjctngk/a-galaxy-shaking-clash-comes-to-warhammer-tv-this-week</link>
-            <guid>nbjctngk</guid>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Necron C’tan Shards and Tyranid monsters collide on Battle Report.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whplus-sep08-1-feature-kc8l1nyop8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 8th of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-8th-of-september</link>
-            <guid>ibkg5wrj</guid>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/rumourengine-sep08-1-feature-6lf0tgsbn5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flex your almighty bigness with new Sons of Behemat battle traits]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/htcv9eyb/flex-your-almighty-bigness-with-new-sons-of-behemat-battle-traits</link>
-            <guid>htcv9eyb</guid>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your first look at the Warhammer Age of Sigmar rules.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobarmyrules-sep07-1-feature-1dxwmrm5pj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
