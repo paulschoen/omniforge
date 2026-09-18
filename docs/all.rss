@@ -4,11 +4,258 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 18 Sep 2026 14:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 20:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Big Autumn Warhammer Preview Show 2026 – The Recap]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/z8ofub9l/big-autumn-warhammer-preview-show-2026-the-recap</link>
+            <guid>z8ofub9l</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Big Autumn Warhammer Preview Show 2026 is in the books, and it was MEGA. Don’t worry if you missed the stream – Adam’s here with the headlines, including the incredible new Warhammer Tone Pro paints, new Custodes releases, and a WHOLE NEW FACTION for Warhammer Age of Sigmar.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/autumn_preview_round_up_thumbnail_16x9-s53koaytrw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – The Legion of the Damned enter the killzone]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ltbqrokb/the-big-autumn-preview-the-legion-of-the-damned-enter-the-killzone</link>
+            <guid>ltbqrokb</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Spectral Space Marines battle Ork Nobz in a new Kill Team box.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="kill-team">Kill Team</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature12-sfswcwowis.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Warhammer Quest: Darkwater expansion revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wdvqlchm/the-big-autumn-preview-warhammer-quest-darkwater-expansion-revealed</link>
+            <guid>wdvqlchm</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Agents of Azyr enter the Jade Abbey.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature11-x4qfmgithh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – New Seraphon sighted]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/4alvkmwb/the-big-autumn-preview-new-seraphon-sighted</link>
+            <guid>4alvkmwb</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your first look at the new Warhammer Age of Sigmar miniature.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature10-keuozogox8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Kharadrons take to the skies in a new animation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fgxceapm/the-big-autumn-preview-kharadrons-take-to-the-skies-in-a-new-animation</link>
+            <guid>fgxceapm</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Warhammer Age of Sigmar animation is coming, featuring Kharadron Overlords.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="animations">Animations</category>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature09-srsefaq18j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – A new duardin faction revealed!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed</link>
+            <guid>evmkzloa</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Witness the might of the Khazalite Holds as they sally forth from the mountains.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature08-fukpkptkby.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Roleplay in the underhive]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rfd3ntt7/the-big-autumn-preview-roleplay-in-the-underhive</link>
+            <guid>rfd3ntt7</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Necromunda game revealed!]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature07-8w5ez3593i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Night Goblins hit the gridiron]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3zbmjzgp/the-big-autumn-preview-night-goblins-hit-the-gridiron</link>
+            <guid>3zbmjzgp</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new team bounces onto the Blood Bowl pitch.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature06-rji6wlahi8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – New Tomb Kings march out]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6pknf9l6/the-big-autumn-preview-new-tomb-kings-march-out</link>
+            <guid>6pknf9l6</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reinforcements head out from Khemri to claim the Old World.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature05-nfozohw2yc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Astartes II teaser trailer just dropped]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/idsa1psv/the-big-autumn-preview-astartes-ii-teaser-trailer-just-dropped</link>
+            <guid>idsa1psv</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the intense new trailer for the Warhammer 40,000 animation now!]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="animations">Animations</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature04-euyhh7j5cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Slaanesh unleashed in the Age of Darkness]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dhfaf9vz/the-big-autumn-preview-slaanesh-unleashed-in-the-age-of-darkness</link>
+            <guid>dhfaf9vz</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Can the Custodes defeat the Daemons in the Signus Cluster?]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature03-35568ezxer.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Custodian Terminators step from the vaults]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/61ej8fdr/the-big-autumn-preview-custodian-terminators-step-from-the-vaults</link>
+            <guid>61ej8fdr</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New models, new Codex, new Combat Patrol on the way for the Ten Thousand.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature02-wultit5aqf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legion of the Damned vs. Ork Nobz in Kill Team: Armageddon | Big Autumn Preview 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/era4gpcv/legion-of-the-damned-vs-ork-nobz-in-kill-team-armageddon-big-autumn-preview-2026</link>
+            <guid>era4gpcv</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[When all seems lost, when the odds are insurmountable, the Imperium's defenders have, incredibly rarely, found spectres and spirits appear to fight alongside them. Kill Team Armageddon brings the skeletal, flame-shrouded warriors to a brand-new battlefield, facing off against grizzled Ork Nobs in Armageddon's blasted wastelands.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="videos">Videos</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="orks">Orks</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/kill_team_armaggedon_thumbnail_16x9-jbmxar8r3o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Faction Announced – Khazalite Holds | Big Autumn Preview 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qhaxrxz0/new-faction-announced-khazalite-holds-big-autumn-preview-2026</link>
+            <guid>qhaxrxz0</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Khazalite Holds Army Set launches a new faction into Warhammer Age of Sigmar. Emerging from deep underground cities, these duardin fight with gritty determination, along with precision-engineered war machines and stone constructs known as Gholems.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/khazalite_holds_thumbnail-lwi8mdcwqv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arkanaut Teaser Trailer September 2026 – Warhammer+ | Big Autumn Preview 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/nguj6dhn/arkanaut-teaser-trailer-september-2026-warhammer-big-autumn-preview-2026</link>
+            <guid>nguj6dhn</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow the adventures of a Kharadron Overlords frigate sailing the skies above the Mortal Realms in Arkanaut, available only on Warhammer+ this October.]]></description>
+            <category domain="kharadron-overlords">Kharadron Overlords</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="animations">Animations</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/arkanaut_thumb-i5kz56dpcq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Astartes II Teaser Trailer September 2026 – Warhammer+ | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ubc9m2tf/astartes-ii-teaser-trailer-september-2026</link>
+            <guid>ubc9m2tf</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deathwatch. Terminators. Coming to Warhammer+ this December.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="animations">Animations</category>
+            <category domain="videos">Videos</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/astartes_ii_thumb-k1srez1dt0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[REVEALED: New Warhammer Tone Pro Paints | Big Autumn Preview 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bmdf3gni/revealed-new-warhammer-tone-pro-paints-big-autumn-preview-2026</link>
+            <guid>bmdf3gni</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Superb coverage and next level vibrancy to help YOU achieve your best results. Get hands-on with new Warhammer Tone Pro paints from September.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh_tone_pro_reveal_thumbnail-p9bu7gzh4p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – Paint. Better.]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mewx9x8r/the-big-autumn-preview-paint-better</link>
+            <guid>mewx9x8r</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new Warhammer Tone Pro range includes 150 new paints]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature01-k4qfgstl5m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Preview – See all of the reveals here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mqvrszrr/the-big-autumn-preview-see-all-of-the-reveals-here</link>
+            <guid>mqvrszrr</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Huge reveals for Warhammer 40,000, Kill Team, Warhammer Age of Sigmar, and more.]]></description>
+            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature00-0ww3allsav.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Art through the years: The fortress monastery]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dulvgudq/warhammer-art-through-the-years-the-fortress-monastery</link>
@@ -69,218 +316,6 @@
             <category domain="deathwatch">Deathwatch</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_swbtdwdetach-sep16-1-feature-pcjzjo804x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global debut of Codex: Space Marines on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xsem3n2q/global-debut-of-codex-space-marines-on-warhammer-tv</link>
-            <guid>xsem3n2q</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Adeptus Astartes star in both Battle Report and Painting Desk.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/whplus_sep15-1-feature-d8kifzwdyd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neave Blacktalon stars in new Black Library novel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/agovgmhm/neave-blacktalon-stars-in-new-black-library-novel</link>
-            <guid>agovgmhm</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The legendary assassin faces her toughest challenge yet in the city of Greybank.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/bl_blacktalonreveal-sep16-1-feature-rqbrggkxxf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marines detachments – Blood Angels and Dark Angels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/voakmnny/space-marines-detachments-blood-angels-and-dark-angels</link>
-            <guid>voakmnny</guid>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Updated detachments for non-compliant Chapters are on the way.]]></description>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="dark-angels">Dark Angels</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_badadetach-sep15-1-feature-k72qsojy2y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 15th of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-15th-of-september</link>
-            <guid>ibkg5wrj</guid>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/rumourengine-sep15-1-feature-mz1xiyiohj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Warhammer Preview – Tune in on Friday!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pdrjlpou/the-big-autumn-warhammer-preview-tune-in-on-friday</link>
-            <guid>pdrjlpou</guid>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The next big Preview show is coming this week.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/autumnpreview_incoming-sep14-1-feature-jxmakvvvfi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Join Us – The Big Autumn Warhammer Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ckbqinyq/join-us-the-big-autumn-warhammer-preview-2026</link>
-            <guid>ckbqinyq</guid>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Big Autumn Warhammer Preview kicks off at 7pm BST this Friday 18 September –  and you’re invited! Head to Warhammer-Community.com to find out more about what's in store.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/september-preview-invite-rbwismw9h2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[First look: Space Marines datasheets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/paxsnmde/first-look-space-marines-datasheets</link>
-            <guid>paxsnmde</guid>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sternguard Veterans have every gun in new datasheet reveals from Codex: Space Marines.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smdatasheets-sep14-1-feature-m1jfgrn0dg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Space Marines drop in from orbit]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit</link>
-            <guid>c4icjvyy</guid>
-            <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out what’s coming up next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/sundaypreview-sep13-1-feature-seccrq0xmi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Sons of Behemat stomp the Mortal Realms]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2lm28g6g/saturday-pre-orders-sons-of-behemat-stomp-the-mortal-realms</link>
-            <guid>2lm28g6g</guid>
-            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gargantuan pre-orders for Warhammer Age of Sigmar, and a new boxed set.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/preorders-sep12-1-feature-peftfewqh6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Sons of Behemat]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tko2i6jm/warhammer-art-through-the-years-sons-of-behemat</link>
-            <guid>tko2i6jm</guid>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out some gargantuan artwork from around the Mortal Realms.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whart_48-sept11-1-feature-dpltczvtts.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AoS Coach on the new Sons of Behemat]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gkr7s1u7/aos-coach-on-the-new-sons-of-behemat</link>
-            <guid>gkr7s1u7</guid>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get some army building ideas from a top Warhammer Age of Sigmar player.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobinfl-sep11-1-feature-lurdlpa0zq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your first look at 15 new Space Marine detachments]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zcobdkzh/your-first-look-at-15-new-space-marine-detachments</link>
-            <guid>zcobdkzh</guid>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build a better strike force with Codex: Space Marines.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smdetrules-sep11-1-feature-kclnjprwc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – King of the Bigs]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xhj5rsbp/chronicles-of-ruin-king-of-the-bigs</link>
-            <guid>xhj5rsbp</guid>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy free Warhammer Age of Sigmar fiction.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="fiction">Fiction</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobfiction-sep11-1-feature-4apjlfx9zw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[See how Brawlers of Behemat works]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yiqybtvc/see-how-brawlers-of-behemat-works</link>
-            <guid>yiqybtvc</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s Mega-Gargant vs Mega-Gargant in the new boxed set.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_bobrules-sep10-1-feature-vbhoqrszwz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marines rules – First look]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ifgezlgu/space-marines-rules-first-look</link>
-            <guid>ifgezlgu</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Oath of Moment is gone from the new Codex – see what’s next.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smarmyrules-sep10-1-feature-b39lzh2sxk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – Eye of the Storm]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xtizwhko/pages-from-the-black-books-eye-of-the-storm</link>
-            <guid>xtizwhko</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Blackshields of the Dark Brotherhood go to war.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/thh_blackbookslore34-sep10-1-feature-mc4xxqi0cn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Armies of Renown – Gather your gargants around Ma Maegran]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f52zsuil/armies-of-renown-gather-your-gargants-around-ma-maegran</link>
-            <guid>f52zsuil</guid>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, use a Mega-Gargant in every Warhammer Age of Sigmar army!]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobaor-sep10-1-feature-valr5757dx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: New Warhammer 40,000 novels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/30qnykae/revealed-new-warhammer-40000-novels</link>
-            <guid>30qnykae</guid>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Black Library fiction inbound featuring the Astra Militarum and Adeptus Astartes.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/bl_reveals-sep09-1-feature-sn2ygz6mjs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ Battlehosts rules available to download]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/gezq0saf/middle-earthtm-battlehosts-rules-available-to-download</link>
-            <guid>gezq0saf</guid>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download free rules and take your first steps with the Middle-earth Strategy Battle Game.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/me_batlhostguides-sep09-1-feature-69dhsmlzof.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
