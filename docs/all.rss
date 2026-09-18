@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 17 Sep 2026 14:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 14:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Art through the years: The fortress monastery]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dulvgudq/warhammer-art-through-the-years-the-fortress-monastery</link>
+            <guid>dulvgudq</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the home bastions of the Space Marines – let’s take a look around.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smmonasteryart-sep18-1-feature-atthcggziz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Marines detachments – Salamanders, Raven Guard, and more]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more</link>
@@ -270,17 +281,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/me_batlhostguides-sep09-1-feature-69dhsmlzof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sons of Behemat unit rules updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/87mucjbz/sons-of-behemat-unit-rules-updates</link>
-            <guid>87mucjbz</guid>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Prepare to bless your gargants with almighty Bigness and sweep aside entire regiments.]]></description>
-            <category domain="sons-of-behemat">Sons of Behemat</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobunitrules-sep08-1-feature-epr1oi59mf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
