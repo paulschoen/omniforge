@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Sep 2026 16:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 19:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -22,8 +22,8 @@
             <enclosure url="https://assets.warhammer-community.com/content_creator_jon-ninas_16x9-bvehcg7kcm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jon Ninas on Warhammer Tone Pro – “It’s the best miniature paint white I’ve ever used”]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jmxyx6hv/jon-ninas-on-warhammer-tone-pro-its-the-best-miniature-paint-white-ive-ever-used</link>
+            <title><![CDATA[Jon 'Ninjon' Ninas on starting Warhammer, how he paints, and the new Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jmxyx6hv/jon-ninjon-ninas-on-starting-warhammer-how-he-paints-and-the-new-warhammer-tone-pro</link>
             <guid>jmxyx6hv</guid>
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Hugely popular painter Ninjon talks about the new paint range.]]></description>
