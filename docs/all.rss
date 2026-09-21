@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 20 Sep 2026 17:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 16:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Jon Ninas Tries Warhammer Tone Pro Paints | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/jm64erc4/jon-ninas-tries-warhammer-tone-pro-paints-warhammer</link>
+            <guid>jm64erc4</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[“It’s the best miniature paint white I’ve ever used…” Jon ‘Ninjon’ Ninas shares his thoughts on the new Warhammer Tone Pro range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/content_creator_jon-ninas_16x9-bvehcg7kcm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon Ninas on Warhammer Tone Pro – “It’s the best miniature paint white I’ve ever used”]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jmxyx6hv/jon-ninas-on-warhammer-tone-pro-its-the-best-miniature-paint-white-ive-ever-used</link>
+            <guid>jmxyx6hv</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hugely popular painter Ninjon talks about the new paint range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_jonninas-sep21-1-feature-mogoyng1ot.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Mordor™ Orcs revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fxaqz1ut/new-mordortm-orcs-revealed</link>
+            <guid>fxaqz1ut</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Evil hordes get brand new miniatures to join the Middle-earth™ Battlehost rumble.]]></description>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/1-feature-i8kdi1k65i.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Made to Ork-der]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xs1tvmjx/sunday-preview-made-to-ork-der</link>
@@ -281,41 +315,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature00-0ww3allsav.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Art through the years: The fortress monastery]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dulvgudq/warhammer-art-through-the-years-the-fortress-monastery</link>
-            <guid>dulvgudq</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to the home bastions of the Space Marines – let’s take a look around.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smmonasteryart-sep18-1-feature-atthcggziz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marines detachments – Salamanders, Raven Guard, and more]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more</link>
-            <guid>dhwqtqkc</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[More Warhammer 40,000 detachments for Codex-compliant Chapters.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="salamanders">Salamanders</category>
-            <category domain="raven-guard">Raven Guard</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_otherdetach-sep17-1-feature-id2c2kanqc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – The Scouring of the Nostramo Sector]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/b3jpf8hp/pages-from-the-black-books-the-scouring-of-the-nostramo-sector</link>
-            <guid>b3jpf8hp</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join us as we head to the north-eastern fringes to take on the Night Lords.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/thh_blackbookslore35-sep17-1-feature-kmmqexc7yg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
