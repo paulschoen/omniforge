@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Sep 2026 11:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 14:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Albert Moreto Font on 30 Years of Painting and Warhammer Tone Pro | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ahlify7f/albert-moreto-font-on-30-years-of-painting-and-warhammer-tone-pro-warhammer</link>
+            <guid>ahlify7f</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Multiple Slayer Sword winner, Albert Moreto Font, shares the story of his 30 year painting career, putting his soul into every piece, and his thoughts on Warhammer Tone Pro. Watch the full interview on the Warhammer Community site.
+
+Follow for more Warhammer, more often:]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/albert-moreto-font_thumbnail-pajiz9zh4v.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Three-time Slayer Sword winner Albert Moreto Font on the new Warhammer Tone Pro range]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/luil1cex/three-time-slayer-sword-winner-albert-moreto-font-on-the-new-warhammer-tone-pro-range</link>
+            <guid>luil1cex</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The multiple Slayer Sword winner talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_arbertmoretofont-sep22-1-feature-m8kz6bhqyc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 22nd of September]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-22nd-of-september</link>
@@ -278,33 +302,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/arkanaut_thumb-i5kz56dpcq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astartes II Teaser Trailer September 2026 – Warhammer+ | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ubc9m2tf/astartes-ii-teaser-trailer-september-2026</link>
-            <guid>ubc9m2tf</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Deathwatch. Terminators. Coming to Warhammer+ this December.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="animations">Animations</category>
-            <category domain="videos">Videos</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/astartes_ii_thumb-k1srez1dt0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[REVEALED: New Warhammer Tone Pro Paints | Big Autumn Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bmdf3gni/revealed-new-warhammer-tone-pro-paints-big-autumn-preview-2026</link>
-            <guid>bmdf3gni</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Superb coverage and next level vibrancy to help YOU achieve your best results. Get hands-on with new Warhammer Tone Pro paints from September.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh_tone_pro_reveal_thumbnail-p9bu7gzh4p.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
