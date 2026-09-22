@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Sep 2026 14:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 16:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[See Warhammer Tone Pro paints in action on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tr8c3icr/see-warhammer-tone-pro-paints-in-action-on-warhammer-tv</link>
+            <guid>tr8c3icr</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, Combat Patrol battles and Ork lore added this week.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/whplus_sep22-1-feature-cmioml5oiw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Albert Moreto Font on 30 Years of Painting and Warhammer Tone Pro | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ahlify7f/albert-moreto-font-on-30-years-of-painting-and-warhammer-tone-pro-warhammer</link>
@@ -288,20 +298,6 @@ Follow for more Warhammer, more often:]]></description>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/khazalite_holds_thumbnail-lwi8mdcwqv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut Teaser Trailer September 2026 – Warhammer+ | Big Autumn Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/nguj6dhn/arkanaut-teaser-trailer-september-2026-warhammer-big-autumn-preview-2026</link>
-            <guid>nguj6dhn</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow the adventures of a Kharadron Overlords frigate sailing the skies above the Mortal Realms in Arkanaut, available only on Warhammer+ this October.]]></description>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="animations">Animations</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/arkanaut_thumb-i5kz56dpcq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
