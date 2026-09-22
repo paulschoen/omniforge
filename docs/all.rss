@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 21 Sep 2026 19:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 11:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 22nd of September]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-22nd-of-september</link>
+            <guid>ibkg5wrj</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/rumourengine-sep22-1-feature-pomucquxrt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Warhammer Tone Pro? | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bfjbcftb/what-is-warhammer-tone-pro-warhammer</link>
+            <guid>bfjbcftb</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <category domain="painting">Painting</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/what_is_tone_pro_thumbnail_16x9-6ncad1ctvr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jon Ninas Tries Warhammer Tone Pro Paints | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/jm64erc4/jon-ninas-tries-warhammer-tone-pro-paints-warhammer</link>
@@ -285,36 +305,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/wh_tone_pro_reveal_thumbnail-p9bu7gzh4p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Paint. Better.]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mewx9x8r/the-big-autumn-preview-paint-better</link>
-            <guid>mewx9x8r</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The new Warhammer Tone Pro range includes 150 new paints]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature01-k4qfgstl5m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – See all of the reveals here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mqvrszrr/the-big-autumn-preview-see-all-of-the-reveals-here</link>
-            <guid>mqvrszrr</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Huge reveals for Warhammer 40,000, Kill Team, Warhammer Age of Sigmar, and more.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature00-0ww3allsav.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
