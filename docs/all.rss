@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Sep 2026 10:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 14:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Craftworld Studio’s Aleksandra Cvetanovski Tests Warhammer Tone Pro | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/8lpgzrrb/craftworld-studios-aleksandra-cvetanovski-tests-warhammer-tone-pro-warhammer</link>
+            <guid>8lpgzrrb</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Top miniature painter Aleksandra Cvetanovski from @CraftworldStudio sat down with us to discuss the joyful moments of painting, miniatures as an art form, and her thoughts on the new Warhammer Tone Pro range.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/blue-content-creator_aleksandra-cvetanoski_16x9-nux6cnejvz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Underpainting’ technique teacher Aleksandra Cvetanovski on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yzrxjfuj/underpainting-technique-teacher-aleksandra-cvetanovski-on-warhammer-tone-pro</link>
+            <guid>yzrxjfuj</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_aleksandracvetanovski-sep23-1-feature-glwtf6oiyl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ride for ruin with our Rohan™ tactical advice]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fifyu4rj/ride-for-ruin-with-our-rohantm-tactical-advice</link>
+            <guid>fifyu4rj</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Top tactical tips from a Middle-earth™ Strategy Battle Game veteran.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/me_rohantactica-sep23-1-feature-4u80cd0vfp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/scusey9f/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
@@ -35,9 +68,7 @@
             <link>https://www.warhammer-community.com/en-gb/videos/ahlify7f/albert-moreto-font-on-30-years-of-painting-and-warhammer-tone-pro-warhammer</link>
             <guid>ahlify7f</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Multiple Slayer Sword winner, Albert Moreto Font, shares the story of his 30 year painting career, putting his soul into every piece, and his thoughts on Warhammer Tone Pro. Watch the full interview on the Warhammer Community site.
-
-Follow for more Warhammer, more often:]]></description>
+            <description><![CDATA[Multiple Slayer Sword winner, Albert Moreto Font, shares the story of his 30 year painting career, putting his soul into every piece, and his thoughts on Warhammer Tone Pro.]]></description>
             <category domain="painting">Painting</category>
             <category domain="videos">Videos</category>
             <category>videos</category>
@@ -257,45 +288,6 @@ Follow for more Warhammer, more often:]]></description>
             <category domain="animations">Animations</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature04-euyhh7j5cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Slaanesh unleashed in the Age of Darkness]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dhfaf9vz/the-big-autumn-preview-slaanesh-unleashed-in-the-age-of-darkness</link>
-            <guid>dhfaf9vz</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Can the Custodes defeat the Daemons in the Signus Cluster?]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature03-35568ezxer.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Custodian Terminators step from the vaults]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/61ej8fdr/the-big-autumn-preview-custodian-terminators-step-from-the-vaults</link>
-            <guid>61ej8fdr</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New models, new Codex, new Combat Patrol on the way for the Ten Thousand.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature02-wultit5aqf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Legion of the Damned vs. Ork Nobz in Kill Team: Armageddon | Big Autumn Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/era4gpcv/legion-of-the-damned-vs-ork-nobz-in-kill-team-armageddon-big-autumn-preview-2026</link>
-            <guid>era4gpcv</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[When all seems lost, when the odds are insurmountable, the Imperium's defenders have, incredibly rarely, found spectres and spirits appear to fight alongside them. Kill Team Armageddon brings the skeletal, flame-shrouded warriors to a brand-new battlefield, facing off against grizzled Ork Nobs in Armageddon's blasted wastelands.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="kill-team">Kill Team</category>
-            <category domain="videos">Videos</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="orks">Orks</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/kill_team_armaggedon_thumbnail_16x9-jbmxar8r3o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
