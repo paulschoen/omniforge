@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 22 Sep 2026 16:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 10:50:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/scusey9f/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
+            <guid>scusey9f</guid>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the latest rules updates from the Mortal Realms.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/aos_quarterlyupdate-sep23-1-feature-i4gnlam0sh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[See Warhammer Tone Pro paints in action on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tr8c3icr/see-warhammer-tone-pro-paints-in-action-on-warhammer-tv</link>
@@ -285,19 +296,6 @@ Follow for more Warhammer, more often:]]></description>
             <category domain="orks">Orks</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/kill_team_armaggedon_thumbnail_16x9-jbmxar8r3o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Faction Announced – Khazalite Holds | Big Autumn Preview 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qhaxrxz0/new-faction-announced-khazalite-holds-big-autumn-preview-2026</link>
-            <guid>qhaxrxz0</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Khazalite Holds Army Set launches a new faction into Warhammer Age of Sigmar. Emerging from deep underground cities, these duardin fight with gritty determination, along with precision-engineered war machines and stone constructs known as Gholems.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/khazalite_holds_thumbnail-lwi8mdcwqv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
