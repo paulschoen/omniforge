@@ -4,11 +4,57 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 23 Sep 2026 14:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 14:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Marko Miladinović from Craftworld Studio’s Thoughts on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/dbtujko9/marko-content-creator</link>
+            <guid>dbtujko9</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Artist and miniature painter Marko Miladinović from @CraftworldStudio discusses his artistic approach to miniature paints, and his experiences with Warhammer Tone Pro.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/marko-miladinovic-kkfytdxwvr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marko Miladinović tries his artistic style with Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eqc84lj0/marko-miladinovic-tries-his-artistic-style-with-warhammer-tone-pro</link>
+            <guid>eqc84lj0</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_markom-sep24-1-feature-2bwlkgja3r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages from the Black Books – In Pursuit of Perfection]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/r7kdhfvt/pages-from-the-black-books-in-pursuit-of-perfection</link>
+            <guid>r7kdhfvt</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Follow the III Legion as they descend into madness and depravity.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/thh_blackbookslore36-sep24-1-feature-8dc4g3b3mb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grand Narrative 2026 – Introducing Ferrum’s Wake]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/q1alqunb/grand-narrative-2026-introducing-ferrums-wake</link>
+            <guid>q1alqunb</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the anarchic battlefield at the heart of this year’s Grand Narrative event.]]></description>
+            <category domain="grand-narrative">Grand Narrative</category>
+            <category domain="events">Events</category>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/grandnarrative2026-sep24-1-feature-j6e4fxunnw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Craftworld Studio’s Aleksandra Cvetanovski Tests Warhammer Tone Pro | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/8lpgzrrb/craftworld-studios-aleksandra-cvetanovski-tests-warhammer-tone-pro-warhammer</link>
@@ -238,56 +284,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature08-fukpkptkby.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Roleplay in the underhive]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rfd3ntt7/the-big-autumn-preview-roleplay-in-the-underhive</link>
-            <guid>rfd3ntt7</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Necromunda game revealed!]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature07-8w5ez3593i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Night Goblins hit the gridiron]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3zbmjzgp/the-big-autumn-preview-night-goblins-hit-the-gridiron</link>
-            <guid>3zbmjzgp</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new team bounces onto the Blood Bowl pitch.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature06-rji6wlahi8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – New Tomb Kings march out]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6pknf9l6/the-big-autumn-preview-new-tomb-kings-march-out</link>
-            <guid>6pknf9l6</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reinforcements head out from Khemri to claim the Old World.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature05-nfozohw2yc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Astartes II teaser trailer just dropped]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/idsa1psv/the-big-autumn-preview-astartes-ii-teaser-trailer-just-dropped</link>
-            <guid>idsa1psv</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the intense new trailer for the Warhammer 40,000 animation now!]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="animations">Animations</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature04-euyhh7j5cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
