@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Sep 2026 14:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 16:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[First look: Adeptus Custodes datasheets]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2xxurx9j/first-look-adeptus-custodes-datasheets</link>
+            <guid>2xxurx9j</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Powerful new Custodian statlines are coming to Warhammer 40,000.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/40k_custodessheets-sep24-1-feature-46cjvvdjil.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marko Miladinović from Craftworld Studio’s Thoughts on Warhammer Tone Pro]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/dbtujko9/marko-content-creator</link>
@@ -272,18 +283,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature09-srsefaq18j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – A new duardin faction revealed!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed</link>
-            <guid>evmkzloa</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Witness the might of the Khazalite Holds as they sally forth from the mountains.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature08-fukpkptkby.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
