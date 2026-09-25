@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 24 Sep 2026 16:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 11:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New army rules from Codex: Adeptus Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vygelghy/new-army-rules-from-codex-adeptus-custodes</link>
+            <guid>vygelghy</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how martial ka’tahs show off ten millennia of Custodian combat skill.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/40k_custodesarmyrules-sep25-1-feature-jroxrzeoyo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[First look: Adeptus Custodes datasheets]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2xxurx9j/first-look-adeptus-custodes-datasheets</link>
@@ -269,20 +280,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature10-keuozogox8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Kharadrons take to the skies in a new animation]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fgxceapm/the-big-autumn-preview-kharadrons-take-to-the-skies-in-a-new-animation</link>
-            <guid>fgxceapm</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new Warhammer Age of Sigmar animation is coming, featuring Kharadron Overlords.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="animations">Animations</category>
-            <category domain="kharadron-overlords">Kharadron Overlords</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature09-srsefaq18j.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
