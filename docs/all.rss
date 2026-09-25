@@ -4,11 +4,56 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Sep 2026 11:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 14:54:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Josh ‘Warhipster’ Hill Tests Warhammer Tone Pro Paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/6velvtkc/josh-warhipster-hill-tests-warhammer-tone-pro-paints</link>
+            <guid>6velvtkc</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[From a single metal Necron to massive Chaos Dragons, Josh ‘Warhipster’ Hill spoke to us about his painting background and what he thought of the new Warhammer Tone Pro paint range.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/content-creator_josh-hill_16x9-c7bjqk2ohs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Josh ‘Warhipster’ Hill on adapting his Contrast style with Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/azonawtw/josh-warhipster-hill-on-adapting-his-contrast-style-with-warhammer-tone-pro</link>
+            <guid>azonawtw</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_joshhill-sep25-1-feature-e10wmujjvg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warriors of Chaos armies fresh from the Studio]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/g7lisprl/warriors-of-chaos-armies-fresh-from-the-studio</link>
+            <guid>g7lisprl</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The team behind Warhammer: The Old World pledge fealty to the Dark Gods.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/tow_studiochaos-sep25-1-feature-jwphm11pzs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Helsmiths of Hashut]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/x4n9c2od/warhammer-art-through-the-years-helsmiths-of-hashut</link>
+            <guid>x4n9c2od</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stroll through the acrid smoke and enjoy some Warhammer Age of Sigmar artwork.]]></description>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/aos_helsmithart-sep25-1-feature-tkahey0a81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New army rules from Codex: Adeptus Custodes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/vygelghy/new-army-rules-from-codex-adeptus-custodes</link>
@@ -232,54 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/preorders-sep19-1-feature-sb2xpbqxbs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big Autumn Warhammer Preview Show 2026 – The Recap]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/z8ofub9l/big-autumn-warhammer-preview-show-2026-the-recap</link>
-            <guid>z8ofub9l</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Big Autumn Warhammer Preview Show 2026 is in the books, and it was MEGA. Don’t worry if you missed the stream – Adam’s here with the headlines, including the incredible new Warhammer Tone Pro paints, new Custodes releases, and a WHOLE NEW FACTION for Warhammer Age of Sigmar.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/autumn_preview_round_up_thumbnail_16x9-s53koaytrw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – The Legion of the Damned enter the killzone]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ltbqrokb/the-big-autumn-preview-the-legion-of-the-damned-enter-the-killzone</link>
-            <guid>ltbqrokb</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Spectral Space Marines battle Ork Nobz in a new Kill Team box.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="kill-team">Kill Team</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature12-sfswcwowis.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – Warhammer Quest: Darkwater expansion revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wdvqlchm/the-big-autumn-preview-warhammer-quest-darkwater-expansion-revealed</link>
-            <guid>wdvqlchm</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Agents of Azyr enter the Jade Abbey.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="warhammer-quest-darkwater">Warhammer Quest: Darkwater</category>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature11-x4qfmgithh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Preview – New Seraphon sighted]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4alvkmwb/the-big-autumn-preview-new-seraphon-sighted</link>
-            <guid>4alvkmwb</guid>
-            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your first look at the new Warhammer Age of Sigmar miniature.]]></description>
-            <category domain="warhammer-preview-show">Warhammer Preview Show</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="seraphon">Seraphon</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/1-feature10-keuozogox8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
