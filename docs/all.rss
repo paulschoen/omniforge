@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 25 Sep 2026 16:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 17:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Classic Orks and Christmas gifts]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/gy3a26a3/saturday-pre-orders-classic-orks-and-christmas-gifts</link>
+            <guid>gy3a26a3</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Add to your Waaagh! via our Made to Order service and get ready for the festive season.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/preorders-sep26-1-feature-k2nmjf6zuu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Custodes: What you need to know]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/axmsjwwa/new-custodes-what-you-need-to-know</link>
@@ -262,19 +274,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/1-feature-i8kdi1k65i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Made to Ork-der]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xs1tvmjx/sunday-preview-made-to-ork-der</link>
-            <guid>xs1tvmjx</guid>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic Orks lead next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/sundaypreview-sep20-1-feature-qai3xrjbgq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
