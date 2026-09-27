@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 26 Sep 2026 17:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 18:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Might of the Ten Thousand]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zuwukdba/sunday-preview-might-of-the-ten-thousand</link>
+            <guid>zuwukdba</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer 40,000 and Warhammer: The Horus Heresy pre-orders are coming next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/sundaypreview-sep27-1-feature-kmowzdthmj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Classic Orks and Christmas gifts]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/gy3a26a3/saturday-pre-orders-classic-orks-and-christmas-gifts</link>
@@ -263,17 +278,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_jonninas-sep21-1-feature-mogoyng1ot.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Mordor™ Orcs revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fxaqz1ut/new-mordortm-orcs-revealed</link>
-            <guid>fxaqz1ut</guid>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Evil hordes get brand new miniatures to join the Middle-earth™ Battlehost rumble.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/1-feature-i8kdi1k65i.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
