@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 28 Sep 2026 12:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 17:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[All-new in-store offer this October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jvquigqz/all-new-in-store-offer-this-october</link>
+            <guid>jvquigqz</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Choose one of eight miniatures to build and/or paint, and then take away.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/retailpromo-sep28-1-feature-ibjioeq2mp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon Judge, Erik Swinson, Discusses Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/arz7dqy6/golden-demon-judge-erik-swinson-discusses-warhammer-tone-pro</link>
+            <guid>arz7dqy6</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Professional painter, tutor, and Golden Demon judge, Erik Swinson, discusses why the new Warhammer Tone Pro range will suit his beloved Deathwatch.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/erik-swinson_interview-dxkwoq9e41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Open tutor and Golden Demon guest judge Erik Swinson on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yux7ox7h/warhammer-open-tutor-and-golden-demon-guest-judge-erik-swinson-on-warhammer-tone-pro</link>
+            <guid>yux7ox7h</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_erikswinson-sep28-1-feature-9blf8fqbw7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inside White Dwarf 529 – Trick or Treat with Gitz and Skaven]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftkza0yu/inside-white-dwarf-529-trick-or-treat-with-gitz-and-skaven</link>
@@ -245,38 +277,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/whplus_sep22-1-feature-cmioml5oiw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Albert Moreto Font on 30 Years of Painting and Warhammer Tone Pro | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ahlify7f/albert-moreto-font-on-30-years-of-painting-and-warhammer-tone-pro-warhammer</link>
-            <guid>ahlify7f</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Multiple Slayer Sword winner, Albert Moreto Font, shares the story of his 30 year painting career, putting his soul into every piece, and his thoughts on Warhammer Tone Pro.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/albert-moreto-font_thumbnail-pajiz9zh4v.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Three-time Slayer Sword winner Albert Moreto Font on the new Warhammer Tone Pro range]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/luil1cex/three-time-slayer-sword-winner-albert-moreto-font-on-the-new-warhammer-tone-pro-range</link>
-            <guid>luil1cex</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The multiple Slayer Sword winner talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_arbertmoretofont-sep22-1-feature-m8kz6bhqyc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 22nd of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-22nd-of-september</link>
-            <guid>ibkg5wrj</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/rumourengine-sep22-1-feature-pomucquxrt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
