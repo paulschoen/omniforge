@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 29 Sep 2026 12:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 16:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon Winner Kentaro Ikeda Tries Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ouhhdsie/golden-demon-winner-kentaro-ikeda-tries-warhammer-tone-pro</link>
+            <guid>ouhhdsie</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The first Japanese Golden Demon winner, Kentaro Ikeda, shares his thoughts on Warhammer Tone Pro and how its formula lends itself to mixing and blending colours.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/kentaro_ikeda_interview-nwywgkmwvs.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon winner Kentaro Ikeda on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/waxcyb2g/golden-demon-winner-kentaro-ikeda-on-warhammer-tone-pro</link>
+            <guid>waxcyb2g</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_kentaroikeda-oct01-1-feature-8zp4uakinz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How To Keep Your Custodians Standing Sentinel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ksfhighm/how-to-keep-your-custodians-standing-sentinel</link>
+            <guid>ksfhighm</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The forces of the Adeptus Custodes are tough but even they have their limits against the threats of the 41st Millennium.]]></description>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_actobewary-sep29-1-feature-e1muwknqcg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Academy September content drop]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lrkunijz/warhammer-academy-september-content-drop</link>
@@ -36,7 +70,7 @@
             <description><![CDATA[Choose one of eight miniatures to build and/or paint, and then take away.]]></description>
             <category domain="store-news">Store News</category>
             <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/retailpromo-sep28-1-feature-ibjioeq2mp.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/retailpromo-sep28-1-feature-tfhgulqzm4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Demon Judge, Erik Swinson, Discusses Warhammer Tone Pro]]></title>
@@ -242,39 +276,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/grandnarrative2026-sep24-1-feature-j6e4fxunnw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Craftworld Studio’s Aleksandra Cvetanovski Tests Warhammer Tone Pro | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/8lpgzrrb/craftworld-studios-aleksandra-cvetanovski-tests-warhammer-tone-pro-warhammer</link>
-            <guid>8lpgzrrb</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Top miniature painter Aleksandra Cvetanovski from @CraftworldStudio sat down with us to discuss the joyful moments of painting, miniatures as an art form, and her thoughts on the new Warhammer Tone Pro range.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/blue-content-creator_aleksandra-cvetanoski_16x9-nux6cnejvz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Underpainting’ technique teacher Aleksandra Cvetanovski on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yzrxjfuj/underpainting-technique-teacher-aleksandra-cvetanovski-on-warhammer-tone-pro</link>
-            <guid>yzrxjfuj</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_aleksandracvetanovski-sep23-1-feature-glwtf6oiyl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ride for ruin with our Rohan™ tactical advice]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fifyu4rj/ride-for-ruin-with-our-rohantm-tactical-advice</link>
-            <guid>fifyu4rj</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Top tactical tips from a Middle-earth™ Strategy Battle Game veteran.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/me_rohantactica-sep23-1-feature-4u80cd0vfp.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
