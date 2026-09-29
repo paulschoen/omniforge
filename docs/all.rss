@@ -4,11 +4,30 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 28 Sep 2026 17:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 12:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Academy September content drop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lrkunijz/warhammer-academy-september-content-drop</link>
+            <guid>lrkunijz</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whacademyupdate-sep29-1-feature-2prj3nczp9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 29th of September]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-29th-of-september</link>
+            <guid>ibkg5wrj</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/rumourengine-sep29-1-feature-3euqqene1t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[All-new in-store offer this October]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jvquigqz/all-new-in-store-offer-this-october</link>
@@ -256,27 +275,6 @@
             <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/me_rohantactica-sep23-1-feature-4u80cd0vfp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar – Quarterly Battlescroll Updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/scusey9f/warhammer-age-of-sigmar-quarterly-battlescroll-updates</link>
-            <guid>scusey9f</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See the latest rules updates from the Mortal Realms.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/aos_quarterlyupdate-sep23-1-feature-i4gnlam0sh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[See Warhammer Tone Pro paints in action on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tr8c3icr/see-warhammer-tone-pro-paints-in-action-on-warhammer-tv</link>
-            <guid>tr8c3icr</guid>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, Combat Patrol battles and Ork lore added this week.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/whplus_sep22-1-feature-cmioml5oiw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
