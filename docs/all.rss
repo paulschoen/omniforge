@@ -4,11 +4,79 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 29 Sep 2026 16:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 16:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Dawn of War IV – Blood Ravens and Dark Angels team up in new trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer</link>
+            <guid>wfvliytx</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the new faction trailer now.]]></description>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/dow_marinestrailer-sep30-1-feature-b840lh3r3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Blood Ravens Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xhesrkec/warhammer-40000-dawn-of-war-iv-blood-ravens-trailer</link>
+            <guid>xhesrkec</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Blood Ravens join forces with their Dark Angels brethren in the epic new trailer for Warhammer 40,000: Dawn of War IV. Head to the Warhammer Community site now to watch it and learn more about this epic upcoming Warhammer video game]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="videos">Videos</category>
+            <category domain="video-games">Video Games</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dawn-of-war-thumbnail-ri61bzq1rn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pro Painter Katarzyna Górska Gets Hands On With Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ld9ducfg/pro-painter-katarzyna-gorska-gets-hands-on-with-warhammer-tone-pro</link>
+            <guid>ld9ducfg</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Open painting tutorial host, Katarzyna Górska, explains how she found balancing warm and cool colours and contrasting tones with Warhammer Tone Pro.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/content_creator_katarzyna-gorska_16x9-rq8pom7baa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon winner and Warhammer Open tutor Katarzyna Górska on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kmue40oe/golden-demon-winner-and-warhammer-open-tutor-katarzyna-gorska-on-warhammer-tone-pro</link>
+            <guid>kmue40oe</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_katarzynagorska-sep30-1-feature-0qnprzrvmu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Final cut animation lands on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/u5yemctb/final-cut-animation-lands-on-warhammer-tv</link>
+            <guid>u5yemctb</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, new episodes and your chance to win a HUGE bundle of JOYTOY goodies!]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whplus_sep30-1-feature-ljzlxol8t4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 – Balance Update: Emboldened Astartes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes</link>
+            <guid>rylbvfnv</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Heretics and Loyalists alike are receiving a suite of updates in time for the release of Codex: Space Marines.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_smbalance-sep09-1-feature-uu8dukdnkb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon Winner Kentaro Ikeda Tries Warhammer Tone Pro]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ouhhdsie/golden-demon-winner-kentaro-ikeda-tries-warhammer-tone-pro</link>
@@ -208,74 +276,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/aos_helsmithart-sep25-1-feature-tkahey0a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New army rules from Codex: Adeptus Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vygelghy/new-army-rules-from-codex-adeptus-custodes</link>
-            <guid>vygelghy</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how martial ka’tahs show off ten millennia of Custodian combat skill.]]></description>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/40k_custodesarmyrules-sep25-1-feature-jroxrzeoyo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[First look: Adeptus Custodes datasheets]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2xxurx9j/first-look-adeptus-custodes-datasheets</link>
-            <guid>2xxurx9j</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Powerful new Custodian statlines are coming to Warhammer 40,000.]]></description>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/40k_custodessheets-sep24-1-feature-46cjvvdjil.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marko Miladinović from Craftworld Studio’s Thoughts on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/dbtujko9/marko-content-creator</link>
-            <guid>dbtujko9</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Artist and miniature painter Marko Miladinović from @CraftworldStudio discusses his artistic approach to miniature paints, and his experiences with Warhammer Tone Pro.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/marko-miladinovic-kkfytdxwvr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marko Miladinović tries his artistic style with Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eqc84lj0/marko-miladinovic-tries-his-artistic-style-with-warhammer-tone-pro</link>
-            <guid>eqc84lj0</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_markom-sep24-1-feature-2bwlkgja3r.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages from the Black Books – In Pursuit of Perfection]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/r7kdhfvt/pages-from-the-black-books-in-pursuit-of-perfection</link>
-            <guid>r7kdhfvt</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Follow the III Legion as they descend into madness and depravity.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/thh_blackbookslore36-sep24-1-feature-8dc4g3b3mb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grand Narrative 2026 – Introducing Ferrum’s Wake]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/q1alqunb/grand-narrative-2026-introducing-ferrums-wake</link>
-            <guid>q1alqunb</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the anarchic battlefield at the heart of this year’s Grand Narrative event.]]></description>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category domain="events">Events</category>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/grandnarrative2026-sep24-1-feature-j6e4fxunnw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
