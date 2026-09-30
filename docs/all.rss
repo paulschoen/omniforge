@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Sep 2026 16:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 17:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Release date revealed for the next animation on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rrmmqkz7/release-date-revealed-for-the-next-animation-on-warhammer-tv</link>
+            <guid>rrmmqkz7</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Set sail with the Arkanauts of the Kharadron Overlords]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/arkanaut-sep30-1-feature-kd1dojpd9k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dawn of War IV – Blood Ravens and Dark Angels team up in new trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer</link>
@@ -265,17 +275,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/tow_studiochaos-sep25-1-feature-jwphm11pzs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Helsmiths of Hashut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/x4n9c2od/warhammer-art-through-the-years-helsmiths-of-hashut</link>
-            <guid>x4n9c2od</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stroll through the acrid smoke and enjoy some Warhammer Age of Sigmar artwork.]]></description>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/aos_helsmithart-sep25-1-feature-tkahey0a81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
