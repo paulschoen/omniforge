@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 30 Sep 2026 17:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 12:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New From Black Library – Whisperblade]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/otmn81lv/new-from-black-library-whisperblade</link>
+            <guid>otmn81lv</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Head into Shyish on a vital quest in a new Warhammer Age of Sigmar novel.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bl_whisperblade-sep30-1-feature-0daeuor1gw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000 – Balance Update: Chaos, the Imperium and Xenos Fight Back]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vzqu6tzw/warhammer-40000-balance-update-chaos-the-imperium-and-xenos-fight-back</link>
+            <guid>vzqu6tzw</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn what yesterday’s big changes mean for the non-Space Marines factions.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_slatefollowup-sep01-1-feature-npjddjxihs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Release date revealed for the next animation on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rrmmqkz7/release-date-revealed-for-the-next-animation-on-warhammer-tv</link>
@@ -16,6 +38,7 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Set sail with the Arkanauts of the Kharadron Overlords]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/arkanaut-sep30-1-feature-kd1dojpd9k.jpg" length="0" type="image/jpg"/>
         </item>
@@ -252,29 +275,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/content-creator_josh-hill_16x9-c7bjqk2ohs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Josh ‘Warhipster’ Hill on adapting his Contrast style with Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/azonawtw/josh-warhipster-hill-on-adapting-his-contrast-style-with-warhammer-tone-pro</link>
-            <guid>azonawtw</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_joshhill-sep25-1-feature-e10wmujjvg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warriors of Chaos armies fresh from the Studio]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/g7lisprl/warriors-of-chaos-armies-fresh-from-the-studio</link>
-            <guid>g7lisprl</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The team behind Warhammer: The Old World pledge fealty to the Dark Gods.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/tow_studiochaos-sep25-1-feature-jwphm11pzs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
