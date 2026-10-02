@@ -4,11 +4,20 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 02 Oct 2026 16:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 21:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Your questions answered from The Big Autumn Preview]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview</link>
+            <guid>ezaznq06</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[You asked about paint, Adeptus Custodes, Tomb Kings of Khemri, and more.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bigautumnq&a-oct02-1-feature-izowlo7dpw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Only in Death: 40,000 Ways to Die]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/bu0lpzfj/only-in-death-40000-ways-to-die</link>
@@ -268,16 +277,6 @@
             <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whacademyupdate-sep29-1-feature-2prj3nczp9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 29th of September]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-29th-of-september</link>
-            <guid>ibkg5wrj</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/rumourengine-sep29-1-feature-3euqqene1t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
