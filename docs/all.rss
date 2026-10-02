@@ -4,11 +4,69 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 01 Oct 2026 16:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 16:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Only in Death: 40,000 Ways to Die]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/bu0lpzfj/only-in-death-40000-ways-to-die</link>
+            <guid>bu0lpzfj</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It might sound great to be a genetically enhanced superhuman killing machine, but the life of a Space Marine is far from sunshine and roses.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh40k_space_marine_animation_thumbnail_16x9-5fd0d11ovq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Only in Death: 40,000 Ways to Die – New Animation]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation</link>
+            <guid>coumzkqv</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch it now, for free]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/02-10_sm_anim_1-feature-7bxlmpe2ze.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julien Kirszenbaum Shares His Thoughts on Painting and Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/zzyik0fl/julien-kirszenbaum-shares-his-thoughts-on-painting-and-warhammer-tone-pro</link>
+            <guid>zzyik0fl</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Julien Kirszenbaum from French Wargame Studio tells us why he loves painting Warhammer, and what he thinks of the new Warhammer Tone Pro paints!]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/julien-kirszenbaum_interview-b0755ihjfz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julien Kirszenbaum on painting monsters and Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ar2fiibi/julien-kirszenbaum-on-painting-monsters-and-warhammer-tone-pro</link>
+            <guid>ar2fiibi</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_julienk-oct02-1-feature-uxteje4wh2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Warhammer – Terra and the Custodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pbev2srg/the-art-of-warhammer-terra-and-the-custodes</link>
+            <guid>pbev2srg</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Behold the golden heart of Humanity and the bodyguards of the Emperor.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="adeptus-custodes">Adeptus Custodes</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whart_custodes-oct02-1-feature-k98ra7cx7m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Space Marine 2 gets a massive anniversary update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update</link>
@@ -220,59 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/rumourengine-sep29-1-feature-3euqqene1t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All-new in-store offer this October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jvquigqz/all-new-in-store-offer-this-october</link>
-            <guid>jvquigqz</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Choose one of eight miniatures to build and/or paint, and then take away.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/retailpromo-sep28-1-feature-tfhgulqzm4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon Judge, Erik Swinson, Discusses Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/arz7dqy6/golden-demon-judge-erik-swinson-discusses-warhammer-tone-pro</link>
-            <guid>arz7dqy6</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Professional painter, tutor, and Golden Demon judge, Erik Swinson, discusses why the new Warhammer Tone Pro range will suit his beloved Deathwatch.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/erik-swinson_interview-dxkwoq9e41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Open tutor and Golden Demon guest judge Erik Swinson on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yux7ox7h/warhammer-open-tutor-and-golden-demon-guest-judge-erik-swinson-on-warhammer-tone-pro</link>
-            <guid>yux7ox7h</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_erikswinson-sep28-1-feature-9blf8fqbw7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 529 – Trick or Treat with Gitz and Skaven]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ftkza0yu/inside-white-dwarf-529-trick-or-treat-with-gitz-and-skaven</link>
-            <guid>ftkza0yu</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It’s almost that time of year – see what’s inside the Halloween special.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/wd529-sep28-feature-2wb85bv3gx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Orlocks revealed for Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tuafs5pk/new-orlocks-revealed-for-necromunda</link>
-            <guid>tuafs5pk</guid>
-            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rule the roads of Necromunda with Ogryns and tooled-up gang bosses.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/28-09_nec_1-feature-wxbdnnnfvm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
