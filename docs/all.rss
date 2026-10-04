@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 03 Oct 2026 18:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 18:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro</link>
+            <guid>13drg5hr</guid>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join the painting revolution with the outstanding new range – available to pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="painting">Painting</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sundaypreview-oct04-1-feature-qug5ol7iue.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Custodes battle across ten millennia]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rdvqjezx/saturday-pre-orders-custodes-battle-across-ten-millennia</link>
@@ -271,17 +283,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_kentaroikeda-oct01-1-feature-8zp4uakinz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How To Keep Your Custodians Standing Sentinel]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ksfhighm/how-to-keep-your-custodians-standing-sentinel</link>
-            <guid>ksfhighm</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The forces of the Adeptus Custodes are tough but even they have their limits against the threats of the 41st Millennium.]]></description>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_actobewary-sep29-1-feature-e1muwknqcg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
