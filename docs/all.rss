@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 04 Oct 2026 18:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 13:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Day miniature revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed</link>
+            <guid>bimnji3r</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fulfil your godsworn oath with a new Darkoath Warqueen.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="slaves-to-darkness">Slaves to Darkness</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/1-feature-fqr310gbj3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Warhammer Tone Pro]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro</link>
@@ -34,6 +46,15 @@
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/preorders-oct03-1-feature-vywhetvepo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Big Autumn Q&A | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hj6bnxft/the-big-autumn-qa-warhammer</link>
+            <guid>hj6bnxft</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adam and Eddie answer your questions from the Big Autumn Preview 2026!]]></description>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/q&a_preview-0i0q1i9g5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Your questions answered from The Big Autumn Preview]]></title>
@@ -260,29 +281,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_smbalance-sep09-1-feature-uu8dukdnkb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon Winner Kentaro Ikeda Tries Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ouhhdsie/golden-demon-winner-kentaro-ikeda-tries-warhammer-tone-pro</link>
-            <guid>ouhhdsie</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The first Japanese Golden Demon winner, Kentaro Ikeda, shares his thoughts on Warhammer Tone Pro and how its formula lends itself to mixing and blending colours.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/kentaro_ikeda_interview-nwywgkmwvs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon winner Kentaro Ikeda on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/waxcyb2g/golden-demon-winner-kentaro-ikeda-on-warhammer-tone-pro</link>
-            <guid>waxcyb2g</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_kentaroikeda-oct01-1-feature-8zp4uakinz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
