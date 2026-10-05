@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 05 Oct 2026 13:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 19:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[‘Eavy Metal takes on red and orange Warhammer Tone Pro paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/no9xzqlv/eavy-metal-takes-on-red-and-orange-warhammer-tone-pro-paints</link>
+            <guid>no9xzqlv</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_red-oct05-1-feature-ma0dfrrm6z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Triple Slayer Sword Winner, Angelo Di Chello, Discusses Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/7rxqdjba/triple-slayer-sword-winner-angelo-di-chello-discusses-warhammer-tone-pro</link>
+            <guid>7rxqdjba</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Three-time winner of the Slayer Sword and self-proclaimed Warhammer fanatic, Angelo Di Chello, shares his thoughts on the new Warhammer Tone Pro paints.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/angelo-di-chello_thumbnail-rmjtoj9kvh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Multiple Slayer Sword winner Angelo Di Chello on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i8ghj7vl/multiple-slayer-sword-winner-angelo-di-chello-on-warhammer-tone-pro</link>
+            <guid>i8ghj7vl</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/paintinterview_angelodichello-oct05-1-feature-mrfrmudk0k.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Day miniature revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed</link>
@@ -79,12 +112,11 @@
             <enclosure url="https://assets.warhammer-community.com/wh40k_space_marine_animation_thumbnail_16x9-5fd0d11ovq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Only in Death: 40,000 Ways to Die – New Animation]]></title>
+            <title><![CDATA[Only in Death: 40,000 Ways to Die]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation</link>
             <guid>coumzkqv</guid>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Watch it now, for free]]></description>
-            <category domain="animations">Animations</category>
             <category domain="space-marines">Space Marines</category>
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
@@ -249,38 +281,6 @@
             <category domain="interviews">Interviews</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/content_creator_katarzyna-gorska_16x9-rq8pom7baa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon winner and Warhammer Open tutor Katarzyna Górska on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kmue40oe/golden-demon-winner-and-warhammer-open-tutor-katarzyna-gorska-on-warhammer-tone-pro</link>
-            <guid>kmue40oe</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_katarzynagorska-sep30-1-feature-0qnprzrvmu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Final cut animation lands on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/u5yemctb/final-cut-animation-lands-on-warhammer-tv</link>
-            <guid>u5yemctb</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, new episodes and your chance to win a HUGE bundle of JOYTOY goodies!]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whplus_sep30-1-feature-ljzlxol8t4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 – Balance Update: Emboldened Astartes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes</link>
-            <guid>rylbvfnv</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Heretics and Loyalists alike are receiving a suite of updates in time for the release of Codex: Space Marines.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_smbalance-sep09-1-feature-uu8dukdnkb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
