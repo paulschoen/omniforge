@@ -4,11 +4,69 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 06 Oct 2026 12:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 16:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Former Golden Demon Judge, Roman Lappat, Talks Warhammer Tone Pro | Warhammer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/xdwfz34e/former-golden-demon-judge-roman-lappat-talks-warhammer-tone-pro-warhammer</link>
+            <guid>xdwfz34e</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Open painting tutor, and former Golden Demon judge, Roman Lappat, shares his thoughts on the new Warhammer Tone Pro paints.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/roman-lappat_thumbnail-66tie2gske.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Open tutor and former Golden Demon judge Roman Lappat on Warhammer Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1ob64vlu/warhammer-open-tutor-and-former-golden-demon-judge-roman-lappat-on-warhammer-tone-pro</link>
+            <guid>1ob64vlu</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/paintinterview_romanlappat-oct06-1-feature-idhf3j3yd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Survivors: Official Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/1iant1bx/warhammer-survivors-official-trailer</link>
+            <guid>1iant1bx</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Warhammer Survivors, the new bullet heaven spectacular set in the grim dark worlds of Warhammer 40,000 and Warhammer Age of Sigmar, launches on 10 November 2026.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/warhammer_survivors_thumbnail-eh7fdharkx.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Try the new demo for Warhammer Survivors now!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now</link>
+            <guid>m5cfelii</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring bullet heaven to the worlds of Warhammer this November.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/whsurvivors-oct06-1-feature-l2xnb866pl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’Eavy Metal takes on yellow with Warhammer Tone Pro paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vywpyvwx/eavy-metal-takes-on-yellow-with-warhammer-tone-pro-paints</link>
+            <guid>vywpyvwx</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_yellow-oct06-1-feature-gpx99fbluc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Two more Final Cut animations on Warhammer TV this week]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/usyc2tsw/two-more-final-cut-animations-on-warhammer-tv-this-week</link>
@@ -221,62 +279,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/content-creator_josh-mallet_16x9-x0afjhx159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adeptus Custodes: Top Detachment Tips]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/4a8o9tzw/adeptus-custodes-top-detachment-tips</link>
-            <guid>4a8o9tzw</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Here are some collectively collated combos to get the most out of the Ten Thousand.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_custodescombos-oct01-1-feature-nzrlis7rkg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New From Black Library – Whisperblade]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/otmn81lv/new-from-black-library-whisperblade</link>
-            <guid>otmn81lv</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Head into Shyish on a vital quest in a new Warhammer Age of Sigmar novel.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bl_whisperblade-sep30-1-feature-0daeuor1gw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000 – Balance Update: Chaos, the Imperium and Xenos Fight Back]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vzqu6tzw/warhammer-40000-balance-update-chaos-the-imperium-and-xenos-fight-back</link>
-            <guid>vzqu6tzw</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn what yesterday’s big changes mean for the non-Space Marines factions.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_slatefollowup-sep01-1-feature-npjddjxihs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut descends onto Warhammer TV this month]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rrmmqkz7/release-date-revealed-for-the-next-animation-on-warhammer-tv</link>
-            <guid>rrmmqkz7</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Release date announced for new Kharadron Overlords series.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="animations">Animations</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/arkanaut-sep30-1-feature-kd1dojpd9k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dawn of War IV – Blood Ravens and Dark Angels team up in new trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer</link>
-            <guid>wfvliytx</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the new faction trailer now.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/dow_marinestrailer-sep30-1-feature-b840lh3r3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
