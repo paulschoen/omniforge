@@ -4,11 +4,44 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 06 Oct 2026 16:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 17:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Custodes units for Horus Heresy: Designers’ notes for the Assault on Kol]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/arqdk3n9/new-custodes-units-for-horus-heresy-designers-notes-for-the-assault-on-kol</link>
+            <guid>arqdk3n9</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about what’s in the new Journal Tactica direct from the Warhammer: The Horus Heresy team.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_signisjournal-oct07-1-feature-hvm58xlbvq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imperial Knights star in a new Black Library novel]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cz327wys/imperial-knights-star-in-a-new-black-library-novel</link>
+            <guid>cz327wys</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Winter Knight rides out into a dying world, plus new versions of fan-favourite books.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="imperial-knights">Imperial Knights</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/bl_reveals-oct07-1-feature-auajvbr5ve.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’Eavy Metal takes on green with Warhammer Tone Pro paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fjofuezy/eavy-metal-takes-on-green-with-warhammer-tone-pro-paints</link>
+            <guid>fjofuezy</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_green-oct07-1-feature-biklmdp1wc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Former Golden Demon Judge, Roman Lappat, Talks Warhammer Tone Pro | Warhammer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/xdwfz34e/former-golden-demon-judge-roman-lappat-talks-warhammer-tone-pro-warhammer</link>
@@ -45,7 +78,7 @@
             <enclosure url="https://assets.warhammer-community.com/warhammer_survivors_thumbnail-eh7fdharkx.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Try the new demo for Warhammer Survivors now!]]></title>
+            <title><![CDATA[Try the new demo for Warhammer Survivors now]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now</link>
             <guid>m5cfelii</guid>
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
@@ -244,41 +277,6 @@
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sm2_update-oct01-1-feature-2edoaccq4n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anniversary Update II – Trailer | Warhammer 40,000: Space Marine 2]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4cekxt1e/anniversary-update-ii-trailer-warhammer-40000-space-marine-2</link>
-            <guid>4cekxt1e</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/sm2_thumbnail-445xkkgmdw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Renowned miniatures and diorama painter Joshua ‘OmegonEdge’ Mallett on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/7gcl3u7q/renowned-miniatures-and-diorama-painter-joshua-omegonedge-mallett-on-warhammer-tone-pro</link>
-            <guid>7gcl3u7q</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_joshmallet-sep29-1-feature-8dgdfazya2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joshua ‘Omegonedge’ Mallett Tests Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/9wbdmbve/joshua-omegonedge-mallett-tests-warhammer-tone-pro</link>
-            <guid>9wbdmbve</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Joshua Mallett shares his miniature painting story with us and discusses his experiences with Warhammer Tone Pro – including being able to finally nail the colours of the Alpha Legion!]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/content-creator_josh-mallet_16x9-x0afjhx159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
