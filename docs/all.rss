@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 07 Oct 2026 17:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 17:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Using Slaanesh Daemons in the Age of Darkness: Designers’ notes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hfzw6zqv/using-slaanesh-daemons-in-the-age-of-darkness-designers-notes</link>
+            <guid>hfzw6zqv</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The team behind Warhammer: The Horus Heresy talk about the insidious new rules.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_slaaneshdaemons-oct08-1-feature-2xs9y7j5o1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’Eavy Metal takes on blue with Warhammer Tone Pro paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hf6rjhvn/eavy-metal-takes-on-blue-with-warhammer-tone-pro-paints</link>
+            <guid>hf6rjhvn</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_blue-oct08-1-feature-vbczyvogfd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Custodes units for Horus Heresy: Designers’ notes for the Assault on Kol]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/arqdk3n9/new-custodes-units-for-horus-heresy-designers-notes-for-the-assault-on-kol</link>
@@ -254,29 +276,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_julienk-oct02-1-feature-uxteje4wh2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Art of Warhammer – Terra and the Custodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pbev2srg/the-art-of-warhammer-terra-and-the-custodes</link>
-            <guid>pbev2srg</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Behold the golden heart of Humanity and the bodyguards of the Emperor.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="adeptus-custodes">Adeptus Custodes</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whart_custodes-oct02-1-feature-k98ra7cx7m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Marine 2 gets a massive anniversary update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update</link>
-            <guid>okd34wjw</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode.]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sm2_update-oct01-1-feature-2edoaccq4n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
