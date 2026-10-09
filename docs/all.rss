@@ -4,11 +4,53 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 Oct 2026 10:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 16:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Peaks and Deeps – Take a Tour of a Khazalite Hold]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold</link>
+            <guid>dceko7zl</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore the subterranean dwellings of Warhammer Age of Sigmar’s newest faction.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_khazlore-oct08-1-feature-3ro4ee28vd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liveries of the Legio Custodes during the Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy</link>
+            <guid>e5pkuure</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the lore behind the different colours of the Custodian Guard.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_custodesheraldry-oct09-1-feature-ogkrfjyggb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[’Eavy Metal takes on more colours with Warhammer Tone Pro paints]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f8dkob3x/eavy-metal-takes-on-more-colours-with-warhammer-tone-pro-paints</link>
+            <guid>f8dkob3x</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_others-oct09-1-feature-fprnvpy4xh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fyreslayers in Battletome: Khazalite Holds – What you need to know]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rv6irmgo/fyreslayers-in-battletome-khazalite-holds-what-you-need-to-know</link>
+            <guid>rv6irmgo</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s happening to Grimnir’s faithful berzerkers?]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_fyreslayers-oct09-1-feature-nuwi0o1qhu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000: Dawn of War IV – Space Marines Faction Trailer | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fzlqtkqk/warhammer-40000-dawn-of-war-iv-space-marines-faction-trailer-warhammer-40000</link>
@@ -234,50 +276,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <description><![CDATA[Adam and Eddie answer your questions from the Big Autumn Preview 2026!]]></description>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/q&a_preview-0i0q1i9g5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your questions answered from The Big Autumn Preview]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview</link>
-            <guid>ezaznq06</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[You asked about paint, Adeptus Custodes, Tomb Kings of Khemri, and more.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bigautumnq&a-oct02-1-feature-izowlo7dpw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only in Death: 40,000 Ways to Die]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/bu0lpzfj/only-in-death-40000-ways-to-die</link>
-            <guid>bu0lpzfj</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It might sound great to be a genetically enhanced superhuman killing machine, but the life of a Space Marine is far from sunshine and roses.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh40k_space_marine_animation_thumbnail_16x9-5fd0d11ovq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only in Death: 40,000 Ways to Die]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation</link>
-            <guid>coumzkqv</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch it now, for free]]></description>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/02-10_sm_anim_1-feature-7bxlmpe2ze.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julien Kirszenbaum Shares His Thoughts on Painting and Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/zzyik0fl/julien-kirszenbaum-shares-his-thoughts-on-painting-and-warhammer-tone-pro</link>
-            <guid>zzyik0fl</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Julien Kirszenbaum from French Wargame Studio tells us why he loves painting Warhammer, and what he thinks of the new Warhammer Tone Pro paints!]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/julien-kirszenbaum_interview-b0755ihjfz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
