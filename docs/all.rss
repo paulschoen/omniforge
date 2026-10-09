@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 08 Oct 2026 17:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 10:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Space Marines Faction Trailer | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fzlqtkqk/warhammer-40000-dawn-of-war-iv-space-marines-faction-trailer-warhammer-40000</link>
+            <guid>fzlqtkqk</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Space Marines are the Emperor's Angels of Death, genetically enhanced warriors forged through centuries of warfare.
+On Kronus, two legendary Chapters answer the call to war, united in purpose, yet divided in doctrine.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dowiv_smfaction_thumbnail_16x9-tbssu74p9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Using Slaanesh Daemons in the Age of Darkness: Designers’ notes]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/hfzw6zqv/using-slaanesh-daemons-in-the-age-of-darkness-designers-notes</link>
@@ -265,17 +278,6 @@
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/julien-kirszenbaum_interview-b0755ihjfz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julien Kirszenbaum on painting monsters and Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ar2fiibi/julien-kirszenbaum-on-painting-monsters-and-warhammer-tone-pro</link>
-            <guid>ar2fiibi</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_julienk-oct02-1-feature-uxteje4wh2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
