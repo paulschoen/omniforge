@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 09 Oct 2026 16:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 17:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Warhammer Tone Pro is here]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here</link>
+            <guid>m7o3abtx</guid>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy infinite painting possibilities with the new range of miniatures paints.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/preorders-oct10-1-feature-rhssqj745w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peaks and Deeps – Take a Tour of a Khazalite Hold]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold</link>
@@ -267,15 +278,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/preorders-oct03-1-feature-vywhetvepo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Big Autumn Q&A | Warhammer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hj6bnxft/the-big-autumn-qa-warhammer</link>
-            <guid>hj6bnxft</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Adam and Eddie answer your questions from the Big Autumn Preview 2026!]]></description>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/q&a_preview-0i0q1i9g5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
