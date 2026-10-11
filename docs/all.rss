@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 10 Oct 2026 17:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 19:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Open the Khazalite Holds]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k4cm0fox/sunday-preview-open-the-khazalite-holds</link>
+            <guid>k4cm0fox</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find out what’s coming up next week and get ready to settle some grudges.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/sundaypreview-oct11-1-feature-ikg9lm5aq8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Warhammer Tone Pro is here]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here</link>
@@ -264,20 +277,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sundaypreview-oct04-1-feature-qug5ol7iue.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Custodes battle across ten millennia]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rdvqjezx/saturday-pre-orders-custodes-battle-across-ten-millennia</link>
-            <guid>rdvqjezx</guid>
-            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New miniatures and rules for Warhammer 40,000 and Warhammer: The Horus Heresy.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/preorders-oct03-1-feature-vywhetvepo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
