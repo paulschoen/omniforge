@@ -4,11 +4,54 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 11 Oct 2026 19:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 19:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Khazalite Holds battle traits – Hand out some Grudges]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges</link>
+            <guid>sgbgmz25</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New army rules from the upcoming Warhammer Age of Sigmar battletome.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules-oct12-1-feature-uikzkyempi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Skeleton Horsemen thunder into the Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k2y7ynx8/new-skeleton-horsemen-thunder-into-the-old-world</link>
+            <guid>k2y7ynx8</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tomb Kings of Khemri reinforcements rise from the sands.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-lu24ke5wep.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Revealed: Ripper Bolgrot and Fungus take to the gridiron]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ptpqgwlf/revealed-ripper-bolgrot-and-fungus-take-to-the-gridiron</link>
+            <guid>ptpqgwlf</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Two classic Star Players updated in plastic? Praise Nuffle!]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-usqc63oqyn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rules update comes to Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nk1he02z/rules-update-comes-to-warhammer-the-horus-heresy</link>
+            <guid>nk1he02z</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vanguard units get a new lease on life, Armour Penetration ruling, and more.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/thh_faq-oct15-1-feature-ovlhj1hnd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Open the Khazalite Holds]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/k4cm0fox/sunday-preview-open-the-khazalite-holds</link>
@@ -231,52 +274,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_red-oct05-1-feature-ma0dfrrm6z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Triple Slayer Sword Winner, Angelo Di Chello, Discusses Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/7rxqdjba/triple-slayer-sword-winner-angelo-di-chello-discusses-warhammer-tone-pro</link>
-            <guid>7rxqdjba</guid>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Three-time winner of the Slayer Sword and self-proclaimed Warhammer fanatic, Angelo Di Chello, shares his thoughts on the new Warhammer Tone Pro paints.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/angelo-di-chello_thumbnail-rmjtoj9kvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Multiple Slayer Sword winner Angelo Di Chello on Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/i8ghj7vl/multiple-slayer-sword-winner-angelo-di-chello-on-warhammer-tone-pro</link>
-            <guid>i8ghj7vl</guid>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A top miniatures painter talks about the new paint range.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/paintinterview_angelodichello-oct05-1-feature-mrfrmudk0k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Day miniature revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed</link>
-            <guid>bimnji3r</guid>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fulfil your godsworn oath with a new Darkoath Warqueen.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="slaves-to-darkness">Slaves to Darkness</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/1-feature-fqr310gbj3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Warhammer Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro</link>
-            <guid>13drg5hr</guid>
-            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join the painting revolution with the outstanding new range – available to pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="painting">Painting</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sundaypreview-oct04-1-feature-qug5ol7iue.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
