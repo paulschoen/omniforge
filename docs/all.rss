@@ -4,11 +4,41 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 12 Oct 2026 19:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 17:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[More Khazalite Holds army rules revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/orcmlbnz/more-khazalite-holds-army-rules-revealed</link>
+            <guid>orcmlbnz</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how the duardin swear Ancestral Vows to receive divine power in their new battletome.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules2-oct13-1-feature-ixgyh0rmru.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On Warhammer TV This Week – Author Insights and Big Battles]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mqefkmkb/on-warhammer-tv-this-week-author-insights-and-big-battles</link>
+            <guid>mqefkmkb</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New episodes of Scribes and Scriveners and Battle Report are on the way.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/whplus-oct13-1-feature-6bgzsybkug.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 13th of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-13th-of-october</link>
+            <guid>tgjsyusj</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/rumourengine-oct13-1-feature-7qrx4giyto.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khazalite Holds battle traits – Hand out some Grudges]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges</link>
@@ -243,37 +273,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="staff-showcase">Staff Showcase</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_yellow-oct06-1-feature-gpx99fbluc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two more Final Cut animations on Warhammer TV this week]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/usyc2tsw/two-more-final-cut-animations-on-warhammer-tv-this-week</link>
-            <guid>usyc2tsw</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, new episodes of Loremasters, Tale of Four Gamers, and How We Roll.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/whplus-oct06-1-feature-w8jouok2hl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 6th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-6th-of-october</link>
-            <guid>ibkg5wrj</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/rumourengine-oct06-1-feature-huhqk7wjf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Eavy Metal takes on red and orange Warhammer Tone Pro paints]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/no9xzqlv/eavy-metal-takes-on-red-and-orange-warhammer-tone-pro-paints</link>
-            <guid>no9xzqlv</guid>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_red-oct05-1-feature-ma0dfrrm6z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
