@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 13 Oct 2026 17:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 14:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Mix your favourite duardin with Khazalite Holds Armies of Renown]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/djrn6cwq/mix-your-favourite-duardin-with-khazalite-holds-armies-of-renown</link>
+            <guid>djrn6cwq</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules from the upcoming Warhammer Age of Sigmar battletome.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazror-oct16-1-feature-kjmrozzzq9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Revealed – The new Flight of the Eisenstein cover for The Horus Heresy Saga]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/aplo2bxs/revealed-the-new-flight-of-the-eisenstein-cover-for-the-horus-heresy-saga</link>
+            <guid>aplo2bxs</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nathaniel Garro’s harrowing journey to Terra gets stunning new artwork.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-flfbcuiz2n.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More Khazalite Holds army rules revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/orcmlbnz/more-khazalite-holds-army-rules-revealed</link>
@@ -250,29 +270,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/warhammer_survivors_thumbnail-eh7fdharkx.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Try the new demo for Warhammer Survivors now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now</link>
-            <guid>m5cfelii</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bring bullet heaven to the worlds of Warhammer this November.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/whsurvivors-oct06-1-feature-l2xnb866pl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[’Eavy Metal takes on yellow with Warhammer Tone Pro paints]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vywpyvwx/eavy-metal-takes-on-yellow-with-warhammer-tone-pro-paints</link>
-            <guid>vywpyvwx</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_yellow-oct06-1-feature-gpx99fbluc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
