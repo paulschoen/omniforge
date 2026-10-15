@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 14 Oct 2026 14:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 14:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Khazalite Holds Clanshields Kit Focus]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p2zjmwkr/khazalite-holds-clanshields-kit-focus</link>
+            <guid>p2zjmwkr</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get a closer look at the new duardin miniatures for Warhammer Age of Sigmar.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_clanshieldskitfocus-oct15-1-feature-ok1s8d0oba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mix your favourite duardin with Khazalite Holds Armies of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/djrn6cwq/mix-your-favourite-duardin-with-khazalite-holds-armies-of-renown</link>
@@ -257,19 +268,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/paintinterview_romanlappat-oct06-1-feature-idhf3j3yd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Survivors: Official Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/1iant1bx/warhammer-survivors-official-trailer</link>
-            <guid>1iant1bx</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer Survivors, the new bullet heaven spectacular set in the grim dark worlds of Warhammer 40,000 and Warhammer Age of Sigmar, launches on 10 November 2026.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/warhammer_survivors_thumbnail-eh7fdharkx.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
