@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 16 Oct 2026 18:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 17:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Get your ready-painted terrain]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds</link>
+            <guid>lqckkpsq</guid>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what you can pre-order from today.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-1-feature-ght3teefuq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arkanaut Episode 1 Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fpdeevf0/arkanaut-episode-1-trailer-warhammer</link>
@@ -259,17 +272,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_slaaneshdaemons-oct08-1-feature-2xs9y7j5o1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[’Eavy Metal takes on blue with Warhammer Tone Pro paints]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hf6rjhvn/eavy-metal-takes-on-blue-with-warhammer-tone-pro-paints</link>
-            <guid>hf6rjhvn</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_blue-oct08-1-feature-vbczyvogfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
