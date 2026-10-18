@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 17 Oct 2026 17:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 17:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Tomb Kings rise again]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again</link>
+            <guid>q39hsvbj</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/sundaypreview-oct18-1-feature-bfiodphkc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Get your ready-painted terrain]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds</link>
@@ -261,17 +275,6 @@ On Kronus, two legendary Chapters answer the call to war, united in purpose, yet
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dowiv_smfaction_thumbnail_16x9-tbssu74p9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Using Slaanesh Daemons in the Age of Darkness: Designers’ notes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hfzw6zqv/using-slaanesh-daemons-in-the-age-of-darkness-designers-notes</link>
-            <guid>hfzw6zqv</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The team behind Warhammer: The Horus Heresy talk about the insidious new rules.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_slaaneshdaemons-oct08-1-feature-2xs9y7j5o1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
