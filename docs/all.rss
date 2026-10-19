@@ -4,11 +4,40 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 18 Oct 2026 17:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 16:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designers’ notes: The River of Bones lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore</link>
+            <guid>h4mpf23j</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer: The Old World team tells us about the background for the latest supplement.]]></description>
+            <category domain="interviews">Interviews</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_roblore-oct19-1-feature-ipa9c7yjlw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Battleforce boxes revealed for Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000</link>
+            <guid>17yaxs02</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Easily start a new army or grow an existing one.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category domain="chaos-knights">Chaos Knights</category>
+            <category domain="orks">Orks</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/40k_battleforces-oct19-1-feature-7torcn5gvn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Tomb Kings rise again]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again</link>
@@ -252,29 +281,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_others-oct09-1-feature-fprnvpy4xh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fyreslayers in Battletome: Khazalite Holds – What you need to know]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rv6irmgo/fyreslayers-in-battletome-khazalite-holds-what-you-need-to-know</link>
-            <guid>rv6irmgo</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What’s happening to Grimnir’s faithful berzerkers?]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_fyreslayers-oct09-1-feature-nuwi0o1qhu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Space Marines Faction Trailer | Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fzlqtkqk/warhammer-40000-dawn-of-war-iv-space-marines-faction-trailer-warhammer-40000</link>
-            <guid>fzlqtkqk</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Space Marines are the Emperor's Angels of Death, genetically enhanced warriors forged through centuries of warfare.
-On Kronus, two legendary Chapters answer the call to war, united in purpose, yet divided in doctrine.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dowiv_smfaction_thumbnail_16x9-tbssu74p9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
