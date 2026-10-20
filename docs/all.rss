@@ -4,11 +4,52 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 19 Oct 2026 16:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 18:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Tone Pro: The 1-5 system]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fhe1sis9/warhammer-tone-pro-the-1-5-system</link>
+            <guid>fhe1sis9</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Five tones, infinite possibilities – dive into the new paints.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures1-oct20-1-feature-yo9soazek9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 20th of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-20th-of-october</link>
+            <guid>tgjsyusj</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/rumourengine-oct20-1-feature-wwulth0d66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designers’ notes: creating the new Tomb Kings of Khemri miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jaled9ld/designers-notes-creating-the-new-tomb-kings-of-khemri-miniatures</link>
+            <guid>jaled9ld</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer: The Old World team tells us about making the new models.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkdesign-oct20-1-feature-cwq04hhadp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On Warhammer TV this week – Devastation and drybrushing]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing</link>
+            <guid>thujy0zv</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy lore, painting challenges, and episode two of Arkanaut.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-1-feature-1mlb4mdjdk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designers’ notes: The River of Bones lore]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore</link>
@@ -238,49 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/sundaypreview-oct11-1-feature-ikg9lm5aq8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Warhammer Tone Pro is here]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m7o3abtx/saturday-pre-orders-warhammer-tone-pro-is-here</link>
-            <guid>m7o3abtx</guid>
-            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy infinite painting possibilities with the new range of miniatures paints.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/preorders-oct10-1-feature-rhssqj745w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peaks and Deeps – Take a Tour of a Khazalite Hold]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold</link>
-            <guid>dceko7zl</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Explore the subterranean dwellings of Warhammer Age of Sigmar’s newest faction.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_khazlore-oct08-1-feature-3ro4ee28vd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liveries of the Legio Custodes during the Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy</link>
-            <guid>e5pkuure</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the lore behind the different colours of the Custodian Guard.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_custodesheraldry-oct09-1-feature-ogkrfjyggb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[’Eavy Metal takes on more colours with Warhammer Tone Pro paints]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f8dkob3x/eavy-metal-takes-on-more-colours-with-warhammer-tone-pro-paints</link>
-            <guid>f8dkob3x</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See more miniatures painted with the new paint range and learn their recipes.]]></description>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_others-oct09-1-feature-fprnvpy4xh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
