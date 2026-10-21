@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 20 Oct 2026 18:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 16:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed</link>
+            <guid>0ruvpa79</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the factions, missions, maps, and more for the video game.]]></description>
+            <category domain="video-games">Video Games</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Tone Pro: The 1-5 system]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/fhe1sis9/warhammer-tone-pro-the-1-5-system</link>
@@ -266,19 +278,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/thh_faq-oct15-1-feature-ovlhj1hnd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Open the Khazalite Holds]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/k4cm0fox/sunday-preview-open-the-khazalite-holds</link>
-            <guid>k4cm0fox</guid>
-            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find out what’s coming up next week and get ready to settle some grudges.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/sundaypreview-oct11-1-feature-ikg9lm5aq8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
