@@ -4,11 +4,30 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 21 Oct 2026 16:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 19:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The next Scouring book revealed: Wrath of Terra]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra</link>
+            <guid>n1s11hao</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The epic series continues as the fighting heads to Mars.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-wficais8gl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Tone Pro: One paint, many techniques]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques</link>
+            <guid>pnew5hva</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how flexible the new range of paints can be.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures2-oct21-1-feature-fgnl7mks7m.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed</link>
@@ -256,28 +275,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-lu24ke5wep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed: Ripper Bolgrot and Fungus take to the gridiron]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ptpqgwlf/revealed-ripper-bolgrot-and-fungus-take-to-the-gridiron</link>
-            <guid>ptpqgwlf</guid>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Two classic Star Players updated in plastic? Praise Nuffle!]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-usqc63oqyn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rules update comes to Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nk1he02z/rules-update-comes-to-warhammer-the-horus-heresy</link>
-            <guid>nk1he02z</guid>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Vanguard units get a new lease on life, Armour Penetration ruling, and more.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/thh_faq-oct15-1-feature-ovlhj1hnd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
