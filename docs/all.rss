@@ -4,11 +4,42 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 Oct 2026 11:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 16:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Tzeentch Daemons return via Made to Order]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order</link>
+            <guid>tzzxr1jc</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic miniatures are coming back – just as planned.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tzemto-oct22-1-feature-n9wlxreitv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Tone Pro: Superb coverage and vibrant colours]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours</link>
+            <guid>focygbei</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how even yellow and white are a breeze with the new paints.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-1-feature-apxpxheiil.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paint Warhammer App – Your new painting companion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2kvipmuo/paint-warhammer-app-your-new-painting-companion</link>
+            <guid>2kvipmuo</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer Colour App has changed – discover the new features.]]></description>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/paintapp-oct21-1-feature-ozmpgrkg2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The next Scouring book revealed: Wrath of Terra]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra</link>
@@ -51,6 +82,7 @@
 
 Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
             <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dawn_of_war_thumbnail-sm6t19lqig.jpg" length="0" type="image/jpg"/>
@@ -253,36 +285,6 @@ Not subscribed? Join the ultimate official Warhammer membership and get 12 month
             <category domain="black-library">Black Library</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-flfbcuiz2n.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Khazalite Holds army rules revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/orcmlbnz/more-khazalite-holds-army-rules-revealed</link>
-            <guid>orcmlbnz</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how the duardin swear Ancestral Vows to receive divine power in their new battletome.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules2-oct13-1-feature-ixgyh0rmru.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On Warhammer TV This Week – Author Insights and Big Battles]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mqefkmkb/on-warhammer-tv-this-week-author-insights-and-big-battles</link>
-            <guid>mqefkmkb</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New episodes of Scribes and Scriveners and Battle Report are on the way.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/whplus-oct13-1-feature-6bgzsybkug.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 13th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-13th-of-october</link>
-            <guid>tgjsyusj</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/rumourengine-oct13-1-feature-7qrx4giyto.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
