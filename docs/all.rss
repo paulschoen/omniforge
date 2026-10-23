@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Oct 2026 16:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 18:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Arkanaut Episode 2 Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/u1ov6hy3/arkanaut-episode-2-trailer-warhammer</link>
+            <guid>u1ov6hy3</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Episode 2 of Arkanaut is live on Warhammer TV now, and sees the crew of the Therodoson defend their prize against Death itself.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-2-trailer-thumbnail-pojnehweoh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arkanaut Episode 2 – Join the crew]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/l9ctt2nw/arkanaut-episode-2-join-the-crew</link>
+            <guid>l9ctt2nw</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch the second episode of the Warhammer TV animation now.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/arkanaut_ep2-oct23-1-feature-fgvrdzxd4u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designers’ notes: The River of Bones rules]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xuhk2izd/designers-notes-the-river-of-bones-rules</link>
@@ -259,30 +280,6 @@ Not subscribed? Join the ultimate official Warhammer membership and get 12 month
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/arkanaut_ep1-oct16-1-feature-eqciewbo8j.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chronicles of Ruin – The Weight of Remembrance]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oqxhoin0/chronicles-of-ruin-the-weight-of-remembrance</link>
-            <guid>oqxhoin0</guid>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy free fiction for the Khazalite Holds.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="fiction">Fiction</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazfiction-oct16-1-feature-gby3koswgd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Da Red Gobbo returns with a new festive miniature]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/8prrlmvd/da-red-gobbo-returns-with-a-new-festive-miniature</link>
-            <guid>8prrlmvd</guid>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, there’s a new novel starring the galaxy’s greatest revolutionary gretchin.]]></description>
-            <category domain="model-reveal">Model Reveal</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="orks">Orks</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/redgobbo-oct16-1-feature-lixxkhsg3s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
