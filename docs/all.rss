@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Oct 2026 11:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 14:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New for Necromunda in 2027]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ntkfvqdt/new-for-necromunda-in-2027</link>
+            <guid>ntkfvqdt</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[News on the Necromunda RPG and the year ahead]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/1-feature-y7wipl7bz9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Claim your commemorative Space Marine 2 desk mat from your local Warhammer Store]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/nxnxzvv4/claim-your-commemorative-space-marine-2-desk-mat-from-your-local-warhammer-store</link>
@@ -275,16 +285,6 @@ Not subscribed? Join the ultimate official Warhammer membership and get 12 month
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_clanshieldskitfocus-oct15-1-feature-ok1s8d0oba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mix your favourite duardin with Khazalite Holds Armies of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/djrn6cwq/mix-your-favourite-duardin-with-khazalite-holds-armies-of-renown</link>
-            <guid>djrn6cwq</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules from the upcoming Warhammer Age of Sigmar battletome.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazror-oct16-1-feature-kjmrozzzq9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
