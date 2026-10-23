@@ -4,11 +4,32 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 23 Oct 2026 14:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 16:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designers’ notes: The River of Bones rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xuhk2izd/designers-notes-the-river-of-bones-rules</link>
+            <guid>xuhk2izd</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Warhammer: The Old World team tells us about the rules from the latest supplement.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-1-feature-bximpvveez.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer art through the years: Tomb Kings of Khemri]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/vlfpgjed/warhammer-art-through-the-years-tomb-kings-of-khemri</link>
+            <guid>vlfpgjed</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’ve scoured the sands for classic Warhammer: The Old World artwork.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkart-oct23-1-feature-j15vpvomtt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New for Necromunda in 2027]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ntkfvqdt/new-for-necromunda-in-2027</link>
@@ -262,29 +283,6 @@ Not subscribed? Join the ultimate official Warhammer membership and get 12 month
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/redgobbo-oct16-1-feature-lixxkhsg3s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grand Narrative 2026: Introducing the Lords of War]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0jjz7tqg/grand-narrative-2026-introducing-the-lords-of-war</link>
-            <guid>0jjz7tqg</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who will you fight for at the Grand Narrative?]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="events">Events</category>
-            <category domain="grand-narrative">Grand Narrative</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/grandnarrative2026_low-oct15-1-feature-hnaeythlsr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khazalite Holds Clanshields Kit Focus]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p2zjmwkr/khazalite-holds-clanshields-kit-focus</link>
-            <guid>p2zjmwkr</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get a closer look at the new duardin miniatures for Warhammer Age of Sigmar.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_clanshieldskitfocus-oct15-1-feature-ok1s8d0oba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
