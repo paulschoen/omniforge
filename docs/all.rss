@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 22 Oct 2026 16:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 11:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Claim your commemorative Space Marine 2 desk mat from your local Warhammer Store]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nxnxzvv4/claim-your-commemorative-space-marine-2-desk-mat-from-your-local-warhammer-store</link>
+            <guid>nxnxzvv4</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gaming mat with any purchase in your local Warhammer store over £95 on Warhammer Day weekend]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-uikvikxuvt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tzeentch Daemons return via Made to Order]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order</link>
@@ -275,16 +285,6 @@ Not subscribed? Join the ultimate official Warhammer membership and get 12 month
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazror-oct16-1-feature-kjmrozzzq9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Revealed – The new Flight of the Eisenstein cover for The Horus Heresy Saga]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/aplo2bxs/revealed-the-new-flight-of-the-eisenstein-cover-for-the-horus-heresy-saga</link>
-            <guid>aplo2bxs</guid>
-            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nathaniel Garro’s harrowing journey to Terra gets stunning new artwork.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/1-feature-flfbcuiz2n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
