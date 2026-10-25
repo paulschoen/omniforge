@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 25 Oct 2026 18:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon Roundup - Spiel 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/qcusu1tv/golden-demon-roundup-spiel-2026</link>
+            <guid>qcusu1tv</guid>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Join Adam, Aidan and Ed for a full review of the category winners at Golden Demon, Spiel 2026.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/winners-revealed-16x9-v2-liceduudqi.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Orlocks rule the roads of Necromunda]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda</link>
@@ -272,19 +282,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/sundaypreview-oct18-1-feature-bfiodphkc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Get your ready-painted terrain]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds</link>
-            <guid>lqckkpsq</guid>
-            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what you can pre-order from today.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="pre-orders">Pre-orders</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-1-feature-ght3teefuq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
