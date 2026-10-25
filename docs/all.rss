@@ -4,11 +4,38 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 24 Oct 2026 17:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 18:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Orlocks rule the roads of Necromunda]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda</link>
+            <guid>1bpkd6my</guid>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what’s coming up next week for Necromunda, Warhammer 40,000, and more.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-1-feature-iefpdqzsjl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Demon 2026 winners revealed at SPIEL Essen]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen</link>
+            <guid>jqmnddcy</guid>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All of the miniatures that took home a trophy at Warhammer’s ultimate painting competition.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Tomb Kings rise, Da Red Gobbo rides]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides</link>
@@ -258,31 +285,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="pre-orders">Pre-orders</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-1-feature-ght3teefuq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXTRACT: Arkanaut – Episode 1, Cursed Skies | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/at4njllc/extract-arkanaut-episode-1-cursed-skies-warhammer</link>
-            <guid>at4njllc</guid>
-            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get these vermin off my ship!
-
-Watch Arkanaut episode 1 in full with Warhammer+ right now: https://warhammertv.com/
-
-Not subscribed? Join the ultimate official Warhammer membership and get 12 months for the price of 9 with an annual subscription: https://ow.ly/WwMb50ZYtTr]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/thumbnail_arkanaut_extract-yen9xwxysg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut Episode 1 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fpdeevf0/arkanaut-episode-1-trailer-warhammer</link>
-            <guid>fpdeevf0</guid>
-            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Episode 1 of all-new animation Arkanaut is live on Warhammer TV right now]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-1-trailer-etegjhfgl8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
