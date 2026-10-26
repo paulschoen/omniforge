@@ -4,11 +4,48 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 25 Oct 2026 20:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 16:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New battleforce boxes revealed for Warhammer Age of Sigmar]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jrdutvgn/new-battleforce-boxes-revealed-for-warhammer-age-of-sigmar</link>
+            <guid>jrdutvgn</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Start a new collection or expand your existing army.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="stormcast-eternals">Stormcast Eternals</category>
+            <category domain="cities-of-sigmar">Cities of Sigmar</category>
+            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
+            <category domain="orruk-warclans">Orruk Warclans</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="slaves-to-darkness">Slaves to Darkness</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_battleforces-oct26-1-feature-o3erirvf2y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New rules for House Orlock gangs]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/di0mzbww/new-rules-for-house-orlock-gangs</link>
+            <guid>di0mzbww</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rule the roads of Necromunda with the House of Iron.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlockrules-oct26-1-feature-47pcyol0ot.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Day is Coming!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming</link>
+            <guid>lhfdf28v</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for the annual celebration of all things Warhammer.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-1-feature-otbroekl7w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon Roundup - Spiel 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/qcusu1tv/golden-demon-roundup-spiel-2026</link>
@@ -239,49 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-1-feature-1mlb4mdjdk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: The River of Bones lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore</link>
-            <guid>h4mpf23j</guid>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer: The Old World team tells us about the background for the latest supplement.]]></description>
-            <category domain="interviews">Interviews</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_roblore-oct19-1-feature-ipa9c7yjlw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Battleforce boxes revealed for Warhammer 40,000]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000</link>
-            <guid>17yaxs02</guid>
-            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Easily start a new army or grow an existing one.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="chaos-space-marines">Chaos Space Marines</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category domain="chaos-knights">Chaos Knights</category>
-            <category domain="orks">Orks</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/40k_battleforces-oct19-1-feature-7torcn5gvn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Tomb Kings rise again]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again</link>
-            <guid>q39hsvbj</guid>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up for pre-order next week.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/sundaypreview-oct18-1-feature-bfiodphkc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
