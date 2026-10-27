@@ -4,11 +4,45 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Oct 2026 15:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 20:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Maxime Penaud talks about winning the Slayer Sword]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword</link>
+            <guid>i0wowquj</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A closer look at the stunning miniature and a chat with the winning painter.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category domain="events">Events</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/slayerswordwinner-oct27-1-feature-ihdij60kac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slayer Sword Winner Interview – SPIEL Essen 2026 | Golden Demon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ulr7fahz/slayer-sword-winner-interview-spiel-essen-2026-golden-demon</link>
+            <guid>ulr7fahz</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[On Sunday, Maxime Penaud lifted his third Golden Demon Slayer Sword at SPIEL Essen 2026. We spoke to him after his momentous achievement.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/golden-demon-thumbnail-swi7rlymwl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Day – Chaos Champions through the ages]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages</link>
+            <guid>rfpmoxiw</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look back at the heroes of the Dark Gods over the years.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aos_chaoschampsretro-oct27-1-feature-a0rkl1ukq9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New for October: Adeptus Custodes and Salamanders | Warhammer Academy]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/rm4vchk6/new-for-october-adeptus-custodes-and-salamanders-warhammer-academy</link>
@@ -240,42 +274,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-wficais8gl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Tone Pro: One paint, many techniques]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques</link>
-            <guid>pnew5hva</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how flexible the new range of paints can be.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures2-oct21-1-feature-fgnl7mks7m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed</link>
-            <guid>0ruvpa79</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the factions, missions, maps, and more for the video game.]]></description>
-            <category domain="video-games">Video Games</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Dawn of War IV – Official Game Overview Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/abgo35qs/warhammer-40000-dawn-of-war-iv-official-game-overview-trailer</link>
-            <guid>abgo35qs</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Warhammer 40,000: Dawn of War IV is set to release on 3 December 2026, but if you can’t wait until then, the Commander Edition gives players early access three days ahead of the main release. Pre-order either edition now to get a 10% discount, and prepare to begin the fight for Kronus anew.
-
-Like, share, and subscribe to see all the latest videos, news, and reveals from the 41st Millennium.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/dawn_of_war_thumbnail-sm6t19lqig.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
