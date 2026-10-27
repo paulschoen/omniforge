@@ -4,11 +4,52 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 26 Oct 2026 16:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 15:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New for October: Adeptus Custodes and Salamanders | Warhammer Academy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/rm4vchk6/new-for-october-adeptus-custodes-and-salamanders-warhammer-academy</link>
+            <guid>rm4vchk6</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check out lore and painting tutorials for the Emperor's golden bodyguards, as well as advice on theming your army around Salamanders Space Marines – new on Warhammer Academy this month.]]></description>
+            <category domain="videos">Videos</category>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/oct-academy_thumbnail-ouxq5ldagu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orlock Tactica – Advice from the Studio]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/fbs7cxxp/orlock-tactica-advice-from-the-studio</link>
+            <guid>fbs7cxxp</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to get the most out of the House of Iron.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocktac-oct27-1-feature-ntl3jhn7hx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 27th of October]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-27th-of-october</link>
+            <guid>twdkmrex</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct27-1-feature-0gtasmmjkn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Academy October content drop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hkpuhvh0/warhammer-academy-october-content-drop</link>
+            <guid>hkpuhvh0</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whacademyupdate-oct27-1-feature-dwwpqfxhn8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New battleforce boxes revealed for Warhammer Age of Sigmar]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jrdutvgn/new-battleforce-boxes-revealed-for-warhammer-age-of-sigmar</link>
@@ -235,47 +276,6 @@ Like, share, and subscribe to see all the latest videos, news, and reveals from 
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/dawn_of_war_thumbnail-sm6t19lqig.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Tone Pro: The 1-5 system]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fhe1sis9/warhammer-tone-pro-the-1-5-system</link>
-            <guid>fhe1sis9</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Five tones, infinite possibilities – dive into the new paints.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures1-oct20-1-feature-yo9soazek9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 20th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-20th-of-october</link>
-            <guid>tgjsyusj</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/rumourengine-oct20-1-feature-wwulth0d66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: creating the new Tomb Kings of Khemri miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jaled9ld/designers-notes-creating-the-new-tomb-kings-of-khemri-miniatures</link>
-            <guid>jaled9ld</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer: The Old World team tells us about making the new models.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkdesign-oct20-1-feature-cwq04hhadp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On Warhammer TV this week – Devastation and drybrushing]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing</link>
-            <guid>thujy0zv</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy lore, painting challenges, and episode two of Arkanaut.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-1-feature-1mlb4mdjdk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
