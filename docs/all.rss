@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 27 Oct 2026 20:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 12:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar: October Update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update</link>
+            <guid>iix3g22a</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules changes for Khazalite Holds, Sons of Behemat, and more.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-1-feature-grozc73ebj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill Team: October Update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update</link>
+            <guid>k04goqrk</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rules updates for Tomb World cover, Exodite Dragon Masters, and more.]]></description>
+            <category domain="kill-team">Kill Team</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/kt_update-oct28-1-feature-w4wt5jxopr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maxime Penaud talks about winning the Slayer Sword]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword</link>
@@ -253,27 +275,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-1-feature-apxpxheiil.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paint Warhammer App – Your new painting companion]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2kvipmuo/paint-warhammer-app-your-new-painting-companion</link>
-            <guid>2kvipmuo</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer Colour App has changed – discover the new features.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/paintapp-oct21-1-feature-ozmpgrkg2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The next Scouring book revealed: Wrath of Terra]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra</link>
-            <guid>n1s11hao</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The epic series continues as the fighting heads to Mars.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-wficais8gl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
