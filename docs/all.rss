@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 Oct 2026 12:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 16:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sequel to The Lords of Silence revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed</link>
+            <guid>xqwipozh</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new Warhammer 40,000 Death Guard novel is on the way from Black Library.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/1-feature-9crthqa3oc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[On Warhammer+ this week – Storm Dragons and Slayer Swords]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords</link>
+            <guid>jbyusudi</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look at the upcoming action this week on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whplus-oct28-1-feature-h6rvrmfyff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar: October Update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update</link>
@@ -254,27 +274,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/1-feature-uikvikxuvt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tzeentch Daemons return via Made to Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order</link>
-            <guid>tzzxr1jc</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic miniatures are coming back – just as planned.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tzemto-oct22-1-feature-n9wlxreitv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Tone Pro: Superb coverage and vibrant colours]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours</link>
-            <guid>focygbei</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how even yellow and white are a breeze with the new paints.]]></description>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-1-feature-apxpxheiil.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
