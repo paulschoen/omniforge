@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Oct 2026 16:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 18:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Warhammer 40,000 Updates Update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update</link>
+            <guid>cumo9vbg</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A Warhammer 40,000 rules log is incoming.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/40k_update-oct29-1-feature-t0vxku6cmd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar: Deathmaster – Story Trailer]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/fu2men6m/warhammer-age-of-sigmar-deathmaster-story-trailer</link>
@@ -269,17 +279,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/arkanaut_ep2-oct23-1-feature-fgvrdzxd4u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: The River of Bones rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xuhk2izd/designers-notes-the-river-of-bones-rules</link>
-            <guid>xuhk2izd</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Warhammer: The Old World team tells us about the rules from the latest supplement.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-1-feature-bximpvveez.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
