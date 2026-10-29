@@ -4,11 +4,47 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 28 Oct 2026 16:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 16:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster – Story Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fu2men6m/warhammer-age-of-sigmar-deathmaster-story-trailer</link>
+            <guid>fu2men6m</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The delightfully devious stealth platformer Warhammer Age of Sigmar: Deathmaster launches soon on Steam, XBOX Series S|X, PlayStation 5, and Nintendo Switch 2. Get a glimpse of main character Vihneek’s brutal path in this new story trailer!
+
+Escape. Kill. Ascend. Become a Deathmaster.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/deathmaster_story_trailer_thumbnail-bvzrepancs.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Warhammer Day news for Officially Licensed video games and merch]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch</link>
+            <guid>nla2w7td</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reveals, special offers, and more.]]></description>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-1-feature-8mnn4nl7ue.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designers’ notes: Crafting the new House Orlock miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/59guawoo/designers-notes-crafting-the-new-house-orlock-miniatures</link>
+            <guid>59guawoo</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Necromunda team talks about creating the new models.]]></description>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocknotes-oct29-1-feature-bdkikcdxil.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sequel to The Lords of Silence revealed]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed</link>
@@ -244,36 +280,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-1-feature-bximpvveez.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer art through the years: Tomb Kings of Khemri]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/vlfpgjed/warhammer-art-through-the-years-tomb-kings-of-khemri</link>
-            <guid>vlfpgjed</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’ve scoured the sands for classic Warhammer: The Old World artwork.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkart-oct23-1-feature-j15vpvomtt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New for Necromunda in 2027]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ntkfvqdt/new-for-necromunda-in-2027</link>
-            <guid>ntkfvqdt</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[News on the Necromunda RPG and the year ahead]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/1-feature-y7wipl7bz9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Claim your commemorative Space Marine 2 desk mat from your local Warhammer Store]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nxnxzvv4/claim-your-commemorative-space-marine-2-desk-mat-from-your-local-warhammer-store</link>
-            <guid>nxnxzvv4</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Gaming mat with any purchase in your local Warhammer store over £95 on Warhammer Day weekend]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-uikvikxuvt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
