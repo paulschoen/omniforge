@@ -4,11 +4,48 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 29 Oct 2026 18:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 16:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Academy Presents: Warhammer Day Model Painted With Tone Pro]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hu9lyt1t/warhammer-academy-presents-warhammer-day-model-painted-with-tone-pro</link>
+            <guid>hu9lyt1t</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to paint the 2026 Warhammer Day Commemorative miniature Oath Fulfilled, using Warhammer Tone Pro paints.]]></description>
+            <category domain="painting">Painting</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/wh_day_mini_thumbnail-dpxgi4dser.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to paint the Warhammer Day miniature]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/box0xn16/how-to-paint-the-warhammer-day-miniature</link>
+            <guid>box0xn16</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get some top tips on getting Oath Fulfilled ready for battle.]]></description>
+            <category domain="painting">Painting</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/tonepro_oathfulfilled-oct30-1-feature-9mmisz6qkz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrate Warhammer Day with some suitably scary miniatures]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures</link>
+            <guid>zbi88sln</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.]]></description>
+            <category domain="store-news">Store News</category>
+            <category domain="thousand-sons">Thousand Sons</category>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="nighthaunt">Nighthaunt</category>
+            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
+            <category domain="space-wolves">Space Wolves</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday-halloween-oct28-1-feature-vpb3kqioaj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Warhammer 40,000 Updates Update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update</link>
@@ -245,40 +282,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Tomb Kings rise, Da Red Gobbo rides]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides</link>
-            <guid>2awa094v</guid>
-            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out today’s pre-orders for Warhammer: The Old World, Warhammer 40,000, and more.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/preorders-oct24-1-feature-febi2ltcen.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut Episode 2 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/u1ov6hy3/arkanaut-episode-2-trailer-warhammer</link>
-            <guid>u1ov6hy3</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Episode 2 of Arkanaut is live on Warhammer TV now, and sees the crew of the Therodoson defend their prize against Death itself.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-2-trailer-thumbnail-pojnehweoh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut Episode 2 – Join the crew]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/l9ctt2nw/arkanaut-episode-2-join-the-crew</link>
-            <guid>l9ctt2nw</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch the second episode of the Warhammer TV animation now.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/arkanaut_ep2-oct23-1-feature-fgvrdzxd4u.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
