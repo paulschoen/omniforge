@@ -4,11 +4,34 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 Oct 2026 16:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 21:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Arkanaut Episode 3, Dark Kindred – Official Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/37y77po7/arkanaut-episode-3-dark-kindred-official-trailer-warhammer</link>
+            <guid>37y77po7</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Watch all three episodes of Arkanaut now on Warhammer TV, and get a peek at the finale on Warhammer Community.
+
+Plus, get 12 months for the price of nine when you take out an annual Warhammer+ subscription at WarhammerPlus.com.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-3-trailer-thumbnail-mc3covhunc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch the full series of Arkanaut on Warhammer TV now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now</link>
+            <guid>makgoojc</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[All three episodes of the Warhammer Age of Sigmar animation are available to stream.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/arkanaut_ep3-oct30-1-feature-f5ph1fge5u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Academy Presents: Warhammer Day Model Painted With Tone Pro]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/hu9lyt1t/warhammer-academy-presents-warhammer-day-model-painted-with-tone-pro</link>
@@ -255,33 +278,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="golden-demon">Golden Demon</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/winners-revealed-16x9-v2-liceduudqi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Orlocks rule the roads of Necromunda]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda</link>
-            <guid>1bpkd6my</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s coming up next week for Necromunda, Warhammer 40,000, and more.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-1-feature-iefpdqzsjl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 winners revealed at SPIEL Essen]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen</link>
-            <guid>jqmnddcy</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All of the miniatures that took home a trophy at Warhammer’s ultimate painting competition.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
