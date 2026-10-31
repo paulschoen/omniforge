@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 31 Oct 2026 15:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 19:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday pre-orders – Join the House of Iron]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tbfqksyc/saturday-pre-orders-join-the-house-of-iron</link>
+            <guid>tbfqksyc</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rule the underhive with new rules and miniatures, and grab some classic Tzeentch miniatures.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="necromunda">Necromunda</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/preorders-oct31-1-feature-drtlwet9r5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[It’s Warhammer Day! Join in the celebrations]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations</link>
@@ -268,16 +282,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="necromunda">Necromunda</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlockrules-oct26-1-feature-47pcyol0ot.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Day is Coming!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming</link>
-            <guid>lhfdf28v</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready for the annual celebration of all things Warhammer.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-1-feature-otbroekl7w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
