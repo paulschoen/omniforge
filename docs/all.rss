@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 30 Oct 2026 21:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 15:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[It’s Warhammer Day! Join in the celebrations]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations</link>
+            <guid>bjziyrsi</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Celebrate another year of Warhammer with some awesome activities.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-1-feature-m1v8kknixn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arkanaut Episode 3, Dark Kindred – Official Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/37y77po7/arkanaut-episode-3-dark-kindred-official-trailer-warhammer</link>
@@ -268,16 +278,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-1-feature-otbroekl7w.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon Roundup - Spiel 2026]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/qcusu1tv/golden-demon-roundup-spiel-2026</link>
-            <guid>qcusu1tv</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Join Adam, Aidan and Ed for a full review of the category winners at Golden Demon, Spiel 2026.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/winners-revealed-16x9-v2-liceduudqi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
