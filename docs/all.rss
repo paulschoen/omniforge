@@ -4,11 +4,42 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 01 Nov 2026 19:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 19:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Festive coins and patches in-store this month]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qnmxrd7r/festive-coins-and-patches-in-store-this-month</link>
+            <guid>qnmxrd7r</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Earn special Warhammer patches by completing activities this holiday season.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/retail_nov02-1-feature-ymq1ds2ivn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside White Dwarf 530 – The forces of the Ten Thousand unleashed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kkloakhu/inside-white-dwarf-530-the-forces-of-the-ten-thousand-unleashed</link>
+            <guid>kkloakhu</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your first look inside November’s issue of the official Warhammer magazine.]]></description>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/wd530-nov02-1-feature-1fbysge36o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Horus Heresy Battle Group boxes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nuc8rzsm/new-horus-heresy-battle-group-boxes</link>
+            <guid>nuc8rzsm</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Forge your Legiones Astartes army with boxed sets for Warhammer: The Horus Heresy.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/thh_bgsets-nov02-1-feature-jwkavm1dcx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The Khazalite Holds prepare to march out]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out</link>
@@ -249,42 +280,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocktac-oct27-1-feature-ntl3jhn7hx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 27th of October]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-27th-of-october</link>
-            <guid>twdkmrex</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/rumourengine-oct27-1-feature-0gtasmmjkn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Academy October content drop]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/hkpuhvh0/warhammer-academy-october-content-drop</link>
-            <guid>hkpuhvh0</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whacademyupdate-oct27-1-feature-dwwpqfxhn8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New battleforce boxes revealed for Warhammer Age of Sigmar]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jrdutvgn/new-battleforce-boxes-revealed-for-warhammer-age-of-sigmar</link>
-            <guid>jrdutvgn</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Start a new collection or expand your existing army.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="stormcast-eternals">Stormcast Eternals</category>
-            <category domain="cities-of-sigmar">Cities of Sigmar</category>
-            <category domain="maggotkin-of-nurgle">Maggotkin of Nurgle</category>
-            <category domain="orruk-warclans">Orruk Warclans</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="slaves-to-darkness">Slaves to Darkness</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_battleforces-oct26-1-feature-o3erirvf2y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
