@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 02 Nov 2026 19:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 13:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Rumour Engine – 3rd of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november</link>
+            <guid>twdkmrex</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-1-feature-hyyqgu7ucs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Festive coins and patches in-store this month]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qnmxrd7r/festive-coins-and-patches-in-store-this-month</link>
@@ -269,17 +279,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="painting">Painting</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/oct-academy_thumbnail-ouxq5ldagu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orlock Tactica – Advice from the Studio]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/fbs7cxxp/orlock-tactica-advice-from-the-studio</link>
-            <guid>fbs7cxxp</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how to get the most out of the House of Iron.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocktac-oct27-1-feature-ntl3jhn7hx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
