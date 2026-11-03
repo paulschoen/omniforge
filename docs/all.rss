@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Nov 2026 13:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 17:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part One]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one</link>
+            <guid>2cgtngr4</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See loads of awesome miniatures that earned Finalist pins.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="events">Events</category>
+            <category domain="painting">Painting</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-1-feature-prun7qgx5x.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rumour Engine – 3rd of November]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november</link>
@@ -268,17 +280,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aos_chaoschampsretro-oct27-1-feature-a0rkl1ukq9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New for October: Adeptus Custodes and Salamanders | Warhammer Academy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/rm4vchk6/new-for-october-adeptus-custodes-and-salamanders-warhammer-academy</link>
-            <guid>rm4vchk6</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Check out lore and painting tutorials for the Emperor's golden bodyguards, as well as advice on theming your army around Salamanders Space Marines – new on Warhammer Academy this month.]]></description>
-            <category domain="videos">Videos</category>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/oct-academy_thumbnail-ouxq5ldagu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
