@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 03 Nov 2026 17:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 17:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Black Library: New Skaven novel revealed]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed</link>
+            <guid>08bcnmsi</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New Skaven fiction skitterleaps into the Mortal Realms.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="skaven">Skaven</category>
+            <category domain="space-marines">Space Marines</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/bl_reveal-nov04-1-feature-940jcwons2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[An amazing prize draw, free subscriber loot, and new Warhammer TV episodes]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes</link>
+            <guid>dntsesly</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See how you can win LOADS of Officially Licensed Warhammer merch.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-1-feature-7lhk1l4aqc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part One]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one</link>
@@ -259,27 +281,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/slayerswordwinner-oct27-1-feature-ihdij60kac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slayer Sword Winner Interview – SPIEL Essen 2026 | Golden Demon]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/ulr7fahz/slayer-sword-winner-interview-spiel-essen-2026-golden-demon</link>
-            <guid>ulr7fahz</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[On Sunday, Maxime Penaud lifted his third Golden Demon Slayer Sword at SPIEL Essen 2026. We spoke to him after his momentous achievement.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/golden-demon-thumbnail-swi7rlymwl.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Day – Chaos Champions through the ages]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages</link>
-            <guid>rfpmoxiw</guid>
-            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a look back at the heroes of the Dark Gods over the years.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aos_chaoschampsretro-oct27-1-feature-a0rkl1ukq9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
