@@ -4,11 +4,35 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Nov 2026 17:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 19:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Big news for Blood Angels]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/htrydh0a/big-news-for-blood-angels</link>
+            <guid>htrydh0a</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A hero returns and incoming Codex news!]]></description>
+            <category domain="blood-angels">Blood Angels</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/1-feature-xs0jjlugpr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[This Weekend only – Visit Warhammer World for an incredible opportunity]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rif4mlza/this-weekend-only-visit-warhammer-world-for-an-incredible-opportunity</link>
+            <guid>rif4mlza</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Beginning the celebrations of 30 years of Warhammer World with the opportunity to own ’Eavy Metal painted miniatures.]]></description>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/whw_30years-nov05-1-feature-28xn1zhrnm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bring Khazalite might to armies of Order with Regiments of Renown]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f3ip2eww/bring-khazalite-might-to-armies-of-order-with-regiments-of-renown</link>
@@ -257,26 +281,6 @@ Escape. Kill. Ascend. Become a Deathmaster.]]></description>
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocknotes-oct29-1-feature-bdkikcdxil.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sequel to The Lords of Silence revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed</link>
-            <guid>xqwipozh</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new Warhammer 40,000 Death Guard novel is on the way from Black Library.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/1-feature-9crthqa3oc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[On Warhammer+ this week – Storm Dragons and Slayer Swords]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords</link>
-            <guid>jbyusudi</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A look at the upcoming action this week on Warhammer TV.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whplus-oct28-1-feature-h6rvrmfyff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
