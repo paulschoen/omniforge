@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 05 Nov 2026 19:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 17:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Butcher's Nails and Astartes II release dates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates</link>
+            <guid>f8ue9xw9</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Animated carnage this winter on Warhammer TV.]]></description>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/1-feature-dcf0qpfgjk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Classic Wood Elves return via Made to Order]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mkwyzwpt/classic-wood-elves-return-via-made-to-order</link>
+            <guid>mkwyzwpt</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Branch out your Warhammer: The Old World collection with classic miniatures.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/tow_woodelvesmto-nov06-1-feature-ybxxlwute0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Khazalite Ancestor Gods]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cy5ccm90/meet-the-khazalite-ancestor-gods</link>
+            <guid>cy5ccm90</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who exactly are the duardin swearing oaths to?]]></description>
+            <category domain="khazalite-holds">Khazalite Holds</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazlore-nov06-1-feature-hu7yanxhfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Big news for Blood Angels]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/htrydh0a/big-news-for-blood-angels</link>
@@ -245,42 +277,6 @@ Plus, get 12 months for the price of nine when you take out an annual Warhammer+
             <category domain="warhammer-40000">Warhammer 40,000</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/40k_update-oct29-1-feature-t0vxku6cmd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar: Deathmaster – Story Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fu2men6m/warhammer-age-of-sigmar-deathmaster-story-trailer</link>
-            <guid>fu2men6m</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The delightfully devious stealth platformer Warhammer Age of Sigmar: Deathmaster launches soon on Steam, XBOX Series S|X, PlayStation 5, and Nintendo Switch 2. Get a glimpse of main character Vihneek’s brutal path in this new story trailer!
-
-Escape. Kill. Ascend. Become a Deathmaster.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/deathmaster_story_trailer_thumbnail-bvzrepancs.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Big Warhammer Day news for Officially Licensed video games and merch]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch</link>
-            <guid>nla2w7td</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Reveals, special offers, and more.]]></description>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-1-feature-8mnn4nl7ue.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: Crafting the new House Orlock miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/59guawoo/designers-notes-crafting-the-new-house-orlock-miniatures</link>
-            <guid>59guawoo</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Necromunda team talks about creating the new models.]]></description>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocknotes-oct29-1-feature-bdkikcdxil.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
