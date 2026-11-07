@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 06 Nov 2026 17:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 19:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Reclaim the Khazalid Empire]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire</link>
+            <guid>ulxystmh</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Grab new Khazalite Holds miniatures, and the next book in The Scouring series.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="white-dwarf">White Dwarf</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/preorders-nov07-1-feature-ru8urie3es.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Butcher's Nails and Astartes II release dates]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates</link>
@@ -267,16 +280,6 @@ Plus, get 12 months for the price of nine when you take out an annual Warhammer+
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Warhammer 40,000 Updates Update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update</link>
-            <guid>cumo9vbg</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A Warhammer 40,000 rules log is incoming.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/40k_update-oct29-1-feature-t0vxku6cmd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
