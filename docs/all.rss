@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 07 Nov 2026 19:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 19:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – New Battleforce Boxes Muster for Action]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action</link>
+            <guid>rufkxsxw</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Incredible new boxed sets for Warhammer 40,000, Warhammer Age of Sigmar, and Warhammer: The Horus Heresy.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/sundaypreview-nov08-1-feature-0mwhd9lgem.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Reclaim the Khazalid Empire]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire</link>
@@ -270,16 +285,6 @@ Plus, get 12 months for the price of nine when you take out an annual Warhammer+
             <category domain="space-wolves">Space Wolves</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday-halloween-oct28-1-feature-vpb3kqioaj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Championships of Warhammer 2026: Rules Update Documents]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-erratas</link>
-            <guid>2ykrr5eg</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Download the updates ahead of this year's event in Barcelona]]></description>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
