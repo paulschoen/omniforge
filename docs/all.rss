@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 08 Nov 2026 19:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 20:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Explore the desert with a new Arcane Journal]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/pncgtigd/explore-the-desert-with-a-new-arcane-journal</link>
+            <guid>pncgtigd</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, discover the latest Battle March host for Warhammer: The Old World]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/1-feature-vknvdvf5st.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – New Battleforce Boxes Muster for Action]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action</link>
@@ -269,22 +280,6 @@ Plus, get 12 months for the price of nine when you take out an annual Warhammer+
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/tonepro_oathfulfilled-oct30-1-feature-9mmisz6qkz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Warhammer Day with some suitably scary miniatures]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures</link>
-            <guid>zbi88sln</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.]]></description>
-            <category domain="store-news">Store News</category>
-            <category domain="thousand-sons">Thousand Sons</category>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="nighthaunt">Nighthaunt</category>
-            <category domain="gloomspite-gitz">Gloomspite Gitz</category>
-            <category domain="space-wolves">Space Wolves</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday-halloween-oct28-1-feature-vpb3kqioaj.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
