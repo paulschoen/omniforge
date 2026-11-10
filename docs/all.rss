@@ -4,11 +4,43 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 09 Nov 2026 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 14:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Two]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two</link>
+            <guid>yumvi9vd</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See more Finalist pin winners.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-1-feature-eq9odqa7s3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khazalite Holds make their Battle Report debut]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut</link>
+            <guid>9jhrai5b</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, enjoy the final cut of Blacktalon, catch up with Robert Rath, and more on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/whplus-nov10-1-feature-owylbwhayy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 10th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november</link>
+            <guid>siudolan</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov10-1-feature-hhyiepwcrc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Explore the desert with a new Arcane Journal]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/pncgtigd/explore-the-desert-with-a-new-arcane-journal</link>
@@ -249,37 +281,6 @@ Plus, get 12 months for the price of nine when you take out an annual Warhammer+
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-3-trailer-thumbnail-mc3covhunc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch the full series of Arkanaut on Warhammer TV now]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now</link>
-            <guid>makgoojc</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[All three episodes of the Warhammer Age of Sigmar animation are available to stream.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/arkanaut_ep3-oct30-1-feature-f5ph1fge5u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Academy Presents: Warhammer Day Model Painted With Tone Pro]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/hu9lyt1t/warhammer-academy-presents-warhammer-day-model-painted-with-tone-pro</link>
-            <guid>hu9lyt1t</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn how to paint the 2026 Warhammer Day Commemorative miniature Oath Fulfilled, using Warhammer Tone Pro paints.]]></description>
-            <category domain="painting">Painting</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/wh_day_mini_thumbnail-dpxgi4dser.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[How to paint the Warhammer Day miniature]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/box0xn16/how-to-paint-the-warhammer-day-miniature</link>
-            <guid>box0xn16</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get some top tips on getting Oath Fulfilled ready for battle.]]></description>
-            <category domain="painting">Painting</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/tonepro_oathfulfilled-oct30-1-feature-9mmisz6qkz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
