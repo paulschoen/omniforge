@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 10 Nov 2026 14:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Core Mission Pack for Warhammer: The Horus Heresy]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy</link>
+            <guid>3tbigtcq</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover fresh ways to play in the Age of Darkness.]]></description>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-1-feature-lzcxcvkwos.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Two]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two</link>
@@ -268,19 +279,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-1-feature-m1v8kknixn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arkanaut Episode 3, Dark Kindred – Official Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/37y77po7/arkanaut-episode-3-dark-kindred-official-trailer-warhammer</link>
-            <guid>37y77po7</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Watch all three episodes of Arkanaut now on Warhammer TV, and get a peek at the finale on Warhammer Community.
-
-Plus, get 12 months for the price of nine when you take out an annual Warhammer+ subscription at WarhammerPlus.com.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/arkanaut-ep-3-trailer-thumbnail-mc3covhunc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
