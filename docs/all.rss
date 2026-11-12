@@ -4,11 +4,48 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 11 Nov 2026 17:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Seminars, signings, and merch – Black Library Live returns]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns</link>
+            <guid>xqyjbbzs</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Coming to Warhammer World this December.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-world">Warhammer World</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/bl_live-nov12-1-feature-y7ap0gf7r3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer 40,000: Darktide - Sisters Novitiate | Class Reveal Trailer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/fhyl9k0b/warhammer-40000-darktide-sisters-novitiate-class-reveal-trailer</link>
+            <guid>fhyl9k0b</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Faith, fire and fury descend on Tertium as the Sisters Novitiate arrive in Darktide on 7 December for Steam, PC, PlayStation 5 and Xbox Series X|S. Able to channel their faith through a unique talent system, these pious warriors are more than ready to smite the unbeliever.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/darktide_thumbnail-h5cobkte2s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Adepta Sororitas make their presence known in Warhammer 40,000: Darktide]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide</link>
+            <guid>xn0ljqav</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Step into the boots of a Novitiate in an upcoming DLC.]]></description>
+            <category domain="adepta-sororitas">Adepta Sororitas</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="licensed-products">Licensed Products</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-1-feature-e9julcvnrr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Core Mission Pack for Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy</link>
@@ -242,43 +279,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/thh_bgsets-nov02-1-feature-jwkavm1dcx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The Khazalite Holds prepare to march out]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out</link>
-            <guid>pqgrrqqt</guid>
-            <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See what’s available for pre-order next week, including a wealth of Warhammer Age of Sigmar miniatures.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/sundaypreview-nov01-1-feature-damkk90ogk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday pre-orders – Join the House of Iron]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tbfqksyc/saturday-pre-orders-join-the-house-of-iron</link>
-            <guid>tbfqksyc</guid>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rule the underhive with new rules and miniatures, and grab some classic Tzeentch miniatures.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="necromunda">Necromunda</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/preorders-oct31-1-feature-drtlwet9r5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s Warhammer Day! Join in the celebrations]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations</link>
-            <guid>bjziyrsi</guid>
-            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate another year of Warhammer with some awesome activities.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-1-feature-m1v8kknixn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
