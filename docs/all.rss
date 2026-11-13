@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 12 Nov 2026 17:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 13:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Three]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three</link>
+            <guid>p9esvwz0</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy the last five categories of Finalist pin winners.]]></description>
+            <category domain="golden-demon">Golden Demon</category>
+            <category domain="painting">Painting</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists3-nov13-1-feature-fn1f0xigu4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Seminars, signings, and merch – Black Library Live returns]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns</link>
@@ -268,17 +280,6 @@
             <category domain="white-dwarf">White Dwarf</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/wd530-nov02-1-feature-1fbysge36o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Horus Heresy Battle Group boxes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nuc8rzsm/new-horus-heresy-battle-group-boxes</link>
-            <guid>nuc8rzsm</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Forge your Legiones Astartes army with boxed sets for Warhammer: The Horus Heresy.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/thh_bgsets-nov02-1-feature-jwkavm1dcx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
