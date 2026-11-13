@@ -4,11 +4,21 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Nov 2026 17:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 21:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Watch the complete Blacktalons saga in one epic supercut]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/m0fqfamv/watch-the-complete-blacktalons-saga-in-one-epic-supercut</link>
+            <guid>m0fqfamv</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy over three hours of intense Warhammer animation.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/blacktalon_finalcut-nov13-1-feature-i4izbr1h6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aly Morrison]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison</link>
@@ -268,16 +278,6 @@
             <category domain="rumour-engine">Rumour Engine</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-1-feature-hyyqgu7ucs.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Festive coins and patches in-store this month]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qnmxrd7r/festive-coins-and-patches-in-store-this-month</link>
-            <guid>qnmxrd7r</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Earn special Warhammer patches by completing activities this holiday season.]]></description>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/retail_nov02-1-feature-ymq1ds2ivn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
