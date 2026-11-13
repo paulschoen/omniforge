@@ -4,11 +4,19 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Nov 2026 13:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 17:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Aly Morrison]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison</link>
+            <guid>sgde8pp9</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Three]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three</link>
@@ -270,16 +278,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/retail_nov02-1-feature-ymq1ds2ivn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside White Dwarf 530 – The forces of the Ten Thousand unleashed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kkloakhu/inside-white-dwarf-530-the-forces-of-the-ten-thousand-unleashed</link>
-            <guid>kkloakhu</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get your first look inside November’s issue of the official Warhammer magazine.]]></description>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/wd530-nov02-1-feature-1fbysge36o.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
