@@ -4,11 +4,26 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 13 Nov 2026 21:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 19:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-order – Grab your Battleforce boxes today]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today</link>
+            <guid>dyjkeu0w</guid>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Save money with this year’s festive boxed sets.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
+            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="pre-orders">Pre-orders</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/preorders-nov14-1-feature-iobqrxfvik.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Watch the complete Blacktalons saga in one epic supercut]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/m0fqfamv/watch-the-complete-blacktalons-saga-in-one-epic-supercut</link>
@@ -268,16 +283,6 @@
             <category domain="painting">Painting</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-1-feature-prun7qgx5x.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 3rd of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november</link>
-            <guid>twdkmrex</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-1-feature-hyyqgu7ucs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
