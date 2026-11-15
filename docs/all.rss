@@ -4,11 +4,25 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 14 Nov 2026 19:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 18:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – The legions of Khemri arise!]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise</link>
+            <guid>6igqydjw</guid>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Undead legions and Night Goblin Blood Bowl players emerge in next week’s pre-orders.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/sundaypreview-nov15-1-feature-wc0vzpk68s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-order – Grab your Battleforce boxes today]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today</link>
@@ -271,18 +285,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-1-feature-7lhk1l4aqc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part One]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one</link>
-            <guid>2cgtngr4</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See loads of awesome miniatures that earned Finalist pins.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="events">Events</category>
-            <category domain="painting">Painting</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-1-feature-prun7qgx5x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
