@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 15 Nov 2026 18:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 19:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Forge your Path to Glory in the Grymmpeaks]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks</link>
+            <guid>eaayzlxj</guid>
+            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules revealed for narrative-driven action in the Mortal Realms.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="model-reveal">Model Reveal</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/aos_grymmpeaks-nov16-1-feature-zhmnvka7vx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – The legions of Khemri arise!]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise</link>
@@ -275,16 +286,6 @@
             <category domain="space-marines">Space Marines</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/bl_reveal-nov04-1-feature-940jcwons2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An amazing prize draw, free subscriber loot, and new Warhammer TV episodes]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes</link>
-            <guid>dntsesly</guid>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See how you can win LOADS of Officially Licensed Warhammer merch.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-1-feature-7lhk1l4aqc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
