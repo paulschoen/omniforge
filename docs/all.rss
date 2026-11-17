@@ -4,11 +4,31 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 16 Nov 2026 19:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 18:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[The Destroyer curse hits Loremasters on Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/qrcydcp4/the-destroyer-curse-hits-loremasters-on-warhammer-tv</link>
+            <guid>qrcydcp4</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at the upcoming action this week on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/wh-_nov17-1-feature-qv19dqzuse.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 17th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november</link>
+            <guid>tbxphqdd</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov17-1-feature-nbkr7binc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forge your Path to Glory in the Grymmpeaks]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks</link>
@@ -264,28 +284,6 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazaliteregrenown-nov05-1-feature-cnq2cuegod.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Middle-earth™ miniatures return via Made to Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/lwsoaefx/middle-earthtm-miniatures-return-via-made-to-order</link>
-            <guid>lwsoaefx</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Build an army worthy of Mordor as The Black Gate opens and classic miniatures return.]]></description>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/mesbg_mto-nov05-1-feature-nitmgs27sp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Library: New Skaven novel revealed]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed</link>
-            <guid>08bcnmsi</guid>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New Skaven fiction skitterleaps into the Mortal Realms.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="skaven">Skaven</category>
-            <category domain="space-marines">Space Marines</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/bl_reveal-nov04-1-feature-940jcwons2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
