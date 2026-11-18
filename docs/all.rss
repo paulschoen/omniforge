@@ -4,11 +4,41 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Nov 2026 11:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 18:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Open the Warhammer Prize Vault]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ccj8ft8m/open-the-warhammer-prize-vault</link>
+            <guid>ccj8ft8m</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Find a key, open the lock, and bag an awesome MYSTERY prize.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/emailsubcomp-nov18-1-feature-hihi0gqjqt.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designers’ notes: The Doom of Lord Carrard lore]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/n4q6qfxp/designers-notes-the-doom-of-lord-carrard-lore</link>
+            <guid>n4q6qfxp</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the background of the Bretonnian baron’s fateful quest.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolclore-nov18-1-feature-fb8pkloa8q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tale of Four Gamers – Strike Force Showdown | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/tale-of-four-gamers-strike-force-showdown</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/four-gamers-gensowr3xv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar November update]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/juo785y8/warhammer-age-of-sigmar-november-update</link>
@@ -19,6 +49,18 @@
             <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/aos_update-nov18-1-feature-5dtkevkxrj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loremasters: Necron Destroyers | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/draft-loremasters-necron-destroyers</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/loremasters-(necrons)-ilxv1t4ml2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Destroyer curse hits Loremasters on Warhammer TV]]></title>
@@ -148,6 +190,16 @@
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-1-feature-e9julcvnrr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Painting Desk: Albert Moreto Font Interview – Part One | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/painting-desk-albert-moreto-font-interview-part-one</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/painting-desk-g3gqw0biz0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[New Core Mission Pack for Warhammer: The Horus Heresy]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy</link>
             <guid>3tbigtcq</guid>
@@ -157,6 +209,19 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-1-feature-lzcxcvkwos.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Battle Report: Khazalite Holds DEBUT vs Helsmiths of Hashut | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/battle-report-khazalite-holds-debut-vs-helsmiths-of-hashut</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
+            <category domain="khazalite-holds">Khazalite Holds</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/battle-report-o5akknnbd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Two]]></title>
@@ -169,6 +234,19 @@
             <category domain="events">Events</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-1-feature-eq9odqa7s3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scribes and Scriveners – Robert Rath: The Wicked and the Warped | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/scribes-and-scriveners-robert-rath-the-wicked-and-the-warped</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="necrons">Necrons</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/scribes-and-scriveners-u5obmursaq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Khazalite Holds make their Battle Report debut]]></title>
@@ -200,90 +278,6 @@
             <category domain="model-reveal">Model Reveal</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/1-feature-vknvdvf5st.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – New Battleforce Boxes Muster for Action]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action</link>
-            <guid>rufkxsxw</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Incredible new boxed sets for Warhammer 40,000, Warhammer Age of Sigmar, and Warhammer: The Horus Heresy.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/sundaypreview-nov08-1-feature-0mwhd9lgem.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Reclaim the Khazalid Empire]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire</link>
-            <guid>ulxystmh</guid>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Grab new Khazalite Holds miniatures, and the next book in The Scouring series.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="white-dwarf">White Dwarf</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/preorders-nov07-1-feature-ru8urie3es.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Butcher's Nails and Astartes II release dates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates</link>
-            <guid>f8ue9xw9</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Animated carnage this winter on Warhammer TV.]]></description>
-            <category domain="animations">Animations</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/1-feature-dcf0qpfgjk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Classic Wood Elves return via Made to Order]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mkwyzwpt/classic-wood-elves-return-via-made-to-order</link>
-            <guid>mkwyzwpt</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Branch out your Warhammer: The Old World collection with classic miniatures.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/tow_woodelvesmto-nov06-1-feature-ybxxlwute0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Khazalite Ancestor Gods]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cy5ccm90/meet-the-khazalite-ancestor-gods</link>
-            <guid>cy5ccm90</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Who exactly are the duardin swearing oaths to?]]></description>
-            <category domain="khazalite-holds">Khazalite Holds</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazlore-nov06-1-feature-hu7yanxhfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big news for Blood Angels]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/htrydh0a/big-news-for-blood-angels</link>
-            <guid>htrydh0a</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A hero returns and incoming Codex news!]]></description>
-            <category domain="blood-angels">Blood Angels</category>
-            <category domain="space-marines">Space Marines</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/1-feature-xs0jjlugpr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Weekend only – Visit Warhammer World for an incredible opportunity]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/rif4mlza/this-weekend-only-visit-warhammer-world-for-an-incredible-opportunity</link>
-            <guid>rif4mlza</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Beginning the celebrations of 30 years of Warhammer World with the opportunity to own ’Eavy Metal painted miniatures.]]></description>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="store-news">Store News</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/whw_30years-nov05-1-feature-28xn1zhrnm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
