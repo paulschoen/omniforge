@@ -4,11 +4,22 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 17 Nov 2026 18:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 11:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar November update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/juo785y8/warhammer-age-of-sigmar-november-update</link>
+            <guid>juo785y8</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New rules changes for your Mortal Realms armies.]]></description>
+            <category domain="downloads">Downloads</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/aos_update-nov18-1-feature-5dtkevkxrj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Destroyer curse hits Loremasters on Warhammer TV]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/qrcydcp4/the-destroyer-curse-hits-loremasters-on-warhammer-tv</link>
@@ -273,17 +284,6 @@
             <category domain="store-news">Store News</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/whw_30years-nov05-1-feature-28xn1zhrnm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bring Khazalite might to armies of Order with Regiments of Renown]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/f3ip2eww/bring-khazalite-might-to-armies-of-order-with-regiments-of-renown</link>
-            <guid>f3ip2eww</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Duardin resilience is a hot commodity in the Mortal Realms.]]></description>
-            <category domain="khazalite-holds">Khazalite Holds</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazaliteregrenown-nov05-1-feature-cnq2cuegod.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
