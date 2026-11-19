@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 18 Nov 2026 18:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 18:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Designers’ notes: Night Goblin Blood Bowl team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/cldbqvox/designers-notes-night-goblin-blood-bowl-team</link>
+            <guid>cldbqvox</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tips, tactics, and training plans for coaches of the newest fantasy football squad.]]></description>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/bb_nightgobnotes-nov19-1-feature-jvwv4f3hz6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designers’ notes: The Doom of Lord Carrard rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/mlzflfuw/designers-notes-the-doom-of-lord-carrard-rules</link>
+            <guid>mlzflfuw</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about the new options for the Kingdom of Bretonnia and Tomb Kings of Khemri.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="interviews">Interviews</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolc-nov19-1-feature-yhj5fulubx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Open the Warhammer Prize Vault]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ccj8ft8m/open-the-warhammer-prize-vault</link>
@@ -257,27 +279,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/whplus-nov10-1-feature-owylbwhayy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 10th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november</link>
-            <guid>siudolan</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov10-1-feature-hhyiepwcrc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Explore the desert with a new Arcane Journal]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/pncgtigd/explore-the-desert-with-a-new-arcane-journal</link>
-            <guid>pncgtigd</guid>
-            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, discover the latest Battle March host for Warhammer: The Old World]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/1-feature-vknvdvf5st.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
