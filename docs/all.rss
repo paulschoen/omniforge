@@ -4,11 +4,46 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 19 Nov 2026 18:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 18:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer TV Winter Season 2026 Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wdhmnvwo/warhammer-tv-winter-season-2026-trailer-warhammer</link>
+            <guid>wdhmnvwo</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[A new season begins on Warhammer TV! Get 12 months of Warhammer+ for the price of 9 when you sign up for an annual subscription now]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/whtv-new-season-thumbnail-cfed6scll1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Underworlds: Latest rules updates]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/95exb4tm/warhammer-underworlds-latest-rules-updates</link>
+            <guid>95exb4tm</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hear from the Studio about the latest changes to the fast-paced game of arena combat.]]></description>
+            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/whuw_update-nov20-1-feature-gas5xkswve.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More Battle March armies from the Warhammer: The Old World team]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nl6upkep/more-battle-march-armies-from-the-warhammer-the-old-world-team</link>
+            <guid>nl6upkep</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get inspired by more forces for the smaller scale, fast-paced game mode.]]></description>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="staff-showcase">Staff Showcase</category>
+            <category domain="painting">Painting</category>
+            <category domain="downloads">Downloads</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_studiobattlemarch-nov20-1-feature-9dankvd0nb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Designers’ notes: Night Goblin Blood Bowl team]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/cldbqvox/designers-notes-night-goblin-blood-bowl-team</link>
@@ -244,41 +279,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/battle-report-o5akknnbd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Two]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two</link>
-            <guid>yumvi9vd</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[See more Finalist pin winners.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-1-feature-eq9odqa7s3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scribes and Scriveners – Robert Rath: The Wicked and the Warped | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/scribes-and-scriveners-robert-rath-the-wicked-and-the-warped</link>
-            <guid>4uvixnri</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/scribes-and-scriveners-u5obmursaq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khazalite Holds make their Battle Report debut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut</link>
-            <guid>9jhrai5b</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Plus, enjoy the final cut of Blacktalon, catch up with Robert Rath, and more on Warhammer TV.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/whplus-nov10-1-feature-owylbwhayy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
