@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 20 Nov 2026 18:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 18:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Saturday Pre-orders – Undead invasions and goblins on the pitch]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch</link>
+            <guid>oilx3yjc</guid>
+            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New pre-orders for Tomb Kings of Khemri and Blood Bowl Night Goblins.]]></description>
+            <category domain="pre-orders">Pre-orders</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category domain="blood-bowl">Blood Bowl</category>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/preorders-nov21-1-feature-wradxe4l9l.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer TV Winter Season 2026 Trailer | Warhammer+]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/wdhmnvwo/warhammer-tv-winter-season-2026-trailer-warhammer</link>
@@ -266,19 +279,6 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-1-feature-lzcxcvkwos.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Battle Report: Khazalite Holds DEBUT vs Helsmiths of Hashut | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/battle-report-khazalite-holds-debut-vs-helsmiths-of-hashut</link>
-            <guid>4uvixnri</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="helsmiths-of-hashut">Helsmiths of Hashut</category>
-            <category domain="khazalite-holds">Khazalite Holds</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/battle-report-o5akknnbd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
