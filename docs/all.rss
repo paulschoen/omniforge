@@ -4,11 +4,24 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sat, 21 Nov 2026 18:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 19:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Sunday Preview – Seraphon strike from the heavens]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens</link>
+            <guid>ej1en5ql</guid>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Seraphon fight their way tooth and claw into the Mortal Realms in next week’s pre-orders.]]></description>
+            <category domain="sunday-preview">Sunday preview</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="black-library">Black Library</category>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/sundaypreview-nov22-1-feature-hfmwxlzw9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Saturday Pre-orders – Undead invasions and goblins on the pitch]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch</link>
@@ -268,17 +281,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/painting-desk-g3gqw0biz0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Core Mission Pack for Warhammer: The Horus Heresy]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy</link>
-            <guid>3tbigtcq</guid>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover fresh ways to play in the Age of Darkness.]]></description>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-1-feature-lzcxcvkwos.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
