@@ -4,11 +4,55 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Nov 2026 11:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 21:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Dawn of War IV Commander Edition Launch Trailer | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/ga7ilin8/dawn-of-war-iv-commander-edition-launch-trailer-warhammer-40000</link>
+            <guid>ga7ilin8</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[On Kronus, war never ends. For commanders, the battle begins three days early.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dow4thumbnail-eqgbntjgkt.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Dawn of War IV trailer – and desk mat offer]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/p6yqw1br/new-dawn-of-war-iv-trailer-and-desk-mat-offer</link>
+            <guid>p6yqw1br</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your Dawn of War IV desk mat from your local Warhammer store.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/dow_gametrailer-nov23-1-feature-dlurh0gifn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bretonnians return at full tilt for Warhammer: The Old World]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world</link>
+            <guid>c89qfbhj</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ride out for the lady with the Army Reinforcement Set.]]></description>
+            <category domain="model-reveal">Model Reveal</category>
+            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/1-feature-pluzlz3spf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enact the Great Plan with new Seraphon army rules]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kdqixspm/enact-the-great-plan-with-new-seraphon-army-rules</link>
+            <guid>kdqixspm</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Take a look at some of the new rules dropping with Battletome: Seraphon.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="seraphon">Seraphon</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_seraarmyrules-nov23-1-feature-ynyx96xu4o.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunday Preview – Seraphon strike from the heavens]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens</link>
@@ -233,55 +277,6 @@
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Demon 2026 – SPIEL Essen Finalists, Part Three]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three</link>
-            <guid>p9esvwz0</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy the last five categories of Finalist pin winners.]]></description>
-            <category domain="golden-demon">Golden Demon</category>
-            <category domain="painting">Painting</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists3-nov13-1-feature-fn1f0xigu4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seminars, signings, and merch – Black Library Live returns]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns</link>
-            <guid>xqyjbbzs</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Coming to Warhammer World this December.]]></description>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-world">Warhammer World</category>
-            <category domain="events">Events</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/bl_live-nov12-1-feature-y7ap0gf7r3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer 40,000: Darktide - Sisters Novitiate | Class Reveal Trailer]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/fhyl9k0b/warhammer-40000-darktide-sisters-novitiate-class-reveal-trailer</link>
-            <guid>fhyl9k0b</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Faith, fire and fury descend on Tertium as the Sisters Novitiate arrive in Darktide on 7 December for Steam, PC, PlayStation 5 and Xbox Series X|S. Able to channel their faith through a unique talent system, these pious warriors are more than ready to smite the unbeliever.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="video-games">Video Games</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/darktide_thumbnail-h5cobkte2s.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Adepta Sororitas make their presence known in Warhammer 40,000: Darktide]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide</link>
-            <guid>xn0ljqav</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Step into the boots of a Novitiate in an upcoming DLC.]]></description>
-            <category domain="adepta-sororitas">Adepta Sororitas</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="licensed-products">Licensed Products</category>
-            <category domain="video-games">Video Games</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-1-feature-e9julcvnrr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
