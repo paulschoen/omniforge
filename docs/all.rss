@@ -4,7 +4,7 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Sun, 22 Nov 2026 19:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 11:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -56,6 +56,17 @@
             <category domain="downloads">Downloads</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/whuw_update-nov20-1-feature-gas5xkswve.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ultimate Paint-off Season Finale]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/pewcfhod/ultimate-paint-off-season-finale</link>
+            <guid>pewcfhod</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's the Ultimate Paint-off  season finale – and the painters have free rein to show off. Who'll take the win?]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/ultimate-paint-off-thumbnail-1bwyetbhnn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[More Battle March armies from the Warhammer: The Old World team]]></title>
@@ -271,16 +282,6 @@
             <category domain="video-games">Video Games</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-1-feature-e9julcvnrr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting Desk: Albert Moreto Font Interview – Part One | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/painting-desk-albert-moreto-font-interview-part-one</link>
-            <guid>4uvixnri</guid>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/painting-desk-g3gqw0biz0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
