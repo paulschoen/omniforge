@@ -4,11 +4,75 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Mon, 23 Nov 2026 21:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 19:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Hammer and Bolter: The Butcher's Nails | Warhammer 40,000]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/hammer-and-bolter-the-butchers-nails</link>
+            <guid>4uvixnri</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/bn-thumbnail-en-8wixtghlgy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Warhammer Academy November content drop]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/xa8sbhq3/warhammer-academy-november-content-drop</link>
+            <guid>xa8sbhq3</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what new videos will be appearing on your playlists.]]></description>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/whacademyupdate-nov24-1-feature-quwbhcyd8h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Seraphon warscrolls put astral power into your hands]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/kwjy6nsn/new-seraphon-warscrolls-put-astral-power-into-your-hands</link>
+            <guid>kwjy6nsn</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what the new skink character can do in your games of Warhammer Age of Sigmar.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="seraphon">Seraphon</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_seraunitrules-nov24-1-feature-ik5s4r85ow.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scribes and Scriveners talks to Chris Wraight | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/o604qws0/scribes-and-scriveners-talks-to-chris-wraight-warhammer</link>
+            <guid>o604qws0</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Scribes and Scriveners talks to Chris Wraight about his process and back catalogue on Warhammer+ this week! Watch it now on Warhammer TV: https://ow.ly/8Cl65109gQJ]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/scribes-and-scriveners-thumbnail-tpnze5dkaz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Butcher’s Nails shreds its way onto Warhammer TV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/hyy6hzl3/the-butchers-nails-shreds-its-way-onto-warhammer-tv</link>
+            <guid>hyy6hzl3</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blood for the Blood God! Plus, authors, a quiz, and a bitter rivalry reignited on Battle Report.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/whplus-nov24-1-feature-qwucwzkqe9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rumour Engine – 24th of November]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/td7byi5c/the-rumour-engine-24th-of-november</link>
+            <guid>td7byi5c</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[What could it be?]]></description>
+            <category domain="rumour-engine">Rumour Engine</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/rumourengine-nov24-1-feature-hvr105j4jx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dawn of War IV Commander Edition Launch Trailer | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/ga7ilin8/dawn-of-war-iv-commander-edition-launch-trailer-warhammer-40000</link>
@@ -209,74 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/wh-_nov17-1-feature-qv19dqzuse.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rumour Engine – 17th of November]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november</link>
-            <guid>tbxphqdd</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[What could it be?]]></description>
-            <category domain="rumour-engine">Rumour Engine</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov17-1-feature-nbkr7binc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forge your Path to Glory in the Grymmpeaks]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks</link>
-            <guid>eaayzlxj</guid>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules revealed for narrative-driven action in the Mortal Realms.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="model-reveal">Model Reveal</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/aos_grymmpeaks-nov16-1-feature-zhmnvka7vx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – The legions of Khemri arise!]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise</link>
-            <guid>6igqydjw</guid>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Undead legions and Night Goblin Blood Bowl players emerge in next week’s pre-orders.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/sundaypreview-nov15-1-feature-wc0vzpk68s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-order – Grab your Battleforce boxes today]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today</link>
-            <guid>dyjkeu0w</guid>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Save money with this year’s festive boxed sets.]]></description>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="warhammer-the-horus-heresy">Warhammer: The Horus Heresy</category>
-            <category domain="middle-earth-strategy-battle-game">Middle-earth™ Strategy Battle Game</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="pre-orders">Pre-orders</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/preorders-nov14-1-feature-iobqrxfvik.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch the complete Blacktalons saga in one epic supercut]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/m0fqfamv/watch-the-complete-blacktalons-saga-in-one-epic-supercut</link>
-            <guid>m0fqfamv</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Enjoy over three hours of intense Warhammer animation.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/blacktalon_finalcut-nov13-1-feature-i4izbr1h6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aly Morrison]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison</link>
-            <guid>sgde8pp9</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
