@@ -4,11 +4,53 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Tue, 24 Nov 2026 19:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 16:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[New Armies of Renown rules for Seraphon]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ssge5t8k/new-armies-of-renown-rules-for-seraphon</link>
+            <guid>ssge5t8k</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s not all doom and gloom with Blessed Tetaxi – see the new Warhammer Age of Sigmar rules.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="seraphon">Seraphon</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_serarenown-nov25-1-feature-chu4hcyzem.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brainboyz end-of-season special – Orkimedes' Challenge]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/hxfh135y/brainboyz-end-of-season-special-orkimedes-challenge</link>
+            <guid>hxfh135y</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's an Orks special! Two teams of Warhammer eggheads face off over a variety of challenging rounds – including the special “What’s in da Box?” challenge...]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/brainboyz_thumb-tzrxi730lm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fight underground battles in the new Path to Glory expansion]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dfe6g9xx/fight-underground-battles-in-the-new-path-to-glory-expansion</link>
+            <guid>dfe6g9xx</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get ready for frantic subterranean action with the new rules in Path to Glory: The Grymmpeaks.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_grymmrules-nov25-1-feature-pqefhluf4g.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Read and listen to more for less with a Black Library app subscription]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/dx2suzdy/read-and-listen-to-more-for-less-with-a-black-library-app-subscription</link>
+            <guid>dx2suzdy</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unlock credits for Black Library stories with a new subscription offer.]]></description>
+            <category domain="black-library">Black Library</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/bl_appsub-nov18-1-feature-haafal0kvb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hammer and Bolter: The Butcher's Nails | Warhammer 40,000]]></title>
             <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/hammer-and-bolter-the-butchers-nails</link>
@@ -230,49 +272,6 @@
             <category domain="interviews">Interviews</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolclore-nov18-1-feature-fb8pkloa8q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tale of Four Gamers – Strike Force Showdown | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/tale-of-four-gamers-strike-force-showdown</link>
-            <guid>4uvixnri</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/four-gamers-gensowr3xv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Age of Sigmar November update]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/juo785y8/warhammer-age-of-sigmar-november-update</link>
-            <guid>juo785y8</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New rules changes for your Mortal Realms armies.]]></description>
-            <category domain="downloads">Downloads</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/aos_update-nov18-1-feature-5dtkevkxrj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loremasters: Necron Destroyers | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/4uvixnri/draft-loremasters-necron-destroyers</link>
-            <guid>4uvixnri</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="necrons">Necrons</category>
-            <category domain="warhammer-40000">Warhammer 40,000</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/loremasters-(necrons)-ilxv1t4ml2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Destroyer curse hits Loremasters on Warhammer TV]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/qrcydcp4/the-destroyer-curse-hits-loremasters-on-warhammer-tv</link>
-            <guid>qrcydcp4</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a look at the upcoming action this week on Warhammer TV.]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/wh-_nov17-1-feature-qv19dqzuse.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
