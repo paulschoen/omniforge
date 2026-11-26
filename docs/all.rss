@@ -4,11 +4,79 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Nov 2026 01:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 19:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Age of Sigmar in numbers – World Championships of Warhammer 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/ftqficlx/warhammer-age-of-sigmar-in-numbers-world-championships-of-warhammer-2026</link>
+            <guid>ftqficlx</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps_aosstats-nov26-1-feature-xyw2qt70ja.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Army Painting Tool in Warhammer 40,000: Dawn of War IV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/lrra1ryu/new-army-painting-tool-in-warhammer-40000-dawn-of-war-iv</link>
+            <guid>lrra1ryu</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bring your forces to life with the new army painting feature in Dawn of War IV. Customise your troops, emulate classic schemes or bring your own heraldry to the war-torn battlefields of Kronus.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/dawnofwar-painterguide-thumbnail-txzoyipt2x.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Show your true colours in Dawn of War IV]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/zpan8d3y/show-your-true-colours-in-dawn-of-war-iv</link>
+            <guid>zpan8d3y</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Design your dream power armour before you head off to fight on Kronus.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/dow_armypainter-nov26-1-feature-awlkbvrjb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The National Tournament Series heads to Newcastle]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/nyskdlhf/the-national-tournament-series-heads-to-newcastle</link>
+            <guid>nyskdlhf</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Plus, learn more about painting workshops in Palm Springs and Liverpool.]]></description>
+            <category domain="events">Events</category>
+            <category domain="warhammer-open-series">Warhammer Open Series</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/events-nov26-1-feature-wp41yth0tf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Battle Report – Death in the Zone Mortalis | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/cm0y44lu/battle-report-death-in-the-zone-mortalis-warhammer</link>
+            <guid>cm0y44lu</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Things get fiery when the Salamanders and the Word Bearers face off in the claustrophobic, obstacle-strewn confines of Zone Mortalis.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/battlereport_thehotrusheresy_thumb-o2cbayhmrj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deathwatch and Mortifactors headline new Space Marine 2 update]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2zhyknfw/deathwatch-and-mortifactors-headline-new-space-marine-2-update</link>
+            <guid>2zhyknfw</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[New free cosmetics and a reworked Vanguard class arrive for the Warhammer 40,000 video game.]]></description>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="space-marines">Space Marines</category>
+            <category domain="video-games">Video Games</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/sm2_update-nov24-1-feature-ojhkwsbl9w.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer 40,000 stats at a glance – World Championships of Warhammer 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/sozb6fcs/warhammer-40000-stats-at-a-glance-world-championships-of-warhammer-2026</link>
@@ -207,72 +275,6 @@
             <category domain="videos">Videos</category>
             <category>videos</category>
             <enclosure url="https://assets.warhammer-community.com/whtv-new-season-thumbnail-cfed6scll1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer Underworlds: Latest rules updates]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/95exb4tm/warhammer-underworlds-latest-rules-updates</link>
-            <guid>95exb4tm</guid>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hear from the Studio about the latest changes to the fast-paced game of arena combat.]]></description>
-            <category domain="warhammer-underworlds">Warhammer Underworlds</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/whuw_update-nov20-1-feature-gas5xkswve.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultimate Paint-off Season Finale]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/pewcfhod/ultimate-paint-off-season-finale</link>
-            <guid>pewcfhod</guid>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[It's the Ultimate Paint-off  season finale – and the painters have free rein to show off. Who'll take the win?]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/ultimate-paint-off-thumbnail-1bwyetbhnn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Battle March armies from the Warhammer: The Old World team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/nl6upkep/more-battle-march-armies-from-the-warhammer-the-old-world-team</link>
-            <guid>nl6upkep</guid>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get inspired by more forces for the smaller scale, fast-paced game mode.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="staff-showcase">Staff Showcase</category>
-            <category domain="painting">Painting</category>
-            <category domain="downloads">Downloads</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_studiobattlemarch-nov20-1-feature-9dankvd0nb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: Night Goblin Blood Bowl team]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/cldbqvox/designers-notes-night-goblin-blood-bowl-team</link>
-            <guid>cldbqvox</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Tips, tactics, and training plans for coaches of the newest fantasy football squad.]]></description>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/bb_nightgobnotes-nov19-1-feature-jvwv4f3hz6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: The Doom of Lord Carrard rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/mlzflfuw/designers-notes-the-doom-of-lord-carrard-rules</link>
-            <guid>mlzflfuw</guid>
-            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the new options for the Kingdom of Bretonnia and Tomb Kings of Khemri.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolc-nov19-1-feature-yhj5fulubx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Open the Warhammer Prize Vault]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ccj8ft8m/open-the-warhammer-prize-vault</link>
-            <guid>ccj8ft8m</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Find a key, open the lock, and bag an awesome MYSTERY prize.]]></description>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/emailsubcomp-nov18-1-feature-hihi0gqjqt.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
