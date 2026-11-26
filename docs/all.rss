@@ -4,11 +4,23 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Wed, 25 Nov 2026 16:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 01:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer 40,000 stats at a glance – World Championships of Warhammer 2026]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/sozb6fcs/warhammer-40000-stats-at-a-glance-world-championships-of-warhammer-2026</link>
+            <guid>sozb6fcs</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See which factions will be most popular in Barcelona next week.]]></description>
+            <category domain="world-championships-of-warhammer">World Championships of Warhammer</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="events">Events</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/worldchamps_40kstats-nov25-1-feature-znan2rbt8p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Armies of Renown rules for Seraphon]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ssge5t8k/new-armies-of-renown-rules-for-seraphon</link>
@@ -261,17 +273,6 @@
             <description><![CDATA[Find a key, open the lock, and bag an awesome MYSTERY prize.]]></description>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/emailsubcomp-nov18-1-feature-hihi0gqjqt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Designers’ notes: The Doom of Lord Carrard lore]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/n4q6qfxp/designers-notes-the-doom-of-lord-carrard-lore</link>
-            <guid>n4q6qfxp</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Learn about the background of the Bretonnian baron’s fateful quest.]]></description>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="interviews">Interviews</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolclore-nov18-1-feature-fb8pkloa8q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
