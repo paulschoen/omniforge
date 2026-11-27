@@ -4,11 +4,37 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Fri, 27 Nov 2026 16:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 19:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Hammer and Bolter: The Butcher's Nails – Launch Trailer | Warhammer+]]></title>
+            <link>https://www.warhammer-community.com/en-gb/videos/wev6v3uh/hammer-and-bolter-the-butchers-nails-launch-trailer-warhammer</link>
+            <guid>wev6v3uh</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Butcher’s Nails follows the blood-spattered exploits of a World Eaters Berzerker as he joins the assault on an Imperial-held bastion.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="videos">Videos</category>
+            <category domain="animations">Animations</category>
+            <category>videos</category>
+            <enclosure url="https://assets.warhammer-community.com/butcher-s-nails-ep-trailer-sx3onu3rh8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch The Butcher’s Nails now]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/2kmzjoy4/watch-the-butchers-nails-now</link>
+            <guid>2kmzjoy4</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The new Warhammer 40,000 animation has dropped on Warhammer TV.]]></description>
+            <category domain="warhammer-plus">Warhammer Plus</category>
+            <category domain="animations">Animations</category>
+            <category domain="warhammer-40000">Warhammer 40,000</category>
+            <category domain="chaos-space-marines">Chaos Space Marines</category>
+            <category domain="world-eaters">World Eaters</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/butchersnails-nov27-1-feature-bsikvdqgkz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Christmas 2026 shipping dates – Get your orders in on time]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/jnxeyhvo/warhammer-christmas-2026-shipping-dates-get-your-orders-in-on-time</link>
@@ -249,30 +275,6 @@
             <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/1-feature-pluzlz3spf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enact the Great Plan with new Seraphon army rules]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/kdqixspm/enact-the-great-plan-with-new-seraphon-army-rules</link>
-            <guid>kdqixspm</guid>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Take a look at some of the new rules dropping with Battletome: Seraphon.]]></description>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="seraphon">Seraphon</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_seraarmyrules-nov23-1-feature-ynyx96xu4o.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Preview – Seraphon strike from the heavens]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens</link>
-            <guid>ej1en5ql</guid>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Seraphon fight their way tooth and claw into the Mortal Realms in next week’s pre-orders.]]></description>
-            <category domain="sunday-preview">Sunday preview</category>
-            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
-            <category domain="black-library">Black Library</category>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/sundaypreview-nov22-1-feature-hfmwxlzw9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
