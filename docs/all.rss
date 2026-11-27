@@ -4,11 +4,33 @@
         <title>Warhammer 40k Community RSS Feed</title>
         <link>https://www.warhammer-community.com/en-gb</link>
         <description>Latest intelligence reports from the Warhammer Community</description>
-        <lastBuildDate>Thu, 26 Nov 2026 19:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 16:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Games Workshop</copyright>
+        <item>
+            <title><![CDATA[Warhammer Christmas 2026 shipping dates – Get your orders in on time]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/jnxeyhvo/warhammer-christmas-2026-shipping-dates-get-your-orders-in-on-time</link>
+            <guid>jnxeyhvo</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[See what date you need to order by to get your Warhammer for the big day.]]></description>
+            <category domain="store-news">Store News</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/shippingdeadlines-nov25-1-feature-cow32s1ggl.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chronicles of Ruin – Deadly Premonitions]]></title>
+            <link>https://www.warhammer-community.com/en-gb/articles/veeblffi/chronicles-of-ruin-deadly-premonitions</link>
+            <guid>veeblffi</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Read some free Warhammer Age of Sigmar fiction about the Seraphon.]]></description>
+            <category domain="warhammer-age-of-sigmar">Warhammer Age of Sigmar</category>
+            <category domain="seraphon">Seraphon</category>
+            <category domain="fiction">Fiction</category>
+            <category>articles</category>
+            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_serafiction-nov27-1-feature-zbpdnunphk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Warhammer Age of Sigmar in numbers – World Championships of Warhammer 2026]]></title>
             <link>https://www.warhammer-community.com/en-gb/articles/ftqficlx/warhammer-age-of-sigmar-in-numbers-world-championships-of-warhammer-2026</link>
@@ -251,30 +273,6 @@
             <category domain="warhammer-plus">Warhammer Plus</category>
             <category>articles</category>
             <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/sundaypreview-nov22-1-feature-hfmwxlzw9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Pre-orders – Undead invasions and goblins on the pitch]]></title>
-            <link>https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch</link>
-            <guid>oilx3yjc</guid>
-            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[New pre-orders for Tomb Kings of Khemri and Blood Bowl Night Goblins.]]></description>
-            <category domain="pre-orders">Pre-orders</category>
-            <category domain="warhammer-the-old-world">Warhammer: The Old World</category>
-            <category domain="blood-bowl">Blood Bowl</category>
-            <category domain="black-library">Black Library</category>
-            <category>articles</category>
-            <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/preorders-nov21-1-feature-wradxe4l9l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warhammer TV Winter Season 2026 Trailer | Warhammer+]]></title>
-            <link>https://www.warhammer-community.com/en-gb/videos/wdhmnvwo/warhammer-tv-winter-season-2026-trailer-warhammer</link>
-            <guid>wdhmnvwo</guid>
-            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[A new season begins on Warhammer TV! Get 12 months of Warhammer+ for the price of 9 when you sign up for an annual subscription now]]></description>
-            <category domain="warhammer-plus">Warhammer Plus</category>
-            <category domain="videos">Videos</category>
-            <category>videos</category>
-            <enclosure url="https://assets.warhammer-community.com/whtv-new-season-thumbnail-cfed6scll1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
